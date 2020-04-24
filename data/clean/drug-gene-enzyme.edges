@@ -1,0 +1,5272 @@
+DRUGS,GENES
+Bivalirudin,MPO
+Leuprolide,CYP3A4
+Peginterferon alfa-2a,CYP1A2
+Interferon alfa-n1,CYP1A2
+Urokinase,MMP12
+Interferon alfa-n3,CYP1A2
+Pegfilgrastim,ELANE
+Peginterferon alfa-2b,CYP1A2
+Peginterferon alfa-2b,CYP2D6
+Peginterferon alfa-2b,CYP2C9
+"Antihemophilic factor, human recombinant",F2
+"Antihemophilic factor, human recombinant",PROC
+Insulin human,IDE
+Insulin human,PCSK2
+Insulin human,PCSK1
+Insulin human,CYP1A2
+Interferon gamma-1b,CYP1A2
+"Interferon alfa-2a, Recombinant",CYP1A2
+Desmopressin,PTGS1
+Desmopressin,PTGS2
+Aldesleukin,PTGS2
+Aldesleukin,PLA2G4A
+Aldesleukin,CYP3A4
+Aldesleukin,XDH
+Aldesleukin,CYP2E1
+Insulin lispro,CYP1A2
+Insulin glargine,CYP1A2
+Interferon beta-1a,CYP1A2
+Interferon beta-1b,CYP1A2
+Interferon alfacon-1,CYP1A2
+Insulin pork,CYP1A2
+Pegvisomant,CYP27A1
+Pegvisomant,GLUL
+Pegvisomant,CYP2C18
+Pegvisomant,CYP3A4
+Pegvisomant,BCHE
+Pegvisomant,CYP4A11
+Streptokinase,PLA2G4A
+Cyclosporine,CYP3A5
+Cyclosporine,CYP3A4
+Cyclosporine,CYP2C19
+Cyclosporine,CYP2D6
+Octreotide,MPO
+Octreotide,CYP3A4
+Interferon alfa-2b,CYP1A2
+Oxytocin,PREP
+Enfuvirtide,CYP2C19
+Enfuvirtide,CYP2E1
+Cyanocobalamin,MMAB
+Cyanocobalamin,COBU
+Ademetionine,CYP2E1
+Ademetionine,SRM
+Biotin,CYP1B1
+Choline,CEPT1
+Choline,CHKB
+Choline,CHAT
+Choline,CHKA
+Choline,CHDH
+Ascorbic acid,TXNRD1
+Spermine,XDH
+Spermine,SAT1
+Spermine,SAT2
+L-Glutamine,F13A1
+L-Glutamine,GLS
+L-Glutamine,GLS2
+L-Glutamine,TGM2
+L-Glutamine,TGM5
+L-Glutamine,TGM6
+L-Glutamine,TGM1
+L-Glutamine,TGM4
+L-Glutamine,TGM3
+L-Glutamine,TGM7
+L-Glutamine,GMPS
+L-Glutamine,ASNS
+L-Glutamine,KYAT1
+L-Glutamine,PFAS
+L-Glutamine,GATB
+L-Glutamine,GFPT2
+L-Glutamine,CAD
+L-Glutamine,QARS1
+L-Glutamine,NADSYN1
+Adenosine phosphate,AMPD1
+Adenosine phosphate,APRT
+Methionine,MTHFR
+Methionine,GLUL
+Methionine,MAT2A
+Methionine,MSRB2
+Methionine,MAT1A
+Methionine,MSRB1
+Methionine,MSRA
+Methionine,MARS1
+Methionine,MARS2
+Methionine,MAT2B
+Calcitriol,CYP24A1
+Calcitriol,CYP3A4
+Riboflavin,MTHFR
+Riboflavin,MAOA
+Glutathione,GSTA2
+Glutathione,GSTA1
+Glycine,AMT
+Glycine,GLDC
+Glycine,DLD
+Glycine,GCSH
+Calcifediol,CYP27B1
+Calcifediol,CYP24A1
+Tryptophan,DDC
+Tryptophan,TDO2
+Tryptophan,TRPS
+Tryptophan,WARS2
+Tryptophan,TPH1
+Tryptophan,TPH2
+Tryptophan,WARS1
+Tryptophan,IDO1
+Thiamine,CYP4B1
+Thiamine,TPK1
+Thiamine,ENTPD5
+Thiamine,THTPA
+Ergocalciferol,CYP27B1
+Ergocalciferol,CYP2R1
+Ergocalciferol,CYP27A1
+Ergocalciferol,CYP24A1
+Ergocalciferol,RPE
+Ergocalciferol,CYP11A1
+NADH,XDH
+NADH,AOX1
+NADH,ADH6
+NADH,AKR1A1
+NADH,ADH1A
+NADH,ADH1B
+NADH,ADH4
+NADH,ADH5
+NADH,ADH7
+Folic acid,GGH
+Folic acid,MTHFR
+Folic acid,DHFR
+Valine,VARS1
+Valine,PCCB
+Valine,BCAT1
+Vitamin A,CYP26A1
+Vitamin E,GSTA2
+Vitamin E,GSTP1
+Vitamin E,GSTO1
+Vitamin E,GSTM3
+Vitamin E,GCLC
+Vitamin E,NQO1
+Vitamin E,HMOX1
+Vitamin E,SOD1
+Vitamin E,CYP3A4
+Pyridoxine,CYP1A1
+Pyridoxine,PDXK
+Pyridoxine,PDXP
+Pyridoxine,ALPL
+Lipoic acid,POR
+Cholecalciferol,CYP2R1
+Cholecalciferol,CYP27A1
+Cholecalciferol,CYP2J2
+Cholecalciferol,CYP3A4
+Cholecalciferol,CYP11A1
+Cholecalciferol,CYP1A1
+Cholecalciferol,CYP2C8
+Menadione,MTHFR
+Menadione,XDH
+Menadione,AOX1
+Menadione,CYP1A1
+Menadione,CYP1A2
+Menadione,CYP2A6
+ATP,ADK
+Proline,PRODH
+Adenine,UGT1A1
+Fluvoxamine,CYP2D6
+Fluvoxamine,CYP1A2
+Fluvoxamine,CYP1A1
+Fluvoxamine,CYP3A4
+Fluvoxamine,CYP3A4
+Fluvoxamine,CYP3A43
+Fluvoxamine,CYP3A5
+Fluvoxamine,CYP3A7
+Fluvoxamine,CYP2C9
+Fluvoxamine,CYP2C19
+Fluvoxamine,CYP2B6
+Valsartan,CYP2C9
+Ramipril,BCHE
+Masoprocol,ALOX5
+Flunisolide,CYP3A4
+Amphetamine,CYP2D6
+Amphetamine,CYP2A6
+Pentagastrin,BCHE
+Nicotine,CYP2A6
+Nicotine,CYP2E1
+Nicotine,CYP2A13
+Nicotine,CYP2B6
+Nicotine,CYP1A1
+Nicotine,CYP1A2
+Nicotine,CYP2C19
+Nicotine,CYP2C8
+Nicotine,CYP2C9
+Nicotine,CYP2D6
+Nicotine,CYP3A4
+Nicotine,MAOA
+Nicotine,MAOB
+Cevimeline,CYP2D6
+Cevimeline,CYP3A4
+Cevimeline,FMO1
+Lorazepam,UGT2B15
+Lorazepam,CYP3A4
+Esmolol,CYP2D6
+Bortezomib,CYP3A4
+Bortezomib,CYP2C19
+Bortezomib,CYP2D6
+Bortezomib,CYP1A2
+Bortezomib,CYP2C9
+Phentermine,CYP3A4
+Tramadol,CYP2D6
+Tramadol,CYP3A4
+Tramadol,CYP2B6
+Tramadol,UGT1A1
+Vidarabine,ADA
+Betaxolol,CYP1A2
+Betaxolol,CYP2D6
+Fluconazole,CYP3A4
+Fluconazole,CYP2C9
+Fluconazole,CYP2C19
+Fluconazole,CYP3A5
+Troglitazone,CYP3A4
+Troglitazone,CYP2C8
+Troglitazone,CYP2C19
+Troglitazone,UGT1A1
+Troglitazone,CYP19A1
+Troglitazone,CYP1A1
+Troglitazone,CYP2B6
+Troglitazone,CYP2C9
+Troglitazone,CYP3A5
+Troglitazone,CYP3A7
+Troglitazone,UGT1A3
+Troglitazone,UGT1A4
+Troglitazone,UGT1A6
+Troglitazone,UGT1A7
+Troglitazone,UGT1A8
+Troglitazone,UGT1A9
+Troglitazone,UGT1A10
+Troglitazone,UGT2B7
+Troglitazone,UGT2B15
+Oseltamivir,CES1
+Erythromycin,CYP3A4
+Erythromycin,CYP3A7
+Erythromycin,CYP3A5
+Caffeine,CYP1A2
+Caffeine,CYP3A4
+Caffeine,CYP2E1
+Caffeine,CYP2C8
+Caffeine,CYP2C9
+Caffeine,CYP1A1
+Caffeine,CYP1B1
+Caffeine,CYP2D6
+Succinylcholine,BCHE
+Sildenafil,CYP3A4
+Sildenafil,CYP3A5
+Sildenafil,CYP3A7
+Sildenafil,CYP2C9
+Sildenafil,CYP2C19
+Sildenafil,CYP2D6
+Sildenafil,CYP2E1
+Dofetilide,CYP3A4
+Pyrimethamine,CYP2C8
+Reserpine,CYP3A5
+Azithromycin,CYP3A4
+Ticlopidine,CYP2C19
+Ticlopidine,CYP2D6
+Ticlopidine,MPO
+Ticlopidine,CYP2C9
+Ticlopidine,CYP2C8
+Ticlopidine,CYP1A2
+Ticlopidine,CYP2B6
+Ticlopidine,CYP2E1
+Trospium,CYP2D6
+Midodrine,CYP2D6
+Pantoprazole,CYP3A4
+Pantoprazole,CYP2C19
+Torasemide,CYP2C9
+Torasemide,CYP2C8
+Citalopram,CYP3A4
+Citalopram,CYP2D6
+Citalopram,CYP1A2
+Citalopram,CYP2C19
+Eletriptan,CYP3A4
+Eletriptan,CYP2D6
+Eletriptan,CYP2C9
+Eletriptan,CYP2C19
+Eletriptan,PTGS1
+Eletriptan,CYP2A6
+Moxifloxacin,CYP1A2
+Nelfinavir,CYP3A4
+Nelfinavir,CYP3A7
+Nelfinavir,CYP3A5
+Nelfinavir,CYP2B6
+Nelfinavir,CYP2C19
+Nelfinavir,UGT1A1
+Nelfinavir,CYP2C9
+Nelfinavir,CYP2D6
+Glimepiride,CYP2C9
+Indinavir,CYP3A5
+Indinavir,CYP3A4
+Indinavir,CYP3A7
+Indinavir,CYP2D6
+Indinavir,UGT1A1
+Lovastatin,CYP3A4
+Lovastatin,PON3
+Lovastatin,CYP2C8
+Lovastatin,UGT1A1
+Lovastatin,UGT1A3
+Lovastatin,UGT2B7
+Lovastatin,CYP2C19
+Enflurane,CYP2E1
+Temazepam,CYP3A4
+Temazepam,CYP2B6
+Temazepam,CYP2C9
+Aminosalicylic acid,MPO
+Reboxetine,CYP2D6
+Reboxetine,CYP3A4
+Nevirapine,CYP3A5
+Nevirapine,CYP3A4
+Nevirapine,CYP2C9
+Nevirapine,CYP2A6
+Nevirapine,CYP2B6
+Nevirapine,CYP2D6
+Nevirapine,CYP1A2
+Nevirapine,CYP3A7
+Oxiconazole,CYP3A4
+Oxiconazole,CYP2C19
+Alclometasone,CYP3A4
+Cladribine,DCK
+Ranolazine,CYP2D6
+Ranolazine,CYP3A4
+Mesalazine,NAT1
+Ziprasidone,CYP3A4
+Ziprasidone,AOX1
+Methysergide,CYP3A4
+Cabergoline,CYP3A4
+Dapsone,PTGS1
+Dapsone,PTGS2
+Dapsone,CYP3A5
+Dapsone,CYP3A4
+Dapsone,CYP2C9
+Dapsone,CYP2C8
+Dapsone,CYP2E1
+Dapsone,CYP2C19
+Dapsone,FMO3
+Dapsone,NAT2
+Dapsone,CYP3A7
+Dapsone,MPO
+Dapsone,CYP2C18
+Phenytoin,CYP2C9
+Phenytoin,CYP2C19
+Phenytoin,CYP2C8
+Phenytoin,CYP2B6
+Phenytoin,CYP3A4
+Phenytoin,CYP3A5
+Phenytoin,CYP3A7
+Phenytoin,CYP11B1
+Phenytoin,UGT1A1
+Phenytoin,UGT1A6
+Phenytoin,UGT1A9
+Phenytoin,CYP1A2
+Phenytoin,CYP2A6
+Phenytoin,CYP2D6
+Phenytoin,CYP2E1
+Phenytoin,EPHX1
+Phenytoin,UGT1A4
+Phenytoin,COMT
+Phenytoin,NQO1
+Phenytoin,CYP2C18
+Medrysone,CYP3A4
+Medrysone,CYP3A5
+Doxycycline,CYP3A4
+Diethylstilbestrol,COMT
+Diethylstilbestrol,CYP19A1
+Diethylstilbestrol,CYP3A4
+Diethylstilbestrol,CYP2C8
+Diethylstilbestrol,CYP2C9
+Diethylstilbestrol,CYP2E1
+Clotrimazole,CYP3A4
+Clotrimazole,CYP2C8
+Clotrimazole,CYP2B6
+Clotrimazole,CYP2D6
+Clotrimazole,CYP2A6
+Clotrimazole,CYP2C9
+Clotrimazole,CYP2E1
+Clotrimazole,CYP3A7
+Sulfanilamide,CYP2C19
+Sulfanilamide,CYP2D6
+Sulfanilamide,CYP2E1
+Sulfanilamide,CYP3A4
+Cycloserine,DDC
+Anagrelide,CYP1A2
+Sulfisoxazole,CYP2C9
+Metoprolol,CYP2D6
+Metoprolol,CYP3A4
+Dicoumarol,CYP2C9
+Dicoumarol,CYP2C6
+Dicoumarol,CYP2C11
+Ropinirole,CYP1A2
+Chlorotrianisene,CYP19A1
+Isradipine,CYP3A4
+Topiramate,CYP2C19
+Topiramate,CYP3A4
+Theophylline,ADA
+Theophylline,CYP1A2
+Theophylline,CYP3A4
+Theophylline,CYP2E1
+Theophylline,CYP1A1
+Theophylline,CYP1B1
+Theophylline,CYP2D6
+Argatroban,CYP3A4
+Argatroban,CYP3A5
+Liothyronine,UGT1A1
+Disopyramide,CYP3A4
+Disopyramide,CYP1A2
+Lidocaine,CYP3A4
+Lidocaine,CYP2D6
+Lidocaine,CYP3A5
+Lidocaine,CYP3A7
+Lidocaine,CYP1A2
+Lidocaine,CYP2C9
+Lidocaine,CYP2C8
+Lidocaine,CYP2A6
+Lidocaine,CYP2B6
+Clemastine,CYP2D6
+Venlafaxine,CYP2D6
+Venlafaxine,CYP3A4
+Conjugated estrogens,CYP3A4
+Conjugated estrogens,CYP1A2
+Conjugated estrogens,COMT
+Amcinonide,CYP3A4
+Amcinonide,CYP3A5
+Atomoxetine,CYP2D6
+Atomoxetine,CYP2C19
+Bleomycin,BLMH
+Chlorambucil,GSTP1
+Etomidate,CYP11B1
+Etomidate,CYP11B2
+Etonogestrel,CYP3A4
+Morphine,CYP2C8
+Morphine,CYP3A4
+Morphine,UGT2B7
+Morphine,UGT1A1
+Morphine,UGT1A8
+Morphine,UGT2B15
+Morphine,UGT2B4
+Morphine,UGT1A3
+Ropivacaine,CYP1A2
+Ropivacaine,CYP2B6
+Ropivacaine,CYP3A4
+Bupivacaine,CYP3A4
+Bupivacaine,CYP2C19
+Bupivacaine,CYP2D6
+Tenofovir disoproxil,AK2
+Tenofovir disoproxil,AK4
+Tenofovir disoproxil,NME1
+Tenofovir disoproxil,NME2
+Tenofovir disoproxil,CKB
+Tenofovir disoproxil,CKM
+Tenofovir disoproxil,CKMT2
+Tenofovir disoproxil,CKMT1B
+Flucloxacillin,CYP3A4
+Desogestrel,CYP3A4
+Desogestrel,CYP2C9
+Desogestrel,UGT1A1
+Mitomycin,POR
+Bexarotene,CYP3A4
+Bexarotene,CYP2C8
+Vindesine,CYP3A4
+Pentobarbital,CYP3A4
+Pentobarbital,CYP2C19
+Pentobarbital,CYP2A6
+Valproic acid,CYP2A6
+Valproic acid,CYP2B6
+Valproic acid,CYP2C9
+Valproic acid,CYP3A5
+Valproic acid,PTGS1
+Valproic acid,CYP1A2
+Valproic acid,CYP2C19
+Valproic acid,CYP3A4
+Valproic acid,UGT1A4
+Valproic acid,UGT1A8
+Valproic acid,UGT1A10
+Valproic acid,UGT1A6
+Valproic acid,UGT1A3
+Valproic acid,UGT2B7
+Valproic acid,UGT2B15
+Valproic acid,UGT1A9
+Valproic acid,UGT1A1
+Zolmitriptan,CYP1A2
+Zolmitriptan,MAOA
+Acetaminophen,CYP2E1
+Acetaminophen,CYP1A2
+Acetaminophen,CYP3A4
+Acetaminophen,CYP2D6
+Acetaminophen,CYP2A6
+Acetaminophen,UGT1A6
+Acetaminophen,UGT1A1
+Acetaminophen,UGT1A9
+Acetaminophen,UGT2B15
+Acetaminophen,SULT1A1
+Acetaminophen,SULT1A3
+Acetaminophen,NAT2
+Acetaminophen,FAAH
+Acetaminophen,GSTP1
+Acetaminophen,GSTM1
+Gefitinib,CYP2D6
+Gefitinib,CYP3A4
+Gefitinib,CYP3A5
+Gefitinib,CYP1A1
+Gefitinib,CYP2C9
+Gefitinib,CYP2C19
+Codeine,CYP2D6
+Codeine,CYP3A4
+Codeine,UGT2B7
+Codeine,UGT2B4
+Dihydroergotamine,CYP3A4
+Amitriptyline,CYP2D6
+Amitriptyline,CYP1A2
+Amitriptyline,CYP2C19
+Amitriptyline,CYP2C9
+Amitriptyline,CYP3A4
+Amitriptyline,CYP3A5
+Amitriptyline,CYP2B6
+Amitriptyline,CYP2C8
+Amitriptyline,UGT2B10
+Amitriptyline,UGT1A4
+Floxuridine,TYMP
+Floxuridine,CYP2C9
+Tolcapone,CYP2C9
+Fluorometholone,CYP3A4
+Fluorometholone,CYP3A5
+Nitroprusside,CYP1A1
+Hydromorphone,CYP2C9
+Hydromorphone,UGT1A3
+Hydromorphone,UGT2B7
+Indomethacin,CYP2C19
+Indomethacin,CYP2C9
+Indomethacin,CES1
+Indomethacin,UGT1A9
+Indomethacin,UGT1A1
+Indomethacin,UGT2B7
+Methadone,CYP3A4
+Methadone,CYP2C19
+Methadone,CYP2D6
+Methadone,CYP3A7
+Methadone,CYP2B6
+Methadone,CYP2C8
+Methadone,CYP19A1
+Methadone,CYP1A2
+Methadone,CYP2C18
+Methadone,CYP2C9
+Olanzapine,CYP1A2
+Olanzapine,CYP2D6
+Olanzapine,FMO3
+Olanzapine,CYP2C19
+Olanzapine,CYP2C9
+Olanzapine,UGT1A4
+Olanzapine,CYP3A4
+Olanzapine,CYP3A4
+Olanzapine,CYP3A43
+Olanzapine,CYP3A5
+Olanzapine,CYP3A7
+Atenolol,CYP2D6
+Nitrofural,XDH
+Pimecrolimus,CYP3A4
+Omeprazole,CYP1A1
+Omeprazole,CYP1A2
+Omeprazole,CYP1B1
+Omeprazole,CYP2C8
+Omeprazole,CYP2C9
+Omeprazole,CYP2C18
+Omeprazole,CYP2D6
+Omeprazole,CYP3A4
+Omeprazole,CYP2C19
+Pyrazinamide,XDH
+Pyrazinamide,AOX1
+Terfenadine,CYP3A4
+Terfenadine,CYP3A7
+Terfenadine,CYP2D6
+Terfenadine,CYP3A5
+Terfenadine,CYP2C8
+Terfenadine,CYP2J2
+Diltiazem,CYP3A4
+Diltiazem,CYP3A5
+Diltiazem,CYP3A7
+Diltiazem,CYP2C19
+Diltiazem,CYP2D6
+Diltiazem,CYP2C8
+Alfuzosin,CYP3A4
+Trimethadione,CYP2E1
+Trimethadione,CYP3A4
+Trimethadione,CYP2C9
+Trimethadione,CYP2C8
+Trimethadione,CYP2C19
+Clobazam,CYP3A4
+Clobazam,CYP2C19
+Clobazam,CYP2B6
+Clobazam,CYP2C18
+Clobazam,CYP2D6
+Minoxidil,UGT1A1
+Megestrol acetate,CYP3A4
+Tioguanine,HPRT1
+Methylergometrine,CYP3A4
+Chlorzoxazone,CYP2E1
+Chlorzoxazone,CYP1A1
+Chlorzoxazone,CYP1A2
+Chlorzoxazone,CYP2A6
+Chlorzoxazone,CYP3A4
+Chlorzoxazone,CYP2D6
+Aminoglutethimide,CYP3A4
+Aminoglutethimide,CYP2C19
+Mefloquine,BCHE
+Mefloquine,CYP3A4
+Mefloquine,CYP19A1
+Mefloquine,ACHE
+Sulfadiazine,CYP2C9
+Sulfadiazine,CYP2C8
+Sulfadiazine,CYP3A4
+Sapropterin,PTGS2
+Vinorelbine,CYP3A4
+Vinorelbine,CYP2D6
+Clozapine,CYP1A2
+Clozapine,CYP2D6
+Clozapine,CYP2C9
+Clozapine,CYP3A4
+Clozapine,CYP2C19
+Clozapine,CYP2A6
+Clozapine,CYP2C8
+Clozapine,FMO3
+Clozapine,UGT1A4
+Clozapine,CYP1A1
+Grepafloxacin,CYP1A2
+Grepafloxacin,CYP3A4
+Doxylamine,CYP2B
+Levonorgestrel,CYP3A4
+Levonorgestrel,CYP3A5
+Cidofovir,TYMP
+Mirtazapine,CYP3A4
+Mirtazapine,CYP2D6
+Mirtazapine,CYP1A2
+Timolol,CYP2D6
+Timolol,CYP2C19
+Treprostinil,CYP2C9
+Palonosetron,CYP2D6
+Palonosetron,CYP3A4
+Palonosetron,CYP1A2
+Dydrogesterone,CYP3A4
+Mexiletine,CYP2D6
+Mexiletine,CYP1A2
+Mexiletine,CYP2B6
+Mexiletine,CYP2E1
+Mexiletine,CYP3A4
+Amlodipine,CYP3A4
+Amlodipine,CYP3A5
+Amlodipine,CYP1A1
+Amlodipine,CYP2B6
+Amlodipine,CYP2C8
+Amlodipine,CYP2D6
+Tacrine,CYP1A2
+Triamterene,CYP1A2
+Phenylephrine,MAOA
+Phenylephrine,MAOB
+Phenylephrine,SULT1A3
+Phenylephrine,CYP1A2
+Carbimazole,CYP19A1
+Digoxin,CYP11A1
+Sulpiride,BCHE
+Profenamine,BCHE
+Nimodipine,CYP3A4
+Beclomethasone dipropionate,CYP3A5
+Beclomethasone dipropionate,CYP3A4
+Carisoprodol,CYP2C19
+Progesterone,CYP3A5
+Progesterone,CYP3A4
+Progesterone,CYP2C9
+Progesterone,CYP2C19
+Progesterone,CYP3A7
+Progesterone,CYP17A1
+Progesterone,CYP1A1
+Progesterone,CYP1B1
+Progesterone,CYP2A6
+Progesterone,CYP2D6
+Phenylpropanolamine,MAOA
+Sorafenib,CYP3A5
+Sorafenib,CYP3A4
+Sorafenib,CYP2C9
+Sorafenib,CYP3A7
+Sorafenib,CYP2B6
+Sorafenib,CYP2C8
+Sorafenib,CYP1A2
+Sorafenib,CYP2C19
+Sorafenib,CYP2D6
+Sorafenib,UGT1A9
+Sorafenib,UGT1A1
+Griseofulvin,CYP1A2
+Griseofulvin,CYP3A4
+Nisoldipine,CYP3A4
+Nisoldipine,CYP3A5
+Nisoldipine,CYP3A7
+Eszopiclone,CYP3A4
+Eszopiclone,CYP2C8
+Alprazolam,CYP3A4
+Alprazolam,CYP3A7
+Alprazolam,CYP3A5
+Alprazolam,CYP2C9
+Remoxipride,CYP2D6
+Carbamoylcholine,PLA2G4A
+Rosiglitazone,CYP2C9
+Rosiglitazone,CYP2C8
+Rosiglitazone,PTGS1
+Rosiglitazone,CYP1A2
+Rosiglitazone,CYP2A6
+Rosiglitazone,CYP2D6
+Rosiglitazone,CYP3A4
+Acetohexamide,CBR1
+Acetohexamide,CYP2C9
+Secobarbital,CYP2C9
+Secobarbital,CYP2C8
+Secobarbital,CYP1A2
+Secobarbital,CYP2C19
+Promazine,CYP2C19
+Promazine,CYP1A2
+Promazine,CYP3A4
+Promazine,CYP2C9
+Promazine,CYP2D6
+Spironolactone,CYP2C8
+Spironolactone,CYP11B1
+Methylphenidate,CES1A1
+Zolpidem,CYP1A2
+Zolpidem,CYP3A4
+Zolpidem,CYP2C9
+Zolpidem,CYP2C19
+Zolpidem,CYP2D6
+Famciclovir,AOX1
+Streptozocin,CYP1A1
+Streptozocin,CYP1A2
+Streptozocin,CYP2E1
+Trifluridine,TK1
+Trifluridine,TYMP
+Prochlorperazine,CYP2D6
+Cyproheptadine,UGT1A3
+Nitric Oxide,ALDH2
+Nitric Oxide,CYP1A2
+Nitric Oxide,CYP2B6
+Nitric Oxide,CYP3A4
+Bendroflumethiazide,TPMT
+Allopurinol,AOX1
+Allopurinol,XDH
+Cerivastatin,CYP3A4
+Cerivastatin,CYP3A5
+Cerivastatin,CYP3A7
+Cerivastatin,CYP2C8
+Cerivastatin,CYP2D6
+Cerivastatin,CYP2C9
+Cerivastatin,CYP2B6
+Cerivastatin,UGT1A1
+Trimethoprim,CYP2C9
+Trimethoprim,CYP3A4
+Trimethoprim,CYP1A2
+Trimethoprim,CYP2C8
+Gemcitabine,CDA
+Gemcitabine,DCK
+Betamethasone,CYP3A4
+Betamethasone,CYP19A1
+Betamethasone,CYP3A5
+Betamethasone,CYP3A7
+Betamethasone,CYP2A6
+Betamethasone,CYP1B1
+Betamethasone,CYP2B6
+Betamethasone,CYP2C8
+Betamethasone,CYP2C9
+Betamethasone,CYP2C19
+Teniposide,CYP3A4
+Teniposide,CYP2C9
+Teniposide,CYP2C19
+Teniposide,CYP3A5
+Epirubicin,UGT2B7
+Epirubicin,PLA2G4A
+Chloramphenicol,CYP3A5
+Chloramphenicol,CYP3A4
+Chloramphenicol,CYP2C19
+Chloramphenicol,CYP3A7
+Chloramphenicol,CAT
+Chloramphenicol,CAT3
+Chloramphenicol,SVEN_4064
+Lansoprazole,CYP1A1
+Lansoprazole,CYP1B1
+Lansoprazole,CYP2C8
+Lansoprazole,CYP2C9
+Lansoprazole,CYP2C18
+Lansoprazole,CYP2D6
+Lansoprazole,CYP3A4
+Lansoprazole,CYP2C19
+Levothyroxine,CYP2C8
+Levothyroxine,UGT1A1
+Levothyroxine,ABCB1
+Meperidine,CYP3A4
+Meperidine,CYP2C19
+Meperidine,CYP2B6
+Meperidine,CYP2D6
+Meperidine,CYP1A2
+Loratadine,CYP3A4
+Loratadine,CYP2D6
+Loratadine,CYP1A1
+Loratadine,CYP2C19
+Loratadine,CYP2C8
+Loratadine,CYP1A2
+Loratadine,CYP2B6
+Loratadine,CYP2C9
+Loratadine,CYP3A5
+Loratadine,UGT2B10
+Loratadine,UGT1A1
+Loratadine,UGT1A3
+Loratadine,UGT2B15
+Imipramine,CYP2D6
+Imipramine,CYP2C19
+Imipramine,CYP1A2
+Imipramine,CYP3A4
+Imipramine,CYP3A7
+Imipramine,CYP2B6
+Imipramine,CYP2C18
+Imipramine,CYP2E1
+Nabumetone,MPO
+Nabumetone,CYP1A2
+Nabumetone,CYP2C9
+Nabumetone,HSD11B1
+Nabumetone,AKR1C1
+Nabumetone,AKR1C2
+Nabumetone,AKR1C4
+Ketorolac,UGT2B7
+Ketorolac,CYP2C8
+Ketorolac,CYP2C9
+Picrotoxin,CYP1A1
+Picrotoxin,GLUL
+Enoxacin,CYP1A2
+Quinine,CYP3A5
+Quinine,CYP2D6
+Quinine,CYP1A2
+Quinine,CYP3A4
+Quinine,CYP2C9
+Quinine,CYP2C8
+Quinine,CYP2E1
+Quinine,CYP2C19
+Quinine,CYP1A1
+Quinine,CYP3A7
+Tenoxicam,CYP2C9
+Dronabinol,CYP3A4
+Dronabinol,CYP2C9
+Dronabinol,PTGS1
+Montelukast,CYP3A4
+Montelukast,CYP2C9
+Montelukast,CYP2C8
+Montelukast,PTGS1
+Montelukast,CYP2A6
+Fluoxetine,CYP2B
+Fluoxetine,CYP2D6
+Fluoxetine,CYP1A2
+Fluoxetine,CYP3A4
+Fluoxetine,CYP2C9
+Fluoxetine,CYP2C19
+Fluoxetine,CYP2B6
+Fluoxetine,CYP3A5
+Methohexital,CYP2C19
+Duloxetine,CYP2D6
+Duloxetine,CYP1A2
+Duloxetine,CYP2C9
+Chlorpromazine,CYP2D6
+Chlorpromazine,CYP1A2
+Chlorpromazine,CYP3A4
+Chlorpromazine,CYP2E1
+Chlorpromazine,BCHE
+Raloxifene,CYP2B6
+Raloxifene,CYP2C8
+Raloxifene,AOX1
+Raloxifene,CYP19A1
+Raloxifene,CYP3A4
+Raloxifene,UGT1A1
+Raloxifene,UGT1A10
+Raloxifene,UGT1A8
+Celecoxib,CYP2D6
+Celecoxib,CYP3A4
+Celecoxib,CYP2C9
+Celecoxib,CYP2C8
+Brimonidine,AOX1
+Dicloxacillin,CYP3A4
+Nabilone,CYP2E1
+Nabilone,CYP2C8
+Nabilone,CYP2C9
+Pefloxacin,CYP1A2
+Sotalol,CYP2D6
+Buspirone,CYP3A4
+Buspirone,CYP3A5
+Buspirone,CYP3A7
+Buspirone,CYP2D6
+Miglitol,AMY2A
+Entacapone,COMT
+Entacapone,UGT1A9
+Entacapone,CYP2D6
+Zidovudine,CYP2A6
+Zidovudine,CYP2C9
+Zidovudine,CYP3A4
+Zidovudine,TK1
+Zidovudine,UGT2B7
+Zidovudine,UGT1A1
+Darifenacin,CYP2D6
+Darifenacin,CYP3A4
+Oxycodone,CYP2D6
+Oxycodone,CYP3A4
+Oxycodone,CYP3A5
+Flutamide,CYP1A2
+Flutamide,CYP3A4
+Flutamide,CYP1A1
+Flutamide,CYP1B1
+Flutamide,CYP2C19
+Flutamide,CYP3A5
+Tolmetin,TDO2
+Tolmetin,MPO
+Cimetidine,CYP3A5
+Cimetidine,CYP2D6
+Cimetidine,CYP1A2
+Cimetidine,CYP3A4
+Cimetidine,CYP2C19
+Cimetidine,CYP11B1
+Cimetidine,CYP2C8
+Cimetidine,CYP2C9
+Cimetidine,CYP2E1
+Cimetidine,FMO3
+Cimetidine,FMO1
+Haloperidol,CYP3A5
+Haloperidol,CYP2D6
+Haloperidol,CYP1A2
+Haloperidol,CYP3A4
+Haloperidol,CYP3A7
+Haloperidol,CBR1
+Haloperidol,UGT1A9
+Haloperidol,CYP2C19
+Haloperidol,CYP2C9
+Haloperidol,CYP1A1
+Ritonavir,CYP3A4
+Ritonavir,CYP2D6
+Ritonavir,CYP2C9
+Ritonavir,CYP2C19
+Ritonavir,CYP2B6
+Ritonavir,CYP2C8
+Ritonavir,CYP1A2
+Ritonavir,CYP3A5
+Ritonavir,CYP3A7
+Ritonavir,UGT1A1
+Ritonavir,UGT1A10
+Ritonavir,UGT1A3
+Ritonavir,UGT1A4
+Ritonavir,UGT1A6
+Ritonavir,UGT1A7
+Ritonavir,UGT1A8
+Ritonavir,UGT1A9
+Ritonavir,UGT2B15
+Ritonavir,UGT2B4
+Ritonavir,UGT2B7
+Nitazoxanide,POR
+Triflupromazine,BCHE
+Aminocaproic acid,AOX1
+Dextromethorphan,CYP2D6
+Dextromethorphan,CYP3A4
+Dextromethorphan,CYP3A7
+Dextromethorphan,CYP2B6
+Dextromethorphan,CYP2C19
+Dextromethorphan,CYP2C9
+Cisplatin,MPO
+Cisplatin,XDH
+Cisplatin,CYP4A11
+Cisplatin,PTGS2
+Cisplatin,NAT
+Cisplatin,CYP2C9
+Cisplatin,CYP2B6
+Cisplatin,BCHE
+Cisplatin,GSTT1
+Cisplatin,MT1A
+Cisplatin,MT2A
+Cisplatin,SOD1
+Cisplatin,GSTP1
+Cisplatin,NQO1
+Cisplatin,GSTM1
+Albendazole,CYP1A1
+Albendazole,CYP1A2
+Albendazole,CYP3A4
+Albendazole,CYP2C19
+Trandolapril,CES1
+Caspofungin,CYP3A4
+Carteolol,CYP2D6
+Oxaliplatin,GSTT1
+Oxaliplatin,MT1A
+Oxaliplatin,MT2A
+Oxaliplatin,MPO
+Oxaliplatin,SOD1
+Oxaliplatin,GSTP1
+Oxaliplatin,GSTM1
+Oxaliplatin,NQO1
+Cinchocaine,BCHE
+Lercanidipine,CYP3A5
+Lercanidipine,CYP3A4
+Lercanidipine,CYP3A7
+Lercanidipine,CYP2D6
+Erlotinib,CYP3A4
+Erlotinib,CYP3A5
+Erlotinib,CYP1A2
+Erlotinib,CYP1A1
+Erlotinib,CYP2D6
+Erlotinib,CYP2C8
+Erlotinib,CYP1B1
+Erlotinib,UGT1A1
+Cyclophosphamide,CYP3A4
+Cyclophosphamide,CYP2C9
+Cyclophosphamide,CYP2C19
+Cyclophosphamide,CYP2B6
+Cyclophosphamide,CYP2A6
+Cyclophosphamide,CYP2C18
+Cyclophosphamide,CYP2C8
+Cyclophosphamide,CYP3A5
+Mephenytoin,CYP2C19
+Mephenytoin,CYP2B6
+Mephenytoin,CYP1A2
+Mephenytoin,CYP2D6
+Mephenytoin,CYP2C8
+Mephenytoin,CYP2C9
+Rofecoxib,CYP1A2
+Rofecoxib,CYP3A4
+Rofecoxib,PTGS1
+Rofecoxib,CYP2C8
+Rofecoxib,CYP2C9
+Ciprofloxacin,CYP1A2
+Ciprofloxacin,CYP3A4
+Ciprofloxacin,CYP3A5
+Ciprofloxacin,CYP3A7
+Toremifene,CYP3A4
+Toremifene,CYP1A1
+Nortriptyline,CYP2D6
+Nortriptyline,CYP3A4
+Nortriptyline,CYP1A2
+Nortriptyline,CYP2C19
+Nortriptyline,CYP3A5
+Nortriptyline,CYP2E1
+Vincristine,CYP3A5
+Vincristine,CYP3A4
+Vincristine,CYP3A7
+Benazepril,MTHFR
+Amoxapine,CYP2D6
+Fluorouracil,TYMP
+Fluorouracil,CYP1A2
+Fluorouracil,CYP2C9
+Fluorouracil,DPYD
+Fluorouracil,UPP1
+Fluorouracil,UPP2
+Fluorouracil,CYP2A6
+Fluorouracil,CYP2C8
+Fluorouracil,TYMS
+Fluorouracil,MTHFR
+Fluorouracil,UMPS
+Fluorouracil,PPAT
+Adinazolam,CYP2C19
+Adinazolam,CYP3A4
+Zafirlukast,CYP2C9
+Zafirlukast,CYP2C8
+Zafirlukast,PTGS1
+Zafirlukast,CYP3A4
+Zafirlukast,CYP1A2
+Zafirlukast,CYP2C19
+Zafirlukast,CYP2E1
+Propylthiouracil,MPO
+Propylthiouracil,DBH
+Propylthiouracil,CYP1A1
+Methoxsalen,CYP1A2
+Methoxsalen,CYP2A6
+Methoxsalen,CYP1A1
+Methoxsalen,CYP2A13
+Piroxicam,CYP2C9
+Piroxicam,CYP2C8
+Lamotrigine,UGT1A1
+Lamotrigine,UGT1A10
+Lamotrigine,UGT1A3
+Lamotrigine,UGT1A4
+Lamotrigine,UGT1A6
+Lamotrigine,UGT1A7
+Lamotrigine,UGT1A8
+Lamotrigine,UGT1A9
+Lamotrigine,UGT2B15
+Lamotrigine,UGT2B4
+Lamotrigine,UGT2B7
+Lamotrigine,DHFR
+Hydroxyzine,CYP2D6
+Hydroxyzine,CYP3A4
+Hydroxyzine,CYP3A5
+Bosentan,CYP3A4
+Bosentan,CYP2C9
+Methotrexate,DHFR
+Methotrexate,AOX1
+Methotrexate,MTHFR
+Methotrexate,PGD
+Methotrexate,FPGS
+Methotrexate,TYMS
+Methotrexate,ATIC
+Methotrexate,GGH
+Methotrexate,CYP3A4
+Carbamazepine,CYP3A4
+Carbamazepine,CYP2C8
+Carbamazepine,CYP1A2
+Carbamazepine,CYP2C9
+Carbamazepine,CYP2C19
+Carbamazepine,CYP2B6
+Carbamazepine,CYP3A5
+Carbamazepine,UGT2B7
+Carbamazepine,UGT1A1
+Carbamazepine,UGT1A6
+Carbamazepine,UGT1A7
+Cinnarizine,CYP2D6
+Cinnarizine,CYP2C9
+Cinnarizine,CYP1A2
+Cinnarizine,CYP2B6
+Cinnarizine,CYP2A6
+Cinnarizine,CYP1A1
+Cinnarizine,CYP3A4
+Vinblastine,CYP3A4
+Vinblastine,CYP2D6
+Propranolol,CYP3A5
+Propranolol,CYP2D6
+Propranolol,CYP1A2
+Propranolol,CYP3A4
+Propranolol,CYP2C19
+Propranolol,CYP3A7
+Propranolol,CYP1A1
+Propranolol,MAOA
+Fenfluramine,CYP2D6
+Clonidine,CYP2D6
+Clonidine,CYP1A2
+Clonidine,CYP3A4
+Clonidine,CYP1A1
+Clonidine,CYP3A5
+Sulfamethizole,CYP2C9
+Valaciclovir,GUK1
+Valaciclovir,TK
+Carbenicillin,PLA2G4A
+Valdecoxib,CYP3A4
+Valdecoxib,CYP2C9
+Valdecoxib,UGT1A9
+Voriconazole,CYP3A5
+Voriconazole,CYP3A4
+Voriconazole,CYP2C9
+Voriconazole,CYP2C19
+Voriconazole,FMO3
+Voriconazole,FMO1
+Voriconazole,CYP3A7
+Voriconazole,PTGS1
+Voriconazole,CYP2B6
+Nizatidine,BCHE
+Diclofenac,CYP2C9
+Diclofenac,CYP2C19
+Diclofenac,CYP1A2
+Diclofenac,CYP2C8
+Diclofenac,CYP3A4
+Diclofenac,UGT2B7
+Diclofenac,CYP2B6
+Diclofenac,CYP2C18
+Diclofenac,CYP2E1
+Diclofenac,UGT1A3
+Diclofenac,UGT1A9
+Diclofenac,UGT2B4
+Diclofenac,ALOX5
+Diclofenac,PLA2G2A
+Fluticasone propionate,CYP3A4
+Fluticasone propionate,CYP3A5
+Fluticasone propionate,CYP3A7
+Fluticasone propionate,CYP2C8
+Lisuride,CYP3A4
+Doxazosin,CYP2C19
+Doxazosin,CYP2D6
+Doxazosin,CYP3A4
+Doxazosin,CYP2C9
+Fluocinolone acetonide,CYP3A4
+Piperazine,CYP2D6
+Ethosuximide,CYP3A4
+Ethosuximide,CYP2E1
+Ethosuximide,CYP3A4
+Ethosuximide,CYP3A43
+Ethosuximide,CYP3A5
+Ethosuximide,CYP3A7
+Amiloride,AOC1
+Amiloride,AOC1
+Labetalol,CYP2D6
+Labetalol,CYP2C19
+Labetalol,UGT1A1
+Labetalol,UGT2B7
+Labetalol,UGT1A9
+Thiopental,CYP3A4
+Thiopental,CYP3A43
+Thiopental,CYP3A5
+Thiopental,CYP3A7
+Thiopental,CYP2C19
+Linezolid,MAOA
+Linezolid,MAOB
+Ivermectin,CYP3A4
+Medroxyprogesterone acetate,CYP3A4
+Medroxyprogesterone acetate,CYP2C8
+Medroxyprogesterone acetate,HSD3B2
+Medroxyprogesterone acetate,CYP2C9
+Medroxyprogesterone acetate,CYP3A1
+Cisapride,CYP3A5
+Cisapride,CYP3A4
+Cisapride,CYP3A7
+Cisapride,CYP2A6
+Cisapride,CYP2B6
+Cisapride,CYP2C19
+Cisapride,CYP2C8
+Cisapride,CYP2C9
+Cisapride,CYP2D6
+Sulindac,CYP1A1
+Nafcillin,CYP1A2
+Nafcillin,CYP3A4
+Chloroquine,CYP2C8
+Chloroquine,CYP3A5
+Chloroquine,CYP3A4
+Chloroquine,CYP2D6
+Chloroquine,CYP1A1
+Bisoprolol,CYP3A4
+Amodiaquine,CYP2C8
+Amodiaquine,CYP1A1
+Amodiaquine,CYP1B1
+Amodiaquine,CYP2D6
+Amodiaquine,CYP2C9
+Furazolidone,MAOB
+Furazolidone,MAOA
+Rifabutin,CYP3A4
+Rifabutin,CYP2C19
+Rifabutin,CYP2B6
+Rifabutin,CYP2C8
+Rifabutin,CYP2C9
+Paramethadione,CYP2E1
+Paramethadione,CYP3A4
+Paramethadione,CYP2C9
+Paramethadione,CYP2C8
+Imatinib,CYP3A4
+Imatinib,CYP3A5
+Imatinib,CYP3A7
+Imatinib,CYP1A2
+Imatinib,CYP2C9
+Imatinib,CYP2D6
+Imatinib,CYP2C19
+Imatinib,PTGS1
+Imatinib,CYP2C8
+Triamcinolone,CYP3A4
+Triamcinolone,PTGS2
+Triamcinolone,BCHE
+Triamcinolone,CYP3A5
+Triamcinolone,CYP3A7
+Oxandrolone,CYP2C9
+Nicardipine,CYP3A4
+Nicardipine,CYP2D6
+Nicardipine,CYP2C19
+Nicardipine,CYP2C8
+Nicardipine,CYP2B6
+Nicardipine,CYP2E1
+Nicardipine,CYP3A5
+Nicardipine,CYP2C9
+Fluphenazine,CYP2D6
+Fluphenazine,CYP2E1
+Testosterone,CYP3A4
+Testosterone,CYP3A5
+Testosterone,CYP3A7
+Testosterone,CYP3A43
+Testosterone,CYP19A1
+Testosterone,MAOA
+Testosterone,CYP11A1
+Testosterone,CYP1A1
+Testosterone,CYP1B1
+Testosterone,CYP2A13
+Testosterone,CYP2B6
+Testosterone,CYP2C19
+Testosterone,CYP2C9
+Testosterone,CYP2C8
+Efavirenz,CYP2C19
+Efavirenz,CYP2C9
+Efavirenz,CYP2B6
+Efavirenz,CYP3A4
+Efavirenz,CYP3A5
+Efavirenz,CYP3A7
+Efavirenz,CYP2D6
+Efavirenz,CYP1A2
+Efavirenz,CYP2C8
+Efavirenz,UGT1A1
+Niacin,CYP2D6
+Niacin,CYP3A4
+Niacin,CYP2E1
+Clorazepic acid,CYP3A4
+Guanabenz,CYP1A2
+Clofarabine,DCK
+Dexmedetomidine,CYP2E1
+Dexmedetomidine,CYP1A2
+Dexmedetomidine,CYP1A1
+Dexmedetomidine,CYP2D6
+Prednisone,CYP3A4
+Prednisone,CYP2C19
+Prednisone,CYP3A5
+Prednisone,CYP3A4
+Prednisone,CYP3A43
+Prednisone,CYP3A5
+Prednisone,CYP3A7
+Prednisone,CYP2A6
+Prednisone,CYP1B1
+Prednisone,CYP2B6
+Prednisone,CYP2C8
+Prednisone,CYP2C9
+Prednisone,HSD11B1
+Clofibrate,GSTA2
+Clofibrate,CYP3A4
+Clofibrate,CYP2E1
+Clofibrate,CYP1A1
+Clofibrate,CYP4A11
+Astemizole,CYP3A4
+Astemizole,CYP3A5
+Astemizole,CYP3A7
+Astemizole,CYP2D6
+Astemizole,CYP2J2
+Adenosine,ADA
+Adenosine,ADK
+Simvastatin,CYP3A4
+Simvastatin,CYP3A5
+Simvastatin,CYP2C8
+Simvastatin,CYP2C9
+Simvastatin,CYP2D6
+Simvastatin,CYP2B6
+Simvastatin,UGT1A1
+Simvastatin,UGT1A3
+Simvastatin,UGT2B7
+Simvastatin,CYP2C19
+Pemetrexed,DCK
+Pemetrexed,SLC29A1
+Mebendazole,CYP1A1
+Mebendazole,CYP3A4
+Mebendazole,CYP3A43
+Mebendazole,CYP3A5
+Mebendazole,CYP3A7
+Dextropropoxyphene,CYP2D6
+Dextropropoxyphene,CYP3A4
+Mitotane,CYP3A4
+Estrone,CYP1A2
+Estrone,CYP1A1
+Estrone,CYP3A4
+Estrone,CYP1B1
+Estrone,CYP2B6
+Estrone,CYP2C9
+Estrone,CYP2E1
+Estrone,CYP3A5
+Trazodone,CYP3A4
+Trazodone,CYP3A5
+Trazodone,CYP3A7
+Trazodone,CYP2D6
+Verapamil,CYP3A4
+Verapamil,CYP3A5
+Verapamil,CYP1A2
+Verapamil,CYP2C9
+Verapamil,CYP2C8
+Verapamil,CYP2C19
+Verapamil,CYP2B6
+Verapamil,CYP2C18
+Verapamil,CYP2E1
+Verapamil,CYP2D6
+Flumethasone,CYP3A4
+Nilutamide,POR
+Nilutamide,CYP2C19
+Epinephrine,CYP2C9
+Epinephrine,CYP3A4
+Epinephrine,COMT
+Epinephrine,MAOA
+Epinephrine,MAOB
+Sumatriptan,MAOA
+Chlorpropamide,CYP2C9
+Chlorpropamide,CYP2C19
+Chlorpropamide,PTGS1
+Aprepitant,CYP3A4
+Aprepitant,CYP2C19
+Aprepitant,CYP2C9
+Galantamine,CYP3A4
+Galantamine,CYP2D6
+Tamoxifen,CYP2D6
+Tamoxifen,CYP3A4
+Tamoxifen,CYP3A5
+Tamoxifen,CYP3A7
+Tamoxifen,CYP2C9
+Tamoxifen,CYP2C19
+Tamoxifen,CYP2B6
+Tamoxifen,CYP1A1
+Tamoxifen,CYP1B1
+Tamoxifen,FMO1
+Tamoxifen,FMO3
+Tamoxifen,CYP2C8
+Tamoxifen,CES1
+Tamoxifen,CYP19A1
+Tamoxifen,CYP2A6
+Tamoxifen,CYP2E1
+Tamoxifen,UGT1A10
+Tamoxifen,SULT1A1
+Tamoxifen,SULT2A1
+Tamoxifen,CYP1A2
+Tamoxifen,UGT2B7
+Tamoxifen,UGT2B17
+Tamoxifen,SULT1E1
+Isoflurophate,BCHE
+Losartan,CYP2C9
+Losartan,CYP3A4
+Losartan,CYP2C19
+Losartan,UGT1A1
+Losartan,UGT1A3
+Losartan,UGT1A10
+Losartan,UGT2B7
+Losartan,UGT2B17
+Losartan,CYP2C8
+Thioridazine,CYP2D6
+Thioridazine,CYP2C19
+Thioridazine,CYP2E1
+Amphotericin B,CYP3A4
+Warfarin,CYP2C9
+Warfarin,CYP1A2
+Warfarin,CYP2C19
+Warfarin,CYP3A4
+Warfarin,CYP2C8
+Warfarin,CYP2C18
+Midazolam,CYP3A4
+Midazolam,CYP3A5
+Midazolam,UGT1A4
+Midazolam,CYP3A7
+Tobramycin,AAC
+Trovafloxacin,CYP1A2
+Fludrocortisone,CYP3A4
+Fludrocortisone,HSD11B2
+Fludrocortisone,HSD11B1
+Mycophenolate mofetil,UGT1A1
+Mycophenolate mofetil,UGT1A7
+Mycophenolate mofetil,UGT1A6
+Mycophenolate mofetil,UGT1A9
+Mycophenolate mofetil,UGT2B7
+Mycophenolate mofetil,UGT1A8
+Mycophenolate mofetil,UGT1A10
+Mycophenolate mofetil,CES1
+Mycophenolate mofetil,CYP3A4
+Mycophenolate mofetil,CYP3A5
+Mycophenolate mofetil,CYP2C8
+Mycophenolate mofetil,CES2
+Flurazepam,CYP2E1
+Flurazepam,CYP2A6
+Flurazepam,CYP3A4
+Daunorubicin,CYP3A4
+Daunorubicin,CYP3A5
+Daunorubicin,CYP1B1
+Daunorubicin,CYP1A1
+Daunorubicin,XDH
+Daunorubicin,POR
+Furosemide,PGD
+Furosemide,UGT1A1
+Ergotamine,CYP3A4
+Tizanidine,CYP1A2
+Nitrofurantoin,POR
+Nicergoline,CYP2D6
+Eplerenone,CYP3A5
+Eplerenone,CYP3A4
+Eplerenone,CYP11B2
+Amprenavir,CYP3A4
+Amprenavir,CYP2B6
+Amprenavir,CYP2C19
+Amprenavir,CYP2C9
+Amprenavir,CYP2D6
+Amprenavir,CYP3A5
+Icodextrin,AMY2A
+Naltrexone,UGT1A1
+Delavirdine,CYP3A4
+Delavirdine,CYP2D6
+Delavirdine,CYP3A5
+Delavirdine,CYP3A7
+Delavirdine,CYP2C9
+Delavirdine,CYP2C19
+Tamsulosin,CYP2D6
+Tamsulosin,CYP3A4
+Sufentanil,CYP3A4
+Lamivudine,DCK
+Lamivudine,CMPK1
+Lamivudine,PGK1
+Lamivudine,NME1
+Lamivudine,NME2
+Lamivudine,PCYT1A
+Lamivudine,PCYT2
+Lamivudine,NT5C
+Diethylcarbamazine,BCHE
+Flurbiprofen,CYP2C9
+Flurbiprofen,UGT2B7
+Flurbiprofen,UGT1A1
+Flurbiprofen,UGT1A3
+Flurbiprofen,UGT1A9
+Flurbiprofen,UGT2B4
+Paroxetine,CYP2D6
+Paroxetine,CYP2C9
+Paroxetine,CYP2B6
+Paroxetine,CYP1A2
+Paroxetine,CYP3A4
+Paroxetine,CYP2C19
+Norethisterone,CYP3A4
+Norethisterone,AKR1C4
+Norethisterone,HSD3B2
+Norethisterone,SRD5A1
+Norethisterone,SRD5A2
+Norethisterone,SRD5A3
+Norethisterone,AKR1D1
+Norethisterone,CYP2C19
+Norethisterone,CYP1A2
+Norethisterone,CYP2A6
+Adefovir dipivoxil,AK2
+Adefovir dipivoxil,AK4
+Adefovir dipivoxil,NME1
+Adefovir dipivoxil,NME2
+Azatadine,CYP3A4
+Clodronic acid,PTGS2
+Procaine,BCHE
+Imiquimod,CYP3A4
+Trimipramine,CYP2D6
+Trimipramine,CYP2C19
+Trimipramine,CYP2C9
+Nitroglycerin,ALDH2
+Thiabendazole,CYP1A2
+Thiabendazole,CYP1A1
+Nateglinide,CYP2C9
+Nateglinide,CYP3A4
+Nateglinide,CYP3A5
+Nateglinide,CYP3A7
+Nateglinide,PTGS1
+Nateglinide,UGT1A9
+Nateglinide,CYP2D6
+Risperidone,CYP2D6
+Risperidone,CYP3A4
+Esomeprazole,CYP3A4
+Esomeprazole,CYP2C19
+Meclizine,CYP2D6
+Pentamidine,CYP2C19
+Pentamidine,CYP1A1
+Pentamidine,CYP2D6
+Pentamidine,CYP3A5
+Pentamidine,CYP4A11
+Riluzole,CYP1A2
+Riluzole,CYP1A1
+Hydrocortisone,CYP3A4
+Hydrocortisone,CYP3A5
+Hydrocortisone,CYP3A7
+Hydrocortisone,CYP11B1
+Hydrocortisone,CYP11B2
+Hydrocortisone,CYP2C8
+Hydrocortisone,AKR1D1
+Hydrocortisone,SRD5A2
+Hydrocortisone,HSD11B2
+Hydrocortisone,HSD11B1
+Hydrocortisone,CYP2A6
+Hydrocortisone,CYP1B1
+Hydrocortisone,CYP2B6
+Hydrocortisone,CYP2C9
+Hydrocortisone,CYP2C19
+Mannitol,MTLD
+Zileuton,CYP1A2
+Zileuton,CYP3A4
+Zileuton,CYP2C9
+Zileuton,PTGS1
+Zileuton,UGT1A9
+Modafinil,CYP1A2
+Modafinil,CYP3A4
+Modafinil,CYP2C19
+Modafinil,CYP2B6
+Modafinil,CYP2C9
+Modafinil,CYP3A5
+Deferoxamine,XDH
+Etodolac,CYP2C9
+Etodolac,UGT1A9
+Etodolac,UGT1A3
+Etodolac,UGT1A10
+Etodolac,UGT2B7
+Epinastine,CYP2B6
+Epinastine,CYP2D6
+Epinastine,CYP3A4
+Tranylcypromine,CYP2D6
+Tranylcypromine,CYP2C9
+Tranylcypromine,CYP2C19
+Tranylcypromine,CYP1A2
+Tranylcypromine,CYP2E1
+Tranylcypromine,CYP2A6
+Isoflurane,CYP2E1
+Isoflurane,CYP2B6
+Isoflurane,MT-ND1
+Tretinoin,CYP3A7
+Tretinoin,CYP2B6
+Tretinoin,CYP2C8
+Tretinoin,CYP2C9
+Tretinoin,CYP3A4
+Tretinoin,CYP3A5
+Tretinoin,CYP2A6
+Tretinoin,CYP2C18
+Tretinoin,CYP1A1
+Tretinoin,CYP4A11
+Dolasetron,CYP2D6
+Dolasetron,CYP3A4
+Dolasetron,CYP2C9
+Clopidogrel,CYP3A5
+Clopidogrel,CYP3A4
+Clopidogrel,CYP2C19
+Clopidogrel,CYP2B6
+Clopidogrel,CYP2C9
+Clopidogrel,CYP1A2
+Clopidogrel,CYP2C8
+Clopidogrel,CES1
+Tetracycline,CYP3A4
+Meropenem,BLA
+Irinotecan,CYP3A4
+Irinotecan,CYP3A5
+Irinotecan,CYP2B6
+Irinotecan,CYP3A7
+Irinotecan,UGT1A1
+Irinotecan,UGT1A9
+Irinotecan,CES1
+Irinotecan,CES2
+Irinotecan,BCHE
+Methimazole,CYP1A2
+Methimazole,CYP2A6
+Methimazole,CYP2B6
+Methimazole,CYP2C19
+Methimazole,CYP2C9
+Methimazole,CYP2D6
+Methimazole,CYP2E1
+Methimazole,CYP3A4
+Methimazole,FMO3
+Mometasone,CYP2C8
+Mometasone,CYP3A4
+Mometasone,CYP3A5
+Olopatadine,CYP3A4
+Olopatadine,FMO1
+Olopatadine,FMO3
+Hydrocortamate,CYP3A4
+Malathion,CYP1A2
+Malathion,CYP2B6
+Etoposide,CYP3A4
+Etoposide,CYP1A2
+Etoposide,CYP2E1
+Etoposide,CYP3A5
+Etoposide,UGT1A1
+Etoposide,GSTT1
+Etoposide,GSTP1
+Etoposide,PTGS2
+Etoposide,PTGS1
+Oxcarbazepine,AKR1C1
+Oxcarbazepine,AKR1C2
+Oxcarbazepine,AKR1C3
+Oxcarbazepine,AKR1C4
+Oxcarbazepine,CBR1
+Oxcarbazepine,CBR3
+Oxcarbazepine,CYP2C19
+Oxcarbazepine,CYP3A5
+Oxcarbazepine,CYP3A4
+Roxithromycin,CYP3A4
+Roxithromycin,CYP2B6
+Nalidixic acid,TDO2
+Nalidixic acid,CYP1A2
+Phenelzine,MAOB
+Phenelzine,MAOA
+Phenelzine,CYP2E1
+Phenelzine,CYP2C19
+Phenelzine,CYP2C8
+Phenelzine,CYP3A4
+Phenelzine,CYP3A5
+Phenelzine,CYP3A7
+Phenelzine,CYP2D6
+Phenelzine,CYP3A4
+Phenelzine,CYP3A43
+Phenelzine,CYP3A5
+Phenelzine,CYP3A7
+Estradiol,CYP3A4
+Estradiol,CYP1A2
+Estradiol,CYP3A5
+Estradiol,CYP3A7
+Estradiol,UGT1A1
+Estradiol,CYP1A1
+Estradiol,CYP1B1
+Estradiol,CYP2C19
+Estradiol,CYP2C8
+Estradiol,CYP2C9
+Estradiol,UGT2B15
+Estradiol,COMT
+Estradiol,UGT1A1
+Estradiol,UGT1A10
+Estradiol,UGT1A3
+Estradiol,UGT1A4
+Estradiol,UGT1A6
+Estradiol,UGT1A7
+Estradiol,UGT1A8
+Estradiol,UGT1A9
+Estradiol,UGT2B15
+Estradiol,UGT2B4
+Estradiol,UGT2B7
+Mefenamic acid,CYP2C9
+Mefenamic acid,CYP2C8
+Mefenamic acid,UGT1A9
+Acyclovir,TK
+Acyclovir,GUK1
+Acyclovir,NME1
+Acyclovir,NME2
+Acyclovir,PKLR
+Acyclovir,PKM
+Acyclovir,CKB
+Acyclovir,CKM
+Acyclovir,CKMT2
+Acyclovir,CKMT1B
+Acyclovir,PGK1
+Acyclovir,PGK2
+Acyclovir,SUCLA2
+Acyclovir,SUCLG1
+Acyclovir,SUCLG2
+Acyclovir,PCK2
+Acyclovir,PCK1
+Acyclovir,ADSS1
+Acyclovir,ADSS2
+Naproxen,CYP1A2
+Naproxen,CYP2C9
+Naproxen,CYP2C8
+Naproxen,UGT2B7
+Naproxen,UGT1A3
+Naproxen,UGT1A6
+Naproxen,UGT1A7
+Naproxen,UGT1A8
+Naproxen,UGT1A9
+Naproxen,UGT1A10
+Perindopril,BCHE
+Tripelennamine,CYP2D6
+Primidone,CYP2C9
+Primidone,CYP2C19
+Primidone,CYP2E1
+Primidone,CYP3A4
+Primidone,CYP1A2
+Primidone,UGT1A1
+Primidone,UGT1A10
+Primidone,UGT1A3
+Primidone,UGT1A4
+Primidone,UGT1A6
+Primidone,UGT1A7
+Primidone,UGT1A8
+Primidone,UGT1A9
+Primidone,UGT2B15
+Primidone,UGT2B4
+Primidone,UGT2B7
+Candesartan cilexetil,CYP2C9
+Candesartan cilexetil,CYP2C8
+Candesartan cilexetil,UGT1A3
+Candesartan cilexetil,PTGS1
+Tazarotene,CYP2C8
+Alfentanil,CYP3A5
+Alfentanil,CYP3A4
+Alfentanil,CYP3A7
+Minaprine,CYP2D6
+Pentoxifylline,CYP1A2
+Indapamide,CYP3A4
+Biperiden,CYP2D6
+Ribavirin,ADK
+Phenylbutazone,CYP2C9
+Phenylbutazone,CYP3A4
+Fentanyl,CYP3A4
+Fentanyl,CYP3A7
+Meloxicam,CYP3A4
+Meloxicam,CYP2C9
+Meloxicam,PGD
+Meloxicam,CYP2C8
+Rosoxacin,CYP1A2
+Propofol,CYP2C9
+Propofol,CYP2B6
+Propofol,UGT1A8
+Propofol,UGT1A9
+Propofol,UGT1A1
+Propofol,FAAH
+Propofol,CYP2E1
+Propofol,CYP1B1
+Propofol,CYP1A1
+Propofol,CYP1A2
+Propofol,CYP2C18
+Propofol,CYP2C19
+Propofol,CYP2C8
+Propofol,UGT1A6
+Acetazolamide,CYP3A4
+Tadalafil,CYP3A4
+Tadalafil,CYP3A5
+Disulfiram,CYP2E1
+Disulfiram,CYP3A4
+Disulfiram,CYP3A5
+Ethynodiol diacetate,CYP3A4
+Levomenthol,CYP3A4
+Natamycin,CYP3A4
+Cinoxacin,CYP1A2
+Diazepam,CYP3A4
+Diazepam,CYP3A5
+Diazepam,CYP3A7
+Diazepam,CYP2C19
+Diazepam,CYP2C9
+Diazepam,CYP2B6
+Diazepam,CYP2C18
+Diazepam,CYP2C8
+Diazepam,PTGS1
+Diazepam,CYP2E1
+Trifluoperazine,XDH
+Trifluoperazine,CYP1A2
+Trifluoperazine,UGT1A4
+Cefaclor,MPO
+Mifepristone,CYP3A5
+Mifepristone,CYP3A4
+Mifepristone,CYP2D6
+Mifepristone,CYP2C8
+Mifepristone,CYP2C9
+Loperamide,CYP3A4
+Loperamide,CYP2C8
+Loperamide,CYP2B6
+Loperamide,CYP2D6
+Tolazamide,CYP2C9
+Dobutamine,COMT
+Oxazepam,UGT2B15
+Oxazepam,UGT2B7
+Oxazepam,UGT1A9
+Donepezil,CYP2D6
+Donepezil,CYP3A4
+Donepezil,CYP2C9
+Clofazimine,CYP3A4
+Flurandrenolide,CYP3A4
+Cysteamine,MPO
+Methylphenobarbital,CYP2C19
+Methylphenobarbital,CYP2B6
+Perphenazine,CYP2D6
+Perphenazine,CYP1A2
+Perphenazine,CYP2C18
+Perphenazine,CYP2C19
+Perphenazine,CYP2C8
+Perphenazine,CYP2C9
+Perphenazine,CYP3A4
+Dacarbazine,CYP1A2
+Dacarbazine,CYP2E1
+Dacarbazine,CYP1A1
+Pseudoephedrine,MAOA
+Chlorphenesin,CYP19A1
+Chlorphenesin,CYP3A4
+Chlorphenesin,XDH
+Chlorphenesin,PTGS2
+Chlorphenesin,BCHE
+Terbinafine,CYP2D6
+Terbinafine,CYP1A2
+Terbinafine,CYP3A4
+Terbinafine,CYP2C9
+Terbinafine,CYP2C8
+Terbinafine,CYP2C19
+Terbinafine,PTGS1
+Drostanolone,CYP19A1
+Prednisolone,CYP3A4
+Diflunisal,UGT1A8
+Diflunisal,UGT1A9
+Vardenafil,CYP3A4
+Vardenafil,CYP3A5
+Ranitidine,CYP2D6
+Ranitidine,CYP1A2
+Ranitidine,CYP3A4
+Ranitidine,ACHE
+Tacrolimus,CYP3A5
+Tacrolimus,CYP3A4
+Benzphetamine,CYP3A4
+Benzphetamine,CYP2B6
+Benzphetamine,POR
+Alprenolol,CYP2D6
+Ritodrine,PGD
+Benzonatate,BCHE
+Dorzolamide,CYP2C9
+Dorzolamide,CYP2B1
+Dorzolamide,CYP2E1
+Dorzolamide,CYP3A2
+Suprofen,CYP2C9
+Suprofen,UGT1A1
+Suprofen,UGT2B7
+Terbutaline,BCHE
+Conivaptan,CYP3A4
+Loteprednol etabonate,CYP3A4
+Loteprednol etabonate,PON1
+Flupentixol,DDC
+Sirolimus,CYP3A4
+Sirolimus,CYP3A5
+Sirolimus,CYP3A7
+Emtricitabine,DCK
+Quinapril,CES1
+Clomifene,CYP17A1
+Isosorbide dinitrate,CYP2E1
+Risedronic acid,PTGS2
+Bumetanide,PTGS2
+Mechlorethamine,BCHE
+Granisetron,CYP3A4
+Granisetron,CYP1A1
+Sulfapyridine,CYP2C9
+Oxybuprocaine,BCHE
+Rimexolone,CYP3A4
+Rimexolone,CYP3A5
+Triazolam,CYP3A4
+Triazolam,CYP3A5
+Triazolam,CYP3A7
+Triazolam,CYP2C8
+Ethanol,CYP1A1
+Ethanol,CYP1A2
+Ethanol,CYP2B6
+Ethanol,CYP2C9
+Ethanol,CYP2C19
+Ethanol,CYP2E1
+Ethanol,CYP3A4
+Ethanol,CYP4A11
+Ethanol,ADH1A
+Ethanol,ADH1B
+Ethanol,ADH1C
+Ethanol,ADH5
+Ethanol,ADH4
+Ethanol,ADH7
+Ethanol,ADH6
+Ethanol,AKR1A1
+Etacrynic acid,GSTA2
+Ondansetron,CYP3A4
+Ondansetron,CYP2D6
+Ondansetron,CYP1A2
+Ondansetron,CYP3A5
+Ondansetron,CYP3A7
+Ondansetron,CYP2C9
+Ondansetron,CYP2E1
+Bimatoprost,CYP3A4
+Bimatoprost,CYP3A5
+Tiagabine,CYP3A4
+Tiagabine,UGT1A1
+Cocaine,CYP3A4
+Cocaine,CYP2D6
+Cocaine,CYP2C8
+Cocaine,BCHE
+Cocaine,CES1
+Quinidine,CYP3A4
+Quinidine,CYP3A7
+Quinidine,CYP2D6
+Quinidine,CYP1A2
+Quinidine,CYP2E1
+Quinidine,CYP1A1
+Quinidine,CYP2B6
+Quinidine,CYP2C9
+Quinidine,CYP2C8
+Zonisamide,CYP3A4
+Zonisamide,AOX1
+Zonisamide,CYP2C19
+Zonisamide,UGT1A1
+Zonisamide,CYP3A5
+Paricalcitol,CYP24A1
+Paricalcitol,CYP3A4
+Paricalcitol,UGT1A4
+Tinidazole,CYP3A4
+Repaglinide,CYP3A4
+Repaglinide,CYP2C8
+Phenformin,CYP2D6
+Amantadine,DDC
+Amantadine,MAOB
+Metronidazole,CYP3A4
+Metronidazole,CYP2C9
+Metronidazole,CYP2C8
+Metronidazole,UGT1A1
+Metronidazole,CYP2A6
+Metronidazole,CYP3A5
+Metronidazole,CYP3A7
+Almotriptan,CYP3A4
+Almotriptan,CYP2D6
+Almotriptan,MAOA
+Almotriptan,FMO3
+Almotriptan,CYP2C19
+Almotriptan,CYP2E1
+Almotriptan,CYP2C8
+Buprenorphine,CYP3A4
+Buprenorphine,CYP3A5
+Buprenorphine,CYP2C9
+Buprenorphine,CYP2C8
+Buprenorphine,CYP3A7
+Buprenorphine,CYP2D6
+Buprenorphine,CYP2C18
+Buprenorphine,CYP2C19
+Cyclobenzaprine,CYP3A4
+Cyclobenzaprine,CYP1A2
+Cyclobenzaprine,CYP2D6
+Cyclobenzaprine,UGT1A4
+Cyclobenzaprine,UGT2B10
+Etretinate,CYP19A1
+Famotidine,CYP1A2
+Azacitidine,CDA
+Tipranavir,CYP2D6
+Tipranavir,CYP3A4
+Tipranavir,CYP2C19
+Tipranavir,UGT1A1
+Mesoridazine,CYP2D6
+Maprotiline,CYP2D6
+Maprotiline,CYP1A2
+Salicylic acid,CYP2C9
+Salmeterol,CYP3A4
+Salmeterol,CYP3A5
+Salmeterol,CYP3A7
+Salmeterol,CYP2C8
+Zalcitabine,DCK
+Acetylsalicylic acid,CYP2C19
+Acetylsalicylic acid,CYP2C9
+Acetylsalicylic acid,UGT1A6
+Acetylsalicylic acid,NAT2
+Phenprocoumon,CYP2C8
+Phenprocoumon,CYP2C9
+Phenprocoumon,CYP3A4
+Fulvestrant,CYP3A4
+Fulvestrant,UGT1A1
+Felbamate,CYP3A4
+Felbamate,CYP2C19
+Felbamate,CYP2E1
+Felbamate,CYP2C9
+Isoniazid,CYP2D6
+Isoniazid,CYP1A2
+Isoniazid,CYP2C9
+Isoniazid,CYP2E1
+Isoniazid,CYP2C19
+Isoniazid,NAT2
+Isoniazid,NAT
+Isoniazid,CYP2A6
+Isoniazid,CYP2C8
+Naratriptan,MAOA
+Rizatriptan,MAOA
+Dirithromycin,CYP3A4
+Hydrocodone,CYP2D6
+Hydrocodone,CYP3A4
+Hydrocodone,CYP2B6
+Hydrocodone,CYP2C19
+Norgestimate,CYP3A4
+Norgestimate,CYP2B6
+Norgestimate,CYP2C9
+Norgestimate,UGT1A1
+Carboplatin,XDH
+Carboplatin,MPO
+Carboplatin,GSTT1
+Carboplatin,MT1A
+Carboplatin,MT2A
+Carboplatin,SOD1
+Carboplatin,GSTP1
+Carboplatin,GSTM1
+Carboplatin,NQO1
+Methylprednisolone,AKR1C1
+Methylprednisolone,AKR1C2
+Methylprednisolone,AKR1C3
+Methylprednisolone,AKR1C4
+Methylprednisolone,HSD11B1
+Methylprednisolone,HSD11B2
+Methylprednisolone,CYP3A4
+Methylprednisolone,CYP3A4
+Methylprednisolone,CYP3A43
+Methylprednisolone,CYP3A5
+Methylprednisolone,CYP3A7
+Methylprednisolone,CYP2A6
+Methylprednisolone,CYP1B1
+Methylprednisolone,CYP2B6
+Methylprednisolone,CYP2C8
+Methylprednisolone,CYP2C19
+Methylprednisolone,CYP2C9
+Pindolol,CYP2D6
+Zaleplon,CYP3A4
+Zaleplon,CYP3A5
+Zaleplon,CYP3A7
+Zaleplon,AOX1
+Bromfenac,PTGS2
+Telmisartan,CYP2C19
+Telmisartan,UGT1A3
+Methyldopa,COMT
+Alosetron,CYP1A2
+Alosetron,CYP3A4
+Alosetron,CYP2C9
+Alosetron,CYP2E1
+Azelastine,CYP3A4
+Azelastine,CYP2D6
+Azelastine,CYP1A2
+Azelastine,CYP2C19
+Azelastine,CYP1A1
+Azelastine,CYP3A5
+Azelastine,CYP2C9
+Azelastine,CYP2C8
+Azelastine,CYP2A6
+Azelastine,CYP2E1
+Azelastine,CYP2B6
+Ezetimibe,UGT1A1
+Ezetimibe,UGT1A3
+Ezetimibe,UGT2B15
+Ezetimibe,UGT2B7
+Ezetimibe,CYP3A4
+Ezetimibe,CYP2C8
+Edetic acid,ADA
+Edetic acid,PON3
+Edetic acid,CYP19A1
+Telithromycin,CYP3A4
+Ethinylestradiol,CYP3A4
+Ethinylestradiol,CYP2C8
+Ethinylestradiol,CYP2C9
+Ethinylestradiol,CYP1A2
+Ethinylestradiol,CYP3A5
+Ethinylestradiol,UGT1A4
+Ethinylestradiol,UGT1A3
+Ethinylestradiol,UGT1A1
+Ethinylestradiol,UGT1A9
+Ethinylestradiol,UGT2B7
+Ethinylestradiol,SULT1A3
+Ethinylestradiol,SULT1E1
+Ethinylestradiol,COMT
+Ethinylestradiol,CYP2C19
+Lomefloxacin,CYP1A2
+Cyclopentolate,BCHE
+Ramelteon,CYP1A2
+Ramelteon,CYP2C19
+Ramelteon,CYP3A4
+Ramelteon,CYP2C9
+Isotretinoin,CYP3A4
+Formoterol,CYP2D6
+Formoterol,CYP2C19
+Formoterol,CYP2C9
+Formoterol,CYP2A6
+Formoterol,UGT1A8
+Formoterol,UGT1A9
+Formoterol,UGT2B7
+Formoterol,UGT2B15
+Cytarabine,CDA
+Cytarabine,CYP3A4
+Cytarabine,DCK
+Cytarabine,NT5E
+Cytarabine,DCTD
+Dopamine,COMT
+Dopamine,MAOB
+Dopamine,MAOA
+Dopamine,DBH
+Exemestane,CYP3A4
+Exemestane,CYP19A1
+Azathioprine,HPRT1
+Azathioprine,NUDT15
+Azathioprine,XDH
+Azathioprine,TPMT
+Azathioprine,GSTA1
+Azathioprine,GSTA2
+Azathioprine,GSTM1
+Azathioprine,IMPDH1
+Azathioprine,IMPDH2
+Azathioprine,GMPS
+Azathioprine,ITPA
+Azathioprine,CYP1A2
+Gabapentin,BCAT1
+Doxorubicin,CYP2D6
+Doxorubicin,CYP3A4
+Doxorubicin,CYP2B6
+Doxorubicin,CYP1B1
+Doxorubicin,CBR1
+Doxorubicin,CBR3
+Doxorubicin,AKR1A1
+Doxorubicin,AKR1C3
+Doxorubicin,NQO1
+Doxorubicin,XDH
+Doxorubicin,NOS1
+Doxorubicin,NOS2
+Doxorubicin,NOS3
+Doxorubicin,NDUFS2
+Doxorubicin,NDUFS3
+Doxorubicin,NDUFS7
+Doxorubicin,POR
+Frovatriptan,CYP1A2
+Salbutamol,CYP3A4
+Levobupivacaine,CYP1A2
+Levobupivacaine,CYP3A4
+Hydroxyurea,CYP2D6
+Letrozole,CYP19A1
+Letrozole,CYP3A4
+Letrozole,CYP2A6
+Letrozole,CYP2C19
+Letrozole,UGT2B7
+Tioconazole,CYP19A1
+Tioconazole,CYP2C19
+Tioconazole,CYP2E1
+Tioconazole,CYP3A4
+Busulfan,GSTA2
+Busulfan,GSTA1
+Busulfan,CYP3A4
+Busulfan,GSTM1
+Busulfan,GSTP1
+Busulfan,MGST2
+Ketoprofen,CYP2C9
+Ketoprofen,CYP2C8
+Ketoprofen,UGT1A1
+Metyrapone,CYP3A4
+Metyrapone,CYP2A6
+Metyrapone,CYP11B2
+Metyrapone,CYP11B1
+Metyrapone,CYP2E1
+Cinacalcet,CYP2D6
+Cinacalcet,CYP1A2
+Cinacalcet,CYP3A4
+Clobetasol propionate,CYP3A4
+Clobetasol propionate,CYP3A5
+Balsalazide,AZR
+Sulfamethoxazole,CYP2C9
+Sulfamethoxazole,NAT1
+Sulfamethoxazole,NAT2
+Sulfamethoxazole,CYP3A4
+Glyburide,CYP3A4
+Glyburide,CYP2C9
+Glyburide,CYP2C19
+Glyburide,CYP3A7
+Glyburide,CYP3A5
+Guanfacine,CYP3A4
+Guanfacine,CYP2C19
+Isosorbide mononitrate,GSTM1
+Isosorbide mononitrate,XDH
+Isosorbide mononitrate,ADH5
+Trichlormethiazide,TPMT
+Felodipine,CYP3A4
+Felodipine,CYP3A5
+Felodipine,CYP3A7
+Felodipine,CYP2C8
+Felodipine,CYP2C9
+Felodipine,CYP2D6
+Mycophenolic acid,UGT1A9
+Mycophenolic acid,UGT1A1
+Mycophenolic acid,UGT2B7
+Mycophenolic acid,UGT1A7
+Mycophenolic acid,UGT1A6
+Ketoconazole,CYP3A4
+Ketoconazole,CYP3A5
+Ketoconazole,CYP2C19
+Ketoconazole,CYP1A1
+Ketoconazole,CYP1A2
+Ketoconazole,CYP2A6
+Ketoconazole,CYP1B1
+Ketoconazole,CYP2B6
+Ketoconazole,CYP2C8
+Ketoconazole,CYP2C9
+Ketoconazole,CYP2D6
+Ketoconazole,CYP11B1
+Ketoconazole,UGT1A1
+Ketoconazole,UGT1A7
+Ketoconazole,UGT2B7
+Ketoconazole,CYP4F12
+Ketoconazole,CYP19A1
+Ketoconazole,CYP4F2
+Methoxyflurane,CYP2E1
+Methoxyflurane,CYP1A2
+Methoxyflurane,CYP2A6
+Methoxyflurane,CYP2B6
+Methoxyflurane,CYP2C9
+Methoxyflurane,CYP2D6
+Methoxyflurane,CYP3A4
+Irbesartan,CYP2C9
+Irbesartan,CYP2C8
+Irbesartan,UGT1A3
+Irbesartan,PTGS1
+Irbesartan,CYP3A4
+Topotecan,CYP3A4
+Probenecid,CYP2C8
+Probenecid,CYP3A4
+Probenecid,UGT1A1
+Probenecid,CYP2C9
+Mercaptopurine,TPMT
+Mercaptopurine,XDH
+Mercaptopurine,AOX1
+Procainamide,BCHE
+Procainamide,CYP2D6
+Tolterodine,CYP2D6
+Tolterodine,CYP3A4
+Tolterodine,CYP2C9
+Tolterodine,CYP2C19
+Selegiline,CYP2B6
+Selegiline,CYP3A4
+Selegiline,CYP2A6
+Selegiline,CYP1A2
+Selegiline,CYP2C19
+Selegiline,CYP2C8
+Selegiline,CYP2C9
+Selegiline,CYP2D6
+Selegiline,CYP2E1
+Fenofibrate,UGT1A9
+Fenofibrate,CES1
+Fenofibrate,CBR1
+Fenofibrate,CYP2C8
+Fenofibrate,CYP2C19
+Fenofibrate,CYP2A6
+Fenofibrate,AKR1C1
+Fenofibrate,AKR1C2
+Fenofibrate,AKR1C3
+Fenofibrate,AKR1B1
+Fenofibrate,CYP2C9
+Thalidomide,PTGS1
+Thalidomide,PTGS2
+Thalidomide,CYP3A5
+Thalidomide,CYP2C9
+Thalidomide,CYP2E1
+Thalidomide,CYP2C19
+Thalidomide,CYP1A1
+Memantine,CYP2B6
+Memantine,CYP2A6
+Memantine,CYP2C19
+Gatifloxacin,CYP1A2
+Rifampicin,CYP1A2
+Rifampicin,CYP3A4
+Rifampicin,CYP2C9
+Rifampicin,CYP2C8
+Rifampicin,CYP2C19
+Rifampicin,UGT1A1
+Rifampicin,CYP2B6
+Rifampicin,CYP2A6
+Rifampicin,CYP2E1
+Rifampicin,CYP3A43
+Rifampicin,CYP3A7
+Rifampicin,UGT1A9
+Rifampicin,CYP3A5
+Lubiprostone,CBR1
+Fluocinonide,CYP3A4
+Fluocinonide,CYP3A5
+Abacavir,UGT1A1
+Abacavir,ADH6
+Abacavir,ADK
+Ergoloid mesylate,CYP3A4
+Ibuprofen,CYP2C9
+Ibuprofen,CYP2C8
+Ibuprofen,CYP2C19
+Ibuprofen,UGT1A3
+Ibuprofen,UGT1A9
+Ibuprofen,UGT2B4
+Ibuprofen,UGT2B7
+Ibuprofen,AMACR
+Ibuprofen,CYP3A4
+Benzylpenicillin,BLAT-6
+Nitrendipine,CYP3A4
+Nitrendipine,CYP3A5
+Nitrendipine,CYP3A7
+Tocainide,CYP1A2
+Praziquantel,CYP3A4
+Praziquantel,CYP1A2
+Praziquantel,CYP2C19
+Praziquantel,CYP3A43
+Praziquantel,CYP3A5
+Praziquantel,CYP3A7
+Norfloxacin,CYP1A2
+Norfloxacin,CYP3A4
+Norfloxacin,CYP1A1
+Amoxicillin,CYP2C8
+Amoxicillin,BLM
+Oxybutynin,CYP3A4
+Oxybutynin,CYP2C8
+Oxybutynin,CYP2D6
+Oxybutynin,CYP3A5
+Isoprenaline,CYP1A1
+Melatonin,CYP1A1
+Melatonin,CYP1A2
+Melatonin,CYP1B1
+Melatonin,CYP2C19
+Melatonin,CYP2C9
+Melatonin,ASMT
+Melatonin,IDO1
+Melatonin,MPO
+Melatonin,CYP19A1
+Glipizide,CYP2C9
+Glipizide,UGT1A1
+Clonazepam,CYP3A4
+Clonazepam,CYP2E1
+Clonazepam,NAT2
+Promethazine,CYP2D6
+Promethazine,CYP2B6
+Promethazine,CYP2C9
+Mequitazine,CYP2D6
+Mequitazine,CYP3A4
+Atazanavir,CYP3A4
+Atazanavir,CYP2C9
+Atazanavir,UGT1A1
+Atazanavir,CYP2C8
+Atazanavir,CYP1A2
+Perhexiline,CYP2D6
+Perhexiline,CYP2B6
+Perhexiline,CYP3A4
+Diphenhydramine,CYP2D6
+Diphenhydramine,CYP2C9
+Diphenhydramine,CYP2C19
+Diphenhydramine,PTGS1
+Atorvastatin,CYP3A4
+Atorvastatin,CYP3A5
+Atorvastatin,CYP3A7
+Atorvastatin,CYP2C8
+Atorvastatin,CYP2D6
+Atorvastatin,CYP2C9
+Atorvastatin,CYP2C19
+Atorvastatin,CYP2B6
+Atorvastatin,UGT1A1
+Atorvastatin,UGT1A3
+Tegaserod,CYP1A2
+Tegaserod,CYP2C8
+Tegaserod,CYP2D6
+Tegaserod,CYP2E1
+Vigabatrin,CYP2C9
+Orlistat,CYP3A4
+Orlistat,PLA2G4A
+Pilocarpine,CYP2A6
+Pilocarpine,CYP3A4
+Benzocaine,CES1
+Primaquine,CYP3A4
+Primaquine,CYP1A2
+Primaquine,CYP2D6
+Primaquine,CYP1A1
+Primaquine,CYP1B1
+Dimethyl sulfoxide,CYP2C19
+Dimethyl sulfoxide,CYP2D6
+Dimethyl sulfoxide,CYP3A4
+Hesperetin,CYP1A2
+Fluvastatin,CYP1A1
+Fluvastatin,CYP3A4
+Fluvastatin,CYP3A5
+Fluvastatin,CYP2C8
+Fluvastatin,CYP2C9
+Fluvastatin,CYP2C19
+Fluvastatin,CYP2D6
+Fluvastatin,UGT1A1
+Fluvastatin,UGT1A3
+Fluvastatin,UGT2B7
+Fluvastatin,CYP2B6
+Oxamniquine,CYP2D6
+Leflunomide,CYP2C9
+Leflunomide,CYP1A2
+Rosuvastatin,CYP2C9
+Pimozide,CYP3A5
+Pimozide,CYP1A2
+Pimozide,CYP3A4
+Pimozide,CYP3A7
+Pimozide,CYP2D6
+Capecitabine,TYMP
+Capecitabine,CES1
+Capecitabine,DPYD
+Capecitabine,CDA
+Capecitabine,CYP2C9
+Quinacrine,HNMT
+Quinacrine,CYP3A4
+Quinacrine,CYP3A5
+Sertraline,CYP3A4
+Sertraline,CYP2D6
+Sertraline,CYP2C19
+Sertraline,CYP2C9
+Sertraline,CYP2B6
+Sertraline,MAOB
+Sertraline,MAOA
+Sertraline,CYP2B
+Sertraline,CYP2E1
+Sibutramine,CYP3A4
+Trilostane,CYP3A4
+Heparin,HPSE
+Miconazole,CYP2A6
+Miconazole,CYP2B6
+Miconazole,CYP2C9
+Miconazole,CYP2C19
+Miconazole,CYP2D6
+Miconazole,CYP2E1
+Miconazole,CYP3A4
+Miconazole,CYP11B1
+Miconazole,CYP51A1
+Miconazole,CYP19A1
+Chlorpheniramine,CYP3A5
+Chlorpheniramine,CYP2D6
+Chlorpheniramine,CYP3A4
+Chlorpheniramine,CYP3A7
+Nifedipine,CYP3A4
+Nifedipine,CYP2D6
+Nifedipine,CYP3A5
+Nifedipine,CYP1A2
+Nifedipine,CYP2C9
+Nifedipine,CYP2C8
+Nifedipine,CYP2A6
+Nifedipine,CYP2E1
+Nifedipine,CYP1A1
+Nifedipine,CYP2B6
+Trimethaphan,BCHE
+Atovaquone,CYP2C9
+Atovaquone,CYP3A4
+Amiodarone,CYP3A4
+Amiodarone,CYP2C8
+Amiodarone,CYP2D6
+Amiodarone,CYP2C9
+Amiodarone,CYP1A2
+Amiodarone,CYP2C19
+Amiodarone,CYP1A1
+Amiodarone,CYP2A6
+Amiodarone,CYP2J2
+Diazoxide,GLUL
+Gliclazide,CYP2C9
+Gliclazide,CYP2C19
+Ambenonium,BCHE
+Tolbutamide,CYP2C9
+Tolbutamide,CYP2C8
+Tolbutamide,CYP2C19
+Tolbutamide,CYP2C18
+Dutasteride,CYP3A5
+Econazole,CYP19A1
+Econazole,CYP2E1
+Econazole,CYP3A4
+Bicalutamide,CYP3A4
+Bicalutamide,CYP2C19
+Bicalutamide,CYP2C9
+Bicalutamide,CYP2D6
+Rabeprazole,CYP3A4
+Rabeprazole,CYP2C19
+Rabeprazole,CYP1A1
+Rabeprazole,CYP1A2
+Rabeprazole,CYP2C9
+Rabeprazole,CYP2D6
+Rabeprazole,CYP2C8
+Prednicarbate,CYP3A4
+Proguanil,CYP2D6
+Proguanil,CYP2C19
+Proguanil,CYP2C9
+Pioglitazone,CYP3A4
+Pioglitazone,CYP2C8
+Pioglitazone,CYP1A1
+Desoxycorticosterone pivalate,CYP3A4
+Doxacurium,BCHE
+Carvedilol,XDH
+Carvedilol,CYP2D6
+Carvedilol,CYP2C9
+Carvedilol,CYP1A2
+Carvedilol,CYP3A4
+Carvedilol,CYP1A1
+Carvedilol,CYP2E1
+Carvedilol,UGT1A1
+Carvedilol,UGT2B4
+Carvedilol,UGT2B7
+Levofloxacin,CYP1A2
+Levofloxacin,CYP2C9
+Sulfinpyrazone,CYP2C9
+Sulfinpyrazone,CYP3A4
+Sulfinpyrazone,CYP2B6
+Sulfinpyrazone,CYP2C8
+Micafungin,COMT
+Micafungin,ARSA
+Doxepin,CYP2D6
+Doxepin,CYP1A2
+Doxepin,CYP2C9
+Doxepin,CYP2C19
+Doxepin,CYP3A4
+Amifostine,ALPL
+Nefazodone,CYP2B
+Nefazodone,CYP2D6
+Nefazodone,CYP3A4
+Nefazodone,CYP3A4
+Nefazodone,CYP3A43
+Nefazodone,CYP3A5
+Nefazodone,CYP3A7
+Desipramine,CYP2D6
+Desipramine,CYP1A2
+Desipramine,CYP3A4
+Desipramine,CYP2B6
+Desipramine,CYP2E1
+Candicidin,CYP3A4
+Thiamylal,CYP2C9
+Thiamylal,CYP3A4
+Thiamylal,CYP2E1
+Gemifloxacin,CYP1A2
+Bupropion,CYP2D6
+Bupropion,CYP2B6
+Bupropion,CYP2C9
+Bupropion,CYP2E1
+Trimetrexate,DHFR
+Halothane,CYP2E1
+Halothane,CYP3A4
+Halothane,CYP2A6
+Halothane,CYP2B6
+Halothane,CYP2C9
+Chloroprocaine,BCHE
+Ofloxacin,CYP1A2
+Cilostazol,CYP3A5
+Cilostazol,CYP3A4
+Cilostazol,CYP2C19
+Cilostazol,CYP3A7
+Cilostazol,CYP1A2
+Cilostazol,CYP2D6
+Itraconazole,CYP3A5
+Itraconazole,CYP3A4
+Itraconazole,CYP3A7
+Itraconazole,CYP2B6
+Itraconazole,CYP1A1
+Itraconazole,CYP2E1
+Procarbazine,XDH
+Arsenic trioxide,CYP3A4
+Moclobemide,MAOB
+Moclobemide,MAOA
+Moclobemide,CYP2D6
+Moclobemide,CYP2C19
+Moclobemide,CYP2C9
+Kanamycin,AAC
+Kanamycin,KNT
+Kanamycin,APHA1
+Orphenadrine,CYP2B6
+Orphenadrine,CYP3A4
+Orphenadrine,CYP2E1
+Orphenadrine,CYP1A2
+Orphenadrine,CYP2D6
+Phenobarbital,CYP2C19
+Phenobarbital,CYP2C9
+Phenobarbital,CYP2C8
+Phenobarbital,CYP2B6
+Phenobarbital,CYP3A4
+Phenobarbital,CYP1A2
+Phenobarbital,CYP2A6
+Phenobarbital,CYP2E1
+Phenobarbital,CYP3A5
+Phenobarbital,CYP1A1
+Phenobarbital,CYP2C18
+Phenobarbital,CYP3A7
+Phenobarbital,CYP4B1
+Phenobarbital,UGT1A1
+Phenobarbital,UGT2B7
+Escitalopram,CYP3A4
+Escitalopram,CYP2D6
+Escitalopram,CYP2C19
+Escitalopram,MAOA
+Escitalopram,MAOB
+Cyclizine,CYP2C9
+Idarubicin,CYP2C9
+Idarubicin,CYP2D6
+Ifosfamide,CYP2B6
+Ifosfamide,CYP3A4
+Ifosfamide,CYP3A5
+Ifosfamide,CYP2C19
+Ifosfamide,CYP2C9
+Ifosfamide,CYP2C8
+Ifosfamide,CYP2A6
+Ifosfamide,CYP2C18
+Ifosfamide,PTGS1
+Propafenone,CYP2D6
+Propafenone,CYP3A4
+Propafenone,CYP1A2
+Naloxone,CYP3A4
+Naloxone,UGT1A1
+Domperidone,CYP3A5
+Domperidone,CYP3A4
+Domperidone,CYP3A7
+Domperidone,CYP1A2
+Domperidone,CYP2B6
+Domperidone,CYP2C8
+Domperidone,CYP2D6
+Pergolide,CYP3A4
+Clindamycin,CYP3A4
+Clindamycin,CYP3A5
+Dexfenfluramine,CYP2D6
+Dexfenfluramine,CYP1A2
+Dexfenfluramine,CYP2E1
+Oxymorphone,CYP3A4
+Oxymorphone,CYP2D6
+Acebutolol,CYP2D6
+Brinzolamide,CYP3A4
+Flecainide,CYP2D6
+Flecainide,CYP1A2
+Flecainide,CYP2C9
+Estramustine,CYP3A4
+Zopiclone,CYP3A4
+Zopiclone,CYP2C8
+Zopiclone,CYP2C9
+Zopiclone,PTGS1
+Zopiclone,CYP2E1
+Tubocurarine,BCHE
+Bromocriptine,CYP3A4
+Rifapentine,CYP3A4
+Rifapentine,CYP2C9
+Rifapentine,CYP2C8
+Rifapentine,CYP2C19
+Rifapentine,CYP2B6
+Rifapentine,CYP3A4
+Rifapentine,CYP3A43
+Rifapentine,CYP3A5
+Rifapentine,CYP3A7
+Mitoxantrone,CYP2E1
+Mitoxantrone,CYP1B1
+Mitoxantrone,CYP3A4
+Lomustine,CYP3A4
+Lomustine,CYP2D6
+Sparfloxacin,CYP1A2
+Levobunolol,CYP2D6
+Clarithromycin,CYP3A5
+Clarithromycin,CYP3A4
+Ceftriaxone,GLUL
+Fomepizole,CYP2E1
+Fomepizole,CYP2A6
+Metipranolol,CYP2D6
+Estazolam,CYP3A4
+Finasteride,CYP3A5
+Finasteride,CYP3A4
+Finasteride,CYP3A7
+Anastrozole,CYP3A4
+Anastrozole,CYP3A5
+Anastrozole,CYP2C8
+Anastrozole,UGT1A4
+Anastrozole,UGT1A3
+Anastrozole,UGT2B7
+Anastrozole,CYP1A2
+Anastrozole,CYP2C9
+Halofantrine,CYP2D6
+Halofantrine,CYP3A4
+Halofantrine,CYP3A5
+Halofantrine,CYP2C8
+Rifaximin,CYP3A4
+Rifaximin,CYP2C19
+Rifaximin,CYP2C8
+Ketamine,CYP3A4
+Ketamine,CYP2C9
+Ketamine,CYP2B6
+Ketamine,PTGS1
+Ketamine,CYP2C8
+Budesonide,CYP3A4
+Budesonide,CYP3A5
+Budesonide,CYP3A4
+Budesonide,CYP3A43
+Budesonide,CYP3A5
+Budesonide,CYP3A7
+Budesonide,CYP2A6
+Budesonide,CYP1B1
+Budesonide,CYP2B6
+Budesonide,CYP2C8
+Budesonide,CYP2C9
+Budesonide,CYP2C19
+Aminophylline,CYP1A2
+Aminophylline,CYP2E1
+Aminophylline,CYP3A4
+Quetiapine,CYP3A5
+Quetiapine,CYP3A4
+Quetiapine,CYP2C19
+Quetiapine,CYP2D6
+Quetiapine,CYP3A7
+Enoxaparin,MPO
+Levacetylmethadol,CYP3A5
+Levacetylmethadol,CYP3A4
+Levacetylmethadol,CYP3A7
+Encainide,CYP2D6
+Paclitaxel,CYP3A5
+Paclitaxel,CYP3A4
+Paclitaxel,CYP2C8
+Paclitaxel,CYP3A7
+Paclitaxel,CYP1B1
+Paclitaxel,CYP19A1
+Saquinavir,CYP3A5
+Saquinavir,CYP3A4
+Saquinavir,CYP3A7
+Saquinavir,CYP2C8
+Saquinavir,CYP2D6
+Metoclopramide,CYP2D6
+Metoclopramide,CYP3A4
+Metoclopramide,CYP1A2
+Dexamethasone,HSD11B2
+Dexamethasone,CYP3A4
+Dexamethasone,HSD11B1
+Dexamethasone,CYP3A5
+Dexamethasone,CYP3A7
+Dexamethasone,CYP17A1
+Dexamethasone,CYP1A1
+Dexamethasone,CYP2A6
+Dexamethasone,CYP2B6
+Dexamethasone,CYP2C19
+Dexamethasone,CYP2C8
+Dexamethasone,CYP2E1
+Dexamethasone,CYP3A43
+Dexamethasone,CYP4A11
+Dexamethasone,CYP11B1
+Levodopa,DDC
+Sevoflurane,CYP2E1
+Sevoflurane,CYP2A6
+Sevoflurane,CYP2B6
+Sevoflurane,CYP3A4
+Aripiprazole,CYP3A4
+Aripiprazole,CYP3A7
+Aripiprazole,CYP3A5
+Aripiprazole,CYP2D6
+Gemfibrozil,CYP2C8
+Gemfibrozil,CYP2C19
+Gemfibrozil,CYP2C9
+Gemfibrozil,CYP1A2
+Gemfibrozil,CYP3A4
+Gemfibrozil,UGT2B7
+Gemfibrozil,UGT1A1
+Gemfibrozil,UGT1A3
+Gemfibrozil,UGT1A9
+Gemfibrozil,UGT2B4
+Gemfibrozil,UGT2B17
+Clomipramine,CYP2D6
+Clomipramine,CYP2C19
+Clomipramine,CYP1A2
+Clomipramine,CYP3A4
+Bepridil,CYP2D6
+Bepridil,CYP3A4
+Decamethonium,BCHE
+Docetaxel,CYP3A4
+Docetaxel,CYP3A5
+Docetaxel,CYP3A7
+Docetaxel,CYP1B1
+Gliquidone,CYP2C9
+Mitiglinide,UGT1A3
+Mitiglinide,UGT2B7
+Ergometrine,CYP3A4
+Dasatinib,CYP3A4
+Dasatinib,CYP1A1
+Dasatinib,CYP1A2
+Dasatinib,CYP1B1
+Dasatinib,CYP3A5
+Dasatinib,FMO3
+Lisdexamfetamine,CYP2D6
+Retapamulin,CYP3A4
+Lapatinib,CYP3A4
+Lapatinib,CYP3A5
+Lapatinib,CYP2C8
+Lapatinib,CYP2C19
+Desonide,CYP3A4
+Sitagliptin,CYP3A4
+Sitagliptin,CYP2C8
+Decitabine,DCK
+Posaconazole,CYP3A4
+Darunavir,CYP3A4
+Darunavir,CYP2D6
+Paliperidone,CYP3A4
+Paliperidone,CYP2D6
+Paliperidone,CYP3A5
+Sunitinib,CYP3A5
+Sunitinib,CYP3A4
+Sunitinib,CYP3A7
+Arformoterol,CYP2D6
+Arformoterol,CYP2C19
+Arformoterol,CYP2A6
+Arformoterol,CYP2C9
+Hydralazine,CYP3A4
+Exenatide,DPP4
+Nelarabine,ADA
+Nelarabine,DCK
+Nelarabine,DGUOK
+Lumiracoxib,CYP2C9
+Lumiracoxib,CYP2C19
+Lumiracoxib,UGT1A9
+Lumiracoxib,CYP1A2
+Corticotropin,HSD3B2
+Corticotropin,CYP27B1
+Corticotropin,CYP24A1
+Corticotropin,CYP3A4
+Glisoxepide,CYP2C9
+Bevantolol,CYP2D6
+Practolol,CYP2D6
+Oxtriphylline,CYP1A2
+Insulin aspart,CYP1A2
+Insulin detemir,CYP1A2
+Insulin glulisine,CYP1A2
+Fosamprenavir,CYP3A4
+Fosphenytoin,CYP3A4
+Fosphenytoin,CYP2C9
+Fosphenytoin,CYP2C19
+Fosphenytoin,CYP2B6
+Fosphenytoin,CYP1A2
+Fosphenytoin,UGT1A6
+Fosphenytoin,UGT1A9
+St. John's Wort,CYP3A4
+St. John's Wort,CYP2D6
+St. John's Wort,CYP2C19
+Cefazolin,TPMT
+Cefoxitin,PENP
+Cefradine,CYP3A4
+Pancuronium,BCHE
+Pipecuronium,BCHE
+Tasosartan,CYP3A4
+Aprobarbital,CYP3A4
+Hexobarbital,CYP2C19
+Hexobarbital,CYP2C9
+Hexobarbital,PTGS1
+Mestranol,CYP2C9
+Mestranol,CYP3A4
+Mestranol,CYP2C8
+Penbutolol,CYP2D6
+Ephedrine,BCHE
+Rasagiline,CYP1A2
+Quinupristin,CYP3A4
+Cortisone acetate,CYP3A4
+Cortisone acetate,CYP3A5
+Ginkgo biloba,CYP2C9
+Ginkgo biloba,CYP3A4
+Paramethasone,CYP3A4
+Paramethasone,CYP3A5
+Mibefradil,CYP3A5
+Mibefradil,CYP2D6
+Mibefradil,CYP1A2
+Mibefradil,CYP3A4
+Mibefradil,CYP3A7
+Mibefradil,CYP11B1
+Mibefradil,CYP11B2
+Yohimbine,CYP2D6
+Yohimbine,CYP3A4
+Bezafibrate,CYP1A1
+Bezafibrate,CYP2C8
+Bezafibrate,CYP3A4
+Colchicine,CYP3A4
+Colchicine,CYP2B6
+Colchicine,CYP2C8
+Colchicine,CYP2E1
+Drospirenone,PTGS2
+Drospirenone,PON1
+Drospirenone,CYP3A4
+Digitoxin,CYP3A4
+Digitoxin,CYP11A1
+Neostigmine,BCHE
+Methotrimeprazine,CYP2D6
+Methotrimeprazine,CYP2E1
+Temafloxacin,CYP1A2
+Danazol,CYP19A1
+Danazol,CYP3A4
+Clenbuterol,CYP1A1
+Bambuterol,BCHE
+Tiotropium,CYP2D6
+Tiotropium,CYP3A4
+Ciclesonide,CYP2D6
+Ciclesonide,CYP3A4
+Ciclesonide,CES1
+Pranlukast,CYP3A4
+Pranlukast,CYP2C9
+Theobromine,CYP1A2
+Theobromine,CYP2E1
+Acenocoumarol,CYP2C9
+Acenocoumarol,CYP1A2
+Acenocoumarol,CYP2C19
+Acenocoumarol,CYP3A4
+Testosterone propionate,COMT
+Testosterone propionate,UGT1A1
+Testosterone propionate,SRD5A1
+Testosterone propionate,SRD5A2
+Testosterone propionate,SRD5A3
+Testosterone propionate,CYP3A4
+Aminophenazone,CYP1A2
+Aminophenazone,CYP2C8
+Aminophenazone,CYP2C19
+Aminophenazone,CYP2C9
+Aminophenazone,CYP2D6
+Aminophenazone,CYP3A4
+Aminophenazone,CYP2C18
+Aminophenazone,CYP17A1
+Aprindine,CYP2D6
+Antipyrine,CYP1A2
+Antipyrine,CYP3A4
+Antipyrine,CYP2C9
+Antipyrine,CYP2C8
+Antipyrine,CYP2C19
+Antipyrine,CYP2A6
+Antipyrine,CYP2B6
+Antipyrine,CYP2C18
+Antipyrine,CYP2D6
+Antipyrine,CYP2E1
+Glutethimide,CYP11A1
+Bufotenine,MAOA
+Midomafetamine,CYP2D6
+5-androstenedione,CYP3A4
+Ethylmorphine,CYP2D6
+Ethylmorphine,POR
+Ethylmorphine,CYP2B6
+Ethylmorphine,CYP3A4
+4-Methoxyamphetamine,CYP2D6
+Fenethylline,CYP1A2
+Barbital,CYP3A4
+Barbital,CYP2C19
+Androstenedione,CYP3A4
+Flunitrazepam,CYP2C19
+Flunitrazepam,UGT2B7
+Flunitrazepam,CYP2A6
+Flunitrazepam,CYP2B6
+Flunitrazepam,CYP2C9
+Flunitrazepam,CYP3A4
+Flunitrazepam,CYP2E1
+Flunitrazepam,UGT1A1
+Flunitrazepam,UGT1A3
+Dihydrocodeine,CYP2D6
+Dihydrocodeine,CYP3A4
+Bromazepam,CYP1A2
+Bromazepam,CYP2C19
+Bromazepam,CYP2E1
+Clotiazepam,CYP2B6
+Clotiazepam,CYP2C18
+Clotiazepam,CYP2C19
+Clotiazepam,CYP3A4
+1-(2-Phenylethyl)-4-phenyl-4-acetoxypiperidine,CYP2D6
+Dextroamphetamine,CYP2D6
+Dextroamphetamine,TYNA
+Metamfetamine,CYP2D6
+Oxprenolol,CYP2D6
+Sulfamethazine,NAT
+Liotrix,CYP2C8
+Liotrix,CYP3A4
+Ursodeoxycholic acid,CYP2E1
+Ketazolam,CYP3A4
+Prazepam,CYP3A4
+Quazepam,CYP2C19
+Quazepam,CYP2C9
+Quazepam,CYP3A4
+Quazepam,CYP2B6
+Everolimus,CYP3A4
+Everolimus,CYP2D6
+Solifenacin,CYP3A4
+Solifenacin,CYP1A1
+Solifenacin,CYP2D6
+Zinc,CA1
+Nitrazepam,CYP3A4
+Nitrazepam,CYP2E1
+Imipenem,DPEP1
+Imipenem,BLA
+Imipenem,BLAT-6
+Imipenem,BLACTX-M-14
+Imipenem,BLACTX-M-27
+Imipenem,KPC-2
+Lopinavir,CYP3A4
+Lopinavir,CYP2D6
+Lopinavir,CYP1A2
+Lopinavir,CYP2C19
+Lopinavir,CYP2B6
+Lopinavir,CYP2C9
+Lopinavir,CYP3A4
+Lopinavir,CYP3A43
+Lopinavir,CYP3A5
+Lopinavir,CYP3A7
+Deferasirox,CYP3A4
+Deferasirox,UGT1A1
+Deferasirox,UGT1A3
+Deferasirox,UGT1A9
+Deferasirox,CYP2C8
+Deferasirox,CYP1A2
+Hydroxychloroquine,CYP3A4
+Hydroxychloroquine,CYP2D6
+Amyl Nitrite,ALDH2
+Pipotiazine,CYP2D6
+Pipotiazine,CYP3A4
+Pipotiazine,CYP2C19
+Thiothixene,CYP1A2
+Thiothixene,CYP2D6
+Zuclopenthixol,CYP2D6
+Zuclopenthixol,CYP3A4
+Etoricoxib,CYP3A4
+Etoricoxib,CYP2C9
+Etoricoxib,CYP2D6
+Etoricoxib,CYP1A2
+Etoricoxib,CYP2C19
+Etoricoxib,CYP2E1
+Genistein,CYP1A2
+Genistein,CYP1A1
+Genistein,CYP2C8
+Genistein,CYP2C9
+Genistein,CYP3A1
+Genistein,CYP3A2
+Genistein,CYP3A4
+Roflumilast,CYP3A4
+8-azaguanine,CYP1A2
+Topiroxostat,CYP2C8
+Topiroxostat,CYP2C9
+Topiroxostat,CYP1A1
+Topiroxostat,CYP3A4
+Topiroxostat,CYP2C19
+Topiroxostat,UGT1A9
+Rutin,CYP3A4
+Prasterone,CYP3A7
+Prasterone,HSD17B1
+Prasterone,SULT2A1
+Prasterone,SULT2B1
+Prasterone,HSD3B1
+Prasterone,CHOB
+Prasterone,CYP17A1
+S-adenosyl-L-homocysteine,HNMT
+Dalfopristin,CYP3A4
+"N,N-dimethylformamide",CYP2E1
+Epothilone D,CYP3A4
+D-glucose,HK1
+D-glucose,GCK
+Taurine,TGM6
+Taurine,BAAT
+Coenzyme A,AAC
+Isatin,MAOB
+Xanthine,CYP1A2
+Equilin,CYP3A4
+Pyridoxine phosphate,PNPO
+Pyridoxine phosphate,PDXP
+(R)-N-methyl-N-2-propynyl-1-indanamine,MAOB
+Calcipotriol,MPO
+Calcipotriol,CYP24A1
+Beta-D-Glucose,AMY2A
+2-Hydroxyethyl Disulfide,GSTA1
+9-Methylguanine,CYP1A2
+Farnesol,MAOB
+Ditiocarb,CYP2E1
+Ditiocarb,CYP3A4
+Ditiocarb,CYP3A5
+2'-Deoxycytidine,DCK
+Nicotinamide,CYP2D6
+Nicotinamide,CYP2E1
+Nicotinamide,CYP3A4
+Fusidic acid,CYP2D6
+Fusidic acid,CYP3A4
+Fusidic acid,UGT1A1
+Resveratrol,CYP1A2
+Resveratrol,CYP1A1
+Resveratrol,CYP1B1
+Resveratrol,CYP3A4
+Pregnenolone,CYP3A4
+Methylphosphinic Acid,BCHE
+Stanolone,CYP11A1
+Stanolone,CYP17A1
+Stanolone,CYP19A1
+N-(4-Aminobutanoyl)-S-(4-methoxybenzyl)-L-cysteinylglycine,GSTA1
+Patupilone,CYP3A4
+Pidolic acid,AMY2A
+5-Hydroxymethyl-Chonduritol,AMY2A
+Flavin adenine dinucleotide,MAOB
+"1-Beta-Ribofuranosyl-1,3-Diazepinone",CDA
+Flavin mononucleotide,POR
+4-hydroxycoumarin,CYP3A4
+"4,6-dideoxy-4-amino-alpha-D-glucose",AMY2A
+Alvocidib,UGT1A1
+Equilenin,CYP3A4
+Butyric Acid,BCHE
+Phencyclidine,CYP2B6
+S-benzylglutathione,GSTA1
+Ribostamycin,AAC
+Vanoxerine,CYP3A4
+Doconexent,CYP2C9
+Phenacetin,CYP2D6
+Phenacetin,CYP1A2
+Phenacetin,CYP1A1
+Phenacetin,CYP2A13
+Phenacetin,CYP2A6
+Phenacetin,CYP2C19
+Phenacetin,CYP2C9
+Phenacetin,CYP2E1
+Phenacetin,CYP3A4
+Ethyl dihydrogen phosphate,BCHE
+N-Propargyl-1(S)-Aminoindan,MAOB
+Acarbose Derived Hexasaccharide,AMY2A
+Phosphorylisopropane,BCHE
+6-Deoxyerythronolide B,CYP3A4
+Hypoxanthine,CYP1A2
+S-Hexylglutathione,GSTA1
+Dodecyldimethylamine N-oxide,MAOB
+Quercetin,CYP2C8
+Butyrylthiocholine,BCHE
+5-Hydroxy-N-Propargyl-1(R)-Aminoindan,MAOB
+Inosine,XDH
+9-Deazaguanine,CYP1A2
+N-Methyl-N-(Methylbenzyl)Formamide,CYP2E1
+"4-O-(4,6-Dideoxy-4-{[4-[(4-O-Hexopyranosylhexopyranosyl)Oxy]-5,6-Dihydroxy-3-(Hydroxymethyl)Cyclohex-2-En-1-Yl]Amino}Hexopyranosyl)Hexopyranose",AMY2A
+"3-(4-Amino-1-Tert-Butyl-1h-Pyrazolo[3,4-D]Pyrimidin-3-Yl)Phenol",CBR1
+Niflumic acid,UGT1A9
+Arachidonic Acid,CYP2C9
+Thiotepa,CYP2B6
+Thiotepa,CYP3A4
+Thiotepa,BCHE
+Estrone sulfate,CYP1A2
+Estrone sulfate,CYP3A4
+Estrone sulfate,CYP2C9
+Aldosterone,CYP11B1
+Aldosterone,CYP11B2
+Aldosterone,CYP17A1
+Aldosterone,CYP3A4
+Corticosterone,CYP3A4
+Coumarin,CYP2C9
+Licofelone,CYP2C9
+Licofelone,CYP2C8
+Licofelone,CYP2J2
+Licofelone,UGT1A3
+Nimesulide,CYP3A4
+Suramin,ARSA
+Suramin,PLA2G4A
+Bifonazole,CYP19A1
+Bifonazole,CYP2E1
+Bifonazole,CYP3A4
+Metamizole,CYP2B6
+Metamizole,CYP3A4
+Iproniazid,MAOB
+Iproniazid,CYP2D6
+Iproniazid,CYP2C9
+Iproniazid,MAOA
+Prenylamine,CYP3A4
+Urethane,PLA2G4A
+Urethane,MPO
+Urethane,AOX1
+Zomepirac,CYP3A4
+Lysergic acid diethylamide,CYP3A4
+Lysergic acid diethylamide,CYP2D6
+Tienilic acid,CYP2C9
+Zimelidine,CYP3A4
+Methaqualone,CYP3A4
+Maraviroc,CYP3A4
+Cyclandelate,CYP3A4
+Cyproterone acetate,CYP3A4
+Cyproterone acetate,CYP19A1
+Debrisoquine,CYP2D6
+Debrisoquine,CYP1A1
+Flunarizine,CYP2D6
+Flunarizine,CYP1A2
+Flunarizine,CYP2C9
+Flunarizine,CYP2A6
+Flunarizine,CYP1A1
+Flunarizine,CYP3A4
+Fluspirilene,CYP3A4
+Tetrabenazine,CYP2D6
+Tetrabenazine,CBR1
+Ixabepilone,CYP3A4
+Celiprolol,CYP2D6
+Dronedarone,CYP2D6
+Dronedarone,CYP3A4
+Dronedarone,CYP3A5
+Dronedarone,CYP2J2
+Dexloxiglumide,CYP3A5
+Dexloxiglumide,CYP3A4
+Dexloxiglumide,CYP2C9
+Dexloxiglumide,CYP2B6
+Dexloxiglumide,CYP2E1
+Tirapazamine,CYP2E1
+Nebivolol,CYP2D6
+Nebivolol,CYP3A4
+Nebivolol,CYP2C19
+Nilotinib,CYP3A4
+Nilotinib,CYP2C8
+Nilotinib,CYP2C9
+Nilotinib,CYP2D6
+Nilotinib,CYP2B6
+Lorcaserin,CYP1A2
+Lorcaserin,CYP2A6
+Lorcaserin,CYP2B6
+Lorcaserin,CYP2C19
+Lorcaserin,CYP2D6
+Lorcaserin,CYP3A4
+Lorcaserin,FMO1
+Lorcaserin,CYP1A1
+Dapoxetine,CYP3A4
+Dapoxetine,CYP2D6
+Calanolide A,CYP3A4
+Bicifadine,CYP2D6
+Bicifadine,MAOB
+Bicifadine,CYP1A2
+Bicifadine,MAOA
+Vapreotide,CYP3A4
+Milnacipran,CYP3A4
+Ximelagatran,CYP2C9
+Tesmilifene,CYP2D6
+Tesmilifene,CYP3A4
+Tesmilifene,CYP1A1
+Flibanserin,CYP3A4
+Oritavancin,CYP3A4
+Oritavancin,CYP2D6
+Oritavancin,CYP2C9
+Oritavancin,CYP2C19
+Clevidipine,CYP2C9
+Clevidipine,CYP2D6
+Clevidipine,CYP2E1
+Clevidipine,CYP2C19
+Clevidipine,CYP3A4
+Clevidipine,BCHE
+Permethrin,CYP2B6
+Rifalazil,CYP3A4
+Ospemifene,CYP3A4
+Ospemifene,CYP2C9
+Ospemifene,CYP2C19
+Ospemifene,CYP2B6
+Ospemifene,CYP2D6
+Iloperidone,CYP2D6
+Iloperidone,CYP3A4
+Iloperidone,CYP3A5
+Iloperidone,CYP3A7
+Iloperidone,CYP2E1
+Lofexidine,CYP2D6
+Lofexidine,CYP1A2
+Lofexidine,CYP2C19
+Pirfenidone,CYP1A2
+Ezogabine,UGT1A1
+Ezogabine,UGT1A3
+Ezogabine,UGT1A4
+Ezogabine,UGT1A9
+Ezogabine,NAT2
+Azimilide,CYP3A5
+Azimilide,CYP3A4
+Azimilide,CYP1A1
+Azimilide,CYP2D6
+Troxacitabine,DCK
+Banoxantrone,CYP1A1
+Banoxantrone,CYP3A4
+Banoxantrone,CYP2B6
+Plitidepsin,CYP4A11
+Plitidepsin,CYP3A4
+Plitidepsin,CYP2A6
+Plitidepsin,CYP2E1
+Belinostat,UGT1A4
+Belinostat,CYP2C8
+Belinostat,CYP2C9
+Belinostat,CYP1A2
+Ataluren,UGT1A9
+Ataluren,SLC22A6
+Ataluren,SLC22A8
+Ataluren,SLCO1B3
+Migalastat,UGT1A1
+Lancovutide,PLA2G4A
+Indacaterol,CYP3A4
+Indacaterol,UGT1A1
+Erdosteine,ADA
+Cimicoxib,PTGS2
+Trabectedin,CYP2D6
+Trabectedin,CYP3A4
+Trabectedin,CYP2C9
+Trabectedin,CYP2E1
+Trabectedin,CYP2C19
+Trabectedin,PTGS1
+NN344,CYP1A2
+Pretomanid,CYP3A4
+Pretomanid,DDN
+Elafin,MPO
+Sofalcone,CBR1
+HE3286,CYP3A4
+Crisaborole,CYP2B6
+Crisaborole,CYP2C8
+Crisaborole,CYP2C9
+Beraprost,CYP2C8
+Cobimetinib,CYP3A4
+Cobimetinib,ABCB1
+Methsuximide,CYP2C19
+Interferon alfa,CYP1A2
+Rotigotine,CYP3A4
+Rotigotine,CYP2D6
+Vandetanib,FMO3
+Vandetanib,FMO1
+Vandetanib,CYP3A4
+Dexlansoprazole,CYP2C19
+Dexlansoprazole,CYP3A4
+Histamine,HNMT
+Iodine,TPO
+Regramostim,BCHE
+Corticorelin,DBH
+Albinterferon Alfa-2B,CYP1A2
+7-ethyl-10-hydroxycamptothecin,CYP3A4
+Technetium Tc-99m ciprofloxacin,CYP1A2
+Telaprevir,CYP3A4
+Brivaracetam,CYP3A4
+Brivaracetam,CYP2C19
+Brivaracetam,CYP2B6
+Brivaracetam,CYP2C9
+Apremilast,CYP3A4
+Apremilast,CYP2A6
+Apremilast,CYP1A2
+GTS-21,CYP1A2
+GTS-21,CYP2E1
+Trastuzumab emtansine,CYP3A4
+Trastuzumab emtansine,CYP3A5
+Prasterone sulfate,CYP19A1
+Prasterone sulfate,CYP3A7
+Prasterone sulfate,PTGS2
+Abiraterone,CYP3A4
+Abiraterone,SULT2A1
+Abiraterone,CYP2D6
+Abiraterone,CYP2C8
+Abiraterone,CYP1A2
+Abiraterone,CYP2C19
+Abiraterone,CYP2C9
+GPI-1485,CYP3A4
+"Sar9, Met (O2)11-Substance P",CYP19A1
+"Sar9, Met (O2)11-Substance P",BCHE
+"Sar9, Met (O2)11-Substance P",PTGS2
+Seletracetam,CYP3A4
+KOS-1584,CYP3A4
+Dovitinib,CYP1A1
+Dovitinib,CYP1A2
+Dovitinib,UGT1A3
+Dovitinib,UGT2B7
+Dovitinib,CYP2C19
+Dovitinib,CYP3A4
+Obeticholic acid,CYP1A2
+Cariprazine,CYP3A4
+Cariprazine,CYP2D6
+Lumateperone,AKR1E2
+Lumateperone,AKR1D1
+Lumateperone,AKR1A1
+Lumateperone,AKR1B10
+Lumateperone,AKR1B15
+Lumateperone,AKR1C1
+Lumateperone,AKR1C2
+Lumateperone,AKR1C3
+Lumateperone,AKR1C4
+Lumateperone,AKR1B1
+Lumateperone,CYP3A4
+Lumateperone,CYP2C8
+Lumateperone,CYP1A2
+Lumateperone,UGT1A1
+Lumateperone,UGT1A4
+Lumateperone,UGT2B15
+Lumateperone,AKR1C1
+Lumateperone,AKR1B10
+Lumateperone,AKR1C4
+AB192,MPO
+Cenobamate,UGT2B7
+Cenobamate,UGT2B4
+Cenobamate,CYP2E1
+Cenobamate,CYP2A6
+Cenobamate,CYP2B6
+Cenobamate,CYP2C19
+Cenobamate,CYP3A4
+Cenobamate,CYP3A5
+Cenobamate,CYP2C8
+Sertindole,CYP2D6
+Sertindole,CYP3A4
+Sulfathiazole,CYP19A1
+Mianserin,CYP2D6
+Mianserin,CYP3A4
+Mianserin,CYP1A2
+Mianserin,CYP2B6
+Sulfadimethoxine,CYP2C9
+Nylidrin,COMT
+Nylidrin,CYP3A4
+Pizotifen,UGT2B10
+Pentaerythritol tetranitrate,GUCY1A2
+Pentaerythritol tetranitrate,NOS3
+Pentaerythritol tetranitrate,ALDH2
+Rimonabant,CYP3A4
+Garenoxacin,CYP1A2
+Noscapine,CYP2C9
+Noscapine,CYP3A4
+Romidepsin,CYP3A4
+Romidepsin,CYP3A5
+Romidepsin,CYP1A1
+Romidepsin,CYP2B6
+Romidepsin,CYP2C19
+Seliciclib,PTGS2
+Rufinamide,CES1
+Rufinamide,CYP2E1
+Rufinamide,CYP3A4
+Alogliptin,CYP3A4
+Alogliptin,CYP2D6
+Tapentadol,CYP2D6
+Tapentadol,CYP2C9
+Tapentadol,CYP2C19
+Tapentadol,UGT1A9
+Tapentadol,UGT2B7
+Silodosin,CYP3A4
+Silodosin,UGT2B7
+Prasugrel,CES2
+Prasugrel,CYP3A4
+Prasugrel,CYP2B6
+Prasugrel,CYP2C9
+Prasugrel,CYP2C19
+Eltrombopag,CYP2C8
+Eltrombopag,CYP1A2
+Eltrombopag,UGT1A1
+Eltrombopag,UGT1A3
+Eltrombopag,UGT1A9
+Doripenem,DPEP1
+Tolvaptan,CYP3A4
+Asenapine,UGT1A4
+Asenapine,CYP1A2
+Asenapine,CYP2D6
+Asenapine,CYP3A4
+Vernakalant,CYP2D6
+Lacosamide,CYP2C19
+Lacosamide,CYP2C9
+Lacosamide,CYP3A4
+Rivaroxaban,CYP3A4
+Rivaroxaban,CYP2J2
+Rivaroxaban,CYP3A5
+Nalmefene,UGT2B7
+Nalmefene,UGT1A3
+Nalmefene,UGT1A8
+Ridaforolimus,CYP3A4
+Vadimezan,UGT1A9
+Vadimezan,UGT2B7
+Vadimezan,CYP1A2
+Avanafil,CYP3A4
+Droxidopa,DDC
+Amrubicin,POR
+Amrubicin,CBR1
+Tolperisone,CYP1A2
+Udenafil,CYP3A5
+Udenafil,CYP3A4
+Sitaxentan,CYP3A4
+Sitaxentan,CYP2C9
+Sitaxentan,CYP2C19
+Tocilizumab,CYP3A4
+Torcetrapib,CYP11B2
+Levocetirizine,CYP3A4
+Ziconotide,CYP3A4
+Temsirolimus,CYP3A5
+Temsirolimus,CYP3A4
+Temsirolimus,CYP3A7
+Temsirolimus,CYP2D6
+Simeprevir,CYP1A2
+Simeprevir,CYP3A4
+Dapagliflozin,CYP1A1
+Dapagliflozin,CYP1A2
+Dapagliflozin,CYP2A6
+Dapagliflozin,CYP2C9
+Dapagliflozin,CYP2D6
+Dapagliflozin,CYP3A4
+Dapagliflozin,UGT1A9
+Dapagliflozin,UGT2B4
+Dapagliflozin,UGT2B7
+AVE9633,CYP3A4
+Saxagliptin,CYP3A4
+Saxagliptin,CYP3A5
+Coltuximab ravtansine,CYP3A4
+Indisulam,CYP2C9
+Indisulam,CYP3A4
+Indisulam,CYP2E1
+Indisulam,CYP2D6
+Bazedoxifene,UGT1A4
+Bazedoxifene,UGT1A8
+Bazedoxifene,UGT1A10
+Ambrisentan,CYP3A4
+Ambrisentan,CYP2C19
+Ambrisentan,UGT1A9
+Ambrisentan,UGT2B7
+Ambrisentan,UGT1A3
+Ambrisentan,CYP3A5
+Doxercalciferol,CYP27A1
+Oxymetholone,MAOA
+Oxymetholone,CYP2D6
+Oxymetholone,SRD5A1
+Oxymetholone,CYP3A4
+Oxymetholone,CYP3A5
+Oxymetholone,CYP3A7
+Oxymetholone,CYP3A43
+Armodafinil,CYP2C19
+Armodafinil,CYP3A4
+Armodafinil,CYP3A5
+Armodafinil,CYP1A2
+Armodafinil,CYP2B6
+Armodafinil,CYP2C9
+Etravirine,CYP3A4
+Etravirine,CYP2C9
+Etravirine,CYP2C19
+Cethromycin,CYP3A5
+Cethromycin,CYP3A4
+Endostatin,CYP19A1
+Tezacitabine,TYMP
+Semaxanib,PTGS2
+Avasimibe,CYP1A2
+Avasimibe,CYP3A4
+Avasimibe,CYP2C9
+Avasimibe,CYP2C19
+Dotarizine,CYP3A4
+Remacemide,CYP3A4
+Cariporide,MPO
+Lestaurtinib,CYP3A4
+Clomethiazole,CYP2A6
+Clomethiazole,CYP2B6
+Clomethiazole,CYP2C19
+Clomethiazole,CYP3A4
+Porfiromycin,XDH
+Propentofylline,CYP1A2
+Prucalopride,CYP3A4
+Repinotan,CYP2D6
+Muraglitazar,CYP1A2
+Muraglitazar,UGT1A3
+Muraglitazar,UGT1A1
+Muraglitazar,CYP2C8
+Deramciclane,CYP2D6
+Mitemcinal,CYP3A4
+Pazopanib,CYP3A4
+Pazopanib,CYP2D6
+Pazopanib,CYP2C8
+Pazopanib,CYP1A2
+Agomelatine,CYP1A2
+Agomelatine,CYP2C9
+Midostaurin,CYP3A4
+Midostaurin,CYP3A43
+Midostaurin,CYP3A5
+Midostaurin,CYP3A7
+Midostaurin,CYP1A2
+Midostaurin,CYP2B6
+Midostaurin,CYP2C8
+Midostaurin,CYP2C9
+Midostaurin,CYP2C19
+Midostaurin,CYP2D6
+Midostaurin,CYP2E1
+Midostaurin,CYP3A4
+Midostaurin,CYP3A5
+Midostaurin,CYP3A7
+Midostaurin,CYP3A43
+Nemonoxacin,CYP1A2
+Panobinostat,CYP2D6
+Panobinostat,CYP3A4
+Apixaban,CYP3A4
+Apixaban,CYP1A2
+Apixaban,CYP2C8
+Apixaban,CYP2C9
+Apixaban,CYP2C19
+Apixaban,CYP2J2
+Apixaban,CYP3A5
+Tafenoquine,CYP2D6
+Tafenoquine,PF3D7_0623200
+Bosutinib,CYP3A4
+Bosutinib,CYP2C8
+Axitinib,CYP3A4
+Axitinib,CYP3A5
+Axitinib,CYP1A2
+Axitinib,CYP2C19
+Axitinib,UGT1A1
+Isavuconazonium,CYP3A4
+Dalfampridine,CYP2E1
+Vicriviroc,CYP3A5
+Vicriviroc,CYP3A4
+Vicriviroc,CYP2C9
+Safinamide,MAOA
+Safinamide,CYP3A4
+Safinamide,CYP1A1
+Safinamide,CYP1A2
+Safinamide,CYP2B6
+Safinamide,CYP2C9
+Safinamide,CYP2D6
+Safinamide,CYP2C19
+Safinamide,CYP2E1
+Safinamide,CYP3A5
+Liraglutide,DPP4
+Liraglutide,MME
+Pasireotide,CYP3A4
+Odanacatib,CYP3A4
+Odanacatib,CYP2C8
+Esmirtazapine,CYP2D6
+Vilazodone,CYP3A4
+Vilazodone,CYP2D6
+Vilazodone,CYP2C19
+Laquinimod,CYP3A4
+Mepyramine,CYP2D6
+Aprotinin,BCHE
+Mevastatin,CES1
+Dabigatran etexilate,CES1
+Dabigatran etexilate,CES2
+Dabigatran etexilate,UGT1A9
+Dabigatran etexilate,UGT2B7
+Dabigatran etexilate,UGT2B15
+Dabigatran etexilate,NQO2
+Artemether,CYP3A4
+Artemether,CYP3A5
+Artemether,CYP2B6
+Artemether,CYP2C9
+Artemether,CYP2C19
+Desvenlafaxine,CYP3A4
+Desvenlafaxine,CYP2D6
+Fesoterodine,CYP3A4
+Fesoterodine,CYP2D6
+Lumefantrine,CYP3A4
+Lumefantrine,CYP2D6
+Methyltestosterone,CYP2B6
+Methyltestosterone,CYP3A4
+Methyltestosterone,CYP19A1
+Nilvadipine,CYP3A4
+Nilvadipine,CYP2A6
+Nilvadipine,CYP2C19
+Nilvadipine,CYP2C8
+Nilvadipine,CYP2E1
+Norelgestromin,STS
+Norelgestromin,CYP3A4
+Fospropofol,ALPL
+Fosaprepitant,CYP3A4
+Fosaprepitant,CYP2C9
+Buserelin,CYP19A1
+Lornoxicam,CYP2C9
+Bufuralol,CYP2D6
+Sparteine,CYP2D6
+Aniline,CYP2E1
+Sulfaphenazole,CYP2C9
+Sulfaphenazole,CYP2B6
+Sulfaphenazole,CYP2C8
+Sulfaphenazole,CYP2D6
+Gestodene,CYP3A5
+Gestodene,CYP3A7
+Gestodene,CYP3A4
+Gestodene,CYP2C19
+Seproxetine,CYP3A5
+Seproxetine,CYP3A7
+Seproxetine,CYP2C9
+Seproxetine,CYP2C19
+Seproxetine,CYP3A4
+beta-Naphthoflavone,CYP1A2
+Enclomiphene,CYP2D6
+Aceclofenac,CYP2C9
+Zaltoprofen,UGT2B7
+Zaltoprofen,CYP2C9
+Zaltoprofen,PTGS1
+Ketobemidone,PTGS1
+Ketobemidone,CYP2C9
+Ketobemidone,CYP3A4
+Ketobemidone,UGT1A9
+Ketobemidone,CYP2B6
+Ketobemidone,CYP2C19
+Ketobemidone,CYP2C8
+Seratrodast,CYP2C9
+Seratrodast,CYP3A4
+Seratrodast,CYP2C8
+Seratrodast,CYP2C19
+Seratrodast,CYP2B6
+Seratrodast,UGT1A9
+Seratrodast,PTGS1
+Seratrodast,CYP2A6
+Gavestinel,UGT1A1
+Gavestinel,UGT1A3
+Gavestinel,UGT1A9
+Gavestinel,UGT2B4
+Ambroxol,CYP3A4
+Beta carotene,BCO1
+Glycine betaine,BCHE
+Glycine betaine,PRODH
+Manganese,ACO1
+Pinacidil,CYP3A4
+Bendamustine,CYP1A2
+Benzyl alcohol,CYP2C8
+Benzyl alcohol,CYP1A1
+Benzyl alcohol,ALDH2
+Benzyl alcohol,CYP1A2
+Benzyl alcohol,CYP2E1
+Benzyl alcohol,CYP2D6
+Besifloxacin,CYP1A2
+Cabazitaxel,CYP3A4
+Cabazitaxel,CYP3A5
+Cabazitaxel,CYP2C8
+Human calcitonin,NAGLU
+Human calcitonin,ANPEP
+Human calcitonin,PGM1
+Capsaicin,CYP3A4
+Capsaicin,PTGS2
+Capsaicin,MPO
+Capsaicin,CYP1A2
+Capsaicin,CYP2E1
+Capsaicin,MAOA
+Capsaicin,DBH
+Capsaicin,GLUL
+Capsaicin,BCHE
+Chenodeoxycholic acid,CYP27A1
+Chenodeoxycholic acid,CYP3A4
+Chenodeoxycholic acid,UGT2B7
+Cupric sulfate,PAH
+Cupric sulfate,LOX
+Cupric sulfate,MT-CO1
+Dalteparin,HPSE
+Desoxycorticosterone acetate,CYP3A4
+Difluprednate,CYP3A4
+Halcinonide,CYP3A4
+Hydroxyprogesterone caproate,CYP3A4
+Hydroxyprogesterone caproate,CYP3A5
+Hydroxyprogesterone caproate,CYP2C19
+Lanreotide,CYP3A4
+Mangafodipir,SOD2
+Niclosamide,CYP2C9
+Niclosamide,CYP1A2
+Nonoxynol-9,PTGS2
+Pralatrexate,FPGS
+Raltegravir,UGT1A1
+Phenylbutyric acid,CYP2D6
+Sulconazole,CYP1A2
+Sulconazole,CYP2C9
+Sulconazole,CYP2D6
+Tinzaparin,ADAMTS4
+Tiopronin,MPO
+Brefeldin A,CYP3A4
+Chloramphenicol succinate,CAT3
+Tranilast,CYP3A4
+Tranilast,CYP2C9
+Parecoxib,CYP3A4
+Parecoxib,CYP2C9
+(R)-warfarin,CYP2C8
+(R)-warfarin,CYP2C9
+(R)-warfarin,CYP2C18
+(R)-warfarin,CYP2C19
+(R)-warfarin,CYP1A2
+(R)-warfarin,CYP1A1
+(R)-warfarin,CYP3A4
+Capravirine,CYP3A4
+Capravirine,CYP2C8
+Capravirine,CYP2C9
+Capravirine,CYP2C19
+Ethyl biscoumacetate,GLUL
+Ethyl biscoumacetate,CYP3A4
+Sulfamoxole,CYP2C9
+Nandrolone decanoate,CYP19A1
+Nandrolone decanoate,MAOB
+Nandrolone decanoate,MAOA
+Bopindolol,CYP2D6
+Bupranolol,CYP2D6
+Tofisopam,CYP3A4
+Lurasidone,CYP3A4
+Ticagrelor,CYP3A4
+Ticagrelor,CYP2D6
+Ticagrelor,CYP2C9
+Tafluprost,PTGS2
+Ivacaftor,CYP3A4
+Ivacaftor,CYP3A5
+Deferiprone,UGT1A6
+Lomitapide,CYP3A4
+Vismodegib,CYP2C9
+Vismodegib,CYP3A4
+Vismodegib,CYP2C8
+Vismodegib,CYP2C19
+Taurochenodeoxycholic acid,CYP3A4
+Tauroursodeoxycholic acid,CYP3A1
+Tauroursodeoxycholic acid,CYP3A2
+Tauroursodeoxycholic acid,CYP2A1
+Tauroursodeoxycholic acid,CYP2A2
+Tauroursodeoxycholic acid,CYP2B1
+Tauroursodeoxycholic acid,CYP2B2
+Tauroursodeoxycholic acid,CYP2B9
+Agmatine,CYP3A4
+N-methylnicotinamide,AOX1
+Ellagic acid,CYP1A1
+Ellagic acid,CYP2E1
+Pitavastatin,UGT2B7
+Pitavastatin,UGT1A3
+Pitavastatin,CYP2C9
+Pitavastatin,CYP2C8
+Rilpivirine,CYP3A4
+Rilpivirine,CYP2C19
+Rilpivirine,CYP2B6
+Rilpivirine,CYP2D6
+Crizotinib,CYP3A4
+Crizotinib,CYP3A5
+Crizotinib,CYP2B6
+Crizotinib,CYP3A4
+Crizotinib,CYP3A43
+Crizotinib,CYP3A5
+Crizotinib,CYP3A7
+Ulipristal,CYP3A4
+Ulipristal,CYP1A2
+Fingolimod,SPHK1
+Fingolimod,CYP2E1
+Fingolimod,CYP4F2
+Brentuximab vedotin,CYP3A4
+Boceprevir,CYP3A4
+Boceprevir,CYP3A5
+Fidaxomicin,CYP3A4
+Cabozantinib,CYP3A4
+Cabozantinib,CYP2C9
+Cabozantinib,CYP2C8
+Ruxolitinib,CYP3A4
+Aminopterin,DHFR
+Teriflunomide,CYP2C8
+Teriflunomide,CYP1A2
+Vemurafenib,CYP1A2
+Vemurafenib,CYP2D6
+Vemurafenib,CYP3A4
+Vemurafenib,CYP2C9
+Vemurafenib,CYP2C8
+Vemurafenib,CYP2B6
+Linagliptin,CYP3A4
+Perampanel,CYP3A4
+Perampanel,CYP3A5
+Perampanel,CYP1A2
+Perampanel,CYP2B6
+Mirabegron,CYP3A4
+Mirabegron,CYP2D6
+Mirabegron,BCHE
+Tofacitinib,CYP3A4
+Tofacitinib,CYP2C19
+Regorafenib,CYP3A4
+Regorafenib,UGT1A9
+Regorafenib,CYP2C8
+Regorafenib,CYP2C9
+Regorafenib,CYP2B6
+Regorafenib,UGT1A1
+Aclidinium,BCHE
+Enzalutamide,CYP2C8
+Enzalutamide,CYP3A4
+Enzalutamide,CYP2C9
+Enzalutamide,CYP2C19
+Enzalutamide,CYP2B6
+Enzalutamide,CYP3A5
+Ponatinib,CYP3A4
+Ponatinib,CYP2C8
+Ponatinib,CYP2D6
+Ponatinib,CYP3A5
+Bedaquiline,CYP3A4
+Certolizumab pegol,AKR1A1
+Formestane,CYP3A4
+Fluticasone furoate,CYP3A4
+Fluticasone furoate,CYP3A5
+Fluticasone furoate,CYP3A7
+Fluticasone furoate,CYP2C8
+Canagliflozin,UGT1A9
+Canagliflozin,UGT2B4
+Canagliflozin,CYP3A4
+Glycerol phenylbutyrate,PNLIP
+Glycerol phenylbutyrate,CYP3A4
+Glycerol phenylbutyrate,CYP2D6
+Pomalidomide,CYP1A2
+Pomalidomide,CYP3A4
+Trametinib,CYP2C8
+Trametinib,CYP3A4
+Dabrafenib,CYP3A4
+Dabrafenib,CYP2C8
+Dabrafenib,CYP2B6
+Dabrafenib,CYP2C9
+Levomilnacipran,CYP3A4
+Levomilnacipran,CYP2C8
+Levomilnacipran,CYP2C19
+Levomilnacipran,CYP2D6
+Levomilnacipran,CYP2J2
+Perospirone,CYP3A4
+Perospirone,CYP2D6
+Perospirone,CYP2C8
+Perospirone,CYP1A1
+Dolutegravir,UGT1A1
+Dolutegravir,CYP3A4
+Dolutegravir,CYP3A43
+Dolutegravir,CYP3A5
+Dolutegravir,CYP3A7
+Dolutegravir,UGT1A3
+Dolutegravir,UGT1A9
+Riociguat,CYP1A1
+Riociguat,CYP3A4
+Riociguat,CYP2C8
+Riociguat,CYP2J2
+Macitentan,CYP3A4
+Macitentan,CYP2C19
+Luliconazole,CYP3A4
+Luliconazole,CYP2C19
+Sofosbuvir,CTSA
+Sofosbuvir,CES1A1
+Sofosbuvir,HINT1
+Sofosbuvir,CMPK1
+Sofosbuvir,NME1
+Inositol nicotinate,ATP5F1B
+Inositol nicotinate,DGAT2
+Indenolol,CYP2D6
+Indalpine,CYP3A4
+Glibornuride,CYP2C9
+Fluprednidene,CYP3A4
+Fluprednidene,CYP3A5
+Fluocortolone,CYP3A4
+Fluocortolone,CYP3A5
+Flumequine,CYP1A2
+Fendiline,CYP3A4
+Eperisone,CYP3A4
+Befunolol,CYP2D6
+Brotizolam,CYP3A4
+Aliskiren,CYP3A4
+Vorapaxar,CYP3A4
+Vorapaxar,CYP2J2
+Miltefosine,PLD1
+Suvorexant,CYP3A4
+Siltuximab,CYP3A4
+Eliglustat,CYP2D6
+Eliglustat,CYP3A4
+Netupitant,CYP3A43
+Netupitant,CYP2C9
+Netupitant,CYP2D6
+Netupitant,CYP3A4
+Naloxegol,CYP3A4
+Naloxegol,CYP2D6
+Naloxegol,CYP2C19
+Ibrutinib,CYP3A4
+Ibrutinib,CYP3A5
+Ibrutinib,CYP2D6
+Idelalisib,AOX1
+Idelalisib,CYP2C8
+Idelalisib,CYP2C19
+Idelalisib,CYP2B6
+Idelalisib,CYP3A4
+Idelalisib,CYP3A5
+Idelalisib,CYP3A43
+Idelalisib,CYP3A7
+Idelalisib,UGT1A4
+Cannabidiol,CYP2C9
+Cannabidiol,CYP2C19
+Cannabidiol,CYP2D6
+Cannabidiol,CYP3A4
+Cannabidiol,CYP3A5
+Cannabidiol,AANAT
+Cannabidiol,CYP1A1
+Cannabidiol,FAAH
+Cannabidiol,ALOX5
+Cannabidiol,ALOX15
+Cannabidiol,CRYZ
+Ceritinib,CYP2C9
+Ceritinib,CYP3A4
+Cobicistat,CYP2D6
+Cobicistat,CYP3A4
+Cobicistat,CYP3A5
+Cobicistat,CYP3A7
+Cobicistat,CYP3A43
+Vortioxetine,CYP2D6
+Vortioxetine,CYP3A4
+Vortioxetine,CYP3A5
+Vortioxetine,CYP2C19
+Vortioxetine,CYP2C9
+Vortioxetine,CYP2A6
+Vortioxetine,CYP2C8
+Vortioxetine,CYP2B6
+Tibolone,STS
+Tibolone,HSD3B1
+Tibolone,HSD3B2
+Tibolone,SULT1A1
+Tasimelteon,CYP3A4
+Tasimelteon,CYP1A2
+Sodium oxybate,ALDH5A1
+Sodium oxybate,ADHFE1
+Palbociclib,CYP3A4
+Palbociclib,SULT2A1
+Olaparib,CYP3A4
+Olaparib,CYP2B6
+Olaparib,CYP3A5
+Umeclidinium,CYP2D6
+Lenvatinib,CYP3A4
+Lenvatinib,AOX1
+Lenvatinib,CYP2C8
+Lenvatinib,CYP2C9
+Lenvatinib,CYP1A2
+Lenvatinib,CYP2B6
+Lenvatinib,CYP2C19
+Lenvatinib,CYP2D6
+Nintedanib,UGT1A1
+Nintedanib,UGT1A7
+Nintedanib,UGT1A8
+Nintedanib,UGT1A10
+Nintedanib,CYP3A4
+Olodaterol,CYP2C9
+Olodaterol,CYP2C8
+Vilanterol,CYP3A4
+Ivabradine,CYP3A4
+Trimebutine,CYP3A4
+Pinaverium,CYP3A4
+Difluocortolone,CYP3A4
+Difluocortolone,CYP3A5
+Somatostatin,CYP3A4
+"Thyroid, porcine",DIO1
+"Thyroid, porcine",DIO2
+"Thyroid, porcine",DIO3
+"Thyroid, porcine",SULT1A1
+"Thyroid, porcine",SULT1A2
+"Thyroid, porcine",SULT1A3
+"Thyroid, porcine",SULT1B1
+"Thyroid, porcine",SULT1C2
+"Thyroid, porcine",SULT1E1
+Elvitegravir,CYP3A4
+Elvitegravir,UGT1A4
+Daclatasvir,CYP3A5
+Daclatasvir,CYP3A4
+Daclatasvir,CYP3A43
+Daclatasvir,CYP3A7
+Coenzyme M,GSR
+Calcium carbimide,CAT
+Paraldehyde,ALDH2
+Stiripentol,CYP2C19
+Stiripentol,CYP2D6
+Stiripentol,CYP3A4
+Stiripentol,CYP1A2
+Stiripentol,CYP2C9
+Eslicarbazepine acetate,CYP2C19
+Eslicarbazepine acetate,CYP3A4
+Eslicarbazepine acetate,UGT1A1
+Zucapsaicin,CYP1A2
+Zucapsaicin,CYP2C19
+Zucapsaicin,CYP2C9
+Zucapsaicin,CYP2E1
+Peginterferon beta-1a,CYP1A2
+Dienogest,CYP3A4
+Medrogestone,CYP3A4
+Brexpiprazole,CYP2D6
+Brexpiprazole,CYP3A4
+Copper,SOD1
+Copper,AOC1
+Copper,LOX
+Copper,MT-CO1
+Copper,TYR
+Copper,DBH
+Copper,PAM
+Copper,MAOA
+Copper,MAOB
+Copper,ANG
+Copper,PRNP
+Sonidegib,CYP3A4
+Florbetaben (18F),CYP2J2
+Florbetaben (18F),CYP4F2
+Etizolam,CYP3A4
+Etizolam,CYP2C18
+Etizolam,CYP2C19
+Dosulepin,CYP2D6
+Dosulepin,CYP1A2
+Dosulepin,CYP2C19
+Dosulepin,CYP2C9
+Butyrfentanyl,CYP3A4
+Butyrfentanyl,CYP2D6
+Dasabuvir,CYP2C8
+Dasabuvir,CYP3A4
+Dasabuvir,CYP2D6
+Dasabuvir,UGT1A4
+Viloxazine,CYP1A2
+Lorpiprazole,CYP2D6
+Lorpiprazole,CYP3A4
+Lobeglitazone,CYP1A2
+Lobeglitazone,CYP2C9
+Lobeglitazone,CYP2C19
+Lobeglitazone,CYP3A4
+Lobeglitazone,CYP2C8
+Netoglitazone,CYP3A4
+Netoglitazone,CYP2C8
+Rivoglitazone,CYP3A4
+Rivoglitazone,CYP2C8
+Ciglitazone,CYP3A4
+Ciglitazone,CYP2C8
+Arotinolol,CYP2D6
+Moxisylyte,BCHE
+Moxisylyte,CYP3A4
+Moxisylyte,CYP3A43
+Moxisylyte,CYP3A5
+Moxisylyte,CYP3A7
+Loxoprofen,CBR1
+Loxoprofen,CYP3A4
+Loxoprofen,CYP3A43
+Loxoprofen,CYP3A5
+Loxoprofen,CYP3A7
+Loxoprofen,UGT2B7
+Dexibuprofen,CYP2C8
+Dexibuprofen,CYP2C9
+Dexibuprofen,UGT1A1
+Dexibuprofen,UGT1A3
+Dexibuprofen,UGT1A9
+Dexibuprofen,UGT2B4
+Dexibuprofen,CYP2C19
+Dexibuprofen,AMACR
+Dexibuprofen,UGT2B7
+Dexketoprofen,PTGS1
+Dexketoprofen,PTGS2
+Tolfenamic acid,CYP3A4
+Polaprezinc,SOD1
+Polaprezinc,HMOX1
+Polaprezinc,SOD2
+Polaprezinc,GSTT1
+Polaprezinc,GPX1
+Polaprezinc,PRDX1
+Polaprezinc,PRDX5
+Blonanserin,CYP3A4
+Melperone,CYP2D6
+Zotepine,CYP1A2
+Zotepine,CYP3A4
+Barnidipine,CYP3A4
+Aranidipine,CYP3A4
+Azelnidipine,CYP3A4
+Benidipine,CYP3A4
+Benidipine,CYP3A5
+Cilnidipine,CYP3A4
+Darodipine,CYP3A4
+Efonidipine,CYP3A4
+Lacidipine,CYP3A4
+Levamlodipine,CYP3A4
+Levamlodipine,NOS2
+Levamlodipine,NOS3
+Manidipine,CYP2C9
+Manidipine,CYP2D6
+Manidipine,CYP1A1
+Manidipine,CYP2B6
+Manidipine,CYP2C19
+Manidipine,CYP3A4
+Niguldipine,CYP3A4
+Niludipine,CYP3A4
+Methylene blue,UGT1A4
+Methylene blue,UGT1A9
+Methylene blue,CYP1A2
+Methylene blue,CYP2B6
+Methylene blue,CYP2C8
+Methylene blue,CYP2C9
+Methylene blue,CYP2C19
+Methylene blue,CYP3A4
+Methylene blue,CYP3A5
+Methylene blue,BLVRB
+Methylene blue,CYP2D6
+Pirlindole,MAOA
+Toloxatone,MAOA
+Tegafur,CYP1A2
+Tegafur,CYP2C8
+Tegafur,CYP2A6
+Tegafur,CYP2E1
+Tegafur,CYP3A5
+Imidafenacin,CYP3A4
+Imidafenacin,UGT1A4
+Picosulfuric acid,ASST
+Phenylacetic acid,CES1
+Ubidecarenone,HMGCR
+Doxofylline,CYP1A2
+Artesunate,CYP2A6
+Artesunate,CYP3A4
+Sodium aurothiomalate,UGT1A1
+Lumacaftor,CYP3A4
+Lumacaftor,CYP2B6
+Lumacaftor,CYP2C8
+Lumacaftor,CYP2C9
+Lumacaftor,CYP2C19
+Molsidomine,GUCY1A2
+Molsidomine,PDE5A
+Morniflumate,ALOX5
+Morniflumate,PTGS2
+Morniflumate,UGT1A9
+Propacetamol,BCHE
+Propacetamol,CYP2E1
+Propacetamol,CYP1A2
+Propacetamol,CYP2D6
+Propacetamol,UGT1A1
+Propacetamol,UGT1A6
+Propacetamol,UGT1A9
+Propacetamol,UGT2B15
+Propacetamol,UGT1A10
+Propacetamol,SULT1A1
+Propacetamol,SULT1A3
+Propacetamol,SULT1E1
+Propacetamol,SULT2A1
+Propacetamol,NAT2
+Propacetamol,CYP2C9
+Propacetamol,CYP3A4
+Tianeptine,CYP3A4
+Ramosetron,CYP1A2
+Rolapitant,CYP2D6
+Rolapitant,CYP3A4
+Talniflumate,PTGS1
+Talniflumate,PTGS2
+Ombitasvir,CYP2C8
+Paritaprevir,CYP3A4
+Paritaprevir,CYP3A5
+Paritaprevir,UGT1A1
+Silibinin,UGT1A1
+Tenofovir alafenamide,CTSA
+Tenofovir alafenamide,CES1
+Tenofovir alafenamide,CYP3A4
+Tenofovir alafenamide,AK1
+Tenofovir alafenamide,AK2
+Tenofovir alafenamide,NME1
+Tenofovir alafenamide,NME2
+Chondroitin sulfate,GUSB
+Chondroitin sulfate,HEXB
+Chondroitin sulfate,GALNS
+Chondroitin sulfate,IDS
+Chondroitin sulfate,IDUA
+Chondroitin sulfate,ARSB
+Evolocumab,PCSK9
+Solithromycin,CYP3A4
+Kitasamycin,CYP3A4
+"Synthetic Conjugated Estrogens, A",CYP3A4
+"Synthetic Conjugated Estrogens, B",CYP3A4
+Zinc sulfate,ALPG
+Sodium fluoride,ENOPH1
+Sodium fluoride,ENO
+Sodium fluoride,ENO
+Sodium fluoride,ENO
+Ammonia N-13,NAGS
+Tegafur-uracil,CYP2A6
+Tegafur-uracil,DPYD
+Vayarin,CYP2E1
+Vayarin,FADS1
+Vayarin,ELOVL4
+Vayarin,ACOX1
+Osimertinib,CYP3A4
+Osimertinib,CYP1A2
+Kappadione,VKORC1
+Kappadione,POR
+Mersalyl,ITIH1
+Mersalyl,PCK1
+Tyropanoic acid,GUSB
+"Dextrose, unspecified form",HK1
+"Dextrose, unspecified form",GCK
+Propoxycaine,CES1
+Invert sugar,GCK
+Invert sugar,PFKA
+Levobetaxolol,CYP2D6
+Rauwolfia serpentina root,MAOA
+Rauwolfia serpentina root,MAOB
+Norethynodrel,CYP3A4
+Indocyanine green acid form,IDH1
+Indocyanine green acid form,GLS
+Fluprednisolone,CYP3A4
+Esterified estrogens,CYP3A4
+Meprednisone,CYP3A4
+Meprednisone,CYP3A5
+Norgestrel,CYP3A4
+Norgestrel,CYP19A1
+Sodium acetate,ACSS2
+Monopotassium phosphate,ALPI
+Insulin beef,CYP1A2
+L-tartaric acid,B3GAT1
+L-tartaric acid,HIF1AN
+Glycerin,ALDH1A1
+Glycerin,CYP2E1
+Strontium chloride Sr-89,ALPG
+Strontium chloride Sr-89,ALPL
+Thiosulfuric acid,TST
+Fludeoxyglucose (18F),HK1
+Omega-3-acid ethyl esters,SOAT1
+Dexchlorpheniramine maleate,CYP2D6
+Dexchlorpheniramine maleate,CYP3A4
+Insulin degludec,CYP1A2
+Omega-3-carboxylic acids,CYP3A4
+Omega-3-carboxylic acids,CYP3A43
+Omega-3-carboxylic acids,CYP3A5
+Omega-3-carboxylic acids,CYP3A7
+Omega-3-carboxylic acids,CYP4F2
+Ixazomib,CYP3A4
+Ixazomib,CYP1A2
+Ixazomib,CYP2B6
+Ixazomib,CYP2C8
+Ixazomib,CYP2D6
+Ixazomib,CYP2C19
+Ixazomib,CYP2C9
+Levmetamfetamine,PNMT
+Polyethylene glycol 400,CYP4A11
+Polyethylene glycol 400,ADH5
+Polyethylene glycol 400,SULT1A1
+Potassium nitrate,ONR
+Hydrogen peroxide,GPX1
+Hydrogen peroxide,CAT
+Hydrogen peroxide,ALPG
+Vitamin D,CYP2R1
+Vitamin D,CYP27B1
+Vitamin D,CYP3A4
+Desirudin,CPA1
+Ammonia,GLS2
+Ammonia,GLUL
+Ammonia,CPS1
+Selenious acid,GPX1
+Selenious acid,TXNRD1
+Opium,CYP2D6
+Opium,CYP3A4
+Omega-3 fatty acids,PTGS2
+Omega-3 fatty acids,ALOX5
+Selenium,SCLY
+Selenium,GSR
+Selenium,TXNRD1
+Butamben,BCHE
+Triclocarban,CYP1A1
+Triclocarban,CYP1B1
+Pyrantel,CYP4A11
+Homatropine,CES1
+Rose bengal,LYZ
+Peppermint oil,CYP1A2
+Peppermint oil,CYP3A4
+Tocopherol,CYP4F2
+Tocopherol,CYP3A4
+Levomefolic acid,MTR
+Dihydroergocornine,CYP3A4
+Dihydro-alpha-ergocryptine,CYP3A4
+Prothrombin,F10
+Evening primrose oil,ELOVL5
+Evening primrose oil,FADS1
+Evening primrose oil,FADS2
+Selexipag,CES1
+Selexipag,CYP2C8
+Selexipag,CYP3A4
+Cefroxadine,BLAZ
+Carbomycin,CYP3A4
+Doramectin,CYP3A4
+Enrofloxacin,CYP1A2
+Eprinomectin,CYP3A4
+Moxidectin,CYP2B
+Oleandomycin,CYP3A4
+Orbifloxacin,CYP1A2
+Pimobendan,CYP1A2
+Selamectin,CYP3A4
+Tildipirosin,CYP3A4
+Tilmicosin,CYP3A4
+Tylosin,CYP3A4
+Dexamethasone isonicotinate,CYP3A4
+Dexamethasone isonicotinate,CYP3A5
+Sarafloxacin,CYP1A2
+Difloxacin,CYP1A2
+Difloxacin,CYP1A1
+Melengestrol,CYP3A4
+Tylvalosin,CYP3A4
+Lesinurad,CYP2C9
+Lesinurad,CYP3A4
+Insulin peglispro,CYP1A2
+Insulin tregopil,CYP1A2
+Elbasvir,CYP3A4
+Elbasvir,CYP3A5
+Elbasvir,CYP3A7
+Elbasvir,CYP3A43
+Grazoprevir,CYP3A4
+Venetoclax,CYP3A4
+Asunaprevir,CYP3A4
+Asunaprevir,CYP3A5
+Asunaprevir,CYP2A6
+Asunaprevir,CYP2B6
+Asunaprevir,CYP2C9
+Asunaprevir,CYP2C19
+Asunaprevir,CYP2D6
+Thimerosal,GSR
+Thimerosal,GPX1
+Thimerosal,SOD2
+Myrrh,CYP3A4
+Myrrh,CYP3A43
+Myrrh,CYP3A5
+Myrrh,CYP3A7
+Lifitegrast,CYP2C9
+Velpatasvir,CYP2B6
+Velpatasvir,CYP2C8
+Velpatasvir,CYP3A4
+Rupatadine,CYP3A4
+Rupatadine,CYP2C9
+Rupatadine,CYP2C19
+Rupatadine,CYP2D6
+Gestrinone,CYP3A4
+Opicapone,CYP2C19
+Opicapone,CYP2C8
+Isavuconazole,CYP3A4
+Isavuconazole,CYP3A5
+Isavuconazole,CYP2C8
+Isavuconazole,CYP2C9
+Isavuconazole,CYP2C19
+Isavuconazole,CYP2D6
+Isavuconazole,CYP2B6
+Isavuconazole,UGT1A9
+Isavuconazole,UGT1A8
+Tocofersolan,CYP4F2
+Tocofersolan,CYP3A4
+Nomegestrol,CYP3A4
+Delamanid,DDN
+Delamanid,CYP3A4
+Artenimol,UGT1A9
+Artenimol,UGT2B7
+Artenimol,CYP2D6
+Artenimol,CYP2C19
+Amifampridine,NAT1
+Amifampridine,NAT2
+Vinflunine,CYP3A4
+Pitolisant,CYP2D6
+Pitolisant,CYP1A2
+Pitolisant,CYP2B6
+Pitolisant,CYP3A4
+Tucatinib,CYP2C8
+Tucatinib,CYP3A4
+Tucatinib,CYP3A43
+Tucatinib,CYP3A5
+Tucatinib,CYP3A7
+Tucatinib,ERBB2
+Curcumin,CYP2C9
+Curcumin,CYP3A4
+Curcumin,CYP2B6
+Curcumin,CYP1A2
+Curcumin,CYP2D6
+Curcumin,GSTA1
+Curcumin,GSTM1
+Curcumin,GSTP1
+Selumetinib,CYP2C19
+Selumetinib,CYP3A4
+Selumetinib,CYP2C9
+Selumetinib,CYP1A2
+Selumetinib,CYP2C8
+Selumetinib,CYP2E1
+Selumetinib,CYP3A5
+Selumetinib,UGT1A1
+Selumetinib,UGT1A3
+Naldemedine,CYP3A4
+Naldemedine,CYP3A43
+Naldemedine,CYP3A5
+Naldemedine,CYP3A7
+Naldemedine,UGT1A3
+Acalabrutinib,CYP3A4
+Acalabrutinib,CYP3A5
+Acalabrutinib,CYP3A4
+Acalabrutinib,CYP3A43
+Acalabrutinib,CYP3A5
+Acalabrutinib,CYP3A7
+Tezacaftor,CYP3A4
+Tezacaftor,CYP3A5
+Encorafenib,CYP3A4
+Encorafenib,CYP2C19
+Encorafenib,CYP2D6
+Ribociclib,CYP3A4
+Lasmiditan,CYP2D6
+Icotinib,CYP3A4
+Icotinib,CYP1A2
+Icotinib,CYP3A5
+Ebastine,CYP3A4
+Clobetasol,CYP3A4
+Clobetasol,CYP3A5
+Bryostatin 1,CYP3A4
+Rifamycin,CYP3A4
+Rifamycin,CYP2C19
+Rifamycin,CYP2B6
+Rifamycin,CYP2C8
+Rifamycin,CYP2C9
+Rifamycin,CYP1A2
+Istradefylline,CYP1A1
+Istradefylline,CYP3A4
+Istradefylline,CYP3A5
+Istradefylline,CYP3A4
+Istradefylline,CYP3A43
+Istradefylline,CYP3A5
+Istradefylline,CYP3A7
+Istradefylline,CYP1A2
+Istradefylline,CYP2B6
+Istradefylline,CYP2C8
+Istradefylline,CYP2C9
+Istradefylline,CYP2C18
+Istradefylline,CYP2D6
+Tenapanor,CYP3A4
+Tenapanor,CYP3A5
+Sarilumab,GPT
+Sarilumab,GPT2
+Sarilumab,GIG18
+Sarilumab,CYP3A4
+Talinolol,CYP2D6
+Pazufloxacin,CYP1A2
+Danoprevir,CYP3A4
+Anisodamine,CYP2D6
+Mirodenafil,CYP3A4
+Mirodenafil,CYP3A43
+Mirodenafil,CYP3A5
+Mirodenafil,CYP3A7
+Niraparib,CES1A1
+Niraparib,GUSB
+Bictegravir,CYP3A4
+Bictegravir,UGT1A1
+Bictegravir,POU2F2
+Bictegravir,SLC47A1
+Saracatinib,CYP3A4
+Baricitinib,CYP3A4
+Esketamine,CYP2B6
+Esketamine,CYP3A4
+Esketamine,CYP2C19
+Esketamine,CYP2C9
+Ertugliflozin,UGT1A9
+Ertugliflozin,UGT2B7
+Ertugliflozin,UGT1A1
+Ertugliflozin,UGT1A4
+Neratinib,CYP3A4
+Neratinib,FMO3
+Osilodrostat,CYP3A4
+Osilodrostat,CYP2B6
+Osilodrostat,CYP2D6
+Osilodrostat,UGT1A4
+Osilodrostat,UGT2B7
+Osilodrostat,UGT2B10
+Osilodrostat,CYP3A5
+Osilodrostat,CYP1A2
+Osilodrostat,CYP2C19
+Osilodrostat,CYP2E1
+Revefenacin,CYP2D6
+Brexanolone,AKR1B1
+Prulifloxacin,CYP1A2
+Apalutamide,CYP3A4
+Apalutamide,CYP2C8
+Apalutamide,CYP2C19
+Apalutamide,CYP2C9
+Valbenazine,CYP2D6
+Valbenazine,CYP3A4
+Valbenazine,CYP3A5
+6-O-benzylguanine,CYP3A4
+Deflazacort,CYP3A4
+Deflazacort,CYP3A5
+Bempedoic acid,SLC27A2
+Bempedoic acid,UGT2B7
+Bempedoic acid,ACSS2
+Bempedoic acid,NUAK2
+Selinexor,CYP3A4
+Delafloxacin,UGT1A1
+Delafloxacin,UGT1A3
+Delafloxacin,UGT2B15
+Delafloxacin,CYP2E1
+Delafloxacin,CYP2C9
+Delafloxacin,CYP3A4
+Lemborexant,CYP3A4
+Lemborexant,CYP3A5
+Lemborexant,CYP2B6
+Lemborexant,CYP3A4
+Lemborexant,CYP3A43
+Lemborexant,CYP3A5
+Lemborexant,CYP3A7
+Duvelisib,CYP3A4
+Carboxyamidotriazole,CYP3A4
+Dacomitinib,CYP2D6
+Dacomitinib,CYP3A4
+Dacomitinib,CYP2C9
+Dacomitinib,UGT1A1
+Binimetinib,UGT1A1
+Binimetinib,CYP1A2
+Binimetinib,CYP2C19
+Glasdegib,CYP3A4
+Glasdegib,CYP2C8
+Glasdegib,UGT1A9
+Elagolix,CYP3A4
+Elagolix,CYP3A43
+Elagolix,CYP3A5
+Elagolix,CYP3A7
+Elagolix,CYP2D6
+Elagolix,CYP2C8
+Entrectinib,CYP3A4
+Avatrombopag,CYP2C8
+Avatrombopag,CYP2C9
+Abemaciclib,CYP3A4
+Abemaciclib,CYP1A2
+Abemaciclib,CYP2B6
+Abemaciclib,CYP2C8
+Abemaciclib,CYP2C9
+Abemaciclib,CYP2D6
+Fostamatinib,CYP3A4
+Fostamatinib,UGT1A9
+Alpelisib,CYP3A4
+Alpelisib,CYP2C9
+Alpelisib,CYP2C8
+Alpelisib,CYP2C19
+Tecovirimat,UGT1A1
+Tecovirimat,UGT1A4
+Voxilaprevir,CYP3A4
+Voxilaprevir,CYP1A2
+Voxilaprevir,CYP2C8
+Letermovir,UGT1A1
+Letermovir,UGT1A3
+Letermovir,CYP2D6
+Letermovir,CYP2C8
+Letermovir,CYP2C19
+Letermovir,CYP2C9
+Letermovir,CYP2B6
+Letermovir,CYP3A4
+Letermovir,CYP3A5
+Letermovir,CYP3A7
+Letermovir,CYP3A43
+Lorvotuzumab mertansine,CYP3A4
+Naftopidil,CYP3A4
+Tetrahydropalmatine,CYP3A4
+Lorlatinib,CYP3A4
+Lorlatinib,CYP3A43
+Lorlatinib,CYP3A5
+Lorlatinib,CYP3A7
+Lorlatinib,CYP3A5
+Lorlatinib,CYP2B6
+Lorlatinib,CYP2C8
+Lorlatinib,CYP2C19
+Lorlatinib,UGT1A3
+Vinpocetine,CYP3A4
+Gilteritinib,CYP3A4
+Erdafitinib,CYP2C9
+Erdafitinib,CYP3A4
+Deutetrabenazine,CBR1
+Deutetrabenazine,CBR3
+Deutetrabenazine,CYP2D6
+Deutetrabenazine,CYP1A2
+Deutetrabenazine,CYP3A5
+Deutetrabenazine,CYP3A4
+Landiolol,CYP2D6
+Polatuzumab vedotin,CYP3A4
+Triclabendazole,CYP1A2
+Triclabendazole,CYP2C9
+Triclabendazole,CYP3A4
+Triclabendazole,CYP1A1
+Triclabendazole,CYP1B1
+Triclabendazole,CYP2C19
+Triclabendazole,CYP2D6
+Triclabendazole,CYP2A6
+Triclabendazole,CYP2C8
+Triclabendazole,CYP2B6
+Epofolate,CYP3A4
+Brigatinib,CYP2C8
+Brigatinib,CYP3A4
+Brigatinib,CYP3A4
+Brigatinib,CYP3A43
+Brigatinib,CYP3A5
+Brigatinib,CYP3A7
+Propiverine,CYP3A4
+Propiverine,FMO1
+Propiverine,FMO3
+Doravirine,CYP3A4
+Doravirine,CYP3A5
+Foretinib,CYP3A4
+Foretinib,CYP3A43
+Foretinib,CYP3A5
+Foretinib,CYP3A7
+Benzbromarone,CYP2C19
+Eravacycline,CYP3A4
+Eravacycline,MAOA
+Rucaparib,CYP2D6
+Rucaparib,CYP1A2
+Rucaparib,CYP3A4
+Rucaparib,CYP3A5
+Rucaparib,CYP3A7
+Rucaparib,CYP3A43
+Rucaparib,CYP2C19
+Rucaparib,CYP2C9
+Rucaparib,CYP2C8
+Rucaparib,UGT1A1
+Betrixaban,F2
+Siponimod,CYP3A4
+Siponimod,CYP2C9
+Sagopilone,CYP3A4
+Lisofylline,CYP1A2
+Rimegepant,CYP3A4
+Rimegepant,CYP2C9
+Favipiravir,AOX1
+Favipiravir,XDH
+Favipiravir,CYP2C8
+Favipiravir,CYP2E1
+Lynestrenol,CYP3A4
+Lynestrenol,CYP2C9
+Lynestrenol,CYP2C19
+Copanlisib,CYP3A4
+Copanlisib,CYP3A5
+Copanlisib,CYP3A7
+Copanlisib,CYP3A43
+Mirvetuximab Soravtansine,CYP3A4
+Fedratinib,CYP3A4
+Fedratinib,CYP2C19
+Fedratinib,FMO3
+Fedratinib,CYP2D6
+9-aminocamptothecin,CYP3A4
+Mizolastine,CYP2D6
+Oxetacaine,CYP3A4
+Benzodiazepine,CYP3A4
+Piperine,CYP3A4
+Ozanimod,ALDH3A2
+Ozanimod,ADH5
+Ozanimod,NAT2
+Ozanimod,CYP2C8
+Ozanimod,MAOB
+Ozanimod,AKR1C1
+Ozanimod,AKR1C2
+Ozanimod,CYP3A4
+"3,5-diiodothyropropionic acid",CYP3A4
+Ritanserin,CYP2D6
+Bucindolol,CYP2D6
+Balaglitazone,CYP3A4
+Balaglitazone,CYP2C8
+Trifarotene,CYP2C9
+Trifarotene,CYP3A4
+Trifarotene,CYP2C8
+Trifarotene,CYP2B6
+Cepeginterferon alfa-2B,CYP1A2
+Lefamulin,CYP3A4
+Gabexate,PRSS1
+Gabexate,C1S
+Gabexate,C1R
+Vonicog Alfa,ADAMTS13
+Tazemetostat,CYP3A4
+Tazemetostat,CYP3A43
+Tazemetostat,CYP3A5
+Tazemetostat,CYP3A7
+Tazemetostat,CYP3A4
+Gallopamil,CYP3A4
+Darolutamide,CYP3A4
+Darolutamide,UGT1A9
+Dihydralazine,CYP1A2
+Methylprednisone,CYP3A4
+Pexidartinib,CYP3A4
+Pexidartinib,UGT1A4
+Pexidartinib,CYP2B6
+Pexidartinib,CYP2C9
+Pexidartinib,UGT1A1
+Cortivazol,CYP3A4
+Cortivazol,CYP3A5
+Enfortumab vedotin,CYP3A4
+Macimorelin,CYP3A4
+Meclocycline,TETX2
+Lusutrombopag,CYP4A11
+Artemisinin,CYP2B6
+Von Willebrand Factor Human,ADAMTS13
+Fluindione,CYP2C9
+Fluindione,CYP3A4
+Levosalbutamol,CYP3A4
+Levosalbutamol,CYP2D6
+Ambroxol acefyllinate,CYP3A4
+Ambroxol acefyllinate,CYP3A43
+Ambroxol acefyllinate,CYP3A5
+Ambroxol acefyllinate,CYP3A7
+Anti-inhibitor coagulant complex,F2
+Anti-inhibitor coagulant complex,F7
+Anti-inhibitor coagulant complex,F8
+Anti-inhibitor coagulant complex,F9
+Anti-inhibitor coagulant complex,F5
+Esculin,GLS
+Clobetasone,CYP3A4
+Nusinersen,EXO
+Omega-6 fatty acids,FADS2
+Omega-6 fatty acids,FADS1
+Omega-6 fatty acids,PTGS2
+Omega-6 fatty acids,ALOX5
+Rhein,CYP1A2
+Rhein,CYP3A4
+Rhein,CYP3A43
+Rhein,CYP3A5
+Rhein,CYP3A7
+Rhein,CYP2E1
+Rhein,CYP2C9
+Rhein,CYP2D6
+Troleandomycin,CYP3A5
+Troleandomycin,CYP3A43
+Troleandomycin,CYP2C8
+Troleandomycin,CYP3A4
+Troleandomycin,CYP3A7
+Antihemophilic factor human,PROC
+Bamifylline,CYP1A2
+Prednylidene,CYP3A4
+Prednylidene,CYP3A5
+Ferrous sulfate anhydrous,CP
+Ferrous sulfate anhydrous,HAMP
+Ferrous sulfate anhydrous,TF
+Ferrous sulfate anhydrous,HEPH
+Ferrous sulfate anhydrous,CYBRD1
+Sitafloxacin,CYP1A2
+Clorindione,CYP3A4
+Miocamycin,CYP3A4
+Ipecac,CYP2D6
+Ipecac,CYP3A4
+Flurithromycin,CYP3A4
+Dihydroergocristine,CYP3A4
+Diphenadione,CYP3A4
+Dihydroergocryptine,CYP3A4
+Terguride,CYP3A4
+Carbutamide,CYP2C9
+Rokitamycin,CYP3A4
+Esatenolol,CYP2D6
+Proxyphylline,CYP1A2
+Midecamycin,CYP3A4
+Bencyclane,CYP3A4
+Otilonium,CYP3A4
+Cloranolol,CYP2D6
+Chlormadinone,CYP3A4
+Mepindolol,CYP2D6
+Acefylline,CYP1A2
+Etamiphylline,CYP1A2
+Promegestone,CYP3A4
+Umifenovir,CYP3A4
+Umifenovir,FMO3
+Umifenovir,FMO1
+Umifenovir,CYP2E1
+Umifenovir,CYP1A2
+Umifenovir,CYP2D6
+Umifenovir,CYP2C9
+Umifenovir,CYP3A5
+Umifenovir,UGT1A9
+Umifenovir,UGT2B7
+Potassium gluconate,FXYD2
+Oxolinic acid,CYP1A2
+Mepartricin,CYP3A4
+Pentifylline,CYP1A2
+Metahexamide,CYP2C9
+Dexchlorpheniramine,CYP2D6
+Quingestanol,CYP3A4
+Terodiline,CYP3A4
+Halometasone,CYP3A4
+Halometasone,CYP3A5
+Bioallethrin,CYP2C8
+Bioallethrin,CYP2C9
+Bioallethrin,CYP2C19
+Bioallethrin,CYP3A4
+Bioallethrin,CYP2A1
+Bioallethrin,CYP1A1
+Bioallethrin,CYP2C6
+Bioallethrin,CYP2C11
+Bioallethrin,CYP3A1
+Bioallethrin,CYP3A2
+Magnesium gluconate,CKB
+Magnesium gluconate,ABL1
+Magnesium gluconate,ATP5F1D
+Magnesium gluconate,ADCY1
+Magnesium gluconate,GUCY1A2
+Magnesium gluconate,PFKFB1
+Magnesium gluconate,PF3D7_1325100
+Magnesium gluconate,ATP1A1
+Epanolol,CYP2D6
+Dexrabeprazole,CYP2C19
+Lidoflazine,CYP3A4
+Rufloxacin,CYP1A2
+Tertatolol,CYP2D6
+Acemetacin,UGT2B7
+Penfluridol,CYP3A4
+Bufylline,CYP1A2
+Pipemidic acid,CYP1A2
+Caroverine,CYP3A4
+Cloprednol,CYP3A4
+Cloprednol,CYP3A5
+Fluorodopa (18F),DDC
+Demegestone,CYP3A4
+Etynodiol,CYP3A4
+Fluticasone,CYP3A4
+Fluticasone,CYP3A5
+Fluticasone,CYP3A7
+Fluticasone,CYP2C8
+Enasidenib,CYP1A2
+Enasidenib,CYP2B6
+Enasidenib,CYP2C8
+Enasidenib,CYP2C9
+Enasidenib,CYP2C19
+Enasidenib,CYP2D6
+Enasidenib,CYP3A4
+Enasidenib,UGT1A1
+Enasidenib,UGT1A3
+Enasidenib,UGT1A4
+Enasidenib,UGT1A9
+Enasidenib,UGT2B7
+Enasidenib,UGT2B15
+Pibrentasvir,CYP3A4
+Pibrentasvir,CYP3A43
+Pibrentasvir,CYP3A5
+Pibrentasvir,CYP3A7
+Pibrentasvir,UGT1A1
+Glecaprevir,CYP3A4
+Glecaprevir,CYP3A43
+Glecaprevir,CYP3A5
+Glecaprevir,CYP3A7
+Glecaprevir,UGT1A1
+Glecaprevir,CYP3A4
+Albutrepenonacog alfa,F8
+Crotalus atrox antivenin,PLA2G10
+Crotalus adamanteus antivenin,ENPP1
+Crotalus adamanteus antivenin,PLA2G10
+Candesartan,CYP2C8
+Candesartan,CYP2C9
+Candesartan,UGT1A3
+Candesartan,PTGS1
+Semaglutide,DPP4
+Semaglutide,MME
+Semaglutide,LPL
+Semaglutide,AMY1C
+Piperaquine,CYP3A4
+Piperaquine,CYP2C19
+Piperaquine,CYP2C9
+Piperaquine,CYP2B6
+Piperaquine,CYP2E1
+Testosterone cypionate,CYP3A4
+Testosterone cypionate,MAOA
+Testosterone cypionate,CYP11A1
+Testosterone cypionate,CYP3A5
+Testosterone cypionate,CYP3A7
+Testosterone cypionate,CYP1A1
+Testosterone cypionate,CYP2A13
+Testosterone cypionate,CYP2B6
+Testosterone cypionate,CYP2C19
+Testosterone cypionate,CYP2C8
+Testosterone cypionate,CYP2C9
+Testosterone cypionate,CYP3A43
+Testosterone cypionate,SRD5A1
+Testosterone cypionate,SRD5A2
+Testosterone cypionate,SRD5A3
+Testosterone cypionate,CYP19A1
+Testosterone enanthate,CYP3A4
+Testosterone enanthate,MAOA
+Testosterone enanthate,CYP11A1
+Testosterone enanthate,CYP3A5
+Testosterone enanthate,CYP3A7
+Testosterone enanthate,CYP1A1
+Testosterone enanthate,CYP2A13
+Testosterone enanthate,CYP2B6
+Testosterone enanthate,CYP2C19
+Testosterone enanthate,CYP2C8
+Testosterone enanthate,CYP2C9
+Testosterone enanthate,CYP3A43
+Testosterone enanthate,SRD5A1
+Testosterone enanthate,SRD5A2
+Testosterone enanthate,SRD5A3
+Testosterone enanthate,CYP19A1
+Testosterone undecanoate,CYP3A4
+Testosterone undecanoate,MAOA
+Testosterone undecanoate,CYP11A1
+Testosterone undecanoate,CYP3A5
+Testosterone undecanoate,CYP3A7
+Testosterone undecanoate,CYP1A1
+Testosterone undecanoate,CYP1B1
+Testosterone undecanoate,CYP2A13
+Testosterone undecanoate,CYP2B6
+Testosterone undecanoate,CYP2C19
+Testosterone undecanoate,CYP2C8
+Testosterone undecanoate,CYP2C9
+Testosterone undecanoate,CYP3A43
+Testosterone undecanoate,SRD5A1
+Testosterone undecanoate,SRD5A2
+Testosterone undecanoate,SRD5A3
+Testosterone undecanoate,CYP19A1
+WIN 55212-2,CYP3A4
+Estradiol acetate,CYP1A2
+Estradiol acetate,UGT1A1
+Estradiol acetate,CYP3A4
+Estradiol acetate,CYP3A5
+Estradiol acetate,CYP3A7
+Estradiol acetate,CYP1A1
+Estradiol acetate,CYP1B1
+Estradiol acetate,CYP2C19
+Estradiol acetate,CYP2C8
+Estradiol acetate,CYP2C9
+Estradiol benzoate,CYP1A2
+Estradiol benzoate,UGT1A1
+Estradiol benzoate,CYP3A4
+Estradiol benzoate,CYP3A5
+Estradiol benzoate,CYP3A7
+Estradiol benzoate,CYP1A1
+Estradiol benzoate,CYP1B1
+Estradiol benzoate,CYP2C19
+Estradiol benzoate,CYP2C8
+Estradiol benzoate,CYP2C9
+Estradiol cypionate,CYP1A2
+Estradiol cypionate,UGT1A1
+Estradiol cypionate,CYP3A4
+Estradiol cypionate,CYP3A5
+Estradiol cypionate,CYP3A7
+Estradiol cypionate,CYP1A1
+Estradiol cypionate,CYP1B1
+Estradiol cypionate,CYP2C19
+Estradiol cypionate,CYP2C8
+Estradiol cypionate,CYP2C9
+Estradiol dienanthate,CYP1A2
+Estradiol dienanthate,UGT1A1
+Estradiol dienanthate,CYP3A4
+Estradiol dienanthate,CYP3A5
+Estradiol dienanthate,CYP3A7
+Estradiol dienanthate,CYP1A1
+Estradiol dienanthate,CYP1B1
+Estradiol dienanthate,CYP2C19
+Estradiol dienanthate,CYP2C8
+Estradiol dienanthate,CYP2C9
+Estradiol valerate,CYP1A2
+Estradiol valerate,UGT1A1
+Estradiol valerate,CYP3A4
+Estradiol valerate,CYP3A5
+Estradiol valerate,CYP3A7
+Estradiol valerate,CYP1A1
+Estradiol valerate,CYP1B1
+Estradiol valerate,CYP2C19
+Estradiol valerate,CYP2C8
+Estradiol valerate,CYP2C9
+Fish oil,CYP3A4
+"1,2-dichlorobenzene",CYP2E1
+Black cohosh,CYP3A4
+Black cohosh,CYP3A2
+Black cohosh,CYP1A2
+Black cohosh,CYP2C9
+Black cohosh,CYP2D6
+Nomegestrol acetate,CYP3A4
+Baloxavir marboxil,UGT1A3
+Baloxavir marboxil,CYP3A4
+Lonoctocog alfa,F2
+Lonoctocog alfa,PROC
+Moroctocog alfa,F2
+Moroctocog alfa,PROC
+alpha-Tocopherol succinate,GSTA2
+alpha-Tocopherol succinate,GSTP1
+alpha-Tocopherol succinate,GSTO1
+alpha-Tocopherol succinate,GSTM3
+alpha-Tocopherol succinate,GCLC
+alpha-Tocopherol succinate,NQO1
+alpha-Tocopherol succinate,HMOX1
+alpha-Tocopherol succinate,SOD1
+D-alpha-Tocopherol acetate,GSTA2
+D-alpha-Tocopherol acetate,GSTP1
+D-alpha-Tocopherol acetate,GSTO1
+D-alpha-Tocopherol acetate,GSTM3
+D-alpha-Tocopherol acetate,GCLC
+D-alpha-Tocopherol acetate,NQO1
+D-alpha-Tocopherol acetate,HMOX1
+D-alpha-Tocopherol acetate,SOD1
+alpha-Tocopherol acetate,CYP4F2
+alpha-Tocopherol acetate,CYP3A4
+Tildrakizumab,CYP4A11
+Choline salicylate,CEPT1
+Choline salicylate,CHKB
+Choline salicylate,CHAT
+Choline salicylate,CHKA
+Choline salicylate,CHDH
+Medical Cannabis,CYP2C9
+Medical Cannabis,CYP2C19
+Medical Cannabis,CYP2D6
+Medical Cannabis,CYP3A5
+Medical Cannabis,CYP3A7
+Medical Cannabis,CYP1A1
+Medical Cannabis,CYP1A2
+Medical Cannabis,CYP1B1
+Medical Cannabis,ALOX5
+Medical Cannabis,ALOX15
+Medical Cannabis,SOD1
+Medical Cannabis,CYP3A4
+"5-methoxy-N,N-dimethyltryptamine",CYP2D6
+Nabiximols,CYP2C9
+Nabiximols,CYP2C19
+Nabiximols,CYP3A4
+Nabiximols,CYP3A5
+Nabiximols,ALOX5
+Nabiximols,ALOX15
+Nabiximols,CYP2D6
+Bromotheophylline,CYP1A2
+Fosnetupitant,CYP3A4
+Clinafloxacin,CYP1A2
+Clinafloxacin,CYP2C19
+Clinafloxacin,CYP2D6
+Clinafloxacin,CYP2C9
+Furafylline,CYP1A2
+Tretamine,BCHE
+Acetyl sulfisoxazole,CYP2C9
+Dichlorobenzene,CYP2E1
+(S)-Warfarin,CYP3A4
+(S)-Warfarin,CYP2C8
+(S)-Warfarin,CYP2C9
+(S)-Warfarin,CYP2C18
+(S)-Warfarin,CYP2C19
+Dexverapamil,CYP3A4
+Emopamil,CYP3A4
+Lomerizine,CYP3A4
+Tetrandrine,CYP3A4
+Dexniguldipine,CYP3A4
+Tenofovir,CYP3A4
+Tenofovir,NME1
+Tenofovir,NME2
+Tenofovir,AK1
+Tenofovir,AK2
+8-chlorotheophylline,CYP1A2
+Aripiprazole lauroxil,CYP3A4
+Aripiprazole lauroxil,CYP2D6
+Aripiprazole lauroxil,CYP3A5
+Aripiprazole lauroxil,CYP3A7
+Echinacea,CYP3A4
+Zinc acetate,CA1
+Zinc acetate,CPE
+Zinc acetate,ADH1C
+Zinc acetate,IDE
+Zinc acetate,SOD1
+Mometasone furoate,CYP2C8
+Mometasone furoate,CYP3A4
+Mometasone furoate,CYP3A5
+Zinc chloride,CPE
+Zinc chloride,ADH1C
+Zinc chloride,IDE
+Zinc chloride,SOD1
+Zinc chloride,CA2
+Hydrocortisone aceponate,CYP3A4
+Hydrocortisone aceponate,CYP3A5
+Hydrocortisone aceponate,CYP3A7
+Hydrocortisone aceponate,CYP2C8
+Hydrocortisone acetate,CYP3A4
+Hydrocortisone acetate,CYP3A5
+Hydrocortisone acetate,CYP3A7
+Hydrocortisone acetate,CYP11B1
+Hydrocortisone acetate,CYP11B2
+Hydrocortisone acetate,CYP2C8
+Hydrocortisone butyrate,CYP3A4
+Hydrocortisone butyrate,CYP3A5
+Hydrocortisone butyrate,CYP3A7
+Hydrocortisone butyrate,CYP11B1
+Hydrocortisone butyrate,CYP11B2
+Hydrocortisone butyrate,CYP2C8
+Hydrocortisone cypionate,CYP3A4
+Hydrocortisone cypionate,CYP3A5
+Hydrocortisone cypionate,CYP3A7
+Hydrocortisone cypionate,CYP2C8
+Hydrocortisone phosphate,CYP3A4
+Hydrocortisone phosphate,CYP3A5
+Hydrocortisone phosphate,CYP3A7
+Hydrocortisone phosphate,CYP2C8
+Hydrocortisone probutate,CYP3A4
+Hydrocortisone probutate,CYP3A5
+Hydrocortisone probutate,CYP3A7
+Hydrocortisone probutate,CYP11B1
+Hydrocortisone probutate,CYP11B2
+Hydrocortisone probutate,CYP2C8
+Hydrocortisone valerate,CYP3A4
+Hydrocortisone valerate,CYP3A5
+Hydrocortisone valerate,CYP3A7
+Hydrocortisone valerate,CYP11B1
+Hydrocortisone valerate,CYP11B2
+Hydrocortisone valerate,CYP2C8
+Hydrocortisone succinate,CYP3A4
+Hydrocortisone succinate,CYP2C8
+Hydrocortisone succinate,CYP11B1
+Hydrocortisone succinate,CYP11B2
+"Zinc sulfate, unspecified form",CPE
+"Zinc sulfate, unspecified form",ADH1C
+"Zinc sulfate, unspecified form",IDE
+"Zinc sulfate, unspecified form",SOD1
+"Zinc sulfate, unspecified form",CA2
+Ivosidenib,CYP3A4
+Ivosidenib,CYP2B6
+Ivosidenib,CYP2C9
+Ivosidenib,CYP2C8
+Hydroxyprogesterone,CYP3A4
+Eslicarbazepine,UGT1A1
+Eslicarbazepine,CYP2C19
+Eslicarbazepine,CYP3A4
+Segesterone acetate,CYP3A4
+Edetate calcium disodium anhydrous,ADA
+Edetate calcium disodium anhydrous,PON3
+Edetate calcium disodium anhydrous,CYP19A1
+Edetate calcium disodium anhydrous,CYP3A4
+Edetate calcium disodium anhydrous,PON1
+Edetate disodium anhydrous,ADA
+Edetate disodium anhydrous,PON3
+Edetate disodium anhydrous,CYP19A1
+Edetate disodium anhydrous,CYP3A4
+Edetate disodium anhydrous,PON1
+Prednisolone phosphate,CYP3A4
+Prednisolone phosphate,CYP3A5
+Prednisolone phosphate,CYP3A4
+Prednisolone phosphate,CYP3A43
+Prednisolone phosphate,CYP3A5
+Prednisolone phosphate,CYP3A7
+Prednisolone phosphate,CYP2A6
+Prednisolone phosphate,CYP1B1
+Prednisolone phosphate,CYP2B6
+Prednisolone phosphate,CYP2C8
+Prednisolone phosphate,CYP2C9
+Prednisolone phosphate,CYP2C19
+Prednisolone phosphate,HSD11B2
+Prednisolone phosphate,HSD11B1
+Prednisolone hemisuccinate,CYP3A4
+Prednisolone hemisuccinate,CYP3A5
+Fluprednidene acetate,CYP3A4
+Fluprednidene acetate,CYP3A5
+Curcumin sulfate,CYP2C19
+Curcumin sulfate,CYP2B6
+Curcumin sulfate,UGT1A1
+Curcumin sulfate,UGT1A10
+Curcumin sulfate,UGT1A3
+Curcumin sulfate,UGT1A4
+Curcumin sulfate,UGT1A6
+Curcumin sulfate,UGT1A7
+Curcumin sulfate,UGT1A8
+Curcumin sulfate,UGT1A9
+Curcumin sulfate,UGT2B15
+Curcumin sulfate,UGT2B4
+Curcumin sulfate,UGT2B7
+Curcumin sulfate,CYP2C9
+Curcumin sulfate,CYP3A4
+Curcumin sulfate,CYP3A5
+Curcumin sulfate,CYP2D6
+Curcumin sulfate,CYP1A2
+Curcumin sulfate,SULT1C4
+Curcumin sulfate,SULT1A3
+Curcumin sulfate,SULT1E1
+Curcumin sulfate,SULT1B1
+Fluprednisolone acetate,CYP3A4
+Methylprednisolone hemisuccinate,CYP3A4
+Methylprednisolone hemisuccinate,CYP3A5
+Prednisone acetate,CYP3A4
+Prednisone acetate,CYP3A5
+Clocortolone acetate,CYP3A4
+Clocortolone acetate,CYP3A5
+Melengestrol acetate,CYP3A4
+Melengestrol acetate,CYP3A5
+Betamethasone phosphate,CYP3A4
+Betamethasone phosphate,CYP3A5
+Norethindrone enanthate,CYP3A4
+Cortisone,CYP3A4
+Cortisone,CYP3A5
+Larotrectinib,CYP3A4
+Queuine,TGT
+Turoctocog alfa pegol,PROC
+Turoctocog alfa pegol,F10
+Trastuzumab deruxtecan,GAA
+Trastuzumab deruxtecan,TOP1
+Trastuzumab deruxtecan,CTSB
+Trastuzumab deruxtecan,CTSL
+Trastuzumab deruxtecan,CYP3A4
+Voxelotor,CYP3A4
+Voxelotor,CYP2C9
+Voxelotor,CYP2B6
+Voxelotor,CYP2C19
+Human interferon beta,CYP1A2
+Zanubrutinib,CYP3A4
+Zanubrutinib,CYP2B6
+Upadacitinib,CYP3A4
+Upadacitinib,CYP2D6
+Ropeginterferon alfa-2b,CYP1A2
+Interferon alfa-2c,CYP1A2
+Avapritinib,CYP3A4
+Avapritinib,CYP2C9
+Ubrogepant,CYP3A4
+Ubrogepant,CYP2C8
+Ubrogepant,CYP2C9
+Ubrogepant,CYP2C19
+Ubrogepant,MAOA
+Ubrogepant,UGT1A1
+Ubrogepant,CYP2D6
+Elexacaftor,CYP3A4
+Elexacaftor,CYP3A5
+Elexacaftor,CYP1A2
+Elexacaftor,CYP2B6
+Elexacaftor,CYP2C8
+Elexacaftor,CYP2C9
+Elexacaftor,CYP2C19
+Elexacaftor,CYP2D6
+Echinacoside,COMT
+Mexazolam,CYP3A4
+Prednisolone acetate,CYP3A4
+Ferric maltol,UGT1A6
