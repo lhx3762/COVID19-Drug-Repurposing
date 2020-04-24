@@ -1,3024 +1,3024 @@
 DRUGS,GENES
-Gramicidin D,ABCB1
-Vasopressin,ABCC2
-Cyclosporine,ABCB1
-Cyclosporine,ABCB11
-Cyclosporine,SLC10A2
-Cyclosporine,SLC10A1
-Cyclosporine,SLC22A6
-Cyclosporine,ABCC10
-Cyclosporine,ABCC2
-Cyclosporine,ABCG2
-Cyclosporine,SLCO1B1
-Cyclosporine,SLCO1B3
-Cyanocobalamin,AMN
-Cyanocobalamin,TCN1
-Cyanocobalamin,TCN2
-Cyanocobalamin,CBLIF
-Cyanocobalamin,CUBN
-Cyanocobalamin,LRP2
-Cyanocobalamin,ABCC1
-Tetrahydrofolic acid,ABCC2
-Histidine,SLC16A10
-Pyruvic acid,SLC16A7
-Pyruvic acid,SLC16A1
-Pyruvic acid,SLC16A10
-Pyruvic acid,SLCO2A1
-Pyruvic acid,SLC16A3
-Phenylalanine,SLC16A10
-Biotin,SLC5A6
-Biotin,SLC5A8
-Choline,SLC22A2
-Choline,SLC22A1
-Choline,SLC22A3
-Choline,SLC22A5
-Choline,SLC22A4
-Choline,SLC44A1
-Choline,SLC44A4
-Choline,SLC44A2
-Choline,SLC44A3
-Choline,SLC5A7
-L-Lysine,SLC16A10
-L-Lysine,SLC22A4
-Arginine,SLC22A5
-Arginine,SLC16A10
-Arginine,SLC22A4
-Ascorbic acid,SLC23A1
-Ascorbic acid,SLC23A2
-Ascorbic acid,SLC2A1
-Ascorbic acid,SLC2A3
-Ascorbic acid,SLC2A4
-Spermine,SLC22A4
-Spermine,SLC22A1
-Aspartic acid,SLC16A10
-L-Glutamine,SLC38A1
-L-Glutamine,SLC38A2
-L-Glutamine,SLC38A3
-L-Glutamine,SLC1A5
-L-Glutamine,SLC6A14
-L-Glutamine,SLC7A7
-L-Glutamine,SLC7A6
-L-Glutamine,SLC7A5
-L-Glutamine,SLC7A8
-L-Glutamine,SLC7A9
-L-Glutamine,SLC16A10
-Serine,SLC16A10
-Methionine,SLC16A10
-Tyrosine,SLC16A2
-Tyrosine,SLC16A10
-Cystine,SLC16A10
-Succinic acid,SLC22A8
-Riboflavin,SLC22A6
-Glutamic acid,SLC16A10
-Glutamic acid,SLC16A1
-Glutathione,ABCC1
-Glutathione,ABCC2
-Glutathione,ABCC3
-Glutathione,ABCC4
-Glutathione,ABCC5
-Glycine,SLC16A10
-Glycine,SLC36A1
-Glycine,SLC32A1
-Glycine,SLC6A5
-Glycine,SLC6A9
-Creatine,SLC22A5
-Leucine,SLC16A10
-Leucine,SLC16A2
-Tryptophan,SLC16A2
-Tryptophan,SLC16A10
-Cysteine,SLC16A10
-Thiamine,SLC22A2
-Thiamine,SLC22A1
-Thiamine,SLC22A5
-Thiamine,SLC19A2
-Thiamine,SLC19A3
-Citrulline,SLC22A6
-Threonine,SLC16A10
-Folic acid,ABCC11
-Folic acid,ABCC3
-Folic acid,SLC22A6
-Folic acid,ABCC4
-Folic acid,ABCG2
-Folic acid,SLC46A1
-Folic acid,SLC25A32
-Alanine,SLC16A10
-Valine,SLC16A10
-Vitamin A,STRA6
-Vitamin E,SCARB1
-Vitamin E,ABCA1
-Vitamin E,NPC1L1
-Vitamin E,ABCG1
-Pyridoxine,ALPL
-Isoleucine,SLC16A10
-Aspartame,SLC22A6
-Aspartame,SLC22A8
-Aspartame,SLC22A11
-Proline,SLC16A10
-Asparagine,SLC16A10
-Pravastatin,SLCO1B1
-Pravastatin,SLCO2B1
-Pravastatin,ABCB1
-Pravastatin,SLCO1A2
-Pravastatin,SLC22A6
-Pravastatin,SLC22A8
-Pravastatin,ABCC2
-Pravastatin,SLC22A11
-Pravastatin,ABCG2
-Pravastatin,SLC22A7
-Pravastatin,SLC16A1
-Pravastatin,ABCB11
-Pravastatin,SLCO1B3
-Fluvoxamine,ABCB1
-Fluvoxamine,ABCB11
-Valsartan,SLCO1B3
-Valsartan,SLCO1B1
-Valsartan,ABCC2
-Ramipril,SLC15A1
-Ramipril,SLC15A2
-Amphetamine,SLC22A3
-Amphetamine,SLC22A5
-Nicotine,SLC22A2
-Nicotine,SLC22A1
-Nicotine,SLC22A3
-Nicotine,SLC22A5
-Nicotine,SLC22A4
-Fluconazole,ABCB1
-Troglitazone,ABCB11
-Troglitazone,SLCO1B1
-Oseltamivir,ABCC4
-Oseltamivir,SLC15A1
-Oseltamivir,SLC22A8
-Erythromycin,SLCO1B3
-Erythromycin,ABCB11
-Erythromycin,ABCB1
-Erythromycin,SLCO1B1
-Erythromycin,ABCC2
-Erythromycin,SLCO1A2
-Caffeine,ABCG2
-Sildenafil,ABCC4
-Sildenafil,ABCC5
-Sildenafil,ABCC10
-Sildenafil,SLCO1B1
-Sildenafil,ABCB1
-Dofetilide,SLC22A2
-Pyrimethamine,SLC47A1
-Pyrimethamine,SLC47A2
-Reserpine,ABCB1
-Reserpine,SLC22A1
-Reserpine,ABCB11
-Reserpine,ABCC2
-Reserpine,SLC22A2
-Reserpine,SLCO1B1
-Reserpine,SLCO2B1
-Azithromycin,ABCB1
-Azithromycin,ABCC2
-Midodrine,SLC15A1
-Pantoprazole,ABCB1
-Pantoprazole,ABCG2
-Pantoprazole,SLC22A8
-Torasemide,SLCO1B1
-Citalopram,ABCB1
-Eletriptan,ABCB1
-Nelfinavir,ABCB1
-Nelfinavir,SLC22A1
-Nelfinavir,SLCO1A2
-Nelfinavir,ABCG2
-Nelfinavir,SLCO1B1
-Nelfinavir,SLCO1B3
-Nelfinavir,SLCO2B1
-Nelfinavir,ABCB11
-Glimepiride,ABCB11
-Indinavir,ABCB1
-Indinavir,SLC22A1
-Indinavir,ABCC1
-Indinavir,SLCO1A2
-Indinavir,SLCO1B1
-Indinavir,ABCC2
-Indinavir,SLCO2B1
-Indinavir,ABCB11
-Lovastatin,ABCB1
-Lovastatin,SLCO1A2
-Lovastatin,SLCO1B1
-Lovastatin,ABCC2
-Lovastatin,ABCB11
-Lovastatin,SLCO2B1
-Lovastatin,SLCO1B3
-Cefotiam,SLC22A6
-Cefotiam,SLC22A8
-Pregabalin,SLC1A1
-Pregabalin,SLC7A5
-Reboxetine,ABCB1
-Nevirapine,SLC22A1
-Cladribine,ABCG2
-Cladribine,SLC28A3
-Ranolazine,ABCB11
-Ranolazine,ABCB1
-Ranolazine,SLC47A1
-Ranolazine,SLC47A2
-Ziprasidone,ABCB1
-Cabergoline,ABCB1
-Phenytoin,SLCO1C1
-Phenytoin,ABCB1
-Phenytoin,ABCC2
-Medrysone,SLCO1A2
-Medrysone,ABCB1
-Medrysone,SLC22A8
-Doxycycline,SLC22A6
-Doxycycline,ABCB5
-Diethylstilbestrol,ABCG2
-Diethylstilbestrol,ABCB1
-Diethylstilbestrol,SLCO1B1
-Diethylstilbestrol,SLCO2B1
-Diethylstilbestrol,ABCB11
-Clotrimazole,ABCB1
-Clotrimazole,ABCB11
-Clotrimazole,SLCO1B1
-Clotrimazole,SLCO1B3
-Cycloserine,SLC36A2
-Metoprolol,SLC22A2
-Isradipine,ABCB11
-Topiramate,ABCB1
-Topiramate,PRKAA1
-Topiramate,PRKAA2
-Topiramate,PRKAB1
-Topiramate,PRKAB2
-Topiramate,PRKAG1
-Topiramate,PRKAG2
-Topiramate,PRKAG3
-Cefmetazole,SLC15A1
-Cefmetazole,SLC15A2
-Olmesartan,ABCC2
-Olmesartan,SLCO1B3
-Olmesartan,SLCO1B1
-Olmesartan,ABCB11
-Amsacrine,ABCB1
-Theophylline,SLC22A7
-Liothyronine,SLCO1A2
-Liothyronine,SLCO1B1
-Liothyronine,SLCO1B3
-Liothyronine,SLCO4C1
-Liothyronine,SLC10A1
-Liothyronine,SLCO1C1
-Liothyronine,SLCO4A1
-Liothyronine,SLC22A8
-Liothyronine,SLC16A10
-Liothyronine,ABCB1
-Liothyronine,SLC7A5
-Disopyramide,SLC22A1
-Disopyramide,SLC22A2
-Lidocaine,SLC22A5
-Lidocaine,ABCB1
-Venlafaxine,ABCB1
-Venlafaxine,ABCG2
-Conjugated estrogens,ABCC3
-Conjugated estrogens,ABCC4
-Conjugated estrogens,ABCC1
-Conjugated estrogens,SLCO1A2
-Conjugated estrogens,SLC10A1
-Conjugated estrogens,SLC22A10
-Conjugated estrogens,SLC22A8
-Conjugated estrogens,SLCO1C1
-Conjugated estrogens,SLCO1B1
-Conjugated estrogens,SLCO2B1
-Conjugated estrogens,ABCB1
-Conjugated estrogens,SLC22A6
-Conjugated estrogens,SLC51A
-Conjugated estrogens,SLC51B
-Conjugated estrogens,ABCC2
-Conjugated estrogens,SLCO4A1
-Conjugated estrogens,ABCC11
-Conjugated estrogens,SLCO1B3
-Conjugated estrogens,SLC22A11
-Conjugated estrogens,SLCO3A1
-Conjugated estrogens,ABCG2
-Chlorambucil,SLCO1A2
-Morphine,ABCB1
-Tenofovir disoproxil,SLC22A6
-Tenofovir disoproxil,SLC22A8
-Tenofovir disoproxil,ABCC10
-Tenofovir disoproxil,ABCC4
-Tenofovir disoproxil,ABCC2
-Tenofovir disoproxil,ABCB1
-Flucloxacillin,ABCB11
-Tranexamic acid,SLC15A2
-Ethoxzolamide,SLC22A6
-Valproic acid,SLC22A6
-Valproic acid,SLC22A8
-Valproic acid,SLC22A5
-Valproic acid,SLC16A1
-Valproic acid,SLC22A7
-Valproic acid,SLCO2B1
-Acetaminophen,ABCB1
-Gefitinib,ABCB1
-Gefitinib,ABCG2
-Codeine,SLC22A1
-Piperacillin,SLC22A6
-Piperacillin,SLC22A8
-Dihydroergotamine,ABCB1
-Amitriptyline,ABCB1
-Indomethacin,ABCC3
-Indomethacin,ABCC4
-Indomethacin,ABCC6
-Indomethacin,ABCB1
-Indomethacin,ABCC1
-Indomethacin,SLCO1A2
-Indomethacin,SLC22A6
-Indomethacin,SLC22A8
-Indomethacin,ABCC2
-Indomethacin,ABCC11
-Indomethacin,SLC22A11
-Indomethacin,SLC10A1
-Indomethacin,SLC22A7
-Indomethacin,SLCO1B1
-Indomethacin,ABCB11
-Metformin,SLC22A1
-Metformin,SLC22A2
-Metformin,SLC22A3
-Metformin,SLC47A1
-Metformin,SLC29A4
-Metformin,SLC47A2
-Ipratropium,SLC22A5
-Ipratropium,SLC22A4
-Methadone,ABCB1
-Olanzapine,ABCB1
-Atenolol,ABCB11
-Omeprazole,ABCG2
-Omeprazole,ABCC3
-Omeprazole,ABCB1
-Cetirizine,ABCB1
-Terfenadine,ABCB1
-Terfenadine,ABCB11
-Diltiazem,ABCB1
-Protriptyline,ABCB1
-Aminohippuric acid,SLC22A2
-Aminohippuric acid,SLC22A5
-Aminohippuric acid,SLC22A6
-Aminohippuric acid,SLC22A8
-Aminohippuric acid,ABCC2
-Aminohippuric acid,SLC22A4
-Aminohippuric acid,SLC22A11
-Aminohippuric acid,SLCO3A1
-Aminohippuric acid,SLCO1B1
-Aminohippuric acid,ABCC1
-Aminohippuric acid,SLCO1A2
-Aminohippuric acid,SLC16A1
-Aminohippuric acid,SLC22A7
-Clobazam,SLC6A1
-Clobazam,SLC6A11
-Clobazam,ABCB1
-Megestrol acetate,ABCB1
-Tioguanine,ABCC4
-Mefloquine,ABCB1
-Clozapine,ABCB1
-Grepafloxacin,ABCB1
-Grepafloxacin,ABCC1
-Grepafloxacin,SLC22A6
-Grepafloxacin,SLC22A2
-Grepafloxacin,SLC22A5
-Grepafloxacin,ABCC2
-Norepinephrine,SLC6A2
-Norepinephrine,SLC22A2
-Norepinephrine,SLC22A3
-Norepinephrine,SLC22A5
-Norepinephrine,SLC22A1
-Norepinephrine,POU5F1
-Cidofovir,SLC22A6
-Mirtazapine,SLC6A4
-Timolol,ABCB1
-Amlodipine,ABCB1
-Tacrine,ABCB1
-Digoxin,ABCB1
-Digoxin,SLCO4C1
-Digoxin,ABCB11
-Digoxin,SLCO1A2
-Digoxin,SLC51A
-Digoxin,SLC51B
-Digoxin,SLCO1B1
-Beclomethasone dipropionate,ABCB1
-Beclomethasone dipropionate,ABCG2
-Beclomethasone dipropionate,SLCO1B1
-Beclomethasone dipropionate,SLCO1B3
-Progesterone,ABCB1
-Progesterone,SLC22A2
-Progesterone,SLC22A1
-Progesterone,SLC22A3
-Progesterone,ABCB11
-Progesterone,ABCC1
-Progesterone,SLC10A1
-Progesterone,SLCO1B1
-Progesterone,ABCG2
-Progesterone,SLCO1B3
-Sorafenib,ABCG2
-Sorafenib,ABCC4
-Sorafenib,ABCC2
-Sorafenib,ABCB1
-Sorafenib,RALBP1
-Sorafenib,SLCO1B1
-Zoledronic acid,ABCC1
-Nisoldipine,ABCB1
-Gentian violet cation,SLC22A1
-Rosiglitazone,SLCO1B1
-Rosiglitazone,ABCB11
-Pramipexole,SLC22A2
-Pramipexole,SLC22A1
-Pramipexole,SLC22A3
-Ampicillin,SLC22A5
-Ampicillin,SLC15A1
-Ampicillin,SLC15A2
-Ampicillin,SLC16A1
-Spironolactone,ABCC2
-Spironolactone,ABCB1
-Spironolactone,SLCO1A2
-Spironolactone,ABCB11
-Streptozocin,ABCB1
-Trifluridine,SLC22A6
-Trifluridine,SLC28A1
-Trifluridine,SLC29A1
-Trifluridine,SLC29A2
-Allopurinol,SLC22A8
-Allopurinol,SLC22A7
-Allopurinol,ABCG2
-Allopurinol,SLC22A2
-Ceftazidime,SLC22A5
-Ceftazidime,SLC15A1
-Ceftazidime,SLC15A2
-Ceftazidime,SLC22A6
-Cerivastatin,ABCB1
-Cerivastatin,ABCC2
-Cerivastatin,ABCG2
-Cerivastatin,SLCO1B1
-Cerivastatin,ABCB11
-Trimethoprim,ABCB1
-Trimethoprim,SLC47A1
-Trimethoprim,SLC47A2
-Gemcitabine,ABCB1
-Gemcitabine,ABCC10
-Gemcitabine,SLC29A1
-Gemcitabine,SLC28A1
-Gemcitabine,SLC29A2
-Gemcitabine,SLC28A3
-Betamethasone,ABCB1
-Teniposide,ABCC6
-Teniposide,ABCG2
-Epirubicin,ABCC1
-Chloramphenicol,SLC22A6
-Loracarbef,SLC15A1
-Loracarbef,SLC15A2
-Lansoprazole,ABCG2
-Lansoprazole,ABCB1
-Lansoprazole,SLC22A8
-Lansoprazole,SLC22A1
-Lansoprazole,SLC22A2
-Lansoprazole,SLC22A3
-Levothyroxine,SLCO1C1
-Levothyroxine,SLC16A2
-Levothyroxine,ABCB1
-Levothyroxine,SLCO1A2
-Levothyroxine,SLCO1B1
-Levothyroxine,SLCO1B3
-Levothyroxine,SLCO4A1
-Levothyroxine,SLCO4C1
-Levothyroxine,SLC7A5
-Levothyroxine,SLCO2B1
-Meperidine,ABCB1
-Loratadine,ABCB1
-Loratadine,ABCB11
-Cefalotin,SLC22A5
-Cefalotin,SLC15A1
-Cefalotin,SLC15A2
-Cefalotin,SLC22A6
-Cefalotin,SLC22A8
-Cefalotin,SLC22A11
-Cefalotin,SLC22A7
-Prazosin,SLC22A1
-Prazosin,SLC22A3
-Prazosin,ABCB1
-Prazosin,ABCG2
-Imipramine,ABCB1
-Imipramine,SLC22A2
-Imipramine,SLC22A3
-Imipramine,SLC22A4
-Quinine,SLC22A2
-Quinine,SLC22A1
-Quinine,SLC22A5
-Quinine,ABCB1
-Quinine,SLCO1A2
-Quinine,SLC22A4
-Quinine,SLCO1B1
-Tenoxicam,SLC22A8
-Dronabinol,ABCB1
-Dronabinol,ABCG2
-Montelukast,SLCO2B1
-Fluoxetine,ABCB1
-Duloxetine,ABCB1
-Chlorpromazine,ABCB1
-Chlorpromazine,ABCB11
-Lenalidomide,ABCB1
-Raloxifene,SLCO1B1
-Raloxifene,SLCO1B3
-Raloxifene,ABCB1
-Raloxifene,ABCG2
-Raloxifene,ABCC2
-Raloxifene,ABCC3
-Raloxifene,ABCC4
-Celecoxib,ABCC4
-Celecoxib,ABCB11
-Celecoxib,ABCB1
-Celecoxib,ABCG2
-Dicloxacillin,SLC15A1
-Dicloxacillin,SLC15A2
-Buspirone,ABCB1
-Fosinopril,SLC15A1
-Fosinopril,SLC15A2
-Cefotaxime,SLC15A1
-Cefotaxime,SLC15A2
-Cefotaxime,SLC22A6
-Cefotaxime,SLC22A8
-Cefotaxime,SLC22A11
-Cefotaxime,SLC22A7
-Zidovudine,SLC22A2
-Zidovudine,SLC22A6
-Zidovudine,SLC22A7
-Zidovudine,SLC22A8
-Zidovudine,SLC22A11
-Zidovudine,SLC28A1
-Zidovudine,SLC29A2
-Zidovudine,ABCB1
-Zidovudine,ABCC4
-Zidovudine,ABCC5
-Zidovudine,ABCG2
-Tolmetin,SLC22A6
-Cimetidine,ABCB1
-Cimetidine,SLC22A2
-Cimetidine,SLC22A1
-Cimetidine,SLC22A3
-Cimetidine,SLC22A5
-Cimetidine,SLC22A6
-Cimetidine,SLC22A8
-Cimetidine,SLC47A1
-Cimetidine,SLC22A4
-Cimetidine,SLC22A11
-Cimetidine,SLC22A7
-Cimetidine,ABCB11
-Cimetidine,SLC47A2
-Haloperidol,ABCB1
-Ritonavir,ABCB1
-Ritonavir,ABCC1
-Ritonavir,SLCO1A2
-Ritonavir,ABCC2
-Ritonavir,ABCG2
-Ritonavir,SLCO1B1
-Ritonavir,SLCO2B1
-Ritonavir,ABCB11
-Ritonavir,SLCO1B3
-Triflupromazine,ABCB1
-Dextrothyroxine,SLCO1B1
-Dextrothyroxine,SLCO1C1
-Dextrothyroxine,SLCO4A1
-Dextrothyroxine,SLCO4C1
-Dextrothyroxine,SLC7A5
-Cisplatin,ABCC3
-Cisplatin,ABCC5
-Cisplatin,ABCC2
-Cisplatin,SLC22A2
-Cisplatin,SLC31A1
-Cisplatin,SLC31A2
-Cisplatin,ABCC6
-Cisplatin,ABCB1
-Cisplatin,ATP7B
-Cisplatin,ATP7A
-Cisplatin,ABCG2
-Albendazole,ABCB1
-Trandolapril,SLC15A1
-Trandolapril,SLC15A2
-Caspofungin,SLC22A1
-Caspofungin,ABCB1
-Caspofungin,SLC22A6
-Caspofungin,SLCO1B1
-Caspofungin,SLCO1B3
-Alitretinoin,ABCB1
-Oxaliplatin,SLC22A2
-Oxaliplatin,SLC31A1
-Oxaliplatin,SLC22A3
-Oxaliplatin,ABCG2
-Oxaliplatin,ABCC2
-Oxaliplatin,ATP7B
-Oxaliplatin,ATP7A
-Foscarnet,SLC22A6
-Foscarnet,SLC16A1
-Erlotinib,ABCG2
-Erlotinib,ABCB1
-Erlotinib,SLCO2B1
-Rofecoxib,ABCC4
-Cefdinir,SLC22A5
-Cefdinir,SLC15A1
-Cefdinir,SLC15A2
-Cefdinir,SLC22A6
-Cefdinir,SLC22A8
-Guanidine,SLC22A2
-Guanidine,SLC22A1
-Guanidine,SLC22A3
-Guanidine,SLC22A5
-Guanidine,SLC22A8
-Guanidine,SLC22A4
-Guanidine,SLC47A1
-Guanidine,SLC47A2
-Ciprofloxacin,ABCB1
-Ciprofloxacin,SLC47A1
-Ciprofloxacin,SLC47A2
-Toremifene,ABCB1
-Nortriptyline,SLC6A2
-Nortriptyline,ABCB1
-Vincristine,ABCB1
-Vincristine,ABCC3
-Vincristine,SLC22A3
-Vincristine,ABCC1
-Vincristine,ABCC10
-Vincristine,ABCC2
-Vincristine,ABCB11
-Vincristine,ABCG2
-Vincristine,RALBP1
-Vincristine,SLCO1B1
-Vincristine,SLCO1B3
-Benazepril,SLC15A1
-Benazepril,SLC15A2
-Fluorouracil,SLC22A7
-Fluorouracil,SLC29A1
-Fluorouracil,ABCG2
-Fluorouracil,ABCC3
-Fluorouracil,ABCC4
-Fluorouracil,ABCC5
-Zafirlukast,ABCG2
-Piroxicam,SLC22A6
-Piroxicam,SLC22A8
-Piroxicam,SLC22A11
-Piroxicam,SLCO2B1
-Lamotrigine,ABCB1
-Lamotrigine,SLC22A2
-Lamotrigine,SLC22A1
-Hydroxyzine,ABCB1
-Bosentan,ABCB11
-Methotrexate,ABCC3
-Methotrexate,ABCC4
-Methotrexate,ABCC1
-Methotrexate,SLC22A6
-Methotrexate,ABCC10
-Methotrexate,SLC22A8
-Methotrexate,ABCC2
-Methotrexate,ABCB1
-Methotrexate,SLCO1A2
-Methotrexate,SLC16A1
-Methotrexate,ABCC11
-Methotrexate,SLCO1B3
-Methotrexate,SLC22A11
-Methotrexate,SLCO1C1
-Methotrexate,SLCO3A1
-Methotrexate,ABCG2
-Methotrexate,SLC22A7
-Methotrexate,SLC46A1
-Methotrexate,SLCO1B1
-Methotrexate,SLCO4C1
-Methotrexate,SLC19A1
-Methotrexate,FOLR1
-Methotrexate,FOLR2
-Methotrexate,SLC15A1
-Methotrexate,SLC36A1
-Carbamazepine,ABCB1
-Carbamazepine,RALBP1
-Carbamazepine,ABCC2
-Cephalexin,SLC22A5
-Cephalexin,SLC15A1
-Cephalexin,SLC15A2
-Cephalexin,SLC22A6
-Cephalexin,SLC47A1
-Cephalexin,SLC22A8
-Vinblastine,ABCB1
-Vinblastine,ABCC1
-Vinblastine,ABCC2
-Vinblastine,ABCC6
-Vinblastine,ABCB11
-Vinblastine,SLCO1B1
-Propranolol,SLC22A2
-Propranolol,ABCB1
-Atropine,ABCB11
-Clonidine,SLC22A3
-Clonidine,SLC22A5
-Clonidine,SLC22A4
-Clonidine,ABCB1
-Valaciclovir,SLC15A1
-Valaciclovir,SLC15A2
-Valaciclovir,SLC22A8
-Valaciclovir,SLC22A6
-Valaciclovir,SLC6A14
-Valaciclovir,SLC10A2
-Carbenicillin,SLC22A6
-Levocarnitine,SLC22A4
-Levocarnitine,SLCO1B1
-Levocarnitine,SLC22A5
-Levocarnitine,SLC22A16
-Levocarnitine,SLC22A8
-Enalapril,ABCB1
-Enalapril,SLC15A1
-Enalapril,SLC22A6
-Enalapril,SLC22A8
-Enalapril,SLC22A7
-Enalapril,SLCO1A2
-Nizatidine,ABCB1
-Diclofenac,SLC22A6
-Diclofenac,ABCC4
-Diclofenac,ABCC1
-Diclofenac,SLC22A8
-Diclofenac,SLC22A11
-Diclofenac,SLCO1C1
-Diclofenac,SLCO1B1
-Diclofenac,ABCB11
-Diclofenac,SCN4A
-Diclofenac,ASIC1
-Diclofenac,KCNQ2
-Diclofenac,KCNQ3
-Diclofenac,ABCB1
-Fluticasone propionate,ABCB1
-Fluticasone propionate,SLCO1B1
-Doxazosin,ABCB1
-Doxazosin,SLC22A1
-Amiloride,SLC22A2
-Amiloride,SLC22A4
-Oxytetracycline,SLC22A6
-Oxytetracycline,SLC22A8
-Oxytetracycline,SLC22A11
-Oxytetracycline,SLC22A7
-Labetalol,ABCB5
-Ivermectin,ABCB1
-Ivermectin,ABCC1
-Ivermectin,ABCC2
-Ivermectin,ABCG2
-Ivermectin,SLCO1B1
-Ivermectin,SLCO1B3
-Medroxyprogesterone acetate,ABCB1
-Sulindac,SLC22A6
-Cyclothiazide,SLC22A6
-Nafcillin,SLC22A6
-Chloroquine,ABCB1
-Bisoprolol,ABCB1
-Amodiaquine,ABCB1
-Rifabutin,ABCB1
-Imatinib,SLC22A1
-Imatinib,ABCB1
-Imatinib,SLC22A2
-Imatinib,ABCG2
-Imatinib,ABCA3
-Imatinib,ABCB11
-Nicardipine,ABCB1
-Nicardipine,SLCO1B1
-Nicardipine,ABCB11
-Fluphenazine,ABCB1
-Testosterone,SLC22A8
-Testosterone,SLC22A7
-Testosterone,SLC10A1
-Testosterone,ABCG2
-Testosterone,SLCO1B3
-Efavirenz,ABCB11
-Efavirenz,SLC22A1
-Bacitracin,BCRA
-Bacitracin,BCRB
-Bacitracin,BCRC
-Niacin,SLC22A5
-Niacin,SLCO2B1
-Niacin,SLC16A1
-Niacin,SLC5A8
-Niacin,SLC16A3
-Clofarabine,ABCG2
-Prednisone,ABCB1
-Prednisone,SLCO1A2
-Astemizole,ABCB1
-Astemizole,ABCB11
-Adenosine,SLC28A3
-Simvastatin,ABCB1
-Simvastatin,SLCO1A2
-Simvastatin,SLCO1B1
-Simvastatin,ABCC2
-Simvastatin,ABCB11
-Simvastatin,SLCO2B1
-Simvastatin,SLCO1B3
-Pemetrexed,SLC22A8
-Nystatin,SLCO1B1
-Nystatin,SLCO1B3
-Mitotane,ABCB1
-Stavudine,SLC22A6
-Stavudine,SLC28A1
-Leucovorin,SLC22A8
-Pentazocine,ABCB1
-Latanoprost,SLCO2A1
-Latanoprost,SLC22A6
-Latanoprost,SLC22A8
-Estrone,SLCO2B1
-Estrone,ABCB1
-Estrone,SLCO1A2
-Estrone,ABCG2
-Estrone,SLCO1B1
-Estrone,SLC22A8
-Trazodone,ABCB1
-Acamprosate,SLC36A1
-Verapamil,ABCB1
-Verapamil,SLC22A1
-Verapamil,SLC22A4
-Verapamil,SLC22A5
-Verapamil,ABCC3
-Verapamil,SLCO1B1
-Verapamil,SLCO1A2
-Verapamil,ABCC1
-Verapamil,ABCC4
-Verapamil,ABCC10
-Verapamil,SLC47A1
-Verapamil,SLC47A2
-Epinephrine,SLC22A2
-Epinephrine,SLC22A1
-Sumatriptan,SLCO1A2
-Sumatriptan,ABCB1
-Sumatriptan,ABCG2
-Sumatriptan,SLCO1B1
-Cefixime,SLC22A5
-Cefixime,SLC15A1
-Cefixime,SLC15A2
-Chlorpropamide,SLC15A1
-Chlorpropamide,SLC15A2
-Chlorpropamide,SLC22A6
-Tamoxifen,ABCB1
-Tamoxifen,ABCG2
-Tamoxifen,ABCC2
-Tamoxifen,ABCB11
-Tamoxifen,ABCA1
-Losartan,ABCB1
-Losartan,SLC22A6
-Losartan,SLC22A12
-Losartan,SLC2A9
-Losartan,ABCB11
-Mycophenolate mofetil,SLCO1B1
-Mycophenolate mofetil,SLCO1B3
-Mycophenolate mofetil,ABCG2
-Mycophenolate mofetil,ABCB1
-Mycophenolate mofetil,ABCC2
-Cephaloglycin,SLC22A5
-Flurazepam,ABCB1
-Flurazepam,SLC22A2
-Moexipril,SLC15A1
-Moexipril,SLC15A2
-Fluorescein,SLC22A6
-Fluorescein,ABCB11
-Fluorescein,ABCC1
-Daunorubicin,ABCB1
-Daunorubicin,ABCC1
-Daunorubicin,ABCC10
-Daunorubicin,ABCC2
-Daunorubicin,ABCC6
-Daunorubicin,ABCB11
-Daunorubicin,ABCG2
-Furosemide,SLC22A6
-Furosemide,SLC22A5
-Furosemide,SLC22A8
-Furosemide,ABCC2
-Furosemide,SLCO2A1
-Furosemide,SLC22A11
-Ergotamine,ABCB1
-Nitrofurantoin,ABCG2
-Nitrofurantoin,ABCB11
-Nitrofurantoin,ABCB1
-Nitrofurantoin,ABCC2
-Amprenavir,ABCB1
-Amprenavir,ABCC1
-Amprenavir,SLCO1B1
-Methazolamide,SLC22A6
-Lamivudine,ABCC1
-Lamivudine,SLC22A6
-Lamivudine,ABCG2
-Lamivudine,SLC22A1
-Lamivudine,SLC22A2
-Lamivudine,SLC22A3
-Lamivudine,ABCB1
-Lamivudine,ABCC4
-Lamivudine,ABCC3
-Lamivudine,ABCC2
-Flurbiprofen,ABCC4
-Flurbiprofen,SLC22A6
-Oxacillin,SLC15A1
-Oxacillin,SLC15A2
-Paroxetine,ABCB1
-Norethisterone,ABCB1
-Adefovir dipivoxil,SLC22A6
-Adefovir dipivoxil,ABCC4
-Adefovir dipivoxil,ABCC5
-Adefovir dipivoxil,SLC22A3
-Procaine,SLC6A3
-Procaine,SLC6A2
-Procaine,SLC6A4
-Lisinopril,SLC15A1
-Lisinopril,SLC15A2
-Trimipramine,ABCB1
-Rocuronium,SLC22A1
-Rocuronium,SLCO1A2
-Nateglinide,ABCC4
-Nateglinide,SLC16A1
-Nateglinide,SLC15A1
-Nateglinide,SLC15A2
-Nateglinide,SLC22A6
-Risperidone,ABCB1
-Esomeprazole,ABCB1
-Esomeprazole,SLC22A8
-Riluzole,ABCG2
-Hydrocortisone,ABCB1
-Hydrocortisone,SLCO1A2
-Hydrocortisone,SLC22A8
-Scopolamine,ABCB1
-Etodolac,SLC22A6
-Epinastine,ABCB1
-Tretinoin,CRABP1
-Tretinoin,CRABP2
-Clopidogrel,ABCB1
-Clopidogrel,SLC22A1
-Clopidogrel,SLC22A2
-Tetracycline,SLC22A6
-Tetracycline,SLC22A8
-Tetracycline,SLC22A11
-Tetracycline,SLC22A7
-Tetracycline,SLCO2B1
-Potassium chloride,SLC12A2
-Potassium chloride,SLC12A1
-Potassium chloride,SLC12A5
-Potassium chloride,SLC12A6
-Potassium chloride,SLC12A7
-Potassium chloride,SLC12A4
-Irinotecan,SLC22A3
-Irinotecan,SLCO1B1
-Irinotecan,ABCC1
-Irinotecan,ABCG2
-Irinotecan,ABCB1
-Irinotecan,ABCC2
-Clavulanic acid,SLC5A1
-Olopatadine,ABCB1
-Alprostadil,ABCC5
-Alprostadil,SLCO2B1
-Alprostadil,SLCO3A1
-Alprostadil,ABCC4
-Alprostadil,SLCO2A1
-Alprostadil,SLC22A6
-Etoposide,ABCC3
-Etoposide,ABCC6
-Etoposide,ABCB1
-Etoposide,ABCC1
-Etoposide,ABCC10
-Etoposide,ABCC2
-Etoposide,ABCG2
-Hydroflumethiazide,SLC22A6
-Hydroflumethiazide,SLC22A8
-Oxcarbazepine,ABCB1
-Nalidixic acid,SLC22A6
-Estradiol,SLC22A2
-Estradiol,SLC22A3
-Estradiol,ABCC10
-Estradiol,SLC22A11
-Estradiol,ABCG2
-Estradiol,SLCO1B1
-Estradiol,ABCB1
-Estradiol,SLC22A8
-Estradiol,SLCO1B3
-Estradiol,SLCO1C1
-Acyclovir,SLC22A1
-Acyclovir,SLC22A6
-Acyclovir,SLC22A8
-Acyclovir,SLC10A2
-Acyclovir,SLC47A1
-Acyclovir,SLC47A2
-Naproxen,SLCO1A2
-Naproxen,SLC22A6
-Naproxen,ABCB11
-Naproxen,ABCB1
-Naproxen,SLC22A8
-Perindopril,SLC15A1
-Perindopril,SLC15A2
-Primidone,TRPM3
-Sulfasalazine,ABCG2
-Sulfasalazine,ABCC2
-Sulfasalazine,SLC46A1
-Sulfasalazine,SLCO1B1
-Sulfasalazine,SLCO1B3
-Sulfasalazine,SLCO2B1
-Candesartan cilexetil,ABCB1
-Gentamicin,SLC22A6
-Alfentanil,ABCB1
-Ribavirin,SLC29A1
-Ribavirin,SLC28A3
-Phenylbutazone,SLC22A6
-Phenylbutazone,SLC22A8
-Phenylbutazone,SLC22A11
-Fentanyl,ABCB1
-Meloxicam,ABCC4
-Propofol,ABCB1
-Acetazolamide,SLC22A6
-Carprofen,SLC22A6
-Disulfiram,ABCB11
-Cinoxacin,SLC22A6
-Diazepam,ABCB1
-Trifluoperazine,ABCB1
-Cefaclor,SLC15A1
-Cefaclor,SLC15A2
-Cefaclor,SLC22A8
-Cefaclor,ABCB11
-Mifepristone,ABCB1
-Mifepristone,ABCC1
-Mifepristone,ABCB11
-Mifepristone,SLCO1B1
-Mifepristone,SLCO1B3
-Loperamide,ABCB1
-Donepezil,ABCG2
-Clofazimine,ABCB11
-Clofazimine,ABCB1
-Pseudoephedrine,SLC6A2
-Pseudoephedrine,SLC6A3
-Pseudoephedrine,SLC6A4
-Aminolevulinic acid,SLC15A1
-Aminolevulinic acid,SLC15A2
-Terbinafine,MDR2
-Penicillamine,SLCO1B1
-Prednisolone,SLCO1A2
-Prednisolone,ABCB1
-Diflunisal,SLC22A6
-Vardenafil,ABCB1
-Ranitidine,SLC22A1
-Ranitidine,ABCB1
-Ranitidine,SLC22A8
-Ranitidine,SLC22A2
-Tacrolimus,ABCB1
-Tacrolimus,ABCA5
-Tacrolimus,SLCO1B1
-Suprofen,SLC22A12
-Conivaptan,ABCB1
-Flupentixol,ABCB1
-Eprosartan,ABCC2
-Sirolimus,ABCB1
-Sirolimus,SLCO1B1
-Sirolimus,SLC47A1
-Emtricitabine,SLC47A1
-Chlorothiazide,SLC22A6
-Quinapril,SLC15A1
-Quinapril,SLC15A2
-Quinapril,SLC22A8
-Clomifene,ABCB1
-Bumetanide,SLC10A1
-Bumetanide,SLC22A6
-Bumetanide,SLC22A8
-Bumetanide,SLC22A11
-Bumetanide,SLC22A7
-Bumetanide,SLCO1A2
-Didanosine,SLC22A6
-Didanosine,SLC29A1
-Didanosine,SLC29A2
-Etacrynic acid,SLC22A6
-Cocaine,SLC22A2
-Cocaine,SLC6A3
-Quinidine,SLC22A2
-Quinidine,SLC22A1
-Quinidine,SLC22A5
-Quinidine,ABCB1
-Quinidine,SLCO1A2
-Quinidine,SLC22A8
-Quinidine,ABCC2
-Quinidine,SLC22A4
-Quinidine,SLCO1B1
-Quinidine,ABCB11
-Zonisamide,ABCB1
-Tinidazole,ABCB11
-Repaglinide,SLCO1B1
-Repaglinide,ABCB11
-Phenformin,SLC22A2
-Phenformin,SLC22A1
-Amantadine,SLC22A2
-Amantadine,SLC22A1
-Metronidazole,ABCB1
-Dinoprostone,SLC22A2
-Dinoprostone,ABCC5
-Dinoprostone,SLC22A6
-Dinoprostone,SLC22A8
-Dinoprostone,SLC22A11
-Dinoprostone,SLC22A7
-Dinoprostone,ABCC4
-Dinoprostone,SLCO2B1
-Dinoprostone,SLCO1A2
-Dinoprostone,SLC51A
-Dinoprostone,SLC51B
-Dinoprostone,SLCO2A1
-Dinoprostone,SLCO4A1
-Dinoprostone,SLCO1C1
-Dinoprostone,SLCO3A1
-Dinoprostone,SLCO1B1
-Buprenorphine,ABCB1
-Buprenorphine,ABCG2
-Phenoxybenzamine,SLC22A2
-Phenoxybenzamine,SLC22A1
-Phenoxybenzamine,SLC22A3
-Famotidine,SLC22A6
-Famotidine,SLC22A8
-Famotidine,SLC22A2
-Famotidine,SLC47A1
-Tipranavir,ABCB11
-Tipranavir,SLCO2B1
-Tipranavir,SLCO1B1
-Tipranavir,SLCO1B3
-Tipranavir,ABCB1
-Salicylic acid,SLC22A6
-Salicylic acid,SLC22A10
-Salicylic acid,SLC22A8
-Salicylic acid,SLC22A11
-Salicylic acid,SLCO2B1
-Salicylic acid,SLC16A1
-Salicylic acid,SLC22A7
-Salmeterol,SLC22A1
-Salmeterol,SLC22A3
-Salmeterol,SLC22A2
-Meclofenamic acid,SLC22A6
-Meclofenamic acid,SLCO1C1
-Zalcitabine,SLC22A6
-Zalcitabine,SLC22A7
-Zalcitabine,SLC29A1
-Zalcitabine,SLC29A2
-Acetylsalicylic acid,SLC22A6
-Acetylsalicylic acid,ABCB1
-Acetylsalicylic acid,SLC22A8
-Fexofenadine,ABCB1
-Fexofenadine,SLCO1B1
-Fexofenadine,SLCO1B3
-Fexofenadine,SLCO2B1
-Fexofenadine,SLCO1A2
-Fexofenadine,ABCC2
-Fexofenadine,ABCC3
-Fexofenadine,SLC22A8
-Norgestimate,ABCC2
-Norgestimate,ABCB1
-Carboplatin,SLC31A1
-Carboplatin,SLC31A2
-Carboplatin,ATP7A
-Carboplatin,ATP7B
-Carboplatin,ABCG2
-Carboplatin,ABCC2
-Methylprednisolone,ABCB1
-Telmisartan,ABCB1
-Telmisartan,ABCC2
-Telmisartan,ABCG2
-Telmisartan,ABCB11
-Desloratadine,ABCB1
-Methyldopa,SLC15A1
-Dactinomycin,SLC22A5
-Dactinomycin,ABCB1
-Dactinomycin,ABCC6
-Dactinomycin,ABCC1
-Dactinomycin,ABCG2
-Azelastine,ABCB1
-Ezetimibe,ABCB1
-Ezetimibe,ABCC2
-Ezetimibe,ABCC3
-Ezetimibe,SLCO1B1
-Ezetimibe,ABCG2
-Ezetimibe,ABCB11
-Dipyridamole,ABCC4
-Dipyridamole,ABCC5
-Dipyridamole,ABCB1
-Dipyridamole,SLCO1B1
-Dipyridamole,SLCO1B3
-Dipyridamole,SLCO2B1
-Dipyridamole,ABCB11
-Telithromycin,SLCO1B1
-Telithromycin,SLCO1B3
-Ethinylestradiol,ABCB11
-Ethinylestradiol,SLC10A1
-Ethinylestradiol,ABCC2
-Ethinylestradiol,ABCB1
-Ethinylestradiol,SLCO1A2
-Lomefloxacin,SLC22A5
-Lomefloxacin,ABCC2
-Formoterol,SLC22A1
-Formoterol,SLC22A3
-Formoterol,SLC22A4
-Formoterol,SLC22A5
-Cytarabine,SLC22A4
-Cytarabine,ABCC10
-Cytarabine,SLC29A1
-Dopamine,SLC22A2
-Dopamine,SLC22A1
-Dopamine,SLC22A3
-Dopamine,SLC22A5
-Dopamine,POU5F1
-Azathioprine,SLC29A2
-Azathioprine,SLC28A3
-Azathioprine,ABCB1
-Azathioprine,SLC43A3
-Gabapentin,SLC7A5
-Doxorubicin,ABCB1
-Doxorubicin,ABCC1
-Doxorubicin,ABCC3
-Doxorubicin,ABCC6
-Doxorubicin,ABCG2
-Doxorubicin,SLC22A16
-Doxorubicin,ABCC10
-Doxorubicin,ABCB8
-Doxorubicin,ABCB11
-Doxorubicin,RALBP1
-Doxorubicin,ABCC2
-Hydrochlorothiazide,SLC22A6
-Hydrochlorothiazide,SLC22A8
-Hydrochlorothiazide,SLC22A11
-Hydrochlorothiazide,ABCC4
-Cyclacillin,SLC22A5
-Cyclacillin,SLC15A1
-Cyclacillin,SLC15A2
-Ganciclovir,SLC22A1
-Ganciclovir,SLC22A6
-Ganciclovir,SLC22A8
-Ganciclovir,SLC22A7
-Ganciclovir,SLC47A1
-Ganciclovir,SLC47A2
-Letrozole,ABCB1
-Ketoprofen,ABCC4
-Ketoprofen,SLCO1A2
-Ketoprofen,SLC22A6
-Ketoprofen,SLC22A8
-Ketoprofen,SLC22A11
-Ketoprofen,SLC22A7
-Metyrapone,ABCC3
-Sulfamethoxazole,ABCB11
-Glyburide,ABCC3
-Glyburide,ABCB11
-Glyburide,ABCB1
-Glyburide,ABCC1
-Glyburide,SLC15A1
-Glyburide,SLCO1A2
-Glyburide,SLC15A2
-Glyburide,SLC22A6
-Glyburide,ABCC2
-Glyburide,ABCG2
-Glyburide,SLC22A7
-Glyburide,SLCO2B1
-Minocycline,OMPF
-Minocycline,OMPC
-Minocycline,SLC22A6
-Minocycline,SLC22A7
-Guanfacine,SLC47A1
-Guanfacine,SLC22A1
-Guanfacine,SLC22A2
-Felodipine,ABCB1
-Felodipine,ABCB11
-Ketoconazole,ABCB1
-Ketoconazole,SLCO1B1
-Ketoconazole,ABCB11
-Topotecan,ABCG2
-Topotecan,ABCB1
-Topotecan,SLC47A1
-Topotecan,SLC47A2
-Probenecid,SLC22A2
-Probenecid,SLC22A1
-Probenecid,ABCC3
-Probenecid,ABCC4
-Probenecid,ABCC5
-Probenecid,SLC16A7
-Probenecid,SLC22A5
-Probenecid,ABCC6
-Probenecid,ABCC1
-Probenecid,SLCO1A2
-Probenecid,SLC16A1
-Probenecid,SLC10A1
-Probenecid,SLC22A6
-Probenecid,SLC22A10
-Probenecid,SLC22A8
-Probenecid,ABCC2
-Probenecid,ABCC11
-Probenecid,SLC22A11
-Probenecid,SLCO1C1
-Probenecid,SLC22A7
-Probenecid,SLC22A12
-Probenecid,SLC2A9
-Mercaptopurine,SLC22A8
-Mercaptopurine,ABCC4
-Mercaptopurine,ABCC5
-Mercaptopurine,SLC28A2
-Mercaptopurine,SLC28A3
-Mercaptopurine,SLC29A1
-Mercaptopurine,SLC29A2
-Procainamide,SLC22A2
-Procainamide,SLC22A1
-Procainamide,SLC22A3
-Procainamide,SLC22A5
-Procainamide,SLC22A4
-Procainamide,SLC47A1
-Procainamide,SLC47A2
-Selegiline,ABCB1
-Fenofibrate,ABCB11
-Melphalan,SLC22A3
-Melphalan,SLC7A5
-Memantine,SLC22A2
-Memantine,SLC9A1
-Memantine,SLC22A4
-Memantine,SLC47A1
-Rifampicin,ABCB1
-Rifampicin,SLCO1B3
-Rifampicin,ABCC1
-Rifampicin,SLC22A7
-Rifampicin,SLCO1B1
-Rifampicin,ABCC3
-Rifampicin,ABCC5
-Rifampicin,SLCO2B1
-Rifampicin,SLCO1A2
-Rifampicin,ABCB11
-Rifampicin,ABCC2
-Rifampicin,SLC22A6
-Rifampicin,SLC22A8
-Ibuprofen,SLCO2B1
-Ibuprofen,ABCB1
-Ibuprofen,ABCC4
-Ibuprofen,ABCC1
-Ibuprofen,SLCO1A2
-Ibuprofen,SLC22A6
-Ibuprofen,SLC22A8
-Ibuprofen,SLC22A11
-Novobiocin,SLC22A6
-Novobiocin,SLC22A8
-Novobiocin,SLC22A11
-Novobiocin,ABCG2
-Novobiocin,SLCO1B1
-Novobiocin,SLCO1B3
-Novobiocin,SLCO2B1
-Benzylpenicillin,SLC22A5
-Benzylpenicillin,SLC15A1
-Benzylpenicillin,SLC15A2
-Benzylpenicillin,SLC22A6
-Benzylpenicillin,SLC22A8
-Benzylpenicillin,SLC22A4
-Benzylpenicillin,SLC22A11
-Benzylpenicillin,SLCO2B1
-Benzylpenicillin,SLCO4A1
-Benzylpenicillin,SLCO3A1
-Benzylpenicillin,SLCO1B1
-Nitrendipine,ABCB1
-Nitrendipine,ABCB11
-Norfloxacin,SLC22A5
-Norfloxacin,SLC22A6
-Amoxicillin,SLC15A1
-Amoxicillin,SLC15A2
-Amoxicillin,SLC22A6
-Melatonin,SLC22A8
-Glipizide,ABCB11
-Promethazine,ABCB1
-Promethazine,ABCC3
-Promethazine,ABCC4
-Atazanavir,ABCB1
-Atazanavir,ABCC1
-Atazanavir,SLCO1B1
-Atazanavir,SLCO1B3
-Atazanavir,ABCB11
-Atazanavir,SLCO2B1
-Fludarabine,SLC29A1
-Fludarabine,SLC28A3
-Diphenhydramine,SLC22A2
-Diphenhydramine,SLC22A5
-Atorvastatin,ABCB1
-Atorvastatin,SLCO1A2
-Atorvastatin,SLCO1B1
-Atorvastatin,ABCC4
-Atorvastatin,ABCC5
-Atorvastatin,ABCC1
-Atorvastatin,SLCO2B1
-Atorvastatin,SLCO1B3
-Atorvastatin,ABCC2
-Atorvastatin,ABCB11
-Tegaserod,SLC6A4
-Tegaserod,ABCG2
-Tegaserod,ABCB1
-Vigabatrin,SLC36A1
-Streptomycin,SLC22A6
-Benzocaine,ABCB1
-Primaquine,ABCB1
-Iloprost,SLCO2B1
-Iloprost,SLCO2A1
-Iloprost,SLCO3A1
-Ouabain,SLCO1A2
-Ouabain,SLC22A8
-Ouabain,SLCO4C1
-Ouabain,SLCO1B3
-Ouabain,SLCO1C1
-Ouabain,SLCO1B1
-Hesperetin,ABCG2
-Fluvastatin,SLCO1B1
-Fluvastatin,SLCO1B3
-Fluvastatin,SLCO2B1
-Fluvastatin,SLC15A1
-Fluvastatin,ABCC2
-Leflunomide,ABCG2
-Rosuvastatin,ABCC4
-Rosuvastatin,SLCO1A2
-Rosuvastatin,SLCO1B1
-Rosuvastatin,SLCO1B3
-Rosuvastatin,SLCO2B1
-Rosuvastatin,SLC7A11
-Rosuvastatin,ABCB11
-Rosuvastatin,ABCG2
-Rosuvastatin,ABCC2
-Rosuvastatin,SLC22A8
-Rosuvastatin,SLC10A1
-Pimozide,ABCB1
-Quinacrine,SLC22A2
-Quinacrine,ABCB1
-Sertraline,ABCB1
-Miconazole,ABCB1
-Cefuroxime,SLC15A1
-Cefuroxime,SLC15A2
-Chlorpheniramine,SLC22A2
-Chlorpheniramine,SLC22A1
-Nifedipine,ABCC3
-Nifedipine,ABCB1
-Nifedipine,ABCC2
-Nifedipine,SLCO1B1
-Nifedipine,ABCB11
-Atovaquone,ABCB1
-Amiodarone,ABCB1
-Amiodarone,ABCB11
-Amiodarone,SLC22A2
-Tolbutamide,SLC15A1
-Tolbutamide,SLCO1A2
-Tolbutamide,SLC22A6
-Tolbutamide,SLC15A2
-Tolbutamide,SLCO2B1
-Dutasteride,SLC6A3
-Dutasteride,SLC18A2
-Bicalutamide,ABCB1
-Rabeprazole,ABCG2
-Pioglitazone,SLCO1B3
-Pioglitazone,SLCO1B1
-Carvedilol,ABCB1
-Levofloxacin,ABCB1
-Levofloxacin,SLC47A1
-Levofloxacin,SLC47A2
-Levofloxacin,SLC22A1
-Levofloxacin,SLC22A2
-Levofloxacin,SLC22A4
-Levofloxacin,SLCO1A2
-Levofloxacin,SLCO4C1
-Sulfinpyrazone,ABCC3
-Sulfinpyrazone,ABCC4
-Sulfinpyrazone,ABCC5
-Sulfinpyrazone,ABCC6
-Sulfinpyrazone,ABCC1
-Sulfinpyrazone,ABCC2
-Sulfinpyrazone,ABCB11
-Cefadroxil,SLC15A1
-Cefadroxil,SLC22A5
-Cefadroxil,SLC22A6
-Cefadroxil,SLC15A2
-Cefadroxil,SLC22A8
-Doxepin,ABCB1
-Cloxacillin,SLC15A1
-Cloxacillin,SLC15A2
-Cloxacillin,SLC22A6
-Nefazodone,ABCB1
-Nefazodone,SLCO1B3
-Nefazodone,SLCO2B1
-Nefazodone,ABCB11
-Desipramine,ABCB1
-Desipramine,SLC22A1
-Desipramine,SLC22A3
-Desipramine,SLC22A2
-Desipramine,SLC22A5
-Desipramine,SLC22A4
-Bupropion,SLC22A2
-Trimetrexate,SLC19A1
-Dinoprost tromethamine,SLC22A2
-Dinoprost tromethamine,SLC22A6
-Dinoprost tromethamine,SLC22A7
-Dinoprost tromethamine,SLC22A8
-Dinoprost tromethamine,SLC22A11
-Dinoprost tromethamine,SLCO2A1
-Dinoprost tromethamine,SLCO3A1
-Terazosin,ABCB1
-Ofloxacin,SLC22A5
-Ofloxacin,ABCC1
-Ofloxacin,SLC22A6
-Ofloxacin,ABCC2
-Ofloxacin,SLC22A4
-Ofloxacin,ABCB11
-Itraconazole,ABCB1
-Itraconazole,SLCO2B1
-Arsenic trioxide,ABCC2
-Arsenic trioxide,ABCB1
-Phenobarbital,ABCB1
-Phenobarbital,ABCC3
-Phenobarbital,ABCB11
-Phenobarbital,ABCC1
-Phenobarbital,SLCO2A1
-Phenobarbital,ABCC2
-Escitalopram,ABCB1
-Idarubicin,ABCC1
-Propafenone,ABCB1
-Naloxone,SLCO1A2
-Naloxone,ABCB1
-Domperidone,ABCB1
-Clindamycin,ABCB1
-Acebutolol,ABCB1
-Flecainide,ABCB1
-Flecainide,SLC47A1
-Estramustine,ABCB1
-Captopril,ABCB1
-Captopril,SLC15A1
-Captopril,SLC22A6
-Tubocurarine,SLC22A1
-Tubocurarine,SLC22A2
-Bromocriptine,ABCB1
-Levetiracetam,ABCB1
-Nadolol,ABCB1
-Nadolol,POU2F1
-Nadolol,POU2F2
-Nadolol,SLC47A1
-Nadolol,SLC47A2
-Mitoxantrone,ABCB1
-Mitoxantrone,ABCC1
-Mitoxantrone,ABCG2
-Sparfloxacin,SLC22A5
-Sparfloxacin,ABCC2
-Sparfloxacin,ABCB1
-Clarithromycin,SLC22A7
-Clarithromycin,ABCB1
-Clarithromycin,ABCB11
-Clarithromycin,SLCO1B1
-Clarithromycin,SLCO1B3
-Ceftriaxone,SLC15A1
-Ceftriaxone,SLC15A2
-Ceftriaxone,SLC22A6
-Ceftriaxone,SLC22A8
-Ceftriaxone,SLC22A11
-Ceftriaxone,ABCB1
-Finasteride,SLC12A5
-Anastrozole,ABCB1
-Budesonide,ABCB11
-Budesonide,ABCB1
-Budesonide,SLCO1A2
-Budesonide,SLC22A8
-Quetiapine,ABCB1
-Paclitaxel,ABCB11
-Paclitaxel,ABCB1
-Paclitaxel,ABCC1
-Paclitaxel,ABCC10
-Paclitaxel,SLCO1B3
-Paclitaxel,ABCC2
-Saquinavir,ABCB1
-Saquinavir,SLC22A1
-Saquinavir,SLCO1A2
-Saquinavir,ABCG2
-Saquinavir,SLCO1B1
-Saquinavir,ABCC1
-Saquinavir,ABCC2
-Saquinavir,SLCO2B1
-Saquinavir,ABCB11
-Metoclopramide,ABCB1
-Dexamethasone,ABCB1
-Dexamethasone,SLC22A8
-Dexamethasone,ABCB11
-Dexamethasone,ABCC2
-Dexamethasone,ABCG2
-Dexamethasone,SLCO1A2
-Levodopa,SLC15A1
-Levodopa,SLC16A10
-Levodopa,SLC7A5
-Levodopa,SLC7A8
-Bromodiphenhydramine,SLC22A6
-Chlorprothixene,ABCB1
-Clomipramine,ABCB1
-Bepridil,ABCB1
-Docetaxel,ABCB1
-Docetaxel,ABCC10
-Docetaxel,SLCO1B3
-Docetaxel,SLC22A7
-Docetaxel,ABCG2
-Docetaxel,ABCC2
-Docetaxel,ABCC1
-Ergometrine,ABCB1
-Dasatinib,ABCB1
-Dasatinib,ABCG2
-Lisdexamfetamine,SLC15A1
-Lapatinib,ABCB1
-Lapatinib,TAP1
-Sitagliptin,ABCB1
-Sitagliptin,SLC22A8
-Posaconazole,ABCB1
-Darunavir,SLCO1B1
-Darunavir,ABCB1
-Paliperidone,ABCB1
-Sunitinib,ABCC4
-Sunitinib,ABCB1
-Sunitinib,ABCC2
-Sunitinib,ABCG2
-Varenicline,SLC22A2
-Oxtriphylline,SLC22A7
-St. John's Wort,ABCB1
-Polythiazide,SLC22A6
-Polythiazide,SLC22A8
-Cefamandole,SLC22A6
-Cefamandole,SLC22A8
-Cefamandole,SLC22A11
-Cefamandole,SLC22A7
-Cefazolin,ABCC4
-Cefazolin,SLC22A6
-Cefazolin,SLC22A8
-Cefazolin,SLC22A11
-Cefoperazone,SLC22A6
-Cefoperazone,SLC22A8
-Cefoperazone,SLC22A11
-Cefoperazone,SLC22A7
-Ceftizoxime,SLC15A1
-Ceftizoxime,SLC22A6
-Ceftizoxime,SLC22A8
-Cefradine,SLC22A5
-Cefradine,SLC15A1
-Cefradine,SLC15A2
-Cefradine,SLC22A6
-Cefradine,SLC47A1
-Pancuronium,SLC22A1
-Pancuronium,SLC22A2
-Vecuronium,ABCB1
-Cilazapril,ABCB1
-Cilazapril,SLC15A1
-Cilazapril,SLC15A2
-Spirapril,SLC15A1
-Spirapril,SLC15A2
-Mibefradil,ABCB1
-Sodium bicarbonate,SLC4A4
-Sodium bicarbonate,SLC4A7
-Sodium bicarbonate,SLC4A8
-Sodium bicarbonate,SLC4A5
-Sodium bicarbonate,SLC4A10
-Bezafibrate,SLCO1B1
-Colchicine,ABCB1
-Digitoxin,SLCO1A2
-Digitoxin,SLCO4C1
-Digitoxin,ABCB1
-Tiotropium,SLC22A5
-Tiotropium,SLC22A4
-Pranlukast,ABCC2
-Cefepime,SLC22A5
-Cefepime,SLC15A1
-Cefepime,SLC15A2
-Cefacetrile,SLC22A6
-Cefacetrile,SLC22A8
-Ceftibuten,SLC15A1
-Ceftibuten,SLC15A2
-Ceftibuten,SLC22A6
-Ceftibuten,SLC22A8
-Acenocoumarol,ABCB1
-Testosterone propionate,ABCB1
-Aminophenazone,SLC22A6
-Antipyrine,SLC22A6
-gamma-Hydroxybutyric acid,SLC16A7
-gamma-Hydroxybutyric acid,SLC16A1
-gamma-Hydroxybutyric acid,SLC16A3
-Midomafetamine,SLC6A2
-Midomafetamine,SLC6A3
-Midomafetamine,SLC6A4
-Dextroamphetamine,SLC6A3
-Metamfetamine,SLC22A3
-Metamfetamine,SLC22A5
-Oxprenolol,SLC22A2
-Liotrix,SLCO1A2
-Liotrix,SLCO1B1
-Liotrix,SLCO1B3
-Liotrix,SLCO4C1
-Liotrix,SLC10A1
-Liotrix,SLCO1C1
-Liotrix,SLCO4A1
-Liotrix,SLC22A8
-Liotrix,SLC16A2
-Liotrix,SLC16A10
-Liotrix,ABCB1
-Ursodeoxycholic acid,ABCB11
-Ursodeoxycholic acid,SLCO1A2
-Ursodeoxycholic acid,ABCC2
-Ursodeoxycholic acid,ABCC4
-Ursodeoxycholic acid,SLC10A2
-Ursodeoxycholic acid,SLC10A1
-Ketazolam,ABCB1
-Everolimus,SLCO1B1
-Everolimus,SLCO1B3
-Everolimus,SLCO1A2
-Everolimus,ABCB1
-Cilastatin,SLC22A6
-Cilastatin,SLC22A8
-Lopinavir,ABCB1
-Lopinavir,SLCO1B1
-Lopinavir,SLCO1B3
-Lopinavir,ABCB11
-Tazobactam,SLC22A6
-Tazobactam,SLC22A8
-Valganciclovir,SLC15A1
-Valganciclovir,SLC15A2
-Valganciclovir,SLC6A14
-Hydroxychloroquine,ABCB1
-Hydroxychloroquine,SLCO1A2
-Pipotiazine,SLC22A1
-Thiothixene,SLC22A1
-Genistein,ABCB1
-Genistein,ABCC1
-Genistein,ABCG2
-Genistein,SLCO1B1
-Genistein,SLCO2B1
+gramicidin d,ABCB1
+vasopressin,ABCC2
+cyclosporine,ABCB1
+cyclosporine,ABCB11
+cyclosporine,SLC10A2
+cyclosporine,SLC10A1
+cyclosporine,SLC22A6
+cyclosporine,ABCC10
+cyclosporine,ABCC2
+cyclosporine,ABCG2
+cyclosporine,SLCO1B1
+cyclosporine,SLCO1B3
+cyanocobalamin,AMN
+cyanocobalamin,TCN1
+cyanocobalamin,TCN2
+cyanocobalamin,CBLIF
+cyanocobalamin,CUBN
+cyanocobalamin,LRP2
+cyanocobalamin,ABCC1
+tetrahydrofolic acid,ABCC2
+histidine,SLC16A10
+pyruvic acid,SLC16A7
+pyruvic acid,SLC16A1
+pyruvic acid,SLC16A10
+pyruvic acid,SLCO2A1
+pyruvic acid,SLC16A3
+phenylalanine,SLC16A10
+biotin,SLC5A6
+biotin,SLC5A8
+choline,SLC22A2
+choline,SLC22A1
+choline,SLC22A3
+choline,SLC22A5
+choline,SLC22A4
+choline,SLC44A1
+choline,SLC44A4
+choline,SLC44A2
+choline,SLC44A3
+choline,SLC5A7
+l-lysine,SLC16A10
+l-lysine,SLC22A4
+arginine,SLC22A5
+arginine,SLC16A10
+arginine,SLC22A4
+ascorbic acid,SLC23A1
+ascorbic acid,SLC23A2
+ascorbic acid,SLC2A1
+ascorbic acid,SLC2A3
+ascorbic acid,SLC2A4
+spermine,SLC22A4
+spermine,SLC22A1
+aspartic acid,SLC16A10
+l-glutamine,SLC38A1
+l-glutamine,SLC38A2
+l-glutamine,SLC38A3
+l-glutamine,SLC1A5
+l-glutamine,SLC6A14
+l-glutamine,SLC7A7
+l-glutamine,SLC7A6
+l-glutamine,SLC7A5
+l-glutamine,SLC7A8
+l-glutamine,SLC7A9
+l-glutamine,SLC16A10
+serine,SLC16A10
+methionine,SLC16A10
+tyrosine,SLC16A2
+tyrosine,SLC16A10
+cystine,SLC16A10
+succinic acid,SLC22A8
+riboflavin,SLC22A6
+glutamic acid,SLC16A10
+glutamic acid,SLC16A1
+glutathione,ABCC1
+glutathione,ABCC2
+glutathione,ABCC3
+glutathione,ABCC4
+glutathione,ABCC5
+glycine,SLC16A10
+glycine,SLC36A1
+glycine,SLC32A1
+glycine,SLC6A5
+glycine,SLC6A9
+creatine,SLC22A5
+leucine,SLC16A10
+leucine,SLC16A2
+tryptophan,SLC16A2
+tryptophan,SLC16A10
+cysteine,SLC16A10
+thiamine,SLC22A2
+thiamine,SLC22A1
+thiamine,SLC22A5
+thiamine,SLC19A2
+thiamine,SLC19A3
+citrulline,SLC22A6
+threonine,SLC16A10
+folic acid,ABCC11
+folic acid,ABCC3
+folic acid,SLC22A6
+folic acid,ABCC4
+folic acid,ABCG2
+folic acid,SLC46A1
+folic acid,SLC25A32
+alanine,SLC16A10
+valine,SLC16A10
+vitamin a,STRA6
+vitamin e,SCARB1
+vitamin e,ABCA1
+vitamin e,NPC1L1
+vitamin e,ABCG1
+pyridoxine,ALPL
+isoleucine,SLC16A10
+aspartame,SLC22A6
+aspartame,SLC22A8
+aspartame,SLC22A11
+proline,SLC16A10
+asparagine,SLC16A10
+pravastatin,SLCO1B1
+pravastatin,SLCO2B1
+pravastatin,ABCB1
+pravastatin,SLCO1A2
+pravastatin,SLC22A6
+pravastatin,SLC22A8
+pravastatin,ABCC2
+pravastatin,SLC22A11
+pravastatin,ABCG2
+pravastatin,SLC22A7
+pravastatin,SLC16A1
+pravastatin,ABCB11
+pravastatin,SLCO1B3
+fluvoxamine,ABCB1
+fluvoxamine,ABCB11
+valsartan,SLCO1B3
+valsartan,SLCO1B1
+valsartan,ABCC2
+ramipril,SLC15A1
+ramipril,SLC15A2
+amphetamine,SLC22A3
+amphetamine,SLC22A5
+nicotine,SLC22A2
+nicotine,SLC22A1
+nicotine,SLC22A3
+nicotine,SLC22A5
+nicotine,SLC22A4
+fluconazole,ABCB1
+troglitazone,ABCB11
+troglitazone,SLCO1B1
+oseltamivir,ABCC4
+oseltamivir,SLC15A1
+oseltamivir,SLC22A8
+erythromycin,SLCO1B3
+erythromycin,ABCB11
+erythromycin,ABCB1
+erythromycin,SLCO1B1
+erythromycin,ABCC2
+erythromycin,SLCO1A2
+caffeine,ABCG2
+sildenafil,ABCC4
+sildenafil,ABCC5
+sildenafil,ABCC10
+sildenafil,SLCO1B1
+sildenafil,ABCB1
+dofetilide,SLC22A2
+pyrimethamine,SLC47A1
+pyrimethamine,SLC47A2
+reserpine,ABCB1
+reserpine,SLC22A1
+reserpine,ABCB11
+reserpine,ABCC2
+reserpine,SLC22A2
+reserpine,SLCO1B1
+reserpine,SLCO2B1
+azithromycin,ABCB1
+azithromycin,ABCC2
+midodrine,SLC15A1
+pantoprazole,ABCB1
+pantoprazole,ABCG2
+pantoprazole,SLC22A8
+torasemide,SLCO1B1
+citalopram,ABCB1
+eletriptan,ABCB1
+nelfinavir,ABCB1
+nelfinavir,SLC22A1
+nelfinavir,SLCO1A2
+nelfinavir,ABCG2
+nelfinavir,SLCO1B1
+nelfinavir,SLCO1B3
+nelfinavir,SLCO2B1
+nelfinavir,ABCB11
+glimepiride,ABCB11
+indinavir,ABCB1
+indinavir,SLC22A1
+indinavir,ABCC1
+indinavir,SLCO1A2
+indinavir,SLCO1B1
+indinavir,ABCC2
+indinavir,SLCO2B1
+indinavir,ABCB11
+lovastatin,ABCB1
+lovastatin,SLCO1A2
+lovastatin,SLCO1B1
+lovastatin,ABCC2
+lovastatin,ABCB11
+lovastatin,SLCO2B1
+lovastatin,SLCO1B3
+cefotiam,SLC22A6
+cefotiam,SLC22A8
+pregabalin,SLC1A1
+pregabalin,SLC7A5
+reboxetine,ABCB1
+nevirapine,SLC22A1
+cladribine,ABCG2
+cladribine,SLC28A3
+ranolazine,ABCB11
+ranolazine,ABCB1
+ranolazine,SLC47A1
+ranolazine,SLC47A2
+ziprasidone,ABCB1
+cabergoline,ABCB1
+phenytoin,SLCO1C1
+phenytoin,ABCB1
+phenytoin,ABCC2
+medrysone,SLCO1A2
+medrysone,ABCB1
+medrysone,SLC22A8
+doxycycline,SLC22A6
+doxycycline,ABCB5
+diethylstilbestrol,ABCG2
+diethylstilbestrol,ABCB1
+diethylstilbestrol,SLCO1B1
+diethylstilbestrol,SLCO2B1
+diethylstilbestrol,ABCB11
+clotrimazole,ABCB1
+clotrimazole,ABCB11
+clotrimazole,SLCO1B1
+clotrimazole,SLCO1B3
+cycloserine,SLC36A2
+metoprolol,SLC22A2
+isradipine,ABCB11
+topiramate,ABCB1
+topiramate,PRKAA1
+topiramate,PRKAA2
+topiramate,PRKAB1
+topiramate,PRKAB2
+topiramate,PRKAG1
+topiramate,PRKAG2
+topiramate,PRKAG3
+cefmetazole,SLC15A1
+cefmetazole,SLC15A2
+olmesartan,ABCC2
+olmesartan,SLCO1B3
+olmesartan,SLCO1B1
+olmesartan,ABCB11
+amsacrine,ABCB1
+theophylline,SLC22A7
+liothyronine,SLCO1A2
+liothyronine,SLCO1B1
+liothyronine,SLCO1B3
+liothyronine,SLCO4C1
+liothyronine,SLC10A1
+liothyronine,SLCO1C1
+liothyronine,SLCO4A1
+liothyronine,SLC22A8
+liothyronine,SLC16A10
+liothyronine,ABCB1
+liothyronine,SLC7A5
+disopyramide,SLC22A1
+disopyramide,SLC22A2
+lidocaine,SLC22A5
+lidocaine,ABCB1
+venlafaxine,ABCB1
+venlafaxine,ABCG2
+conjugated estrogens,ABCC3
+conjugated estrogens,ABCC4
+conjugated estrogens,ABCC1
+conjugated estrogens,SLCO1A2
+conjugated estrogens,SLC10A1
+conjugated estrogens,SLC22A10
+conjugated estrogens,SLC22A8
+conjugated estrogens,SLCO1C1
+conjugated estrogens,SLCO1B1
+conjugated estrogens,SLCO2B1
+conjugated estrogens,ABCB1
+conjugated estrogens,SLC22A6
+conjugated estrogens,SLC51A
+conjugated estrogens,SLC51B
+conjugated estrogens,ABCC2
+conjugated estrogens,SLCO4A1
+conjugated estrogens,ABCC11
+conjugated estrogens,SLCO1B3
+conjugated estrogens,SLC22A11
+conjugated estrogens,SLCO3A1
+conjugated estrogens,ABCG2
+chlorambucil,SLCO1A2
+morphine,ABCB1
+tenofovir disoproxil,SLC22A6
+tenofovir disoproxil,SLC22A8
+tenofovir disoproxil,ABCC10
+tenofovir disoproxil,ABCC4
+tenofovir disoproxil,ABCC2
+tenofovir disoproxil,ABCB1
+flucloxacillin,ABCB11
+tranexamic acid,SLC15A2
+ethoxzolamide,SLC22A6
+valproic acid,SLC22A6
+valproic acid,SLC22A8
+valproic acid,SLC22A5
+valproic acid,SLC16A1
+valproic acid,SLC22A7
+valproic acid,SLCO2B1
+acetaminophen,ABCB1
+gefitinib,ABCB1
+gefitinib,ABCG2
+codeine,SLC22A1
+piperacillin,SLC22A6
+piperacillin,SLC22A8
+dihydroergotamine,ABCB1
+amitriptyline,ABCB1
+indomethacin,ABCC3
+indomethacin,ABCC4
+indomethacin,ABCC6
+indomethacin,ABCB1
+indomethacin,ABCC1
+indomethacin,SLCO1A2
+indomethacin,SLC22A6
+indomethacin,SLC22A8
+indomethacin,ABCC2
+indomethacin,ABCC11
+indomethacin,SLC22A11
+indomethacin,SLC10A1
+indomethacin,SLC22A7
+indomethacin,SLCO1B1
+indomethacin,ABCB11
+metformin,SLC22A1
+metformin,SLC22A2
+metformin,SLC22A3
+metformin,SLC47A1
+metformin,SLC29A4
+metformin,SLC47A2
+ipratropium,SLC22A5
+ipratropium,SLC22A4
+methadone,ABCB1
+olanzapine,ABCB1
+atenolol,ABCB11
+omeprazole,ABCG2
+omeprazole,ABCC3
+omeprazole,ABCB1
+cetirizine,ABCB1
+terfenadine,ABCB1
+terfenadine,ABCB11
+diltiazem,ABCB1
+protriptyline,ABCB1
+aminohippuric acid,SLC22A2
+aminohippuric acid,SLC22A5
+aminohippuric acid,SLC22A6
+aminohippuric acid,SLC22A8
+aminohippuric acid,ABCC2
+aminohippuric acid,SLC22A4
+aminohippuric acid,SLC22A11
+aminohippuric acid,SLCO3A1
+aminohippuric acid,SLCO1B1
+aminohippuric acid,ABCC1
+aminohippuric acid,SLCO1A2
+aminohippuric acid,SLC16A1
+aminohippuric acid,SLC22A7
+clobazam,SLC6A1
+clobazam,SLC6A11
+clobazam,ABCB1
+megestrol acetate,ABCB1
+tioguanine,ABCC4
+mefloquine,ABCB1
+clozapine,ABCB1
+grepafloxacin,ABCB1
+grepafloxacin,ABCC1
+grepafloxacin,SLC22A6
+grepafloxacin,SLC22A2
+grepafloxacin,SLC22A5
+grepafloxacin,ABCC2
+norepinephrine,SLC6A2
+norepinephrine,SLC22A2
+norepinephrine,SLC22A3
+norepinephrine,SLC22A5
+norepinephrine,SLC22A1
+norepinephrine,POU5F1
+cidofovir,SLC22A6
+mirtazapine,SLC6A4
+timolol,ABCB1
+amlodipine,ABCB1
+tacrine,ABCB1
+digoxin,ABCB1
+digoxin,SLCO4C1
+digoxin,ABCB11
+digoxin,SLCO1A2
+digoxin,SLC51A
+digoxin,SLC51B
+digoxin,SLCO1B1
+beclomethasone dipropionate,ABCB1
+beclomethasone dipropionate,ABCG2
+beclomethasone dipropionate,SLCO1B1
+beclomethasone dipropionate,SLCO1B3
+progesterone,ABCB1
+progesterone,SLC22A2
+progesterone,SLC22A1
+progesterone,SLC22A3
+progesterone,ABCB11
+progesterone,ABCC1
+progesterone,SLC10A1
+progesterone,SLCO1B1
+progesterone,ABCG2
+progesterone,SLCO1B3
+sorafenib,ABCG2
+sorafenib,ABCC4
+sorafenib,ABCC2
+sorafenib,ABCB1
+sorafenib,RALBP1
+sorafenib,SLCO1B1
+zoledronic acid,ABCC1
+nisoldipine,ABCB1
+gentian violet cation,SLC22A1
+rosiglitazone,SLCO1B1
+rosiglitazone,ABCB11
+pramipexole,SLC22A2
+pramipexole,SLC22A1
+pramipexole,SLC22A3
+ampicillin,SLC22A5
+ampicillin,SLC15A1
+ampicillin,SLC15A2
+ampicillin,SLC16A1
+spironolactone,ABCC2
+spironolactone,ABCB1
+spironolactone,SLCO1A2
+spironolactone,ABCB11
+streptozocin,ABCB1
+trifluridine,SLC22A6
+trifluridine,SLC28A1
+trifluridine,SLC29A1
+trifluridine,SLC29A2
+allopurinol,SLC22A8
+allopurinol,SLC22A7
+allopurinol,ABCG2
+allopurinol,SLC22A2
+ceftazidime,SLC22A5
+ceftazidime,SLC15A1
+ceftazidime,SLC15A2
+ceftazidime,SLC22A6
+cerivastatin,ABCB1
+cerivastatin,ABCC2
+cerivastatin,ABCG2
+cerivastatin,SLCO1B1
+cerivastatin,ABCB11
+trimethoprim,ABCB1
+trimethoprim,SLC47A1
+trimethoprim,SLC47A2
+gemcitabine,ABCB1
+gemcitabine,ABCC10
+gemcitabine,SLC29A1
+gemcitabine,SLC28A1
+gemcitabine,SLC29A2
+gemcitabine,SLC28A3
+betamethasone,ABCB1
+teniposide,ABCC6
+teniposide,ABCG2
+epirubicin,ABCC1
+chloramphenicol,SLC22A6
+loracarbef,SLC15A1
+loracarbef,SLC15A2
+lansoprazole,ABCG2
+lansoprazole,ABCB1
+lansoprazole,SLC22A8
+lansoprazole,SLC22A1
+lansoprazole,SLC22A2
+lansoprazole,SLC22A3
+levothyroxine,SLCO1C1
+levothyroxine,SLC16A2
+levothyroxine,ABCB1
+levothyroxine,SLCO1A2
+levothyroxine,SLCO1B1
+levothyroxine,SLCO1B3
+levothyroxine,SLCO4A1
+levothyroxine,SLCO4C1
+levothyroxine,SLC7A5
+levothyroxine,SLCO2B1
+meperidine,ABCB1
+loratadine,ABCB1
+loratadine,ABCB11
+cefalotin,SLC22A5
+cefalotin,SLC15A1
+cefalotin,SLC15A2
+cefalotin,SLC22A6
+cefalotin,SLC22A8
+cefalotin,SLC22A11
+cefalotin,SLC22A7
+prazosin,SLC22A1
+prazosin,SLC22A3
+prazosin,ABCB1
+prazosin,ABCG2
+imipramine,ABCB1
+imipramine,SLC22A2
+imipramine,SLC22A3
+imipramine,SLC22A4
+quinine,SLC22A2
+quinine,SLC22A1
+quinine,SLC22A5
+quinine,ABCB1
+quinine,SLCO1A2
+quinine,SLC22A4
+quinine,SLCO1B1
+tenoxicam,SLC22A8
+dronabinol,ABCB1
+dronabinol,ABCG2
+montelukast,SLCO2B1
+fluoxetine,ABCB1
+duloxetine,ABCB1
+chlorpromazine,ABCB1
+chlorpromazine,ABCB11
+lenalidomide,ABCB1
+raloxifene,SLCO1B1
+raloxifene,SLCO1B3
+raloxifene,ABCB1
+raloxifene,ABCG2
+raloxifene,ABCC2
+raloxifene,ABCC3
+raloxifene,ABCC4
+celecoxib,ABCC4
+celecoxib,ABCB11
+celecoxib,ABCB1
+celecoxib,ABCG2
+dicloxacillin,SLC15A1
+dicloxacillin,SLC15A2
+buspirone,ABCB1
+fosinopril,SLC15A1
+fosinopril,SLC15A2
+cefotaxime,SLC15A1
+cefotaxime,SLC15A2
+cefotaxime,SLC22A6
+cefotaxime,SLC22A8
+cefotaxime,SLC22A11
+cefotaxime,SLC22A7
+zidovudine,SLC22A2
+zidovudine,SLC22A6
+zidovudine,SLC22A7
+zidovudine,SLC22A8
+zidovudine,SLC22A11
+zidovudine,SLC28A1
+zidovudine,SLC29A2
+zidovudine,ABCB1
+zidovudine,ABCC4
+zidovudine,ABCC5
+zidovudine,ABCG2
+tolmetin,SLC22A6
+cimetidine,ABCB1
+cimetidine,SLC22A2
+cimetidine,SLC22A1
+cimetidine,SLC22A3
+cimetidine,SLC22A5
+cimetidine,SLC22A6
+cimetidine,SLC22A8
+cimetidine,SLC47A1
+cimetidine,SLC22A4
+cimetidine,SLC22A11
+cimetidine,SLC22A7
+cimetidine,ABCB11
+cimetidine,SLC47A2
+haloperidol,ABCB1
+ritonavir,ABCB1
+ritonavir,ABCC1
+ritonavir,SLCO1A2
+ritonavir,ABCC2
+ritonavir,ABCG2
+ritonavir,SLCO1B1
+ritonavir,SLCO2B1
+ritonavir,ABCB11
+ritonavir,SLCO1B3
+triflupromazine,ABCB1
+dextrothyroxine,SLCO1B1
+dextrothyroxine,SLCO1C1
+dextrothyroxine,SLCO4A1
+dextrothyroxine,SLCO4C1
+dextrothyroxine,SLC7A5
+cisplatin,ABCC3
+cisplatin,ABCC5
+cisplatin,ABCC2
+cisplatin,SLC22A2
+cisplatin,SLC31A1
+cisplatin,SLC31A2
+cisplatin,ABCC6
+cisplatin,ABCB1
+cisplatin,ATP7B
+cisplatin,ATP7A
+cisplatin,ABCG2
+albendazole,ABCB1
+trandolapril,SLC15A1
+trandolapril,SLC15A2
+caspofungin,SLC22A1
+caspofungin,ABCB1
+caspofungin,SLC22A6
+caspofungin,SLCO1B1
+caspofungin,SLCO1B3
+alitretinoin,ABCB1
+oxaliplatin,SLC22A2
+oxaliplatin,SLC31A1
+oxaliplatin,SLC22A3
+oxaliplatin,ABCG2
+oxaliplatin,ABCC2
+oxaliplatin,ATP7B
+oxaliplatin,ATP7A
+foscarnet,SLC22A6
+foscarnet,SLC16A1
+erlotinib,ABCG2
+erlotinib,ABCB1
+erlotinib,SLCO2B1
+rofecoxib,ABCC4
+cefdinir,SLC22A5
+cefdinir,SLC15A1
+cefdinir,SLC15A2
+cefdinir,SLC22A6
+cefdinir,SLC22A8
+guanidine,SLC22A2
+guanidine,SLC22A1
+guanidine,SLC22A3
+guanidine,SLC22A5
+guanidine,SLC22A8
+guanidine,SLC22A4
+guanidine,SLC47A1
+guanidine,SLC47A2
+ciprofloxacin,ABCB1
+ciprofloxacin,SLC47A1
+ciprofloxacin,SLC47A2
+toremifene,ABCB1
+nortriptyline,SLC6A2
+nortriptyline,ABCB1
+vincristine,ABCB1
+vincristine,ABCC3
+vincristine,SLC22A3
+vincristine,ABCC1
+vincristine,ABCC10
+vincristine,ABCC2
+vincristine,ABCB11
+vincristine,ABCG2
+vincristine,RALBP1
+vincristine,SLCO1B1
+vincristine,SLCO1B3
+benazepril,SLC15A1
+benazepril,SLC15A2
+fluorouracil,SLC22A7
+fluorouracil,SLC29A1
+fluorouracil,ABCG2
+fluorouracil,ABCC3
+fluorouracil,ABCC4
+fluorouracil,ABCC5
+zafirlukast,ABCG2
+piroxicam,SLC22A6
+piroxicam,SLC22A8
+piroxicam,SLC22A11
+piroxicam,SLCO2B1
+lamotrigine,ABCB1
+lamotrigine,SLC22A2
+lamotrigine,SLC22A1
+hydroxyzine,ABCB1
+bosentan,ABCB11
+methotrexate,ABCC3
+methotrexate,ABCC4
+methotrexate,ABCC1
+methotrexate,SLC22A6
+methotrexate,ABCC10
+methotrexate,SLC22A8
+methotrexate,ABCC2
+methotrexate,ABCB1
+methotrexate,SLCO1A2
+methotrexate,SLC16A1
+methotrexate,ABCC11
+methotrexate,SLCO1B3
+methotrexate,SLC22A11
+methotrexate,SLCO1C1
+methotrexate,SLCO3A1
+methotrexate,ABCG2
+methotrexate,SLC22A7
+methotrexate,SLC46A1
+methotrexate,SLCO1B1
+methotrexate,SLCO4C1
+methotrexate,SLC19A1
+methotrexate,FOLR1
+methotrexate,FOLR2
+methotrexate,SLC15A1
+methotrexate,SLC36A1
+carbamazepine,ABCB1
+carbamazepine,RALBP1
+carbamazepine,ABCC2
+cephalexin,SLC22A5
+cephalexin,SLC15A1
+cephalexin,SLC15A2
+cephalexin,SLC22A6
+cephalexin,SLC47A1
+cephalexin,SLC22A8
+vinblastine,ABCB1
+vinblastine,ABCC1
+vinblastine,ABCC2
+vinblastine,ABCC6
+vinblastine,ABCB11
+vinblastine,SLCO1B1
+propranolol,SLC22A2
+propranolol,ABCB1
+atropine,ABCB11
+clonidine,SLC22A3
+clonidine,SLC22A5
+clonidine,SLC22A4
+clonidine,ABCB1
+valaciclovir,SLC15A1
+valaciclovir,SLC15A2
+valaciclovir,SLC22A8
+valaciclovir,SLC22A6
+valaciclovir,SLC6A14
+valaciclovir,SLC10A2
+carbenicillin,SLC22A6
+levocarnitine,SLC22A4
+levocarnitine,SLCO1B1
+levocarnitine,SLC22A5
+levocarnitine,SLC22A16
+levocarnitine,SLC22A8
+enalapril,ABCB1
+enalapril,SLC15A1
+enalapril,SLC22A6
+enalapril,SLC22A8
+enalapril,SLC22A7
+enalapril,SLCO1A2
+nizatidine,ABCB1
+diclofenac,SLC22A6
+diclofenac,ABCC4
+diclofenac,ABCC1
+diclofenac,SLC22A8
+diclofenac,SLC22A11
+diclofenac,SLCO1C1
+diclofenac,SLCO1B1
+diclofenac,ABCB11
+diclofenac,SCN4A
+diclofenac,ASIC1
+diclofenac,KCNQ2
+diclofenac,KCNQ3
+diclofenac,ABCB1
+fluticasone propionate,ABCB1
+fluticasone propionate,SLCO1B1
+doxazosin,ABCB1
+doxazosin,SLC22A1
+amiloride,SLC22A2
+amiloride,SLC22A4
+oxytetracycline,SLC22A6
+oxytetracycline,SLC22A8
+oxytetracycline,SLC22A11
+oxytetracycline,SLC22A7
+labetalol,ABCB5
+ivermectin,ABCB1
+ivermectin,ABCC1
+ivermectin,ABCC2
+ivermectin,ABCG2
+ivermectin,SLCO1B1
+ivermectin,SLCO1B3
+medroxyprogesterone acetate,ABCB1
+sulindac,SLC22A6
+cyclothiazide,SLC22A6
+nafcillin,SLC22A6
+chloroquine,ABCB1
+bisoprolol,ABCB1
+amodiaquine,ABCB1
+rifabutin,ABCB1
+imatinib,SLC22A1
+imatinib,ABCB1
+imatinib,SLC22A2
+imatinib,ABCG2
+imatinib,ABCA3
+imatinib,ABCB11
+nicardipine,ABCB1
+nicardipine,SLCO1B1
+nicardipine,ABCB11
+fluphenazine,ABCB1
+testosterone,SLC22A8
+testosterone,SLC22A7
+testosterone,SLC10A1
+testosterone,ABCG2
+testosterone,SLCO1B3
+efavirenz,ABCB11
+efavirenz,SLC22A1
+bacitracin,BCRA
+bacitracin,BCRB
+bacitracin,BCRC
+niacin,SLC22A5
+niacin,SLCO2B1
+niacin,SLC16A1
+niacin,SLC5A8
+niacin,SLC16A3
+clofarabine,ABCG2
+prednisone,ABCB1
+prednisone,SLCO1A2
+astemizole,ABCB1
+astemizole,ABCB11
+adenosine,SLC28A3
+simvastatin,ABCB1
+simvastatin,SLCO1A2
+simvastatin,SLCO1B1
+simvastatin,ABCC2
+simvastatin,ABCB11
+simvastatin,SLCO2B1
+simvastatin,SLCO1B3
+pemetrexed,SLC22A8
+nystatin,SLCO1B1
+nystatin,SLCO1B3
+mitotane,ABCB1
+stavudine,SLC22A6
+stavudine,SLC28A1
+leucovorin,SLC22A8
+pentazocine,ABCB1
+latanoprost,SLCO2A1
+latanoprost,SLC22A6
+latanoprost,SLC22A8
+estrone,SLCO2B1
+estrone,ABCB1
+estrone,SLCO1A2
+estrone,ABCG2
+estrone,SLCO1B1
+estrone,SLC22A8
+trazodone,ABCB1
+acamprosate,SLC36A1
+verapamil,ABCB1
+verapamil,SLC22A1
+verapamil,SLC22A4
+verapamil,SLC22A5
+verapamil,ABCC3
+verapamil,SLCO1B1
+verapamil,SLCO1A2
+verapamil,ABCC1
+verapamil,ABCC4
+verapamil,ABCC10
+verapamil,SLC47A1
+verapamil,SLC47A2
+epinephrine,SLC22A2
+epinephrine,SLC22A1
+sumatriptan,SLCO1A2
+sumatriptan,ABCB1
+sumatriptan,ABCG2
+sumatriptan,SLCO1B1
+cefixime,SLC22A5
+cefixime,SLC15A1
+cefixime,SLC15A2
+chlorpropamide,SLC15A1
+chlorpropamide,SLC15A2
+chlorpropamide,SLC22A6
+tamoxifen,ABCB1
+tamoxifen,ABCG2
+tamoxifen,ABCC2
+tamoxifen,ABCB11
+tamoxifen,ABCA1
+losartan,ABCB1
+losartan,SLC22A6
+losartan,SLC22A12
+losartan,SLC2A9
+losartan,ABCB11
+mycophenolate mofetil,SLCO1B1
+mycophenolate mofetil,SLCO1B3
+mycophenolate mofetil,ABCG2
+mycophenolate mofetil,ABCB1
+mycophenolate mofetil,ABCC2
+cephaloglycin,SLC22A5
+flurazepam,ABCB1
+flurazepam,SLC22A2
+moexipril,SLC15A1
+moexipril,SLC15A2
+fluorescein,SLC22A6
+fluorescein,ABCB11
+fluorescein,ABCC1
+daunorubicin,ABCB1
+daunorubicin,ABCC1
+daunorubicin,ABCC10
+daunorubicin,ABCC2
+daunorubicin,ABCC6
+daunorubicin,ABCB11
+daunorubicin,ABCG2
+furosemide,SLC22A6
+furosemide,SLC22A5
+furosemide,SLC22A8
+furosemide,ABCC2
+furosemide,SLCO2A1
+furosemide,SLC22A11
+ergotamine,ABCB1
+nitrofurantoin,ABCG2
+nitrofurantoin,ABCB11
+nitrofurantoin,ABCB1
+nitrofurantoin,ABCC2
+amprenavir,ABCB1
+amprenavir,ABCC1
+amprenavir,SLCO1B1
+methazolamide,SLC22A6
+lamivudine,ABCC1
+lamivudine,SLC22A6
+lamivudine,ABCG2
+lamivudine,SLC22A1
+lamivudine,SLC22A2
+lamivudine,SLC22A3
+lamivudine,ABCB1
+lamivudine,ABCC4
+lamivudine,ABCC3
+lamivudine,ABCC2
+flurbiprofen,ABCC4
+flurbiprofen,SLC22A6
+oxacillin,SLC15A1
+oxacillin,SLC15A2
+paroxetine,ABCB1
+norethisterone,ABCB1
+adefovir dipivoxil,SLC22A6
+adefovir dipivoxil,ABCC4
+adefovir dipivoxil,ABCC5
+adefovir dipivoxil,SLC22A3
+procaine,SLC6A3
+procaine,SLC6A2
+procaine,SLC6A4
+lisinopril,SLC15A1
+lisinopril,SLC15A2
+trimipramine,ABCB1
+rocuronium,SLC22A1
+rocuronium,SLCO1A2
+nateglinide,ABCC4
+nateglinide,SLC16A1
+nateglinide,SLC15A1
+nateglinide,SLC15A2
+nateglinide,SLC22A6
+risperidone,ABCB1
+esomeprazole,ABCB1
+esomeprazole,SLC22A8
+riluzole,ABCG2
+hydrocortisone,ABCB1
+hydrocortisone,SLCO1A2
+hydrocortisone,SLC22A8
+scopolamine,ABCB1
+etodolac,SLC22A6
+epinastine,ABCB1
+tretinoin,CRABP1
+tretinoin,CRABP2
+clopidogrel,ABCB1
+clopidogrel,SLC22A1
+clopidogrel,SLC22A2
+tetracycline,SLC22A6
+tetracycline,SLC22A8
+tetracycline,SLC22A11
+tetracycline,SLC22A7
+tetracycline,SLCO2B1
+potassium chloride,SLC12A2
+potassium chloride,SLC12A1
+potassium chloride,SLC12A5
+potassium chloride,SLC12A6
+potassium chloride,SLC12A7
+potassium chloride,SLC12A4
+irinotecan,SLC22A3
+irinotecan,SLCO1B1
+irinotecan,ABCC1
+irinotecan,ABCG2
+irinotecan,ABCB1
+irinotecan,ABCC2
+clavulanic acid,SLC5A1
+olopatadine,ABCB1
+alprostadil,ABCC5
+alprostadil,SLCO2B1
+alprostadil,SLCO3A1
+alprostadil,ABCC4
+alprostadil,SLCO2A1
+alprostadil,SLC22A6
+etoposide,ABCC3
+etoposide,ABCC6
+etoposide,ABCB1
+etoposide,ABCC1
+etoposide,ABCC10
+etoposide,ABCC2
+etoposide,ABCG2
+hydroflumethiazide,SLC22A6
+hydroflumethiazide,SLC22A8
+oxcarbazepine,ABCB1
+nalidixic acid,SLC22A6
+estradiol,SLC22A2
+estradiol,SLC22A3
+estradiol,ABCC10
+estradiol,SLC22A11
+estradiol,ABCG2
+estradiol,SLCO1B1
+estradiol,ABCB1
+estradiol,SLC22A8
+estradiol,SLCO1B3
+estradiol,SLCO1C1
+acyclovir,SLC22A1
+acyclovir,SLC22A6
+acyclovir,SLC22A8
+acyclovir,SLC10A2
+acyclovir,SLC47A1
+acyclovir,SLC47A2
+naproxen,SLCO1A2
+naproxen,SLC22A6
+naproxen,ABCB11
+naproxen,ABCB1
+naproxen,SLC22A8
+perindopril,SLC15A1
+perindopril,SLC15A2
+primidone,TRPM3
+sulfasalazine,ABCG2
+sulfasalazine,ABCC2
+sulfasalazine,SLC46A1
+sulfasalazine,SLCO1B1
+sulfasalazine,SLCO1B3
+sulfasalazine,SLCO2B1
+candesartan cilexetil,ABCB1
+gentamicin,SLC22A6
+alfentanil,ABCB1
+ribavirin,SLC29A1
+ribavirin,SLC28A3
+phenylbutazone,SLC22A6
+phenylbutazone,SLC22A8
+phenylbutazone,SLC22A11
+fentanyl,ABCB1
+meloxicam,ABCC4
+propofol,ABCB1
+acetazolamide,SLC22A6
+carprofen,SLC22A6
+disulfiram,ABCB11
+cinoxacin,SLC22A6
+diazepam,ABCB1
+trifluoperazine,ABCB1
+cefaclor,SLC15A1
+cefaclor,SLC15A2
+cefaclor,SLC22A8
+cefaclor,ABCB11
+mifepristone,ABCB1
+mifepristone,ABCC1
+mifepristone,ABCB11
+mifepristone,SLCO1B1
+mifepristone,SLCO1B3
+loperamide,ABCB1
+donepezil,ABCG2
+clofazimine,ABCB11
+clofazimine,ABCB1
+pseudoephedrine,SLC6A2
+pseudoephedrine,SLC6A3
+pseudoephedrine,SLC6A4
+aminolevulinic acid,SLC15A1
+aminolevulinic acid,SLC15A2
+terbinafine,MDR2
+penicillamine,SLCO1B1
+prednisolone,SLCO1A2
+prednisolone,ABCB1
+diflunisal,SLC22A6
+vardenafil,ABCB1
+ranitidine,SLC22A1
+ranitidine,ABCB1
+ranitidine,SLC22A8
+ranitidine,SLC22A2
+tacrolimus,ABCB1
+tacrolimus,ABCA5
+tacrolimus,SLCO1B1
+suprofen,SLC22A12
+conivaptan,ABCB1
+flupentixol,ABCB1
+eprosartan,ABCC2
+sirolimus,ABCB1
+sirolimus,SLCO1B1
+sirolimus,SLC47A1
+emtricitabine,SLC47A1
+chlorothiazide,SLC22A6
+quinapril,SLC15A1
+quinapril,SLC15A2
+quinapril,SLC22A8
+clomifene,ABCB1
+bumetanide,SLC10A1
+bumetanide,SLC22A6
+bumetanide,SLC22A8
+bumetanide,SLC22A11
+bumetanide,SLC22A7
+bumetanide,SLCO1A2
+didanosine,SLC22A6
+didanosine,SLC29A1
+didanosine,SLC29A2
+etacrynic acid,SLC22A6
+cocaine,SLC22A2
+cocaine,SLC6A3
+quinidine,SLC22A2
+quinidine,SLC22A1
+quinidine,SLC22A5
+quinidine,ABCB1
+quinidine,SLCO1A2
+quinidine,SLC22A8
+quinidine,ABCC2
+quinidine,SLC22A4
+quinidine,SLCO1B1
+quinidine,ABCB11
+zonisamide,ABCB1
+tinidazole,ABCB11
+repaglinide,SLCO1B1
+repaglinide,ABCB11
+phenformin,SLC22A2
+phenformin,SLC22A1
+amantadine,SLC22A2
+amantadine,SLC22A1
+metronidazole,ABCB1
+dinoprostone,SLC22A2
+dinoprostone,ABCC5
+dinoprostone,SLC22A6
+dinoprostone,SLC22A8
+dinoprostone,SLC22A11
+dinoprostone,SLC22A7
+dinoprostone,ABCC4
+dinoprostone,SLCO2B1
+dinoprostone,SLCO1A2
+dinoprostone,SLC51A
+dinoprostone,SLC51B
+dinoprostone,SLCO2A1
+dinoprostone,SLCO4A1
+dinoprostone,SLCO1C1
+dinoprostone,SLCO3A1
+dinoprostone,SLCO1B1
+buprenorphine,ABCB1
+buprenorphine,ABCG2
+phenoxybenzamine,SLC22A2
+phenoxybenzamine,SLC22A1
+phenoxybenzamine,SLC22A3
+famotidine,SLC22A6
+famotidine,SLC22A8
+famotidine,SLC22A2
+famotidine,SLC47A1
+tipranavir,ABCB11
+tipranavir,SLCO2B1
+tipranavir,SLCO1B1
+tipranavir,SLCO1B3
+tipranavir,ABCB1
+salicylic acid,SLC22A6
+salicylic acid,SLC22A10
+salicylic acid,SLC22A8
+salicylic acid,SLC22A11
+salicylic acid,SLCO2B1
+salicylic acid,SLC16A1
+salicylic acid,SLC22A7
+salmeterol,SLC22A1
+salmeterol,SLC22A3
+salmeterol,SLC22A2
+meclofenamic acid,SLC22A6
+meclofenamic acid,SLCO1C1
+zalcitabine,SLC22A6
+zalcitabine,SLC22A7
+zalcitabine,SLC29A1
+zalcitabine,SLC29A2
+acetylsalicylic acid,SLC22A6
+acetylsalicylic acid,ABCB1
+acetylsalicylic acid,SLC22A8
+fexofenadine,ABCB1
+fexofenadine,SLCO1B1
+fexofenadine,SLCO1B3
+fexofenadine,SLCO2B1
+fexofenadine,SLCO1A2
+fexofenadine,ABCC2
+fexofenadine,ABCC3
+fexofenadine,SLC22A8
+norgestimate,ABCC2
+norgestimate,ABCB1
+carboplatin,SLC31A1
+carboplatin,SLC31A2
+carboplatin,ATP7A
+carboplatin,ATP7B
+carboplatin,ABCG2
+carboplatin,ABCC2
+methylprednisolone,ABCB1
+telmisartan,ABCB1
+telmisartan,ABCC2
+telmisartan,ABCG2
+telmisartan,ABCB11
+desloratadine,ABCB1
+methyldopa,SLC15A1
+dactinomycin,SLC22A5
+dactinomycin,ABCB1
+dactinomycin,ABCC6
+dactinomycin,ABCC1
+dactinomycin,ABCG2
+azelastine,ABCB1
+ezetimibe,ABCB1
+ezetimibe,ABCC2
+ezetimibe,ABCC3
+ezetimibe,SLCO1B1
+ezetimibe,ABCG2
+ezetimibe,ABCB11
+dipyridamole,ABCC4
+dipyridamole,ABCC5
+dipyridamole,ABCB1
+dipyridamole,SLCO1B1
+dipyridamole,SLCO1B3
+dipyridamole,SLCO2B1
+dipyridamole,ABCB11
+telithromycin,SLCO1B1
+telithromycin,SLCO1B3
+ethinylestradiol,ABCB11
+ethinylestradiol,SLC10A1
+ethinylestradiol,ABCC2
+ethinylestradiol,ABCB1
+ethinylestradiol,SLCO1A2
+lomefloxacin,SLC22A5
+lomefloxacin,ABCC2
+formoterol,SLC22A1
+formoterol,SLC22A3
+formoterol,SLC22A4
+formoterol,SLC22A5
+cytarabine,SLC22A4
+cytarabine,ABCC10
+cytarabine,SLC29A1
+dopamine,SLC22A2
+dopamine,SLC22A1
+dopamine,SLC22A3
+dopamine,SLC22A5
+dopamine,POU5F1
+azathioprine,SLC29A2
+azathioprine,SLC28A3
+azathioprine,ABCB1
+azathioprine,SLC43A3
+gabapentin,SLC7A5
+doxorubicin,ABCB1
+doxorubicin,ABCC1
+doxorubicin,ABCC3
+doxorubicin,ABCC6
+doxorubicin,ABCG2
+doxorubicin,SLC22A16
+doxorubicin,ABCC10
+doxorubicin,ABCB8
+doxorubicin,ABCB11
+doxorubicin,RALBP1
+doxorubicin,ABCC2
+hydrochlorothiazide,SLC22A6
+hydrochlorothiazide,SLC22A8
+hydrochlorothiazide,SLC22A11
+hydrochlorothiazide,ABCC4
+cyclacillin,SLC22A5
+cyclacillin,SLC15A1
+cyclacillin,SLC15A2
+ganciclovir,SLC22A1
+ganciclovir,SLC22A6
+ganciclovir,SLC22A8
+ganciclovir,SLC22A7
+ganciclovir,SLC47A1
+ganciclovir,SLC47A2
+letrozole,ABCB1
+ketoprofen,ABCC4
+ketoprofen,SLCO1A2
+ketoprofen,SLC22A6
+ketoprofen,SLC22A8
+ketoprofen,SLC22A11
+ketoprofen,SLC22A7
+metyrapone,ABCC3
+sulfamethoxazole,ABCB11
+glyburide,ABCC3
+glyburide,ABCB11
+glyburide,ABCB1
+glyburide,ABCC1
+glyburide,SLC15A1
+glyburide,SLCO1A2
+glyburide,SLC15A2
+glyburide,SLC22A6
+glyburide,ABCC2
+glyburide,ABCG2
+glyburide,SLC22A7
+glyburide,SLCO2B1
+minocycline,OMPF
+minocycline,OMPC
+minocycline,SLC22A6
+minocycline,SLC22A7
+guanfacine,SLC47A1
+guanfacine,SLC22A1
+guanfacine,SLC22A2
+felodipine,ABCB1
+felodipine,ABCB11
+ketoconazole,ABCB1
+ketoconazole,SLCO1B1
+ketoconazole,ABCB11
+topotecan,ABCG2
+topotecan,ABCB1
+topotecan,SLC47A1
+topotecan,SLC47A2
+probenecid,SLC22A2
+probenecid,SLC22A1
+probenecid,ABCC3
+probenecid,ABCC4
+probenecid,ABCC5
+probenecid,SLC16A7
+probenecid,SLC22A5
+probenecid,ABCC6
+probenecid,ABCC1
+probenecid,SLCO1A2
+probenecid,SLC16A1
+probenecid,SLC10A1
+probenecid,SLC22A6
+probenecid,SLC22A10
+probenecid,SLC22A8
+probenecid,ABCC2
+probenecid,ABCC11
+probenecid,SLC22A11
+probenecid,SLCO1C1
+probenecid,SLC22A7
+probenecid,SLC22A12
+probenecid,SLC2A9
+mercaptopurine,SLC22A8
+mercaptopurine,ABCC4
+mercaptopurine,ABCC5
+mercaptopurine,SLC28A2
+mercaptopurine,SLC28A3
+mercaptopurine,SLC29A1
+mercaptopurine,SLC29A2
+procainamide,SLC22A2
+procainamide,SLC22A1
+procainamide,SLC22A3
+procainamide,SLC22A5
+procainamide,SLC22A4
+procainamide,SLC47A1
+procainamide,SLC47A2
+selegiline,ABCB1
+fenofibrate,ABCB11
+melphalan,SLC22A3
+melphalan,SLC7A5
+memantine,SLC22A2
+memantine,SLC9A1
+memantine,SLC22A4
+memantine,SLC47A1
+rifampicin,ABCB1
+rifampicin,SLCO1B3
+rifampicin,ABCC1
+rifampicin,SLC22A7
+rifampicin,SLCO1B1
+rifampicin,ABCC3
+rifampicin,ABCC5
+rifampicin,SLCO2B1
+rifampicin,SLCO1A2
+rifampicin,ABCB11
+rifampicin,ABCC2
+rifampicin,SLC22A6
+rifampicin,SLC22A8
+ibuprofen,SLCO2B1
+ibuprofen,ABCB1
+ibuprofen,ABCC4
+ibuprofen,ABCC1
+ibuprofen,SLCO1A2
+ibuprofen,SLC22A6
+ibuprofen,SLC22A8
+ibuprofen,SLC22A11
+novobiocin,SLC22A6
+novobiocin,SLC22A8
+novobiocin,SLC22A11
+novobiocin,ABCG2
+novobiocin,SLCO1B1
+novobiocin,SLCO1B3
+novobiocin,SLCO2B1
+benzylpenicillin,SLC22A5
+benzylpenicillin,SLC15A1
+benzylpenicillin,SLC15A2
+benzylpenicillin,SLC22A6
+benzylpenicillin,SLC22A8
+benzylpenicillin,SLC22A4
+benzylpenicillin,SLC22A11
+benzylpenicillin,SLCO2B1
+benzylpenicillin,SLCO4A1
+benzylpenicillin,SLCO3A1
+benzylpenicillin,SLCO1B1
+nitrendipine,ABCB1
+nitrendipine,ABCB11
+norfloxacin,SLC22A5
+norfloxacin,SLC22A6
+amoxicillin,SLC15A1
+amoxicillin,SLC15A2
+amoxicillin,SLC22A6
+melatonin,SLC22A8
+glipizide,ABCB11
+promethazine,ABCB1
+promethazine,ABCC3
+promethazine,ABCC4
+atazanavir,ABCB1
+atazanavir,ABCC1
+atazanavir,SLCO1B1
+atazanavir,SLCO1B3
+atazanavir,ABCB11
+atazanavir,SLCO2B1
+fludarabine,SLC29A1
+fludarabine,SLC28A3
+diphenhydramine,SLC22A2
+diphenhydramine,SLC22A5
+atorvastatin,ABCB1
+atorvastatin,SLCO1A2
+atorvastatin,SLCO1B1
+atorvastatin,ABCC4
+atorvastatin,ABCC5
+atorvastatin,ABCC1
+atorvastatin,SLCO2B1
+atorvastatin,SLCO1B3
+atorvastatin,ABCC2
+atorvastatin,ABCB11
+tegaserod,SLC6A4
+tegaserod,ABCG2
+tegaserod,ABCB1
+vigabatrin,SLC36A1
+streptomycin,SLC22A6
+benzocaine,ABCB1
+primaquine,ABCB1
+iloprost,SLCO2B1
+iloprost,SLCO2A1
+iloprost,SLCO3A1
+ouabain,SLCO1A2
+ouabain,SLC22A8
+ouabain,SLCO4C1
+ouabain,SLCO1B3
+ouabain,SLCO1C1
+ouabain,SLCO1B1
+hesperetin,ABCG2
+fluvastatin,SLCO1B1
+fluvastatin,SLCO1B3
+fluvastatin,SLCO2B1
+fluvastatin,SLC15A1
+fluvastatin,ABCC2
+leflunomide,ABCG2
+rosuvastatin,ABCC4
+rosuvastatin,SLCO1A2
+rosuvastatin,SLCO1B1
+rosuvastatin,SLCO1B3
+rosuvastatin,SLCO2B1
+rosuvastatin,SLC7A11
+rosuvastatin,ABCB11
+rosuvastatin,ABCG2
+rosuvastatin,ABCC2
+rosuvastatin,SLC22A8
+rosuvastatin,SLC10A1
+pimozide,ABCB1
+quinacrine,SLC22A2
+quinacrine,ABCB1
+sertraline,ABCB1
+miconazole,ABCB1
+cefuroxime,SLC15A1
+cefuroxime,SLC15A2
+chlorpheniramine,SLC22A2
+chlorpheniramine,SLC22A1
+nifedipine,ABCC3
+nifedipine,ABCB1
+nifedipine,ABCC2
+nifedipine,SLCO1B1
+nifedipine,ABCB11
+atovaquone,ABCB1
+amiodarone,ABCB1
+amiodarone,ABCB11
+amiodarone,SLC22A2
+tolbutamide,SLC15A1
+tolbutamide,SLCO1A2
+tolbutamide,SLC22A6
+tolbutamide,SLC15A2
+tolbutamide,SLCO2B1
+dutasteride,SLC6A3
+dutasteride,SLC18A2
+bicalutamide,ABCB1
+rabeprazole,ABCG2
+pioglitazone,SLCO1B3
+pioglitazone,SLCO1B1
+carvedilol,ABCB1
+levofloxacin,ABCB1
+levofloxacin,SLC47A1
+levofloxacin,SLC47A2
+levofloxacin,SLC22A1
+levofloxacin,SLC22A2
+levofloxacin,SLC22A4
+levofloxacin,SLCO1A2
+levofloxacin,SLCO4C1
+sulfinpyrazone,ABCC3
+sulfinpyrazone,ABCC4
+sulfinpyrazone,ABCC5
+sulfinpyrazone,ABCC6
+sulfinpyrazone,ABCC1
+sulfinpyrazone,ABCC2
+sulfinpyrazone,ABCB11
+cefadroxil,SLC15A1
+cefadroxil,SLC22A5
+cefadroxil,SLC22A6
+cefadroxil,SLC15A2
+cefadroxil,SLC22A8
+doxepin,ABCB1
+cloxacillin,SLC15A1
+cloxacillin,SLC15A2
+cloxacillin,SLC22A6
+nefazodone,ABCB1
+nefazodone,SLCO1B3
+nefazodone,SLCO2B1
+nefazodone,ABCB11
+desipramine,ABCB1
+desipramine,SLC22A1
+desipramine,SLC22A3
+desipramine,SLC22A2
+desipramine,SLC22A5
+desipramine,SLC22A4
+bupropion,SLC22A2
+trimetrexate,SLC19A1
+dinoprost tromethamine,SLC22A2
+dinoprost tromethamine,SLC22A6
+dinoprost tromethamine,SLC22A7
+dinoprost tromethamine,SLC22A8
+dinoprost tromethamine,SLC22A11
+dinoprost tromethamine,SLCO2A1
+dinoprost tromethamine,SLCO3A1
+terazosin,ABCB1
+ofloxacin,SLC22A5
+ofloxacin,ABCC1
+ofloxacin,SLC22A6
+ofloxacin,ABCC2
+ofloxacin,SLC22A4
+ofloxacin,ABCB11
+itraconazole,ABCB1
+itraconazole,SLCO2B1
+arsenic trioxide,ABCC2
+arsenic trioxide,ABCB1
+phenobarbital,ABCB1
+phenobarbital,ABCC3
+phenobarbital,ABCB11
+phenobarbital,ABCC1
+phenobarbital,SLCO2A1
+phenobarbital,ABCC2
+escitalopram,ABCB1
+idarubicin,ABCC1
+propafenone,ABCB1
+naloxone,SLCO1A2
+naloxone,ABCB1
+domperidone,ABCB1
+clindamycin,ABCB1
+acebutolol,ABCB1
+flecainide,ABCB1
+flecainide,SLC47A1
+estramustine,ABCB1
+captopril,ABCB1
+captopril,SLC15A1
+captopril,SLC22A6
+tubocurarine,SLC22A1
+tubocurarine,SLC22A2
+bromocriptine,ABCB1
+levetiracetam,ABCB1
+nadolol,ABCB1
+nadolol,POU2F1
+nadolol,POU2F2
+nadolol,SLC47A1
+nadolol,SLC47A2
+mitoxantrone,ABCB1
+mitoxantrone,ABCC1
+mitoxantrone,ABCG2
+sparfloxacin,SLC22A5
+sparfloxacin,ABCC2
+sparfloxacin,ABCB1
+clarithromycin,SLC22A7
+clarithromycin,ABCB1
+clarithromycin,ABCB11
+clarithromycin,SLCO1B1
+clarithromycin,SLCO1B3
+ceftriaxone,SLC15A1
+ceftriaxone,SLC15A2
+ceftriaxone,SLC22A6
+ceftriaxone,SLC22A8
+ceftriaxone,SLC22A11
+ceftriaxone,ABCB1
+finasteride,SLC12A5
+anastrozole,ABCB1
+budesonide,ABCB11
+budesonide,ABCB1
+budesonide,SLCO1A2
+budesonide,SLC22A8
+quetiapine,ABCB1
+paclitaxel,ABCB11
+paclitaxel,ABCB1
+paclitaxel,ABCC1
+paclitaxel,ABCC10
+paclitaxel,SLCO1B3
+paclitaxel,ABCC2
+saquinavir,ABCB1
+saquinavir,SLC22A1
+saquinavir,SLCO1A2
+saquinavir,ABCG2
+saquinavir,SLCO1B1
+saquinavir,ABCC1
+saquinavir,ABCC2
+saquinavir,SLCO2B1
+saquinavir,ABCB11
+metoclopramide,ABCB1
+dexamethasone,ABCB1
+dexamethasone,SLC22A8
+dexamethasone,ABCB11
+dexamethasone,ABCC2
+dexamethasone,ABCG2
+dexamethasone,SLCO1A2
+levodopa,SLC15A1
+levodopa,SLC16A10
+levodopa,SLC7A5
+levodopa,SLC7A8
+bromodiphenhydramine,SLC22A6
+chlorprothixene,ABCB1
+clomipramine,ABCB1
+bepridil,ABCB1
+docetaxel,ABCB1
+docetaxel,ABCC10
+docetaxel,SLCO1B3
+docetaxel,SLC22A7
+docetaxel,ABCG2
+docetaxel,ABCC2
+docetaxel,ABCC1
+ergometrine,ABCB1
+dasatinib,ABCB1
+dasatinib,ABCG2
+lisdexamfetamine,SLC15A1
+lapatinib,ABCB1
+lapatinib,TAP1
+sitagliptin,ABCB1
+sitagliptin,SLC22A8
+posaconazole,ABCB1
+darunavir,SLCO1B1
+darunavir,ABCB1
+paliperidone,ABCB1
+sunitinib,ABCC4
+sunitinib,ABCB1
+sunitinib,ABCC2
+sunitinib,ABCG2
+varenicline,SLC22A2
+oxtriphylline,SLC22A7
+st. john's wort,ABCB1
+polythiazide,SLC22A6
+polythiazide,SLC22A8
+cefamandole,SLC22A6
+cefamandole,SLC22A8
+cefamandole,SLC22A11
+cefamandole,SLC22A7
+cefazolin,ABCC4
+cefazolin,SLC22A6
+cefazolin,SLC22A8
+cefazolin,SLC22A11
+cefoperazone,SLC22A6
+cefoperazone,SLC22A8
+cefoperazone,SLC22A11
+cefoperazone,SLC22A7
+ceftizoxime,SLC15A1
+ceftizoxime,SLC22A6
+ceftizoxime,SLC22A8
+cefradine,SLC22A5
+cefradine,SLC15A1
+cefradine,SLC15A2
+cefradine,SLC22A6
+cefradine,SLC47A1
+pancuronium,SLC22A1
+pancuronium,SLC22A2
+vecuronium,ABCB1
+cilazapril,ABCB1
+cilazapril,SLC15A1
+cilazapril,SLC15A2
+spirapril,SLC15A1
+spirapril,SLC15A2
+mibefradil,ABCB1
+sodium bicarbonate,SLC4A4
+sodium bicarbonate,SLC4A7
+sodium bicarbonate,SLC4A8
+sodium bicarbonate,SLC4A5
+sodium bicarbonate,SLC4A10
+bezafibrate,SLCO1B1
+colchicine,ABCB1
+digitoxin,SLCO1A2
+digitoxin,SLCO4C1
+digitoxin,ABCB1
+tiotropium,SLC22A5
+tiotropium,SLC22A4
+pranlukast,ABCC2
+cefepime,SLC22A5
+cefepime,SLC15A1
+cefepime,SLC15A2
+cefacetrile,SLC22A6
+cefacetrile,SLC22A8
+ceftibuten,SLC15A1
+ceftibuten,SLC15A2
+ceftibuten,SLC22A6
+ceftibuten,SLC22A8
+acenocoumarol,ABCB1
+testosterone propionate,ABCB1
+aminophenazone,SLC22A6
+antipyrine,SLC22A6
+gamma-hydroxybutyric acid,SLC16A7
+gamma-hydroxybutyric acid,SLC16A1
+gamma-hydroxybutyric acid,SLC16A3
+midomafetamine,SLC6A2
+midomafetamine,SLC6A3
+midomafetamine,SLC6A4
+dextroamphetamine,SLC6A3
+metamfetamine,SLC22A3
+metamfetamine,SLC22A5
+oxprenolol,SLC22A2
+liotrix,SLCO1A2
+liotrix,SLCO1B1
+liotrix,SLCO1B3
+liotrix,SLCO4C1
+liotrix,SLC10A1
+liotrix,SLCO1C1
+liotrix,SLCO4A1
+liotrix,SLC22A8
+liotrix,SLC16A2
+liotrix,SLC16A10
+liotrix,ABCB1
+ursodeoxycholic acid,ABCB11
+ursodeoxycholic acid,SLCO1A2
+ursodeoxycholic acid,ABCC2
+ursodeoxycholic acid,ABCC4
+ursodeoxycholic acid,SLC10A2
+ursodeoxycholic acid,SLC10A1
+ketazolam,ABCB1
+everolimus,SLCO1B1
+everolimus,SLCO1B3
+everolimus,SLCO1A2
+everolimus,ABCB1
+cilastatin,SLC22A6
+cilastatin,SLC22A8
+lopinavir,ABCB1
+lopinavir,SLCO1B1
+lopinavir,SLCO1B3
+lopinavir,ABCB11
+tazobactam,SLC22A6
+tazobactam,SLC22A8
+valganciclovir,SLC15A1
+valganciclovir,SLC15A2
+valganciclovir,SLC6A14
+hydroxychloroquine,ABCB1
+hydroxychloroquine,SLCO1A2
+pipotiazine,SLC22A1
+thiothixene,SLC22A1
+genistein,ABCB1
+genistein,ABCC1
+genistein,ABCG2
+genistein,SLCO1B1
+genistein,SLCO2B1
 trans-2-hydroxycinnamic acid,SLC22A8
-Topiroxostat,ABCG2
-Topiroxostat,SLC22A8
-Topiroxostat,SLC22A6
-Prasterone,SLCO1B3
-Prasterone,SLCO2B1
-Prasterone,SLCO1B1
-Prasterone,SLCO1A2
-Prasterone,ABCC1
-Prasterone,ABCG2
-Prasterone,ABCC4
-D-Leucine,SLC16A10
-D-Leucine,SLC7A5
-Acetoacetic Acid,SLC16A7
-Acetoacetic Acid,SLC16A1
-Acetoacetic Acid,SLC16A3
-Acetoacetic Acid,SLC5A8
-D-Alanine,SLC16A10
-Phosphoenolpyruvate,SLCO2A1
-Hyperforin,ABCC2
-Hyperforin,SLCO1B1
-D-glucose,SLC2A1
-D-glucose,SLC2A2
-D-glucose,SLC2A3
-D-glucose,SLC2A4
-D-glucose,SLC2A5
-D-glucose,SLC2A6
-D-glucose,SLC2A7
-D-glucose,SLC2A8
-D-glucose,SLC2A9
-D-glucose,SLC2A10
-D-glucose,SLC2A11
-D-glucose,SLC2A12
-D-glucose,SLC5A1
-D-glucose,SLC5A2
-Putrescine,SLC22A4
-Formic acid,SLC16A3
-Taurine,SLC36A1
-Taurine,SLC6A6
-Taurine,SLC15A1
-Staurosporine,ABCB1
-Prostaglandin D2,SLCO2A1
-Daidzin,ABCG2
-Glycochenodeoxycholic Acid,ABCB11
-Glycochenodeoxycholic Acid,SLCO1A2
-Glycochenodeoxycholic Acid,SLC10A2
-Glycochenodeoxycholic Acid,SLC10A1
-Platelet Activating Factor,ABCB1
-Glyceraldehyde-3-Phosphate,SLCO2A1
-Flufenamic acid,SLC22A6
-Cyclic GMP,SLC22A6
-Myricetin,ABCC1
-Cyclic adenosine monophosphate,ABCC4
-Cyclic adenosine monophosphate,ABCC5
-Cyclic adenosine monophosphate,ABCC11
-Cyclic adenosine monophosphate,SLC22A6
-Cyclic adenosine monophosphate,SLC22A8
-Cyclic adenosine monophosphate,SLC22A7
-gamma-Aminobutyric acid,SLC36A1
-D-Phenylalanine,SLC16A10
-D-Phenylalanine,SLC7A5
-Colforsin,ABCB1
-Cholic Acid,ABCB11
-Cholic Acid,ABCB1
-Cholic Acid,ABCC1
-Cholic Acid,SLCO1A2
-Cholic Acid,SLC10A2
-Cholic Acid,ABCC2
-Cholic Acid,SLCO1B1
-Cholic Acid,ABCC3
-Cholic Acid,ABCC4
-Cholic Acid,SLC10A1
-Cholic Acid,SLC22A8
-Cholic Acid,SLC22A7
-Cholic Acid,SLCO1B3
-Glycocholic acid,SLCO1A2
-Glycocholic acid,SLCO1B1
-Glycocholic acid,SLCO1B3
-Fusidic acid,ABCB11
-Fusidic acid,ABCC2
-Fusidic acid,ABCG2
-Fusidic acid,SLCO1B1
-Uridine,SLC29A1
-Phthalic Acid,SLCO2B1
-S-(Methylmercury)-L-Cysteine,SLC7A5
-S-(Methylmercury)-L-Cysteine,SLC7A8
-Pregnenolone,SLC10A6
-D-Proline,SLC36A1
-Stanolone,ABCB1
+topiroxostat,ABCG2
+topiroxostat,SLC22A8
+topiroxostat,SLC22A6
+prasterone,SLCO1B3
+prasterone,SLCO2B1
+prasterone,SLCO1B1
+prasterone,SLCO1A2
+prasterone,ABCC1
+prasterone,ABCG2
+prasterone,ABCC4
+d-leucine,SLC16A10
+d-leucine,SLC7A5
+acetoacetic acid,SLC16A7
+acetoacetic acid,SLC16A1
+acetoacetic acid,SLC16A3
+acetoacetic acid,SLC5A8
+d-alanine,SLC16A10
+phosphoenolpyruvate,SLCO2A1
+hyperforin,ABCC2
+hyperforin,SLCO1B1
+d-glucose,SLC2A1
+d-glucose,SLC2A2
+d-glucose,SLC2A3
+d-glucose,SLC2A4
+d-glucose,SLC2A5
+d-glucose,SLC2A6
+d-glucose,SLC2A7
+d-glucose,SLC2A8
+d-glucose,SLC2A9
+d-glucose,SLC2A10
+d-glucose,SLC2A11
+d-glucose,SLC2A12
+d-glucose,SLC5A1
+d-glucose,SLC5A2
+putrescine,SLC22A4
+formic acid,SLC16A3
+taurine,SLC36A1
+taurine,SLC6A6
+taurine,SLC15A1
+staurosporine,ABCB1
+prostaglandin d2,SLCO2A1
+daidzin,ABCG2
+glycochenodeoxycholic acid,ABCB11
+glycochenodeoxycholic acid,SLCO1A2
+glycochenodeoxycholic acid,SLC10A2
+glycochenodeoxycholic acid,SLC10A1
+platelet activating factor,ABCB1
+glyceraldehyde-3-phosphate,SLCO2A1
+flufenamic acid,SLC22A6
+cyclic gmp,SLC22A6
+myricetin,ABCC1
+cyclic adenosine monophosphate,ABCC4
+cyclic adenosine monophosphate,ABCC5
+cyclic adenosine monophosphate,ABCC11
+cyclic adenosine monophosphate,SLC22A6
+cyclic adenosine monophosphate,SLC22A8
+cyclic adenosine monophosphate,SLC22A7
+gamma-aminobutyric acid,SLC36A1
+d-phenylalanine,SLC16A10
+d-phenylalanine,SLC7A5
+colforsin,ABCB1
+cholic acid,ABCB11
+cholic acid,ABCB1
+cholic acid,ABCC1
+cholic acid,SLCO1A2
+cholic acid,SLC10A2
+cholic acid,ABCC2
+cholic acid,SLCO1B1
+cholic acid,ABCC3
+cholic acid,ABCC4
+cholic acid,SLC10A1
+cholic acid,SLC22A8
+cholic acid,SLC22A7
+cholic acid,SLCO1B3
+glycocholic acid,SLCO1A2
+glycocholic acid,SLCO1B1
+glycocholic acid,SLCO1B3
+fusidic acid,ABCB11
+fusidic acid,ABCC2
+fusidic acid,ABCG2
+fusidic acid,SLCO1B1
+uridine,SLC29A1
+phthalic acid,SLCO2B1
+s-(methylmercury)-l-cysteine,SLC7A5
+s-(methylmercury)-l-cysteine,SLC7A8
+pregnenolone,SLC10A6
+d-proline,SLC36A1
+stanolone,ABCB1
 2-aminoisobutyric acid,SLC16A10
-D-Lactic acid,SLC16A7
-D-Lactic acid,SLC16A1
-D-Lactic acid,SLC16A3
-beta-Alanine,SLC16A10
-Acetylcholine,SLC22A5
-Acetylcholine,SLC22A1
-Acetic acid,SLCO2B1
-Acetic acid,SLC16A1
-Sphingosine,ABCB1
-D-Tryptophan,SLC16A10
-Ubenimex,SLC15A1
-Ubenimex,SLC15A2
-Naringenin,SLCO2B1
-Naringenin,ABCB1
-Naringenin,ABCC1
-Naringenin,ABCG2
-Alvocidib,ABCG2
-Glutaric Acid,SLC22A6
-Glutaric Acid,SLC22A8
-Glutaric Acid,SLC22A11
-Glutaric Acid,SLC22A7
-Spermidine,SLC22A4
-Spermidine,SLC22A1
-Glucose-6-Phosphate,SLCO2A1
-Oxyphenbutazone,SLC22A6
-Deoxycholic acid,ABCB11
-Deoxycholic acid,SLCO1A2
-Deoxycholic acid,SLC10A2
-Deoxycholic acid,SLC10A1
-alpha-D-quinovopyranose,SLC16A7
-alpha-D-quinovopyranose,SLC16A1
-Phenacetin,SLC22A6
-Benzoic acid,SLCO2B1
-Benzoic acid,SLC22A8
-Benzoic acid,SLC16A1
-Rhodamine 6G,ABCC1
-Rhodamine 6G,ABCB1
-D-Tyrosine,SLC16A10
-Phenylpyruvic acid,SLC16A3
-Oxalic Acid,SLCO2B1
-Oxalic Acid,SLC22A8
-Urea,SLC14A2
-Urea,SLC14A1
-D-Serine,SLC16A10
-D-Serine,SLC6A14
-Oxamic Acid,SLC16A3
-alpha-Ketoisovalerate,SLC16A7
-alpha-Ketoisovalerate,SLC16A1
-alpha-Ketoisovalerate,SLC16A3
-"(1,10 Phenanthroline)-(Tri-Carbon Monoxide) Rhenium (I)",ABCC2
-Degraded Cephaloridine,SLC22A5
-Degraded Cephaloridine,SLC22A6
-Degraded Cephaloridine,SLC22A8
-Degraded Cephaloridine,SLC22A11
-Quercetin,ABCC1
-Quercetin,ABCC2
-Quercetin,SLC16A7
-Quercetin,SLCO2B1
-Quercetin,ABCB1
-Quercetin,SLC16A1
-Quercetin,ABCG2
-Quercetin,SLCO1B1
-Citric acid,SLCO2B1
-Inosine,SLC28A3
-Glyoxylic acid,SLC16A3
-Taurocholic acid,ABCB11
-Taurocholic acid,ABCC1
-Taurocholic acid,SLCO1A2
-Taurocholic acid,SLC10A2
-Taurocholic acid,ABCC2
-Taurocholic acid,SLCO1B1
-Taurocholic acid,ABCC3
-Taurocholic acid,ABCC4
-Taurocholic acid,ABCB1
-Taurocholic acid,SLC22A6
-Taurocholic acid,ABCC10
-Taurocholic acid,SLC22A8
-Taurocholic acid,SLCO4A1
-Taurocholic acid,ABCC11
-Taurocholic acid,SLCO1C1
-Taurocholic acid,SLCO3A1
-Taurocholic acid,ABCG2
-Taurocholic acid,SLCO2B1
-Taurocholic acid,SLC16A1
-Taurocholic acid,SLC10A1
-Taurocholic acid,SLC51A
-Taurocholic acid,SLC51B
-Taurocholic acid,SLCO1B3
-Taurocholic acid,SLC7A11
-Lactic acid,SLC16A7
-Lactic acid,SLCO2B1
-Lactic acid,SLC16A1
-Lactic acid,SLC16A10
-Lactic acid,SLCO2A1
-Lactic acid,SLC16A3
-Thymidine,SLC28A3
-Caprylic acid,SLC22A6
-Caprylic acid,SLC22A8
-Caprylic acid,SLC22A11
-Cholesterol,ABCB1
-Cholesterol,ABCG2
-"beta-D-fructofuranose 1,6-bisphosphate",SLCO2A1
-Niflumic acid,SLC16A7
-Niflumic acid,SLC16A1
-Arachidonic Acid,SLCO2A1
-Estriol,SLCO1A2
-Estriol,ABCB1
-Estrone sulfate,SLC47A1
-Estrone sulfate,SLC47A2
-Aldosterone,ABCB1
-Aldosterone,SLC22A5
-Aldosterone,SLCO1A2
-Camptothecin,ABCB1
-Camptothecin,ABCG2
+d-lactic acid,SLC16A7
+d-lactic acid,SLC16A1
+d-lactic acid,SLC16A3
+beta-alanine,SLC16A10
+acetylcholine,SLC22A5
+acetylcholine,SLC22A1
+acetic acid,SLCO2B1
+acetic acid,SLC16A1
+sphingosine,ABCB1
+d-tryptophan,SLC16A10
+ubenimex,SLC15A1
+ubenimex,SLC15A2
+naringenin,SLCO2B1
+naringenin,ABCB1
+naringenin,ABCC1
+naringenin,ABCG2
+alvocidib,ABCG2
+glutaric acid,SLC22A6
+glutaric acid,SLC22A8
+glutaric acid,SLC22A11
+glutaric acid,SLC22A7
+spermidine,SLC22A4
+spermidine,SLC22A1
+glucose-6-phosphate,SLCO2A1
+oxyphenbutazone,SLC22A6
+deoxycholic acid,ABCB11
+deoxycholic acid,SLCO1A2
+deoxycholic acid,SLC10A2
+deoxycholic acid,SLC10A1
+alpha-d-quinovopyranose,SLC16A7
+alpha-d-quinovopyranose,SLC16A1
+phenacetin,SLC22A6
+benzoic acid,SLCO2B1
+benzoic acid,SLC22A8
+benzoic acid,SLC16A1
+rhodamine 6g,ABCC1
+rhodamine 6g,ABCB1
+d-tyrosine,SLC16A10
+phenylpyruvic acid,SLC16A3
+oxalic acid,SLCO2B1
+oxalic acid,SLC22A8
+urea,SLC14A2
+urea,SLC14A1
+d-serine,SLC16A10
+d-serine,SLC6A14
+oxamic acid,SLC16A3
+alpha-ketoisovalerate,SLC16A7
+alpha-ketoisovalerate,SLC16A1
+alpha-ketoisovalerate,SLC16A3
+"(1,10 phenanthroline)-(tri-carbon monoxide) rhenium (i)",ABCC2
+degraded cephaloridine,SLC22A5
+degraded cephaloridine,SLC22A6
+degraded cephaloridine,SLC22A8
+degraded cephaloridine,SLC22A11
+quercetin,ABCC1
+quercetin,ABCC2
+quercetin,SLC16A7
+quercetin,SLCO2B1
+quercetin,ABCB1
+quercetin,SLC16A1
+quercetin,ABCG2
+quercetin,SLCO1B1
+citric acid,SLCO2B1
+inosine,SLC28A3
+glyoxylic acid,SLC16A3
+taurocholic acid,ABCB11
+taurocholic acid,ABCC1
+taurocholic acid,SLCO1A2
+taurocholic acid,SLC10A2
+taurocholic acid,ABCC2
+taurocholic acid,SLCO1B1
+taurocholic acid,ABCC3
+taurocholic acid,ABCC4
+taurocholic acid,ABCB1
+taurocholic acid,SLC22A6
+taurocholic acid,ABCC10
+taurocholic acid,SLC22A8
+taurocholic acid,SLCO4A1
+taurocholic acid,ABCC11
+taurocholic acid,SLCO1C1
+taurocholic acid,SLCO3A1
+taurocholic acid,ABCG2
+taurocholic acid,SLCO2B1
+taurocholic acid,SLC16A1
+taurocholic acid,SLC10A1
+taurocholic acid,SLC51A
+taurocholic acid,SLC51B
+taurocholic acid,SLCO1B3
+taurocholic acid,SLC7A11
+lactic acid,SLC16A7
+lactic acid,SLCO2B1
+lactic acid,SLC16A1
+lactic acid,SLC16A10
+lactic acid,SLCO2A1
+lactic acid,SLC16A3
+thymidine,SLC28A3
+caprylic acid,SLC22A6
+caprylic acid,SLC22A8
+caprylic acid,SLC22A11
+cholesterol,ABCB1
+cholesterol,ABCG2
+"beta-d-fructofuranose 1,6-bisphosphate",SLCO2A1
+niflumic acid,SLC16A7
+niflumic acid,SLC16A1
+arachidonic acid,SLCO2A1
+estriol,SLCO1A2
+estriol,ABCB1
+estrone sulfate,SLC47A1
+estrone sulfate,SLC47A2
+aldosterone,ABCB1
+aldosterone,SLC22A5
+aldosterone,SLCO1A2
+camptothecin,ABCB1
+camptothecin,ABCG2
 5-methyltetrahydrofolic acid,ABCC2
-Buformin,SLC22A1
-Zimelidine,ABCB1
-Debrisoquine,ABCB1
-Posizolid,SLCO1B1
-Biricodar,ABCB1
-Dronedarone,ABCB1
-Dronedarone,SLC22A2
-Dronedarone,SLC22A1
-Dronedarone,SLCO1B1
-Dronedarone,SLCO1B3
-Dronedarone,SLC22A8
-Nilotinib,ABCB1
-Nilotinib,ABCG2
-Nilotinib,UGT1A1
-Nilotinib,SLCO1B1
-Voacamine,ABCB1
-Elacridar,ABCG2
-Elacridar,ABCB1
-Flibanserin,ABCB1
-Lofexidine,ABCB5
-Lofexidine,SLC47A1
-Tipifarnib,ABCB1
-Belinostat,ABCB1
-Indacaterol,ABCB1
-Pretomanid,SLC22A8
-Cobimetinib,SLCO1B1
-Cobimetinib,SLCO1B3
-Cobimetinib,ABCG2
-Cobimetinib,ABCB1
-Gallium nitrate,TFRC
-Gallium nitrate,TFR2
-Vandetanib,ABCC1
-Vandetanib,ABCG2
-Vandetanib,SLC22A2
-Vandetanib,ABCB1
-Histamine,SLC22A2
-Histamine,SLC22A1
-Histamine,SLC22A3
-Histamine,SLC22A5
-Iodine,SLC5A5
-Iodine,SLC26A4
-Pimagedine,SLC22A2
-Telaprevir,ABCB1
-Alanosine,SLC7A11
-Apremilast,ABCB1
-Trastuzumab emtansine,ABCB1
-Prasterone sulfate,SLC22A8
-Prasterone sulfate,SLCO1A2
-Prasterone sulfate,SLCO1B1
-Prasterone sulfate,SLCO1B3
-Prasterone sulfate,SLCO2B1
-Prasterone sulfate,SLC10A6
-Prasterone sulfate,ABCB11
-Abiraterone,ABCC1
-Inotuzumab ozogamicin,ABCB1
-Dovitinib,ABCC3
-Dovitinib,ABCG2
-Dovitinib,SLCO1B1
-Dovitinib,SLCO2B1
-Dovitinib,SLCO1B3
-Dovitinib,ABCB1
-Obeticholic acid,ABCB11
-Acetylcysteine,SLCO1B1
-Acetylcysteine,SLC22A6
-Romidepsin,ABCB1
-Romidepsin,SLCO1B3
-Zosuquidar,ABCB1
-Silodosin,ABCB1
-Silodosin,ABCB4
-Eltrombopag,SLCO1B1
-Eltrombopag,ABCG2
-Doripenem,SLC22A8
-Tolvaptan,ABCB1
-Ferumoxytol,TF
-Ferumoxytol,FTL
-Ferumoxytol,FTH1
-Rivaroxaban,ABCB1
-Rivaroxaban,ABCG2
-Tariquidar,ABCB1
-Droxidopa,SLC6A2
-Droxidopa,SLC16A10
-Amrubicin,ABCB5
-Levocetirizine,SLC22A11
-Temsirolimus,ABCB1
-Simeprevir,ABCB1
-Simeprevir,SLCO1B1
-Simeprevir,SLCO1B3
-Simeprevir,ABCC2
-Simeprevir,ABCG2
-Simeprevir,SLCO2B1
-Simeprevir,SLC10A1
-Simeprevir,ABCB11
-Dapagliflozin,ABCB1
-Saxagliptin,ABCC1
-Saxagliptin,SLCO4C1
-Saxagliptin,SLC22A8
-Ambrisentan,ABCB1
-Ambrisentan,SLCO1B1
-Ambrisentan,SLCO1B3
-Etravirine,ABCB1
-Etravirine,ABCB4
-Annamycin,ABCB1
-Lonafarnib,ABCB1
-Prucalopride,ABCB1
-Gaboxadol,SLC36A1
-Pazopanib,ABCB1
-Pazopanib,ABCG2
-Pazopanib,SLCO1B1
-Pazopanib,UGT1A1
-Panobinostat,ABCB1
-Apixaban,ABCB1
-Apixaban,ABCG2
-Tafenoquine,SLC22A2
-Tafenoquine,SLC47A1
-Tafenoquine,SLC47A2
-Bosutinib,ABCB1
-Axitinib,ABCB1
-Axitinib,SLCO1B1
-Isavuconazonium,ABCB1
-Dalfampridine,SLC22A2
-Safinamide,ABCG2
-Safinamide,SLCO3A1
-Odanacatib,ABCB1
-Mepyramine,SLC22A4
-Mepyramine,SLC22A5
-Dabigatran etexilate,ABCB1
-Fesoterodine,ABCB1
-Iobenguane,SLC6A2
-Methyltestosterone,SLCO1A2
-Methyltestosterone,SLC22A8
-Gimatecan,SLCO1B1
-Cabazitaxel,ABCB1
-Cabazitaxel,ABCG2
-Cabazitaxel,SLCO1B1
-Cabazitaxel,SLCO1B3
-Cupric sulfate,ALB
-Cupric sulfate,CP
-Gallium citrate Ga-67,TFRC
-Gallium citrate Ga-67,TFR2
-Gallium citrate Ga-67,FTL
-Gallium citrate Ga-67,FTH1
-Mangafodipir,SLC11A2
-Pralatrexate,SLC19A1
-Triethylenetetramine,GPC1
-Chloramphenicol succinate,ABCB1
-Azidocillin,SLC22A5
-Azidocillin,SLC15A1
-Azidocillin,SLC15A2
-Ticagrelor,ABCB1
-Ivacaftor,ABCB1
-Ioflupane I-123,SLC6A3
-Lomitapide,ABCB1
-Vismodegib,ABCB1
-Vismodegib,ABCG2
-Dehydroascorbic acid,SLC2A1
+buformin,SLC22A1
+zimelidine,ABCB1
+debrisoquine,ABCB1
+posizolid,SLCO1B1
+biricodar,ABCB1
+dronedarone,ABCB1
+dronedarone,SLC22A2
+dronedarone,SLC22A1
+dronedarone,SLCO1B1
+dronedarone,SLCO1B3
+dronedarone,SLC22A8
+nilotinib,ABCB1
+nilotinib,ABCG2
+nilotinib,UGT1A1
+nilotinib,SLCO1B1
+voacamine,ABCB1
+elacridar,ABCG2
+elacridar,ABCB1
+flibanserin,ABCB1
+lofexidine,ABCB5
+lofexidine,SLC47A1
+tipifarnib,ABCB1
+belinostat,ABCB1
+indacaterol,ABCB1
+pretomanid,SLC22A8
+cobimetinib,SLCO1B1
+cobimetinib,SLCO1B3
+cobimetinib,ABCG2
+cobimetinib,ABCB1
+gallium nitrate,TFRC
+gallium nitrate,TFR2
+vandetanib,ABCC1
+vandetanib,ABCG2
+vandetanib,SLC22A2
+vandetanib,ABCB1
+histamine,SLC22A2
+histamine,SLC22A1
+histamine,SLC22A3
+histamine,SLC22A5
+iodine,SLC5A5
+iodine,SLC26A4
+pimagedine,SLC22A2
+telaprevir,ABCB1
+alanosine,SLC7A11
+apremilast,ABCB1
+trastuzumab emtansine,ABCB1
+prasterone sulfate,SLC22A8
+prasterone sulfate,SLCO1A2
+prasterone sulfate,SLCO1B1
+prasterone sulfate,SLCO1B3
+prasterone sulfate,SLCO2B1
+prasterone sulfate,SLC10A6
+prasterone sulfate,ABCB11
+abiraterone,ABCC1
+inotuzumab ozogamicin,ABCB1
+dovitinib,ABCC3
+dovitinib,ABCG2
+dovitinib,SLCO1B1
+dovitinib,SLCO2B1
+dovitinib,SLCO1B3
+dovitinib,ABCB1
+obeticholic acid,ABCB11
+acetylcysteine,SLCO1B1
+acetylcysteine,SLC22A6
+romidepsin,ABCB1
+romidepsin,SLCO1B3
+zosuquidar,ABCB1
+silodosin,ABCB1
+silodosin,ABCB4
+eltrombopag,SLCO1B1
+eltrombopag,ABCG2
+doripenem,SLC22A8
+tolvaptan,ABCB1
+ferumoxytol,TF
+ferumoxytol,FTL
+ferumoxytol,FTH1
+rivaroxaban,ABCB1
+rivaroxaban,ABCG2
+tariquidar,ABCB1
+droxidopa,SLC6A2
+droxidopa,SLC16A10
+amrubicin,ABCB5
+levocetirizine,SLC22A11
+temsirolimus,ABCB1
+simeprevir,ABCB1
+simeprevir,SLCO1B1
+simeprevir,SLCO1B3
+simeprevir,ABCC2
+simeprevir,ABCG2
+simeprevir,SLCO2B1
+simeprevir,SLC10A1
+simeprevir,ABCB11
+dapagliflozin,ABCB1
+saxagliptin,ABCC1
+saxagliptin,SLCO4C1
+saxagliptin,SLC22A8
+ambrisentan,ABCB1
+ambrisentan,SLCO1B1
+ambrisentan,SLCO1B3
+etravirine,ABCB1
+etravirine,ABCB4
+annamycin,ABCB1
+lonafarnib,ABCB1
+prucalopride,ABCB1
+gaboxadol,SLC36A1
+pazopanib,ABCB1
+pazopanib,ABCG2
+pazopanib,SLCO1B1
+pazopanib,UGT1A1
+panobinostat,ABCB1
+apixaban,ABCB1
+apixaban,ABCG2
+tafenoquine,SLC22A2
+tafenoquine,SLC47A1
+tafenoquine,SLC47A2
+bosutinib,ABCB1
+axitinib,ABCB1
+axitinib,SLCO1B1
+isavuconazonium,ABCB1
+dalfampridine,SLC22A2
+safinamide,ABCG2
+safinamide,SLCO3A1
+odanacatib,ABCB1
+mepyramine,SLC22A4
+mepyramine,SLC22A5
+dabigatran etexilate,ABCB1
+fesoterodine,ABCB1
+iobenguane,SLC6A2
+methyltestosterone,SLCO1A2
+methyltestosterone,SLC22A8
+gimatecan,SLCO1B1
+cabazitaxel,ABCB1
+cabazitaxel,ABCG2
+cabazitaxel,SLCO1B1
+cabazitaxel,SLCO1B3
+cupric sulfate,ALB
+cupric sulfate,CP
+gallium citrate ga-67,TFRC
+gallium citrate ga-67,TFR2
+gallium citrate ga-67,FTL
+gallium citrate ga-67,FTH1
+mangafodipir,SLC11A2
+pralatrexate,SLC19A1
+triethylenetetramine,GPC1
+chloramphenicol succinate,ABCB1
+azidocillin,SLC22A5
+azidocillin,SLC15A1
+azidocillin,SLC15A2
+ticagrelor,ABCB1
+ivacaftor,ABCB1
+ioflupane i-123,SLC6A3
+lomitapide,ABCB1
+vismodegib,ABCB1
+vismodegib,ABCG2
+dehydroascorbic acid,SLC2A1
 2-deoxyglucose,SLC2A1
-Taurochenodeoxycholic acid,SLCO1A2
-Taurochenodeoxycholic acid,SLC7A11
-Tauroursodeoxycholic acid,SLCO1A2
-Tauroursodeoxycholic acid,SLC7A11
-Spaglumic Acid,SLC36A1
-Temocapril,SLC15A1
-Temocapril,SLCO1A2
-Tetraethylammonium,SLC22A1
-Tetraethylammonium,SLC22A2
-Tetraethylammonium,SLC22A3
-Tetraethylammonium,SLC22A4
-Tetraethylammonium,SLC22A5
-Tetraethylammonium,SLC22A8
-Tetraethylammonium,SLC47A1
-Agmatine,SLC22A1
-Agmatine,SLC22A2
-Agmatine,SLC22A3
-Agmatine,SLC7A7
-Serotonin,SLC22A2
-N-methylnicotinamide,SLC22A2
-N-methylnicotinamide,SLC47A1
-N-methylnicotinamide,SLC47A2
-Tyramine,SLC22A3
-Acetylcarnitine,SLC22A5
-Acetylcarnitine,SLC22A21
-GS 0573,SLC22A6
-Uric acid,SLC22A6
-Uric acid,SLC22A8
-Uric acid,SLC2A9
-Ellagic acid,SLC22A6
-Ellagic acid,SLC22A11
-Hydroxyproline,SLC36A1
-Nipecotic acid,SLC36A1
-Leukotriene C4,SLCO1B1
-Leukotriene C4,SLCO1B3
-DADLE,SLCO1B1
-Bamet-UD2,SLCO1B1
-cis-Diamminechlorocholylglycinateplatinum(II),SLCO1B1
-Pitavastatin,SLCO1B1
-Pitavastatin,SLCO1B3
-Pitavastatin,SLCO2B1
-Pitavastatin,SLC10A1
-Pitavastatin,ABCG2
-Pitavastatin,ABCB1
-Pitavastatin,ABCC2
-Pitavastatin,ABCB11
-DPDPE,SLCO1B3
-Cholecystokinin,SLCO1B3
-Cholecystokinin,SLCO1B1
-Cholecystokinin,SLCO2B1
-Rilpivirine,ABCB1
-Rilpivirine,ABCG2
-Rilpivirine,SLCO1B1
-Rilpivirine,SLCO1B3
-Crizotinib,ABCB1
-Fingolimod,SLC1A2
-Fingolimod,SLC1A3
-Fingolimod,ABCB1
-Fingolimod,ABCC1
-Brentuximab vedotin,ABCB5
-Gabapentin enacarbil,SLC5A8
-Gabapentin enacarbil,SLC5A6
-Boceprevir,ABCB1
-Fidaxomicin,ABCB1
-Aminopterin,SLC46A1
-Teriflunomide,ABCG2
-Teriflunomide,SLCO1B1
-Vemurafenib,ABCC1
-Vemurafenib,ABCG2
-Vemurafenib,ABCB1
-Linagliptin,ABCB1
-Linagliptin,SLC22A1
-Linagliptin,SLC22A2
-Linagliptin,SLC22A3
-Gadoxetic acid,SLCO1B1
-Gadoxetic acid,SLCO1B3
-Gadoxetic acid,ABCC3
-Gadoxetic acid,ABCC2
-Gadoxetic acid,ABCC4
-Carfilzomib,ABCB1
-Arbaclofen Placarbil,SLC16A1
-Mirabegron,ABCB1
-Mirabegron,SLCO1A2
-Regorafenib,ABCB1
-Regorafenib,ABCG2
-Enzalutamide,ABCB1
-Ponatinib,ABCB1
-Ponatinib,ABCG2
-Fluticasone furoate,ABCB1
-Fluticasone furoate,SLCO1B1
-Canagliflozin,ABCB1
-Canagliflozin,ABCC2
-Canagliflozin,ABCG2
-Pomalidomide,ABCB1
-Dabrafenib,ABCB1
-Dabrafenib,ABCG2
-Dabrafenib,SLCO1B1
-Dabrafenib,SLCO1B3
-Dabrafenib,SLC22A6
-Dabrafenib,SLC22A8
-Afatinib,ABCB1
-Afatinib,ABCG2
-Levomilnacipran,ABCB1
-Dolutegravir,SLC22A2
-Dolutegravir,ABCG2
-Dolutegravir,SLC22A6
-Dolutegravir,SLC22A8
-Dolutegravir,ABCB1
-Riociguat,ABCG2
-Sofosbuvir,ABCB1
-Sofosbuvir,ABCG2
-Inositol nicotinate,SLC5A8
-Cefaloridine,SLC22A6
-Cefaloridine,SLC22A8
-Ledipasvir,ABCB1
-Ledipasvir,ABCG2
-Vorapaxar,ABCB1
-Suvorexant,ABCB1
-Eliglustat,ABCB1
-Netupitant,ABCB1
-Idelalisib,ABCG2
-Idelalisib,ABCB1
-Idelalisib,SLCO1B1
-Idelalisib,SLCO1B3
-Avibactam,ABCC2
-Avibactam,SLC22A8
-Cannabidiol,ABCC1
-Cannabidiol,ABCG2
-Cannabidiol,SLC29A1
-Ceritinib,ABCB1
-Cobicistat,ABCB1
-Cobicistat,ABCG2
-Cobicistat,SLCO1B1
-Cobicistat,SLCO1B3
-Palbociclib,ABCB1
-Palbociclib,ABCG2
-Palbociclib,SLC22A1
-Olaparib,ABCB1
-Olaparib,ABCG2
-Edoxaban,ABCB1
-Umeclidinium,ABCB1
-Lenvatinib,ABCB1
-Lenvatinib,ABCG2
-Lenvatinib,SLC22A6
-Lenvatinib,SLC22A8
-Lenvatinib,SLC22A2
-Lenvatinib,SLCO1B1
-Lenvatinib,ABCB11
-Nintedanib,ABCB1
-Nintedanib,SLC22A1
-Nintedanib,ABCG2
-Somatostatin,ABCB1
-"Thyroid, porcine",SLC16A2
-"Thyroid, porcine",SLCO1C1
-"Thyroid, porcine",SLCO3A1
-"Thyroid, porcine",SLCO4A1
-"Thyroid, porcine",SLC7A5
-"Thyroid, porcine",SLC10A1
-Daclatasvir,ABCB1
-Daclatasvir,SLCO1B1
-Daclatasvir,SLCO1B3
-Daclatasvir,ABCG2
-Copper,SLC31A1
-Copper,SLC11A2
-Copper,ATP7A
-Copper,ATP7B
-Copper,SLC31A2
-Technetium Tc-99m mebrofenin,SLCO1B1
-Technetium Tc-99m mebrofenin,SLCO1B3
-Sincalide,SLCO1B3
-Sodium citrate,SLC25A21
-Sodium citrate,SLC13A2
-Sodium citrate,SLC13A5
-Sodium citrate,SLC25A1
-Technetium Tc-99m sestamibi,ABCB1
-Technetium Tc-99m sestamibi,ABCC1
-Dasabuvir,ABCG2
-Dasabuvir,ABCB5
-Dasabuvir,ABCB1
-Etoperidone,SLC6A4
-Etoperidone,SLC6A2
-Etoperidone,SLC6A3
-Lobeglitazone,SLCO1B1
-Lobeglitazone,SLCO3A1
-Lobeglitazone,ABCB1
-Dexibuprofen,ABCC4
-Dexibuprofen,ABCC1
-Dexibuprofen,SLCO1A2
-Dexibuprofen,SLC22A6
-Dexibuprofen,SLC22A8
-Dexibuprofen,SLC22A11
-Dexibuprofen,SLCO2B1
-Dexibuprofen,ABCB1
-Levamlodipine,ABCB1
-Levamlodipine,SLC10A2
-Levamlodipine,SLC22A5
-Niguldipine,ABCB1
-Methylene blue,ABCB1
-Methylene blue,SLC22A2
-Methylene blue,SLC47A2
-Methylene blue,SLC47A1
-Ubidecarenone,ABCB1
-Eluxadoline,SLCO1B1
-Eluxadoline,ABCC2
-Eluxadoline,SLC22A8
-Fimasartan,SLCO1B1
-Fimasartan,ABCG2
-Lumacaftor,ABCB1
-Polyethylene glycol,ABCB1
-Rolapitant,ABCG2
-Rolapitant,ABCB1
-Sacubitril,SLCO1B1
-Sacubitril,SLCO1B3
-Ombitasvir,ABCB1
-Ombitasvir,UGT1A4
-Ombitasvir,ABCG2
-Paritaprevir,ABCG2
-Paritaprevir,ABCB1
-Paritaprevir,SLCO1B1
-Paritaprevir,SLCO1B3
-Silibinin,SLC22A6
-Silibinin,SLCO1B1
-Silibinin,SLCO1B3
-Silibinin,SLCO2B1
-Tenofovir alafenamide,ABCB1
-Tenofovir alafenamide,ABCC4
-Tenofovir alafenamide,SLC22A6
-Tenofovir alafenamide,SLC22A8
-Tenofovir alafenamide,ABCG2
-Tenofovir alafenamide,SLCO1B1
-Tenofovir alafenamide,SLCO1B3
-Ammonia N-13,RHCG
-Tegafur-uracil,SLC22A7
-Tegafur-uracil,SLC29A1
-Tegafur-uracil,SLC29A2
-Tegafur-uracil,SLC28A1
-Tegafur-uracil,SLC28A2
-Tegafur-uracil,SLC28A3
-Osimertinib,ABCB1
-Osimertinib,ABCG2
-"Dextrose, unspecified form",SLC2A1
-"Dextrose, unspecified form",SLC2A2
-"Dextrose, unspecified form",SLC2A3
-"Dextrose, unspecified form",SLC2A4
-"Dextrose, unspecified form",SLC2A6
-"Dextrose, unspecified form",SLC2A7
-"Dextrose, unspecified form",SLC2A8
-"Dextrose, unspecified form",SLC2A9
-"Dextrose, unspecified form",SLC2A10
-"Dextrose, unspecified form",SLC2A11
-"Dextrose, unspecified form",SLC2A12
-"Dextrose, unspecified form",SLC5A1
-Tipiracil,SLC22A2
-Tipiracil,SLC47A1
-Invert sugar,SLC2A2
-Invert sugar,SLC2A5
-Rauwolfia serpentina root,SLC6A2
-Rauwolfia serpentina root,VMAT2
-Indocyanine green acid form,ABCC2
-Indocyanine green acid form,ABCB11
-"Sodium phosphate, monobasic",SLC20A1
-"Sodium phosphate, monobasic",SLC20A2
-"Sodium phosphate, monobasic",SLC34A1
-"Sodium phosphate, monobasic",SLC34A2
-"Sodium phosphate, monobasic",SLC34A3
-Magnesium carbonate,TRPM6
-Magnesium carbonate,SLC41A3
-Magnesium carbonate,CNNM2
-Magnesium carbonate,TRPM7
-Strontium chloride Sr-89,SLC8A1
-Strontium chloride Sr-89,CACNA1I
-Fludeoxyglucose (18F),SLC2A4
-Fludeoxyglucose (18F),SLC2A2
-Fludeoxyglucose (18F),SLC2A1
-Fludeoxyglucose (18F),SLC2A3
-Fludeoxyglucose (18F),SLC2A9
-Fludeoxyglucose (18F),SLC2A5
-Fludeoxyglucose (18F),SLC2A6
-Fludeoxyglucose (18F),SLC2A7
-Fludeoxyglucose (18F),SLC2A8
-Fludeoxyglucose (18F),SLC2A10
-Fludeoxyglucose (18F),SLC2A11
-Fludeoxyglucose (18F),SLC2A12
-Iobenguane sulfate I-123,SLC6A2
-Polyethylene glycol 400,ABCB1
-Potassium nitrate,MUC1
-Calcium citrate,TRPV6
-Calcium citrate,SLC8A1
-Calcium citrate,TRPV5
-Calcium citrate,RYR1
-Calcium citrate,RYR2
-Calcium citrate,PKD2L1
-Calcium citrate,RYR3
-Calcium citrate,PKD1L3
-Calcium citrate,CATSPER1
-Calcium citrate,CACNA1C
-Calcium citrate,CACNA1D
-Calcium citrate,CACNA1F
-Calcium citrate,CACNA1S
-Calcium citrate,CACNB1
-Calcium citrate,CACNB2
-Calcium citrate,CACNB3
-Calcium citrate,CACNB4
-Calcium citrate,CACNA1A
-Calcium citrate,CACNA1A
-Calcium citrate,CACNA1G
-Calcium citrate,CACNA1H
-Calcium citrate,CACNA1I
-Calcium citrate,CACNA1E
-Potassium bicarbonate,SLC12A2
-Potassium bicarbonate,SLC12A1
-Selenious acid,SELENOP
-Tocopherol,TTPA
-Tocopherol,SEC14L4
-Tocopherol,SEC14L2
-Tocopherol,SEC14L3
-Tocopherol,APOBR
-Tocopherol,SCARB1
-Tocopherol,ABCB1
-Levomefolic acid,SLC46A1
-Levomefolic acid,SLC19A1
-Calcium Phosphate,SLC20A1
-Calcium Phosphate,SLC20A2
-Calcium Phosphate,SLC34A1
-Calcium Phosphate,SLC34A2
-Calcium Phosphate,SLC34A3
-Calcium Phosphate,TRPV6
-Calcium Phosphate,SLC8A1
-Calcium Phosphate,TRPV5
-Calcium Phosphate,RYR1
-Calcium Phosphate,RYR2
-Calcium Phosphate,PKD2L1
-Calcium Phosphate,RYR3
-Calcium Phosphate,PKD1L3
-Calcium Phosphate,CATSPER1
-Calcium Phosphate,CACNA1C
-Calcium Phosphate,CACNA1D
-Calcium Phosphate,CACNA1F
-Calcium Phosphate,CACNA1S
-Calcium Phosphate,CACNB1
-Calcium Phosphate,CACNB2
-Calcium Phosphate,CACNB3
-Calcium Phosphate,CACNB4
-Calcium Phosphate,CACNA1A
-Calcium Phosphate,CACNA1A
-Calcium Phosphate,CACNA1G
-Calcium Phosphate,CACNA1H
-Calcium Phosphate,CACNA1I
-Calcium Phosphate,CACNA1E
-Selexipag,SLCO1B1
-Selexipag,SLCO1B3
-Selexipag,ABCB1
-Alectinib,ABCG2
-Alectinib,ABCB1
-Monensin,ABCB1
-Salinomycin,ABCB1
-Elbasvir,ABCB1
-Grazoprevir,ABCB1
-Grazoprevir,SLCO1B1
-Grazoprevir,SLCO1B3
-Venetoclax,ABCB1
-Venetoclax,ABCG2
-Venetoclax,SLCO1B1
-Asunaprevir,SLCO1B1
-Asunaprevir,SLCO1B3
-Asunaprevir,SLCO2B1
-Asunaprevir,ABCB1
-Thimerosal,ITPR1
-Bilastine,ABCB5
-Bilastine,SLCO1A2
-Bilastine,SLCO2B1
-Lifitegrast,SLCO1A2
-Lifitegrast,SLCO2B1
-Velpatasvir,ABCB1
-Velpatasvir,ABCG2
-Velpatasvir,SLCO1B1
-Velpatasvir,SLCO1B3
-Velpatasvir,SLCO2B1
-Isavuconazole,ABCB1
-Isavuconazole,ABCG2
-Isavuconazole,SLC22A2
-Tocofersolan,TTPA
-Tocofersolan,SCARB1
-Tocofersolan,NPC1L1
-Tocofersolan,ABCG5
-Tocofersolan,ABCG8
-Tocofersolan,ABCA1
-Tocofersolan,SEC14L4
-Tocofersolan,SEC14L2
-Tocofersolan,SEC14L3
-Tocofersolan,APOBR
-Vinflunine,ABCB5
-Vinflunine,ABCB1
-Pitolisant,SLC22A1
-Tafamidis,ABCG2
-Tafamidis,SLC22A6
-Tafamidis,SLC22A8
-Tucatinib,ABCG2
-Tucatinib,ABCB1
-Tucatinib,SLC22A2
-Tucatinib,SLC47A1
-Tucatinib,SLC47A2
-Latanoprostene bunod,SLCO2B1
-Curcumin,ABCB1
-Selumetinib,ABCB1
-Selumetinib,ABCG2
-Naldemedine,ABCB5
-Tezacaftor,ABCB1
-Tezacaftor,ABCG2
-Lasmiditan,ABCB1
-Lasmiditan,ABCG2
-Lasmiditan,SLC22A1
-Lasmiditan,SLC47A1
-Lasmiditan,SLC47A2
-Cabotegravir,SLC22A6
-Cabotegravir,SLC22A8
-Rifamycin,SLCO1A2
-Rifamycin,SLCO1B1
-Rifamycin,SLCO1B3
-Rifamycin,SLCO2A1
-Rifamycin,SLCO2B1
-Rifamycin,SLC47A1
-Rifamycin,ABCB1
-Istradefylline,ABCB1
-Istradefylline,ABCG2
-Istradefylline,SLCO1B1
-Istradefylline,SLCO1B3
-Istradefylline,SLC22A6
-Istradefylline,POU2F2
-Istradefylline,SLC47A1
-Istradefylline,SLC47A2
-Talazoparib,ABCB1
-Talazoparib,ABCG2
-Talinolol,ABCB1
-Talinolol,ABCC2
-Baricitinib,SLC22A8
-Baricitinib,ABCG2
-Baricitinib,SLC47A2
-Baricitinib,SLC22A6
-Baricitinib,SLC22A2
-Baricitinib,SLCO1B3
-Baricitinib,ABCB1
-Ertugliflozin,ABCB1
-Ertugliflozin,ABCG2
-Neratinib,ABCB1
-Osilodrostat,SLCO1B1
-Osilodrostat,SLC22A1
-Osilodrostat,SLC22A2
-Osilodrostat,SLC22A6
-Osilodrostat,SLC22A8
-Osilodrostat,SLC47A1
-Revefenacin,SLCO1B1
-Revefenacin,SLCO1B3
-Revefenacin,ABCB1
-Revefenacin,ABCG2
-Valspodar,SLCO1B1
-Valspodar,SLCO1B3
-Valspodar,ABCB1
-Apalutamide,ABCB1
-Apalutamide,ABCG2
-Apalutamide,SLCO1B1
-Apalutamide,SLC22A2
-Apalutamide,SLC22A8
-Apalutamide,SLC47A2
-Apalutamide,SLC47A1
-Bempedoic acid,SLCO1B1
-Bempedoic acid,ABCC3
-Bempedoic acid,SLCO1B3
-Selinexor,SLCO1B3
-Delafloxacin,ABCB5
-Delafloxacin,ABCG2
-Lemborexant,ABCB1
-Duvelisib,ABCB1
-Duvelisib,ABCG2
-Dacomitinib,ABCB1
-Dacomitinib,ABCG2
-Dacomitinib,SLC22A1
-Glasdegib,ABCB1
-Glasdegib,ABCG2
-Glasdegib,SLC47A1
-Glasdegib,SLC47A2
-Elagolix,ABCB1
-Elagolix,SLCO1B1
-Entrectinib,ABCB1
-Avatrombopag,ABCB1
-Abemaciclib,SLC47A1
-Abemaciclib,SLC47A2
-Abemaciclib,SLC22A2
-Abemaciclib,ABCG2
-Abemaciclib,ABCB1
-Fostamatinib,ABCG2
-Fostamatinib,ABCB5
-Alpelisib,ABCG2
-Alpelisib,ABCB1
-Voxilaprevir,ABCB1
-Voxilaprevir,ABCG2
-Voxilaprevir,SLCO1B1
-Voxilaprevir,SLCO1B3
-Sarecycline,ABCB1
-Letermovir,SLCO1B1
-Letermovir,SLCO1B3
-Letermovir,ABCB1
-Letermovir,ABCG2
-Letermovir,ABCB11
-Letermovir,SLC22A8
-Letermovir,ABCC2
-Gilteritinib,ABCB1
-Gilteritinib,SLC47A1
-Gilteritinib,ABCG2
-Gilteritinib,SLC22A1
-Erdafitinib,ABCB1
-Erdafitinib,SLC22A2
-Polatuzumab vedotin,CD79B
-Edaravone,SLC22A6
-Edaravone,SLC22A8
-Brigatinib,ABCB5
-Brigatinib,ABCG2
-Brigatinib,SLC22A1
-Brigatinib,SLC47A1
-Brigatinib,SLC47A2
-Benzbromarone,SLCO1B1
-Benzbromarone,SLCO2B1
-Benzbromarone,ABCB11
-Rucaparib,ABCB1
-Rucaparib,ABCG2
-Rucaparib,SLC47A1
-Rucaparib,SLC47A2
-Rucaparib,SLC22A1
-Rucaparib,ABCC4
-Rucaparib,SLCO1B1
-Rucaparib,SLCO1B3
-Rucaparib,SLC22A6
-Rucaparib,SLC22A8
-Betrixaban,ABCB1
-Betrixaban,KCNH2
-Relebactam,SLC22A8
-Relebactam,SLC22A11
-Relebactam,SLC47A1
-Relebactam,SLC47A2
-Omadacycline,ABCB1
-Rimegepant,ABCB1
-Rimegepant,ABCG2
-Rimegepant,SLCO1B1
-Rimegepant,SLC22A8
-Rimegepant,SLCO1B3
-Rimegepant,SLC22A2
-Rimegepant,SLC47A1
-Favipiravir,ABCB1
-Favipiravir,SLC22A6
-Favipiravir,SLC22A8
-Favipiravir,SLC22A12
-Copanlisib,ABCB1
-Copanlisib,ABCG2
-Copanlisib,SLC47A2
-Fedratinib,ABCB1
-Fedratinib,ABCG2
-Fedratinib,SLCO1B1
-Fedratinib,SLCO1B3
-Fedratinib,POU2F2
-Fedratinib,SLC47A1
-Fedratinib,SLC47A2
-Piperine,ABCB1
-Nafamostat,SLC22A1
-Nafamostat,SLC22A2
-Ozanimod,MAOB
-Ozanimod,ABCG2
-Ozanimod,ABCB1
-Plazomicin,SLC47A1
-Plazomicin,SLC47A2
-Pilsicainide,ABCB11
-Laniquidar,ABCB1
-Lefamulin,ABCB1
-Grapiprant,ABCB1
-Pradigastat,SLC22A8
-Tazemetostat,ABCB1
-Tazemetostat,SLC47A1
-Tazemetostat,SLC47A2
-Tazemetostat,ABCG2
-Gallopamil,ABCB1
-Darolutamide,ABCG2
-Darolutamide,ABCB1
-Darolutamide,SLCO1B1
-Darolutamide,SLCO1B3
-Pexidartinib,SLC47A1
-Pexidartinib,SLC47A2
-Pexidartinib,SLCO1B1
-Pexidartinib,SLCO1B3
-Pexidartinib,SLCO2B1
-Enfortumab vedotin,ABCB1
-Meclocycline,OMPF
-Meclocycline,OMPC
-Lusutrombopag,ABCB1
-Lusutrombopag,ABCG2
-Levosalbutamol,SLCO1B1
-Levosalbutamol,SLCO1B3
-Fluciclovine (18F),ABCC4
-Levomenol,SLCO1B1
-Levomenol,SLCO1B3
-Parachlorophenol,SLCO1B3
-Inositol,SLC5A3
-Troleandomycin,ABCB1
-Ferrous sulfate anhydrous,SLC11A2
-Ferrous sulfate anhydrous,SLC40A1
-Dihydroergocristine,ABCB11
-Potassium gluconate,ATP1A1
-Potassium gluconate,SLC12A1
-Potassium gluconate,ATP4A
-Potassium gluconate,ATP4B
-Glycyrrhizic acid,ABCB11
-Acemetacin,ABCC1
-Fluticasone,ABCB1
-Fluticasone,SLCO1B1
-Enasidenib,ABCB1
-Enasidenib,ABCG2
-Enasidenib,SLC22A6
-Enasidenib,SLCO1B1
-Enasidenib,SLC22A2
-Enasidenib,SLCO1B3
-Enasidenib,SLC22A8
-Pibrentasvir,ABCB1
-Pibrentasvir,ABCG2
-Pibrentasvir,SLCO1B1
-Pibrentasvir,SLCO1B3
-Glecaprevir,ABCB1
-Glecaprevir,ABCG2
-Glecaprevir,SLCO1B1
-Glecaprevir,SLCO1B3
-Candesartan,ABCB1
-Candesartan,SLCO1B1
-Testosterone cypionate,SLCO1A2
-Testosterone cypionate,SLC22A8
-Testosterone cypionate,SLC22A7
-Testosterone cypionate,ABCB1
-Testosterone cypionate,SLC10A1
-Testosterone cypionate,SLC22A3
-Testosterone cypionate,SLC22A4
-Testosterone cypionate,ABCG2
-Testosterone enanthate,SLCO1A2
-Testosterone enanthate,SLC22A8
-Testosterone enanthate,SLC22A7
-Testosterone enanthate,ABCB1
-Testosterone enanthate,SLC10A1
-Testosterone enanthate,SLC22A3
-Testosterone enanthate,SLC22A4
-Testosterone enanthate,ABCG2
-Testosterone undecanoate,SLCO1A2
-Testosterone undecanoate,SLC22A8
-Testosterone undecanoate,SLC22A7
-Testosterone undecanoate,ABCB1
-Testosterone undecanoate,SLC10A1
-Testosterone undecanoate,SLC22A4
-Testosterone undecanoate,ABCG2
-Testosterone undecanoate,SLC22A2
-Testosterone undecanoate,SLC47A1
-Testosterone undecanoate,SLCO1B3
-Stanolone acetate,ABCB1
-Estradiol acetate,SLC22A2
-Estradiol acetate,SLC22A1
-Estradiol acetate,SLC22A3
-Estradiol acetate,SLCO2B1
-Estradiol acetate,SLCO1A2
-Estradiol acetate,ABCC10
-Estradiol acetate,SLC22A11
-Estradiol acetate,ABCG2
-Estradiol acetate,SLCO1B1
-Estradiol acetate,ABCB1
-Estradiol acetate,SLC22A8
-Estradiol acetate,SLCO1B3
-Estradiol acetate,SLCO1C1
-Estradiol acetate,SLCO4A1
-Estradiol benzoate,SLC22A2
-Estradiol benzoate,SLC22A1
-Estradiol benzoate,SLC22A3
-Estradiol benzoate,SLCO2B1
-Estradiol benzoate,SLCO1A2
-Estradiol benzoate,ABCC10
-Estradiol benzoate,SLC22A11
-Estradiol benzoate,ABCG2
-Estradiol benzoate,SLCO1B1
-Estradiol benzoate,ABCB1
-Estradiol benzoate,SLC22A8
-Estradiol benzoate,SLCO1B3
-Estradiol benzoate,SLCO1C1
-Estradiol benzoate,SLCO4A1
-Estradiol cypionate,SLC22A2
-Estradiol cypionate,SLC22A1
-Estradiol cypionate,SLC22A3
-Estradiol cypionate,SLCO2B1
-Estradiol cypionate,SLCO1A2
-Estradiol cypionate,ABCC10
-Estradiol cypionate,SLC22A11
-Estradiol cypionate,ABCG2
-Estradiol cypionate,SLCO1B1
-Estradiol cypionate,ABCB1
-Estradiol cypionate,SLC22A8
-Estradiol cypionate,SLCO1B3
-Estradiol cypionate,SLCO1C1
-Estradiol cypionate,SLCO4A1
-Estradiol dienanthate,SLC22A2
-Estradiol dienanthate,SLC22A1
-Estradiol dienanthate,SLC22A3
-Estradiol dienanthate,SLCO2B1
-Estradiol dienanthate,SLCO1A2
-Estradiol dienanthate,ABCC10
-Estradiol dienanthate,SLC22A11
-Estradiol dienanthate,ABCG2
-Estradiol dienanthate,SLCO1B1
-Estradiol dienanthate,ABCB1
-Estradiol dienanthate,SLC22A8
-Estradiol dienanthate,SLCO1B3
-Estradiol dienanthate,SLCO1C1
-Estradiol dienanthate,SLCO4A1
-Estradiol valerate,SLC22A2
-Estradiol valerate,SLC22A1
-Estradiol valerate,SLC22A3
-Estradiol valerate,SLCO2B1
-Estradiol valerate,SLCO1A2
-Estradiol valerate,ABCC10
-Estradiol valerate,SLC22A11
-Estradiol valerate,ABCG2
-Estradiol valerate,SLCO1B1
-Estradiol valerate,ABCB1
-Estradiol valerate,SLC22A8
-Estradiol valerate,SLCO1B3
-Estradiol valerate,SLCO1C1
-Estradiol valerate,SLCO4A1
-Baloxavir marboxil,ABCB5
-alpha-Tocopherol acetate,TTPA
-alpha-Tocopherol acetate,SEC14L4
-alpha-Tocopherol acetate,SEC14L2
-alpha-Tocopherol acetate,SEC14L3
-alpha-Tocopherol acetate,APOBR
-alpha-Tocopherol acetate,SCARB1
-alpha-Tocopherol acetate,ABCB1
-Choline salicylate,SLC22A2
-Choline salicylate,SLC22A1
-Choline salicylate,SLC22A3
-Choline salicylate,SLC22A5
-Choline salicylate,SLC22A4
-Choline salicylate,SLC44A1
-Choline salicylate,SLC44A4
-Choline salicylate,SLC44A2
-Choline salicylate,SLC44A3
-Choline salicylate,SLC5A7
-Medical Cannabis,ABCC1
-Medical Cannabis,ABCG2
-Medical Cannabis,SLC29A1
-Nabiximols,ABCC1
-Nabiximols,ABCG2
-Nabiximols,SLC29A1
-Valinomycin,ABCB11
-Valinomycin,ABCB1
-Hycanthone,ABCB1
-Concanamycin A,ABCB1
-Dexverapamil,ABCB1
-Emopamil,ABCB1
-Lomerizine,ABCB1
-Tetrandrine,ABCB1
-Dofequidar,ABCB1
-ONT-093,ABCB1
-Tenofovir,ABCB1
-Tenofovir,SLC22A6
-Tenofovir,SLC22A8
-Tenofovir,ABCC4
-Loxicodegol,ABCB1
-Calcium phosphate dihydrate,SLC20A1
-Calcium phosphate dihydrate,SLC20A2
-Calcium phosphate dihydrate,SLC34A1
-Calcium phosphate dihydrate,SLC34A2
-Calcium phosphate dihydrate,SLC34A3
-Calcium phosphate dihydrate,TRPV6
-Calcium phosphate dihydrate,SLC8A1
-Calcium phosphate dihydrate,TRPV5
-Calcium phosphate dihydrate,RYR1
-Calcium phosphate dihydrate,RYR2
-Calcium phosphate dihydrate,PKD2L1
-Calcium phosphate dihydrate,RYR3
-Calcium phosphate dihydrate,PKD1L3
-Calcium phosphate dihydrate,CATSPER1
-Calcium phosphate dihydrate,CACNA1C
-Calcium phosphate dihydrate,CACNA1D
-Calcium phosphate dihydrate,CACNA1F
-Calcium phosphate dihydrate,CACNA1S
-Calcium phosphate dihydrate,CACNB1
-Calcium phosphate dihydrate,CACNB2
-Calcium phosphate dihydrate,CACNB3
-Calcium phosphate dihydrate,CACNB4
-Calcium phosphate dihydrate,CACNA1A
-Calcium phosphate dihydrate,CACNA1A
-Calcium phosphate dihydrate,CACNA1G
-Calcium phosphate dihydrate,CACNA1H
-Calcium phosphate dihydrate,CACNA1I
-Calcium phosphate dihydrate,CACNA1E
-Potassium,ATP1A1
-Potassium,SLC12A1
-"Sodium phosphate, dibasic",SLC20A1
-"Sodium phosphate, dibasic",SLC20A2
-"Sodium phosphate, dibasic",SLC34A1
-"Sodium phosphate, dibasic",SLC34A2
-"Sodium phosphate, dibasic",SLC34A3
-"Sodium phosphate, monobasic, unspecified form",SLC20A1
-"Sodium phosphate, monobasic, unspecified form",SLC20A2
-"Sodium phosphate, monobasic, unspecified form",SLC34A1
-"Sodium phosphate, monobasic, unspecified form",SLC34A2
-"Sodium phosphate, monobasic, unspecified form",SLC34A3
-Lithium carbonate,SCNN1A
-Lithium carbonate,SCNN1B
-Lithium carbonate,SCNN1G
-Magnesium,CLDN16
-Magnesium,TRPM6
-Magnesium,TRPM7
-Magnesium,SLC41A1
-Magnesium,SLC41A3
-Magnesium,MRS2
-Zinc chloride,SLC30A1
-Zinc chloride,SLC30A2
-Zinc chloride,SLC30A3
-Zinc chloride,SLC30A4
-Zinc chloride,SLC30A6
-Zinc chloride,SLC30A5
-Zinc chloride,SLC30A7
-Zinc chloride,SLC30A8
-Zinc chloride,SLC30A9
-Zinc chloride,SLC30A10
-Zinc chloride,SLC39A1
-Zinc chloride,SLC39A2
-Zinc chloride,SLC39A3
-Zinc chloride,SLC39A4
-Zinc chloride,SLC39A5
-Zinc chloride,SLC39A6
-Zinc chloride,SLC39A7
-Zinc chloride,SLC39A8
-Zinc chloride,SLC39A9
-Zinc chloride,SLC39A10
-Zinc chloride,SLC39A11
-Zinc chloride,SLC39A12
-Zinc chloride,SLC39A13
-Zinc chloride,SLC39A14
-Hydrocortisone aceponate,ABCB1
-Hydrocortisone aceponate,SLCO1A2
-Hydrocortisone aceponate,ABCG2
-Hydrocortisone aceponate,SLC22A8
-Hydrocortisone acetate,ABCB1
-Hydrocortisone acetate,SLCO1A2
-Hydrocortisone acetate,ABCG2
-Hydrocortisone acetate,SLC22A8
-Hydrocortisone butyrate,ABCB1
-Hydrocortisone butyrate,SLCO1A2
-Hydrocortisone butyrate,ABCG2
-Hydrocortisone butyrate,SLC22A8
-Hydrocortisone cypionate,ABCB1
-Hydrocortisone cypionate,SLCO1A2
-Hydrocortisone cypionate,ABCG2
-Hydrocortisone cypionate,SLC22A8
-Hydrocortisone phosphate,ABCB1
-Hydrocortisone phosphate,SLCO1A2
-Hydrocortisone phosphate,ABCG2
-Hydrocortisone phosphate,SLC22A8
-Hydrocortisone probutate,ABCB1
-Hydrocortisone probutate,SLCO1A2
-Hydrocortisone probutate,ABCG2
-Hydrocortisone probutate,SLC22A8
-Hydrocortisone valerate,ABCB1
-Hydrocortisone valerate,SLCO1A2
-Hydrocortisone valerate,ABCG2
-Hydrocortisone valerate,SLC22A8
-"Zinc sulfate, unspecified form",SLC39A10
-"Zinc sulfate, unspecified form",SLC30A7
-"Zinc sulfate, unspecified form",SLC30A4
-"Zinc sulfate, unspecified form",SLC39A6
-"Zinc sulfate, unspecified form",SLC39A5
-"Zinc sulfate, unspecified form",SLC39A2
-"Zinc sulfate, unspecified form",SLC30A9
-"Zinc sulfate, unspecified form",SLC30A1
-"Zinc sulfate, unspecified form",SLC30A2
-"Zinc sulfate, unspecified form",SLC39A7
-"Zinc sulfate, unspecified form",SLC39A4
-"Zinc sulfate, unspecified form",SLC30A3
-"Zinc sulfate, unspecified form",SLC30A8
-"Zinc sulfate, unspecified form",SLC39A12
-"Zinc sulfate, unspecified form",SLC30A5
-"Zinc sulfate, unspecified form",SLC30A10
-"Zinc sulfate, unspecified form",SLC39A13
-"Zinc sulfate, unspecified form",SLC39A8
-"Zinc sulfate, unspecified form",SLC39A1
-"Zinc sulfate, unspecified form",SLC39A14
-"Zinc sulfate, unspecified form",SLC39A3
-"Zinc sulfate, unspecified form",SLC39A9
-"Zinc sulfate, unspecified form",SLC39A11
-"Zinc sulfate, unspecified form",SLC30A6
-Ivosidenib,SLC22A8
-Ivosidenib,ABCB1
-Prednisolone phosphate,SLCO1A2
-Prednisolone phosphate,ABCB1
-Prednisolone phosphate,SLC22A8
-Curcumin sulfate,ABCB1
-Estriol tripropionate,SLCO1A2
-Estriol tripropionate,ABCB1
-Lypressin,ABCC2
-Larotrectinib,ABCB1
-Larotrectinib,ABCG2
-Polymyxin B,SLC15A2
-Solriamfetol,SLC22A2
-Solriamfetol,SLC22A4
-Solriamfetol,SLC22A5
-Cefiderocol,MEXA
-Cefiderocol,MEXB
-Cefiderocol,OPRM
-Cefiderocol,FIU
-Cefiderocol,CIRA
-Cefiderocol,PIUA
-Trastuzumab deruxtecan,ABCB1
-Trastuzumab deruxtecan,SLCO1B1
-Trastuzumab deruxtecan,SLCO1B3
-Trastuzumab deruxtecan,SLC47A2
-Trastuzumab deruxtecan,ABCC1
-Trastuzumab deruxtecan,ABCG2
-Zanubrutinib,ABCB1
-Upadacitinib,ABCB1
-Upadacitinib,ABCG2
-Upadacitinib,SLCO1B1
-Avapritinib,ABCB1
-Avapritinib,ABCG2
-Ubrogepant,ABCB1
-Ubrogepant,ABCG2
-Ubrogepant,SLCO1B1
-Ubrogepant,SLCO1B3
-Ubrogepant,SLC22A6
-Ubrogepant,SLC22A2
-Elexacaftor,SLCO1B1
-Elexacaftor,SLCO1B3
-Elexacaftor,ABCB1
-Prednisolone acetate,SLCO1A2
-Prednisolone acetate,ABCB1
-Ferric maltol,ITGB3
-Ferric maltol,SLC11A2
-Ferric derisomaltose,TFRC
-Ferric derisomaltose,TFR2
+taurochenodeoxycholic acid,SLCO1A2
+taurochenodeoxycholic acid,SLC7A11
+tauroursodeoxycholic acid,SLCO1A2
+tauroursodeoxycholic acid,SLC7A11
+spaglumic acid,SLC36A1
+temocapril,SLC15A1
+temocapril,SLCO1A2
+tetraethylammonium,SLC22A1
+tetraethylammonium,SLC22A2
+tetraethylammonium,SLC22A3
+tetraethylammonium,SLC22A4
+tetraethylammonium,SLC22A5
+tetraethylammonium,SLC22A8
+tetraethylammonium,SLC47A1
+agmatine,SLC22A1
+agmatine,SLC22A2
+agmatine,SLC22A3
+agmatine,SLC7A7
+serotonin,SLC22A2
+n-methylnicotinamide,SLC22A2
+n-methylnicotinamide,SLC47A1
+n-methylnicotinamide,SLC47A2
+tyramine,SLC22A3
+acetylcarnitine,SLC22A5
+acetylcarnitine,SLC22A21
+gs 0573,SLC22A6
+uric acid,SLC22A6
+uric acid,SLC22A8
+uric acid,SLC2A9
+ellagic acid,SLC22A6
+ellagic acid,SLC22A11
+hydroxyproline,SLC36A1
+nipecotic acid,SLC36A1
+leukotriene c4,SLCO1B1
+leukotriene c4,SLCO1B3
+dadle,SLCO1B1
+bamet-ud2,SLCO1B1
+cis-diamminechlorocholylglycinateplatinum(ii),SLCO1B1
+pitavastatin,SLCO1B1
+pitavastatin,SLCO1B3
+pitavastatin,SLCO2B1
+pitavastatin,SLC10A1
+pitavastatin,ABCG2
+pitavastatin,ABCB1
+pitavastatin,ABCC2
+pitavastatin,ABCB11
+dpdpe,SLCO1B3
+cholecystokinin,SLCO1B3
+cholecystokinin,SLCO1B1
+cholecystokinin,SLCO2B1
+rilpivirine,ABCB1
+rilpivirine,ABCG2
+rilpivirine,SLCO1B1
+rilpivirine,SLCO1B3
+crizotinib,ABCB1
+fingolimod,SLC1A2
+fingolimod,SLC1A3
+fingolimod,ABCB1
+fingolimod,ABCC1
+brentuximab vedotin,ABCB5
+gabapentin enacarbil,SLC5A8
+gabapentin enacarbil,SLC5A6
+boceprevir,ABCB1
+fidaxomicin,ABCB1
+aminopterin,SLC46A1
+teriflunomide,ABCG2
+teriflunomide,SLCO1B1
+vemurafenib,ABCC1
+vemurafenib,ABCG2
+vemurafenib,ABCB1
+linagliptin,ABCB1
+linagliptin,SLC22A1
+linagliptin,SLC22A2
+linagliptin,SLC22A3
+gadoxetic acid,SLCO1B1
+gadoxetic acid,SLCO1B3
+gadoxetic acid,ABCC3
+gadoxetic acid,ABCC2
+gadoxetic acid,ABCC4
+carfilzomib,ABCB1
+arbaclofen placarbil,SLC16A1
+mirabegron,ABCB1
+mirabegron,SLCO1A2
+regorafenib,ABCB1
+regorafenib,ABCG2
+enzalutamide,ABCB1
+ponatinib,ABCB1
+ponatinib,ABCG2
+fluticasone furoate,ABCB1
+fluticasone furoate,SLCO1B1
+canagliflozin,ABCB1
+canagliflozin,ABCC2
+canagliflozin,ABCG2
+pomalidomide,ABCB1
+dabrafenib,ABCB1
+dabrafenib,ABCG2
+dabrafenib,SLCO1B1
+dabrafenib,SLCO1B3
+dabrafenib,SLC22A6
+dabrafenib,SLC22A8
+afatinib,ABCB1
+afatinib,ABCG2
+levomilnacipran,ABCB1
+dolutegravir,SLC22A2
+dolutegravir,ABCG2
+dolutegravir,SLC22A6
+dolutegravir,SLC22A8
+dolutegravir,ABCB1
+riociguat,ABCG2
+sofosbuvir,ABCB1
+sofosbuvir,ABCG2
+inositol nicotinate,SLC5A8
+cefaloridine,SLC22A6
+cefaloridine,SLC22A8
+ledipasvir,ABCB1
+ledipasvir,ABCG2
+vorapaxar,ABCB1
+suvorexant,ABCB1
+eliglustat,ABCB1
+netupitant,ABCB1
+idelalisib,ABCG2
+idelalisib,ABCB1
+idelalisib,SLCO1B1
+idelalisib,SLCO1B3
+avibactam,ABCC2
+avibactam,SLC22A8
+cannabidiol,ABCC1
+cannabidiol,ABCG2
+cannabidiol,SLC29A1
+ceritinib,ABCB1
+cobicistat,ABCB1
+cobicistat,ABCG2
+cobicistat,SLCO1B1
+cobicistat,SLCO1B3
+palbociclib,ABCB1
+palbociclib,ABCG2
+palbociclib,SLC22A1
+olaparib,ABCB1
+olaparib,ABCG2
+edoxaban,ABCB1
+umeclidinium,ABCB1
+lenvatinib,ABCB1
+lenvatinib,ABCG2
+lenvatinib,SLC22A6
+lenvatinib,SLC22A8
+lenvatinib,SLC22A2
+lenvatinib,SLCO1B1
+lenvatinib,ABCB11
+nintedanib,ABCB1
+nintedanib,SLC22A1
+nintedanib,ABCG2
+somatostatin,ABCB1
+"thyroid, porcine",SLC16A2
+"thyroid, porcine",SLCO1C1
+"thyroid, porcine",SLCO3A1
+"thyroid, porcine",SLCO4A1
+"thyroid, porcine",SLC7A5
+"thyroid, porcine",SLC10A1
+daclatasvir,ABCB1
+daclatasvir,SLCO1B1
+daclatasvir,SLCO1B3
+daclatasvir,ABCG2
+copper,SLC31A1
+copper,SLC11A2
+copper,ATP7A
+copper,ATP7B
+copper,SLC31A2
+technetium tc-99m mebrofenin,SLCO1B1
+technetium tc-99m mebrofenin,SLCO1B3
+sincalide,SLCO1B3
+sodium citrate,SLC25A21
+sodium citrate,SLC13A2
+sodium citrate,SLC13A5
+sodium citrate,SLC25A1
+technetium tc-99m sestamibi,ABCB1
+technetium tc-99m sestamibi,ABCC1
+dasabuvir,ABCG2
+dasabuvir,ABCB5
+dasabuvir,ABCB1
+etoperidone,SLC6A4
+etoperidone,SLC6A2
+etoperidone,SLC6A3
+lobeglitazone,SLCO1B1
+lobeglitazone,SLCO3A1
+lobeglitazone,ABCB1
+dexibuprofen,ABCC4
+dexibuprofen,ABCC1
+dexibuprofen,SLCO1A2
+dexibuprofen,SLC22A6
+dexibuprofen,SLC22A8
+dexibuprofen,SLC22A11
+dexibuprofen,SLCO2B1
+dexibuprofen,ABCB1
+levamlodipine,ABCB1
+levamlodipine,SLC10A2
+levamlodipine,SLC22A5
+niguldipine,ABCB1
+methylene blue,ABCB1
+methylene blue,SLC22A2
+methylene blue,SLC47A2
+methylene blue,SLC47A1
+ubidecarenone,ABCB1
+eluxadoline,SLCO1B1
+eluxadoline,ABCC2
+eluxadoline,SLC22A8
+fimasartan,SLCO1B1
+fimasartan,ABCG2
+lumacaftor,ABCB1
+polyethylene glycol,ABCB1
+rolapitant,ABCG2
+rolapitant,ABCB1
+sacubitril,SLCO1B1
+sacubitril,SLCO1B3
+ombitasvir,ABCB1
+ombitasvir,UGT1A4
+ombitasvir,ABCG2
+paritaprevir,ABCG2
+paritaprevir,ABCB1
+paritaprevir,SLCO1B1
+paritaprevir,SLCO1B3
+silibinin,SLC22A6
+silibinin,SLCO1B1
+silibinin,SLCO1B3
+silibinin,SLCO2B1
+tenofovir alafenamide,ABCB1
+tenofovir alafenamide,ABCC4
+tenofovir alafenamide,SLC22A6
+tenofovir alafenamide,SLC22A8
+tenofovir alafenamide,ABCG2
+tenofovir alafenamide,SLCO1B1
+tenofovir alafenamide,SLCO1B3
+ammonia n-13,RHCG
+tegafur-uracil,SLC22A7
+tegafur-uracil,SLC29A1
+tegafur-uracil,SLC29A2
+tegafur-uracil,SLC28A1
+tegafur-uracil,SLC28A2
+tegafur-uracil,SLC28A3
+osimertinib,ABCB1
+osimertinib,ABCG2
+"dextrose, unspecified form",SLC2A1
+"dextrose, unspecified form",SLC2A2
+"dextrose, unspecified form",SLC2A3
+"dextrose, unspecified form",SLC2A4
+"dextrose, unspecified form",SLC2A6
+"dextrose, unspecified form",SLC2A7
+"dextrose, unspecified form",SLC2A8
+"dextrose, unspecified form",SLC2A9
+"dextrose, unspecified form",SLC2A10
+"dextrose, unspecified form",SLC2A11
+"dextrose, unspecified form",SLC2A12
+"dextrose, unspecified form",SLC5A1
+tipiracil,SLC22A2
+tipiracil,SLC47A1
+invert sugar,SLC2A2
+invert sugar,SLC2A5
+rauwolfia serpentina root,SLC6A2
+rauwolfia serpentina root,VMAT2
+indocyanine green acid form,ABCC2
+indocyanine green acid form,ABCB11
+"sodium phosphate, monobasic",SLC20A1
+"sodium phosphate, monobasic",SLC20A2
+"sodium phosphate, monobasic",SLC34A1
+"sodium phosphate, monobasic",SLC34A2
+"sodium phosphate, monobasic",SLC34A3
+magnesium carbonate,TRPM6
+magnesium carbonate,SLC41A3
+magnesium carbonate,CNNM2
+magnesium carbonate,TRPM7
+strontium chloride sr-89,SLC8A1
+strontium chloride sr-89,CACNA1I
+fludeoxyglucose (18f),SLC2A4
+fludeoxyglucose (18f),SLC2A2
+fludeoxyglucose (18f),SLC2A1
+fludeoxyglucose (18f),SLC2A3
+fludeoxyglucose (18f),SLC2A9
+fludeoxyglucose (18f),SLC2A5
+fludeoxyglucose (18f),SLC2A6
+fludeoxyglucose (18f),SLC2A7
+fludeoxyglucose (18f),SLC2A8
+fludeoxyglucose (18f),SLC2A10
+fludeoxyglucose (18f),SLC2A11
+fludeoxyglucose (18f),SLC2A12
+iobenguane sulfate i-123,SLC6A2
+polyethylene glycol 400,ABCB1
+potassium nitrate,MUC1
+calcium citrate,TRPV6
+calcium citrate,SLC8A1
+calcium citrate,TRPV5
+calcium citrate,RYR1
+calcium citrate,RYR2
+calcium citrate,PKD2L1
+calcium citrate,RYR3
+calcium citrate,PKD1L3
+calcium citrate,CATSPER1
+calcium citrate,CACNA1C
+calcium citrate,CACNA1D
+calcium citrate,CACNA1F
+calcium citrate,CACNA1S
+calcium citrate,CACNB1
+calcium citrate,CACNB2
+calcium citrate,CACNB3
+calcium citrate,CACNB4
+calcium citrate,CACNA1A
+calcium citrate,CACNA1A
+calcium citrate,CACNA1G
+calcium citrate,CACNA1H
+calcium citrate,CACNA1I
+calcium citrate,CACNA1E
+potassium bicarbonate,SLC12A2
+potassium bicarbonate,SLC12A1
+selenious acid,SELENOP
+tocopherol,TTPA
+tocopherol,SEC14L4
+tocopherol,SEC14L2
+tocopherol,SEC14L3
+tocopherol,APOBR
+tocopherol,SCARB1
+tocopherol,ABCB1
+levomefolic acid,SLC46A1
+levomefolic acid,SLC19A1
+calcium phosphate,SLC20A1
+calcium phosphate,SLC20A2
+calcium phosphate,SLC34A1
+calcium phosphate,SLC34A2
+calcium phosphate,SLC34A3
+calcium phosphate,TRPV6
+calcium phosphate,SLC8A1
+calcium phosphate,TRPV5
+calcium phosphate,RYR1
+calcium phosphate,RYR2
+calcium phosphate,PKD2L1
+calcium phosphate,RYR3
+calcium phosphate,PKD1L3
+calcium phosphate,CATSPER1
+calcium phosphate,CACNA1C
+calcium phosphate,CACNA1D
+calcium phosphate,CACNA1F
+calcium phosphate,CACNA1S
+calcium phosphate,CACNB1
+calcium phosphate,CACNB2
+calcium phosphate,CACNB3
+calcium phosphate,CACNB4
+calcium phosphate,CACNA1A
+calcium phosphate,CACNA1A
+calcium phosphate,CACNA1G
+calcium phosphate,CACNA1H
+calcium phosphate,CACNA1I
+calcium phosphate,CACNA1E
+selexipag,SLCO1B1
+selexipag,SLCO1B3
+selexipag,ABCB1
+alectinib,ABCG2
+alectinib,ABCB1
+monensin,ABCB1
+salinomycin,ABCB1
+elbasvir,ABCB1
+grazoprevir,ABCB1
+grazoprevir,SLCO1B1
+grazoprevir,SLCO1B3
+venetoclax,ABCB1
+venetoclax,ABCG2
+venetoclax,SLCO1B1
+asunaprevir,SLCO1B1
+asunaprevir,SLCO1B3
+asunaprevir,SLCO2B1
+asunaprevir,ABCB1
+thimerosal,ITPR1
+bilastine,ABCB5
+bilastine,SLCO1A2
+bilastine,SLCO2B1
+lifitegrast,SLCO1A2
+lifitegrast,SLCO2B1
+velpatasvir,ABCB1
+velpatasvir,ABCG2
+velpatasvir,SLCO1B1
+velpatasvir,SLCO1B3
+velpatasvir,SLCO2B1
+isavuconazole,ABCB1
+isavuconazole,ABCG2
+isavuconazole,SLC22A2
+tocofersolan,TTPA
+tocofersolan,SCARB1
+tocofersolan,NPC1L1
+tocofersolan,ABCG5
+tocofersolan,ABCG8
+tocofersolan,ABCA1
+tocofersolan,SEC14L4
+tocofersolan,SEC14L2
+tocofersolan,SEC14L3
+tocofersolan,APOBR
+vinflunine,ABCB5
+vinflunine,ABCB1
+pitolisant,SLC22A1
+tafamidis,ABCG2
+tafamidis,SLC22A6
+tafamidis,SLC22A8
+tucatinib,ABCG2
+tucatinib,ABCB1
+tucatinib,SLC22A2
+tucatinib,SLC47A1
+tucatinib,SLC47A2
+latanoprostene bunod,SLCO2B1
+curcumin,ABCB1
+selumetinib,ABCB1
+selumetinib,ABCG2
+naldemedine,ABCB5
+tezacaftor,ABCB1
+tezacaftor,ABCG2
+lasmiditan,ABCB1
+lasmiditan,ABCG2
+lasmiditan,SLC22A1
+lasmiditan,SLC47A1
+lasmiditan,SLC47A2
+cabotegravir,SLC22A6
+cabotegravir,SLC22A8
+rifamycin,SLCO1A2
+rifamycin,SLCO1B1
+rifamycin,SLCO1B3
+rifamycin,SLCO2A1
+rifamycin,SLCO2B1
+rifamycin,SLC47A1
+rifamycin,ABCB1
+istradefylline,ABCB1
+istradefylline,ABCG2
+istradefylline,SLCO1B1
+istradefylline,SLCO1B3
+istradefylline,SLC22A6
+istradefylline,POU2F2
+istradefylline,SLC47A1
+istradefylline,SLC47A2
+talazoparib,ABCB1
+talazoparib,ABCG2
+talinolol,ABCB1
+talinolol,ABCC2
+baricitinib,SLC22A8
+baricitinib,ABCG2
+baricitinib,SLC47A2
+baricitinib,SLC22A6
+baricitinib,SLC22A2
+baricitinib,SLCO1B3
+baricitinib,ABCB1
+ertugliflozin,ABCB1
+ertugliflozin,ABCG2
+neratinib,ABCB1
+osilodrostat,SLCO1B1
+osilodrostat,SLC22A1
+osilodrostat,SLC22A2
+osilodrostat,SLC22A6
+osilodrostat,SLC22A8
+osilodrostat,SLC47A1
+revefenacin,SLCO1B1
+revefenacin,SLCO1B3
+revefenacin,ABCB1
+revefenacin,ABCG2
+valspodar,SLCO1B1
+valspodar,SLCO1B3
+valspodar,ABCB1
+apalutamide,ABCB1
+apalutamide,ABCG2
+apalutamide,SLCO1B1
+apalutamide,SLC22A2
+apalutamide,SLC22A8
+apalutamide,SLC47A2
+apalutamide,SLC47A1
+bempedoic acid,SLCO1B1
+bempedoic acid,ABCC3
+bempedoic acid,SLCO1B3
+selinexor,SLCO1B3
+delafloxacin,ABCB5
+delafloxacin,ABCG2
+lemborexant,ABCB1
+duvelisib,ABCB1
+duvelisib,ABCG2
+dacomitinib,ABCB1
+dacomitinib,ABCG2
+dacomitinib,SLC22A1
+glasdegib,ABCB1
+glasdegib,ABCG2
+glasdegib,SLC47A1
+glasdegib,SLC47A2
+elagolix,ABCB1
+elagolix,SLCO1B1
+entrectinib,ABCB1
+avatrombopag,ABCB1
+abemaciclib,SLC47A1
+abemaciclib,SLC47A2
+abemaciclib,SLC22A2
+abemaciclib,ABCG2
+abemaciclib,ABCB1
+fostamatinib,ABCG2
+fostamatinib,ABCB5
+alpelisib,ABCG2
+alpelisib,ABCB1
+voxilaprevir,ABCB1
+voxilaprevir,ABCG2
+voxilaprevir,SLCO1B1
+voxilaprevir,SLCO1B3
+sarecycline,ABCB1
+letermovir,SLCO1B1
+letermovir,SLCO1B3
+letermovir,ABCB1
+letermovir,ABCG2
+letermovir,ABCB11
+letermovir,SLC22A8
+letermovir,ABCC2
+gilteritinib,ABCB1
+gilteritinib,SLC47A1
+gilteritinib,ABCG2
+gilteritinib,SLC22A1
+erdafitinib,ABCB1
+erdafitinib,SLC22A2
+polatuzumab vedotin,CD79B
+edaravone,SLC22A6
+edaravone,SLC22A8
+brigatinib,ABCB5
+brigatinib,ABCG2
+brigatinib,SLC22A1
+brigatinib,SLC47A1
+brigatinib,SLC47A2
+benzbromarone,SLCO1B1
+benzbromarone,SLCO2B1
+benzbromarone,ABCB11
+rucaparib,ABCB1
+rucaparib,ABCG2
+rucaparib,SLC47A1
+rucaparib,SLC47A2
+rucaparib,SLC22A1
+rucaparib,ABCC4
+rucaparib,SLCO1B1
+rucaparib,SLCO1B3
+rucaparib,SLC22A6
+rucaparib,SLC22A8
+betrixaban,ABCB1
+betrixaban,KCNH2
+relebactam,SLC22A8
+relebactam,SLC22A11
+relebactam,SLC47A1
+relebactam,SLC47A2
+omadacycline,ABCB1
+rimegepant,ABCB1
+rimegepant,ABCG2
+rimegepant,SLCO1B1
+rimegepant,SLC22A8
+rimegepant,SLCO1B3
+rimegepant,SLC22A2
+rimegepant,SLC47A1
+favipiravir,ABCB1
+favipiravir,SLC22A6
+favipiravir,SLC22A8
+favipiravir,SLC22A12
+copanlisib,ABCB1
+copanlisib,ABCG2
+copanlisib,SLC47A2
+fedratinib,ABCB1
+fedratinib,ABCG2
+fedratinib,SLCO1B1
+fedratinib,SLCO1B3
+fedratinib,POU2F2
+fedratinib,SLC47A1
+fedratinib,SLC47A2
+piperine,ABCB1
+nafamostat,SLC22A1
+nafamostat,SLC22A2
+ozanimod,MAOB
+ozanimod,ABCG2
+ozanimod,ABCB1
+plazomicin,SLC47A1
+plazomicin,SLC47A2
+pilsicainide,ABCB11
+laniquidar,ABCB1
+lefamulin,ABCB1
+grapiprant,ABCB1
+pradigastat,SLC22A8
+tazemetostat,ABCB1
+tazemetostat,SLC47A1
+tazemetostat,SLC47A2
+tazemetostat,ABCG2
+gallopamil,ABCB1
+darolutamide,ABCG2
+darolutamide,ABCB1
+darolutamide,SLCO1B1
+darolutamide,SLCO1B3
+pexidartinib,SLC47A1
+pexidartinib,SLC47A2
+pexidartinib,SLCO1B1
+pexidartinib,SLCO1B3
+pexidartinib,SLCO2B1
+enfortumab vedotin,ABCB1
+meclocycline,OMPF
+meclocycline,OMPC
+lusutrombopag,ABCB1
+lusutrombopag,ABCG2
+levosalbutamol,SLCO1B1
+levosalbutamol,SLCO1B3
+fluciclovine (18f),ABCC4
+levomenol,SLCO1B1
+levomenol,SLCO1B3
+parachlorophenol,SLCO1B3
+inositol,SLC5A3
+troleandomycin,ABCB1
+ferrous sulfate anhydrous,SLC11A2
+ferrous sulfate anhydrous,SLC40A1
+dihydroergocristine,ABCB11
+potassium gluconate,ATP1A1
+potassium gluconate,SLC12A1
+potassium gluconate,ATP4A
+potassium gluconate,ATP4B
+glycyrrhizic acid,ABCB11
+acemetacin,ABCC1
+fluticasone,ABCB1
+fluticasone,SLCO1B1
+enasidenib,ABCB1
+enasidenib,ABCG2
+enasidenib,SLC22A6
+enasidenib,SLCO1B1
+enasidenib,SLC22A2
+enasidenib,SLCO1B3
+enasidenib,SLC22A8
+pibrentasvir,ABCB1
+pibrentasvir,ABCG2
+pibrentasvir,SLCO1B1
+pibrentasvir,SLCO1B3
+glecaprevir,ABCB1
+glecaprevir,ABCG2
+glecaprevir,SLCO1B1
+glecaprevir,SLCO1B3
+candesartan,ABCB1
+candesartan,SLCO1B1
+testosterone cypionate,SLCO1A2
+testosterone cypionate,SLC22A8
+testosterone cypionate,SLC22A7
+testosterone cypionate,ABCB1
+testosterone cypionate,SLC10A1
+testosterone cypionate,SLC22A3
+testosterone cypionate,SLC22A4
+testosterone cypionate,ABCG2
+testosterone enanthate,SLCO1A2
+testosterone enanthate,SLC22A8
+testosterone enanthate,SLC22A7
+testosterone enanthate,ABCB1
+testosterone enanthate,SLC10A1
+testosterone enanthate,SLC22A3
+testosterone enanthate,SLC22A4
+testosterone enanthate,ABCG2
+testosterone undecanoate,SLCO1A2
+testosterone undecanoate,SLC22A8
+testosterone undecanoate,SLC22A7
+testosterone undecanoate,ABCB1
+testosterone undecanoate,SLC10A1
+testosterone undecanoate,SLC22A4
+testosterone undecanoate,ABCG2
+testosterone undecanoate,SLC22A2
+testosterone undecanoate,SLC47A1
+testosterone undecanoate,SLCO1B3
+stanolone acetate,ABCB1
+estradiol acetate,SLC22A2
+estradiol acetate,SLC22A1
+estradiol acetate,SLC22A3
+estradiol acetate,SLCO2B1
+estradiol acetate,SLCO1A2
+estradiol acetate,ABCC10
+estradiol acetate,SLC22A11
+estradiol acetate,ABCG2
+estradiol acetate,SLCO1B1
+estradiol acetate,ABCB1
+estradiol acetate,SLC22A8
+estradiol acetate,SLCO1B3
+estradiol acetate,SLCO1C1
+estradiol acetate,SLCO4A1
+estradiol benzoate,SLC22A2
+estradiol benzoate,SLC22A1
+estradiol benzoate,SLC22A3
+estradiol benzoate,SLCO2B1
+estradiol benzoate,SLCO1A2
+estradiol benzoate,ABCC10
+estradiol benzoate,SLC22A11
+estradiol benzoate,ABCG2
+estradiol benzoate,SLCO1B1
+estradiol benzoate,ABCB1
+estradiol benzoate,SLC22A8
+estradiol benzoate,SLCO1B3
+estradiol benzoate,SLCO1C1
+estradiol benzoate,SLCO4A1
+estradiol cypionate,SLC22A2
+estradiol cypionate,SLC22A1
+estradiol cypionate,SLC22A3
+estradiol cypionate,SLCO2B1
+estradiol cypionate,SLCO1A2
+estradiol cypionate,ABCC10
+estradiol cypionate,SLC22A11
+estradiol cypionate,ABCG2
+estradiol cypionate,SLCO1B1
+estradiol cypionate,ABCB1
+estradiol cypionate,SLC22A8
+estradiol cypionate,SLCO1B3
+estradiol cypionate,SLCO1C1
+estradiol cypionate,SLCO4A1
+estradiol dienanthate,SLC22A2
+estradiol dienanthate,SLC22A1
+estradiol dienanthate,SLC22A3
+estradiol dienanthate,SLCO2B1
+estradiol dienanthate,SLCO1A2
+estradiol dienanthate,ABCC10
+estradiol dienanthate,SLC22A11
+estradiol dienanthate,ABCG2
+estradiol dienanthate,SLCO1B1
+estradiol dienanthate,ABCB1
+estradiol dienanthate,SLC22A8
+estradiol dienanthate,SLCO1B3
+estradiol dienanthate,SLCO1C1
+estradiol dienanthate,SLCO4A1
+estradiol valerate,SLC22A2
+estradiol valerate,SLC22A1
+estradiol valerate,SLC22A3
+estradiol valerate,SLCO2B1
+estradiol valerate,SLCO1A2
+estradiol valerate,ABCC10
+estradiol valerate,SLC22A11
+estradiol valerate,ABCG2
+estradiol valerate,SLCO1B1
+estradiol valerate,ABCB1
+estradiol valerate,SLC22A8
+estradiol valerate,SLCO1B3
+estradiol valerate,SLCO1C1
+estradiol valerate,SLCO4A1
+baloxavir marboxil,ABCB5
+alpha-tocopherol acetate,TTPA
+alpha-tocopherol acetate,SEC14L4
+alpha-tocopherol acetate,SEC14L2
+alpha-tocopherol acetate,SEC14L3
+alpha-tocopherol acetate,APOBR
+alpha-tocopherol acetate,SCARB1
+alpha-tocopherol acetate,ABCB1
+choline salicylate,SLC22A2
+choline salicylate,SLC22A1
+choline salicylate,SLC22A3
+choline salicylate,SLC22A5
+choline salicylate,SLC22A4
+choline salicylate,SLC44A1
+choline salicylate,SLC44A4
+choline salicylate,SLC44A2
+choline salicylate,SLC44A3
+choline salicylate,SLC5A7
+medical cannabis,ABCC1
+medical cannabis,ABCG2
+medical cannabis,SLC29A1
+nabiximols,ABCC1
+nabiximols,ABCG2
+nabiximols,SLC29A1
+valinomycin,ABCB11
+valinomycin,ABCB1
+hycanthone,ABCB1
+concanamycin a,ABCB1
+dexverapamil,ABCB1
+emopamil,ABCB1
+lomerizine,ABCB1
+tetrandrine,ABCB1
+dofequidar,ABCB1
+ont-093,ABCB1
+tenofovir,ABCB1
+tenofovir,SLC22A6
+tenofovir,SLC22A8
+tenofovir,ABCC4
+loxicodegol,ABCB1
+calcium phosphate dihydrate,SLC20A1
+calcium phosphate dihydrate,SLC20A2
+calcium phosphate dihydrate,SLC34A1
+calcium phosphate dihydrate,SLC34A2
+calcium phosphate dihydrate,SLC34A3
+calcium phosphate dihydrate,TRPV6
+calcium phosphate dihydrate,SLC8A1
+calcium phosphate dihydrate,TRPV5
+calcium phosphate dihydrate,RYR1
+calcium phosphate dihydrate,RYR2
+calcium phosphate dihydrate,PKD2L1
+calcium phosphate dihydrate,RYR3
+calcium phosphate dihydrate,PKD1L3
+calcium phosphate dihydrate,CATSPER1
+calcium phosphate dihydrate,CACNA1C
+calcium phosphate dihydrate,CACNA1D
+calcium phosphate dihydrate,CACNA1F
+calcium phosphate dihydrate,CACNA1S
+calcium phosphate dihydrate,CACNB1
+calcium phosphate dihydrate,CACNB2
+calcium phosphate dihydrate,CACNB3
+calcium phosphate dihydrate,CACNB4
+calcium phosphate dihydrate,CACNA1A
+calcium phosphate dihydrate,CACNA1A
+calcium phosphate dihydrate,CACNA1G
+calcium phosphate dihydrate,CACNA1H
+calcium phosphate dihydrate,CACNA1I
+calcium phosphate dihydrate,CACNA1E
+potassium,ATP1A1
+potassium,SLC12A1
+"sodium phosphate, dibasic",SLC20A1
+"sodium phosphate, dibasic",SLC20A2
+"sodium phosphate, dibasic",SLC34A1
+"sodium phosphate, dibasic",SLC34A2
+"sodium phosphate, dibasic",SLC34A3
+"sodium phosphate, monobasic, unspecified form",SLC20A1
+"sodium phosphate, monobasic, unspecified form",SLC20A2
+"sodium phosphate, monobasic, unspecified form",SLC34A1
+"sodium phosphate, monobasic, unspecified form",SLC34A2
+"sodium phosphate, monobasic, unspecified form",SLC34A3
+lithium carbonate,SCNN1A
+lithium carbonate,SCNN1B
+lithium carbonate,SCNN1G
+magnesium,CLDN16
+magnesium,TRPM6
+magnesium,TRPM7
+magnesium,SLC41A1
+magnesium,SLC41A3
+magnesium,MRS2
+zinc chloride,SLC30A1
+zinc chloride,SLC30A2
+zinc chloride,SLC30A3
+zinc chloride,SLC30A4
+zinc chloride,SLC30A6
+zinc chloride,SLC30A5
+zinc chloride,SLC30A7
+zinc chloride,SLC30A8
+zinc chloride,SLC30A9
+zinc chloride,SLC30A10
+zinc chloride,SLC39A1
+zinc chloride,SLC39A2
+zinc chloride,SLC39A3
+zinc chloride,SLC39A4
+zinc chloride,SLC39A5
+zinc chloride,SLC39A6
+zinc chloride,SLC39A7
+zinc chloride,SLC39A8
+zinc chloride,SLC39A9
+zinc chloride,SLC39A10
+zinc chloride,SLC39A11
+zinc chloride,SLC39A12
+zinc chloride,SLC39A13
+zinc chloride,SLC39A14
+hydrocortisone aceponate,ABCB1
+hydrocortisone aceponate,SLCO1A2
+hydrocortisone aceponate,ABCG2
+hydrocortisone aceponate,SLC22A8
+hydrocortisone acetate,ABCB1
+hydrocortisone acetate,SLCO1A2
+hydrocortisone acetate,ABCG2
+hydrocortisone acetate,SLC22A8
+hydrocortisone butyrate,ABCB1
+hydrocortisone butyrate,SLCO1A2
+hydrocortisone butyrate,ABCG2
+hydrocortisone butyrate,SLC22A8
+hydrocortisone cypionate,ABCB1
+hydrocortisone cypionate,SLCO1A2
+hydrocortisone cypionate,ABCG2
+hydrocortisone cypionate,SLC22A8
+hydrocortisone phosphate,ABCB1
+hydrocortisone phosphate,SLCO1A2
+hydrocortisone phosphate,ABCG2
+hydrocortisone phosphate,SLC22A8
+hydrocortisone probutate,ABCB1
+hydrocortisone probutate,SLCO1A2
+hydrocortisone probutate,ABCG2
+hydrocortisone probutate,SLC22A8
+hydrocortisone valerate,ABCB1
+hydrocortisone valerate,SLCO1A2
+hydrocortisone valerate,ABCG2
+hydrocortisone valerate,SLC22A8
+"zinc sulfate, unspecified form",SLC39A10
+"zinc sulfate, unspecified form",SLC30A7
+"zinc sulfate, unspecified form",SLC30A4
+"zinc sulfate, unspecified form",SLC39A6
+"zinc sulfate, unspecified form",SLC39A5
+"zinc sulfate, unspecified form",SLC39A2
+"zinc sulfate, unspecified form",SLC30A9
+"zinc sulfate, unspecified form",SLC30A1
+"zinc sulfate, unspecified form",SLC30A2
+"zinc sulfate, unspecified form",SLC39A7
+"zinc sulfate, unspecified form",SLC39A4
+"zinc sulfate, unspecified form",SLC30A3
+"zinc sulfate, unspecified form",SLC30A8
+"zinc sulfate, unspecified form",SLC39A12
+"zinc sulfate, unspecified form",SLC30A5
+"zinc sulfate, unspecified form",SLC30A10
+"zinc sulfate, unspecified form",SLC39A13
+"zinc sulfate, unspecified form",SLC39A8
+"zinc sulfate, unspecified form",SLC39A1
+"zinc sulfate, unspecified form",SLC39A14
+"zinc sulfate, unspecified form",SLC39A3
+"zinc sulfate, unspecified form",SLC39A9
+"zinc sulfate, unspecified form",SLC39A11
+"zinc sulfate, unspecified form",SLC30A6
+ivosidenib,SLC22A8
+ivosidenib,ABCB1
+prednisolone phosphate,SLCO1A2
+prednisolone phosphate,ABCB1
+prednisolone phosphate,SLC22A8
+curcumin sulfate,ABCB1
+estriol tripropionate,SLCO1A2
+estriol tripropionate,ABCB1
+lypressin,ABCC2
+larotrectinib,ABCB1
+larotrectinib,ABCG2
+polymyxin b,SLC15A2
+solriamfetol,SLC22A2
+solriamfetol,SLC22A4
+solriamfetol,SLC22A5
+cefiderocol,MEXA
+cefiderocol,MEXB
+cefiderocol,OPRM
+cefiderocol,FIU
+cefiderocol,CIRA
+cefiderocol,PIUA
+trastuzumab deruxtecan,ABCB1
+trastuzumab deruxtecan,SLCO1B1
+trastuzumab deruxtecan,SLCO1B3
+trastuzumab deruxtecan,SLC47A2
+trastuzumab deruxtecan,ABCC1
+trastuzumab deruxtecan,ABCG2
+zanubrutinib,ABCB1
+upadacitinib,ABCB1
+upadacitinib,ABCG2
+upadacitinib,SLCO1B1
+avapritinib,ABCB1
+avapritinib,ABCG2
+ubrogepant,ABCB1
+ubrogepant,ABCG2
+ubrogepant,SLCO1B1
+ubrogepant,SLCO1B3
+ubrogepant,SLC22A6
+ubrogepant,SLC22A2
+elexacaftor,SLCO1B1
+elexacaftor,SLCO1B3
+elexacaftor,ABCB1
+prednisolone acetate,SLCO1A2
+prednisolone acetate,ABCB1
+ferric maltol,ITGB3
+ferric maltol,SLC11A2
+ferric derisomaltose,TFRC
+ferric derisomaltose,TFR2

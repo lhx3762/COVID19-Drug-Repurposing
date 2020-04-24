@@ -1,835 +1,835 @@
 DRUGS,GENES
-Asparaginase Escherichia coli,SERPINA7
-Pegaspargase,SERPINA7
-Hyaluronidase (ovine),ALB
-Ascorbic acid,ALB
-alpha-Linolenic acid,FABP7
-Calcitriol,GC
-Lutein,ALB
-Thiamine,ALB
-Ergocalciferol,GC
-Dihomo-gamma-linolenic acid,FABP7
-Icosapent,FABP7
-Icosapent,ALB
-Vitamin A,RBP5
-Vitamin A,RBP7
-Vitamin A,RBP4
-Vitamin A,RBP2
-Vitamin A,ALB
-Vitamin A,RLBP1
-Vitamin A,RBP3
-Vitamin A,RBP1
-Vitamin E,TTPA
-Vitamin E,SEC14L2
-Vitamin E,SEC14L3
-Vitamin E,PLTP
-Pyridoxine,ALB
-Cholecalciferol,GC
-Flunisolide,SERPINA6
-Hydroxocobalamin,TCN2
-Torasemide,ALB
-Nelfinavir,ALB
-Lovastatin,ALB
-Enflurane,ALB
-Nevirapine,ALB
-Alclometasone,SERPINA6
-Ranolazine,ORM1
-Benzatropine,ALB
-Ziprasidone,ALB
-Ziprasidone,ORM1
-Phenytoin,ALB
-Phenytoin,SERPINA7
-Medrysone,SERPINA6
-Diethylstilbestrol,TTR
-Metoprolol,ALB
-Dicoumarol,ALB
-Topiramate,ALB
-Cefmetazole,ALB
-Argatroban,ALB
-Argatroban,ORM1
-Argatroban,ORM2
-Liothyronine,TTR
-Liothyronine,SERPINA7
-Liothyronine,ALB
-Disopyramide,ORM1
-Conjugated estrogens,SERPINA7
-Conjugated estrogens,SHBG
-Conjugated estrogens,ALB
-Atomoxetine,ALB
-Atomoxetine,ORM1
-Atomoxetine,ORM2
-Atomoxetine,FCGR1A
-Etomidate,SLC2A1
-Etonogestrel,ALB
-Etonogestrel,SHBG
-Morphine,ALB
-Desogestrel,ALB
-Desogestrel,SHBG
-Chlorthalidone,ALB
-Valproic acid,ALB
-Acetaminophen,ALB
-Gefitinib,ALB
-Gefitinib,ORM1
-Amitriptyline,ALB
-Amitriptyline,ORM1
-Floxuridine,SERPINA7
-Fluorometholone,SERPINA6
-Hydromorphone,ALB
-Indomethacin,ALB
-Ipratropium,ALB
-Ipratropium,ORM1
-Ipratropium,ORM2
-Methadone,ORM1
-Methadone,ALB
-Olanzapine,ALB
-Olanzapine,ORM1
-Atenolol,ALB
-Diltiazem,ALB
-Diltiazem,ORM1
-Beclomethasone dipropionate,SERPINA6
-Alprazolam,ALB
-Alprazolam,ORM1
-Alprazolam,ORM2
-Rosiglitazone,ALB
-Acetohexamide,ALB
-Ampicillin,ALB
-Spironolactone,ALB
-Spironolactone,ORM1
-Spironolactone,ORM2
-Cefpiramide,ALB
-Trifluridine,ALB
-Betamethasone,ALB
-Betamethasone,SERPINA6
-Levothyroxine,TTR
-Levothyroxine,SERPINA7
-Levothyroxine,ALB
-Meperidine,ALB
-Meperidine,ORM1
-Cefalotin,ALB
-Prazosin,ORM1
-Imipramine,ORM1
-Imipramine,ALB
-Acitretin,ALB
-Nabumetone,ALB
-Fluoxetine,ALB
-Fluoxetine,ORM1
-Duloxetine,ALB
-Duloxetine,ORM1
-Duloxetine,ORM2
-Chlorpromazine,ALB
-Raloxifene,ALB
-Raloxifene,ORM1
-Buspirone,ALB
-Buspirone,ORM1
-Zidovudine,ALB
-Oxycodone,ALB
-Oxycodone,ORM1
-Oxycodone,ORM2
-Tolmetin,ALB
-Ritonavir,ALB
-Ritonavir,ORM1
-Nitazoxanide,SLC19A1
-Vancomycin,ALB
-Vancomycin,ORM1
-Vancomycin,ORM2
-Vancomycin,HRH1
-Cisplatin,ALB
-Alitretinoin,CRABP2
-Alitretinoin,CRABP1
-Erlotinib,ALB
-Erlotinib,ORM1
-Mephenytoin,SERPINA7
-Ciprofloxacin,ALB
-Nortriptyline,ALB
-Nortriptyline,ORM1
-Amoxapine,ORM1
-Fluorouracil,ALB
-Fluorouracil,SERPINA7
-Piroxicam,ALB
-Lamotrigine,ALB
-Hydroxyzine,ALB
-Methotrexate,ALB
-Cephalexin,ALB
-Propranolol,ORM1
-Propranolol,ALB
-Fenoprofen,ALB
-Clonidine,ALB
-Sulfamethizole,ALB
-Enalapril,ALB
-Diclofenac,TTR
-Diclofenac,ALB
-Fluticasone propionate,SERPINA6
-Fluticasone propionate,SLCO1B1
-Fluocinolone acetonide,SERPINA6
-Oxytetracycline,ALB
-Ulobetasol,SERPINA6
-Labetalol,ALB
-Labetalol,ORM1
-Labetalol,ORM2
-Medroxyprogesterone acetate,ALB
-Sulindac,ALB
-Nafcillin,ALB
-Chloroquine,ALB
-Chloroquine,ORM1
-Chloroquine,ORM2
-Imatinib,ALB
-Imatinib,ORM1
-Triamcinolone,SERPINA6
-Triamcinolone,ALB
-Testosterone,ALB
-Testosterone,SHBG
-Efavirenz,ALB
-Niacin,SERPINA7
-Prednisone,ALB
-Prednisone,SERPINA6
-Clofibrate,SERPINA7
-Mitotane,SHBG
-Mitotane,SERPINA6
-Mitotane,SERPINA7
-Stavudine,ALB
-Estrone,ALB
-Verapamil,ALB
-Verapamil,ORM1
-Flumethasone,SERPINA6
-Tamoxifen,ALB
-Tamoxifen,SERPINA7
-Isoflurophate,ALB
-Losartan,ALB
-Warfarin,ALB
-Warfarin,ORM1
-Fludrocortisone,ALB
-Fludrocortisone,SERPINA6
-Furosemide,ALB
-Furosemide,SERPINA7
-Tamsulosin,ORM1
-Lamivudine,ALB
-Flurbiprofen,ALB
-Norethisterone,ALB
-Norethisterone,SHBG
-Nateglinide,ALB
-Nateglinide,ORM1
-Risperidone,ALB
-Risperidone,ORM1
-Meclizine,ALB
-Hydrocortisone,SHBG
-Hydrocortisone,SERPINA6
-Gadobenic acid,ALB
-Zileuton,ALB
-Etodolac,ALB
-Isoflurane,ALB
-Ethotoin,SERPINA7
-Tretinoin,ALB
-Tetracycline,ALB
-Irinotecan,ALB
-Olopatadine,ALB
-Hydroflumethiazide,ALB
-Oxcarbazepine,ALB
-Estradiol,SHBG
-Estradiol,ALB
-Estradiol,FABP2
-Mefenamic acid,ALB
-Acyclovir,ALB
-Naproxen,ALB
-Alfentanil,ORM1
-Alfentanil,ALB
-Fentanyl,ALB
-Fentanyl,ORM1
-Fentanyl,ORM2
-Meloxicam,ALB
-Sodium lauryl sulfate,ALB
-Propofol,ALB
-Diazepam,ALB
-Flurandrenolide,SERPINA6
-Pseudoephedrine,ALB
-Terbinafine,ALB
-Terbinafine,ORM1
-Terbinafine,ORM2
-Drostanolone,SHBG
-Prednisolone,SERPINA6
-Prednisolone,ALB
-Diflunisal,TTR
-Diflunisal,ALB
-Tacrolimus,ALB
-Tacrolimus,ORM1
-Suprofen,ALB
-Chlorhexidine,ALB
-Emtricitabine,ALB
-Quinapril,ALB
-Iron Dextran,TF
-Rimexolone,SERPINA6
-Didanosine,ALB
-Etacrynic acid,ALB
-Cocaine,ORM1
-Cocaine,ORM2
-Quinidine,ORM1
-Repaglinide,ALB
-Cyclobenzaprine,ALB
-Etretinate,CRABP1
-Metacycline,ALB
-Maprotiline,ORM1
-Salicylic acid,ALB
-Salmeterol,ALB
-Salmeterol,ORM1
-Salmeterol,ORM2
-Meclofenamic acid,SERPINA7
-Zalcitabine,ALB
-Phenprocoumon,ALB
-Phenprocoumon,ORM1
-Fexofenadine,ALB
-Fexofenadine,ORM1
-Fexofenadine,ORM2
-Isoniazid,ALB
-Norgestimate,ALB
-Norgestimate,SHBG
-Methylprednisolone,ALB
-Ethinylestradiol,ALB
-Ethinylestradiol,SHBG
-Isotretinoin,ALB
-Formoterol,ALB
-Azathioprine,ALB
-Auranofin,ALB
-Doxorubicin,ALB
-Hydrochlorothiazide,ALB
-Letrozole,ALB
-Ketoprofen,ALB
-Clobetasol propionate,SERPINA6
-Clobetasol propionate,ALB
-Sulfamethoxazole,ALB
-Glyburide,ALB
-Ketoconazole,ALB
-Ketoconazole,SHBG
-Irbesartan,ALB
-Irbesartan,ORM1
-Irbesartan,ORM2
-Probenecid,ALB
-Fenofibrate,ALB
-Gatifloxacin,ALB
-Rifampicin,ALB
-Rifampicin,ORM1
-Rifampicin,ORM2
-Fluocinonide,SERPINA6
-Ibuprofen,ALB
-Benzylpenicillin,ALB
-Tocainide,ALB
-Echothiophate,ALB
-Amoxicillin,ALB
-Oxybutynin,ORM1
-Oxybutynin,ALB
-Glipizide,ALB
-Clonazepam,ALB
-Promethazine,ALB
-Atazanavir,ALB
-Atazanavir,ORM1
-Atazanavir,ORM2
-Atorvastatin,ALB
-Dimethyl sulfoxide,TTR
-Rosuvastatin,ALB
-Sertraline,ALB
-Heparin,SERPINA7
-Nifedipine,ALB
-Nifedipine,ORM1
-Nifedipine,ORM2
-Amiodarone,ALB
-Gliclazide,ALB
-Tolbutamide,ALB
-Dutasteride,ALB
-Dutasteride,ORM1
-Pioglitazone,ALB
-Carvedilol,ALB
-Levofloxacin,ALB
-Sulfinpyrazone,FABP2
-Doxepin,ALB
-Doxepin,ORM1
-Cloxacillin,ALB
-Desipramine,ORM1
-Bupropion,ORM1
-Halothane,ALB
-Arsenic trioxide,ALB
-Naloxone,ALB
-Fluoxymesterone,SHBG
-Desflurane,ALB
-Clindamycin,ORM1
-Flecainide,ORM1
-Flecainide,ORM2
-Flecainide,ALB
-Captopril,ALB
-Nadolol,ORM1
-Nadolol,ORM2
-Ceftriaxone,ALB
-Dantrolene,SERPINA7
-Budesonide,SERPINA6
-Budesonide,ALB
-Saquinavir,ORM1
-Saquinavir,ALB
-Metoclopramide,ORM1
-Dexamethasone,ALB
-Levodopa,ALB
-Sevoflurane,ALB
-Aripiprazole,ALB
-Gemfibrozil,ALB
-Clomipramine,ALB
-Darunavir,ALB
-Darunavir,ORM1
-Hydralazine,ALB
-Exenatide,ALB
-Mecasermin,IGFBP3
-Mecasermin,IGFALS
-Mecasermin,IGFBP1
-Mecasermin,IGFBP2
-Mecasermin,IGFBP4
-Mecasermin,IGFBP5
-Mecasermin,IGFBP6
-Bismuth subsalicylate,ALB
-Bismuth subsalicylate,TF
-Insulin detemir,ALB
-Fosphenytoin,ALB
-Fosphenytoin,SERPINA7
-Polythiazide,ALB
-Cefazolin,ALB
-Cefonicid,ALB
-Cefoperazone,ALB
-Cefotetan,ALB
-Penbutolol,ORM1
-Aluminium,ALB
-Paramethasone,SERPINA6
-Colchicine,ALB
-Digitoxin,ALB
-Magnesium salicylate,ALB
-Danazol,SHBG
-Ciclesonide,SERPINA6
-Acenocoumarol,ALB
-Acenocoumarol,ORM1
-Testosterone propionate,SHBG
-Testosterone propionate,ALB
-Ajmaline,ORM1
-Aprindine,ORM1
-Alfacalcidol,GC
-Diamorphine,SERPINA7
-Sulfamerazine,ALB
-Sulfamethazine,ALB
-Liotrix,TTR
-Liotrix,SERPINA7
-Liotrix,ALB
-Ketazolam,ALB
-Solifenacin,ORM1
-Solifenacin,ORM2
-Lopinavir,ORM1
-Lopinavir,ALB
-Hydroxychloroquine,ALB
-Hydroxychloroquine,ORM1
-Hydroxychloroquine,ORM2
-Acepromazine,ALB
-Pipotiazine,ALB
-Thioproperazine,ALB
-Thiothixene,ALB
+asparaginase escherichia coli,SERPINA7
+pegaspargase,SERPINA7
+hyaluronidase (ovine),ALB
+ascorbic acid,ALB
+alpha-linolenic acid,FABP7
+calcitriol,GC
+lutein,ALB
+thiamine,ALB
+ergocalciferol,GC
+dihomo-gamma-linolenic acid,FABP7
+icosapent,FABP7
+icosapent,ALB
+vitamin a,RBP5
+vitamin a,RBP7
+vitamin a,RBP4
+vitamin a,RBP2
+vitamin a,ALB
+vitamin a,RLBP1
+vitamin a,RBP3
+vitamin a,RBP1
+vitamin e,TTPA
+vitamin e,SEC14L2
+vitamin e,SEC14L3
+vitamin e,PLTP
+pyridoxine,ALB
+cholecalciferol,GC
+flunisolide,SERPINA6
+hydroxocobalamin,TCN2
+torasemide,ALB
+nelfinavir,ALB
+lovastatin,ALB
+enflurane,ALB
+nevirapine,ALB
+alclometasone,SERPINA6
+ranolazine,ORM1
+benzatropine,ALB
+ziprasidone,ALB
+ziprasidone,ORM1
+phenytoin,ALB
+phenytoin,SERPINA7
+medrysone,SERPINA6
+diethylstilbestrol,TTR
+metoprolol,ALB
+dicoumarol,ALB
+topiramate,ALB
+cefmetazole,ALB
+argatroban,ALB
+argatroban,ORM1
+argatroban,ORM2
+liothyronine,TTR
+liothyronine,SERPINA7
+liothyronine,ALB
+disopyramide,ORM1
+conjugated estrogens,SERPINA7
+conjugated estrogens,SHBG
+conjugated estrogens,ALB
+atomoxetine,ALB
+atomoxetine,ORM1
+atomoxetine,ORM2
+atomoxetine,FCGR1A
+etomidate,SLC2A1
+etonogestrel,ALB
+etonogestrel,SHBG
+morphine,ALB
+desogestrel,ALB
+desogestrel,SHBG
+chlorthalidone,ALB
+valproic acid,ALB
+acetaminophen,ALB
+gefitinib,ALB
+gefitinib,ORM1
+amitriptyline,ALB
+amitriptyline,ORM1
+floxuridine,SERPINA7
+fluorometholone,SERPINA6
+hydromorphone,ALB
+indomethacin,ALB
+ipratropium,ALB
+ipratropium,ORM1
+ipratropium,ORM2
+methadone,ORM1
+methadone,ALB
+olanzapine,ALB
+olanzapine,ORM1
+atenolol,ALB
+diltiazem,ALB
+diltiazem,ORM1
+beclomethasone dipropionate,SERPINA6
+alprazolam,ALB
+alprazolam,ORM1
+alprazolam,ORM2
+rosiglitazone,ALB
+acetohexamide,ALB
+ampicillin,ALB
+spironolactone,ALB
+spironolactone,ORM1
+spironolactone,ORM2
+cefpiramide,ALB
+trifluridine,ALB
+betamethasone,ALB
+betamethasone,SERPINA6
+levothyroxine,TTR
+levothyroxine,SERPINA7
+levothyroxine,ALB
+meperidine,ALB
+meperidine,ORM1
+cefalotin,ALB
+prazosin,ORM1
+imipramine,ORM1
+imipramine,ALB
+acitretin,ALB
+nabumetone,ALB
+fluoxetine,ALB
+fluoxetine,ORM1
+duloxetine,ALB
+duloxetine,ORM1
+duloxetine,ORM2
+chlorpromazine,ALB
+raloxifene,ALB
+raloxifene,ORM1
+buspirone,ALB
+buspirone,ORM1
+zidovudine,ALB
+oxycodone,ALB
+oxycodone,ORM1
+oxycodone,ORM2
+tolmetin,ALB
+ritonavir,ALB
+ritonavir,ORM1
+nitazoxanide,SLC19A1
+vancomycin,ALB
+vancomycin,ORM1
+vancomycin,ORM2
+vancomycin,HRH1
+cisplatin,ALB
+alitretinoin,CRABP2
+alitretinoin,CRABP1
+erlotinib,ALB
+erlotinib,ORM1
+mephenytoin,SERPINA7
+ciprofloxacin,ALB
+nortriptyline,ALB
+nortriptyline,ORM1
+amoxapine,ORM1
+fluorouracil,ALB
+fluorouracil,SERPINA7
+piroxicam,ALB
+lamotrigine,ALB
+hydroxyzine,ALB
+methotrexate,ALB
+cephalexin,ALB
+propranolol,ORM1
+propranolol,ALB
+fenoprofen,ALB
+clonidine,ALB
+sulfamethizole,ALB
+enalapril,ALB
+diclofenac,TTR
+diclofenac,ALB
+fluticasone propionate,SERPINA6
+fluticasone propionate,SLCO1B1
+fluocinolone acetonide,SERPINA6
+oxytetracycline,ALB
+ulobetasol,SERPINA6
+labetalol,ALB
+labetalol,ORM1
+labetalol,ORM2
+medroxyprogesterone acetate,ALB
+sulindac,ALB
+nafcillin,ALB
+chloroquine,ALB
+chloroquine,ORM1
+chloroquine,ORM2
+imatinib,ALB
+imatinib,ORM1
+triamcinolone,SERPINA6
+triamcinolone,ALB
+testosterone,ALB
+testosterone,SHBG
+efavirenz,ALB
+niacin,SERPINA7
+prednisone,ALB
+prednisone,SERPINA6
+clofibrate,SERPINA7
+mitotane,SHBG
+mitotane,SERPINA6
+mitotane,SERPINA7
+stavudine,ALB
+estrone,ALB
+verapamil,ALB
+verapamil,ORM1
+flumethasone,SERPINA6
+tamoxifen,ALB
+tamoxifen,SERPINA7
+isoflurophate,ALB
+losartan,ALB
+warfarin,ALB
+warfarin,ORM1
+fludrocortisone,ALB
+fludrocortisone,SERPINA6
+furosemide,ALB
+furosemide,SERPINA7
+tamsulosin,ORM1
+lamivudine,ALB
+flurbiprofen,ALB
+norethisterone,ALB
+norethisterone,SHBG
+nateglinide,ALB
+nateglinide,ORM1
+risperidone,ALB
+risperidone,ORM1
+meclizine,ALB
+hydrocortisone,SHBG
+hydrocortisone,SERPINA6
+gadobenic acid,ALB
+zileuton,ALB
+etodolac,ALB
+isoflurane,ALB
+ethotoin,SERPINA7
+tretinoin,ALB
+tetracycline,ALB
+irinotecan,ALB
+olopatadine,ALB
+hydroflumethiazide,ALB
+oxcarbazepine,ALB
+estradiol,SHBG
+estradiol,ALB
+estradiol,FABP2
+mefenamic acid,ALB
+acyclovir,ALB
+naproxen,ALB
+alfentanil,ORM1
+alfentanil,ALB
+fentanyl,ALB
+fentanyl,ORM1
+fentanyl,ORM2
+meloxicam,ALB
+sodium lauryl sulfate,ALB
+propofol,ALB
+diazepam,ALB
+flurandrenolide,SERPINA6
+pseudoephedrine,ALB
+terbinafine,ALB
+terbinafine,ORM1
+terbinafine,ORM2
+drostanolone,SHBG
+prednisolone,SERPINA6
+prednisolone,ALB
+diflunisal,TTR
+diflunisal,ALB
+tacrolimus,ALB
+tacrolimus,ORM1
+suprofen,ALB
+chlorhexidine,ALB
+emtricitabine,ALB
+quinapril,ALB
+iron dextran,TF
+rimexolone,SERPINA6
+didanosine,ALB
+etacrynic acid,ALB
+cocaine,ORM1
+cocaine,ORM2
+quinidine,ORM1
+repaglinide,ALB
+cyclobenzaprine,ALB
+etretinate,CRABP1
+metacycline,ALB
+maprotiline,ORM1
+salicylic acid,ALB
+salmeterol,ALB
+salmeterol,ORM1
+salmeterol,ORM2
+meclofenamic acid,SERPINA7
+zalcitabine,ALB
+phenprocoumon,ALB
+phenprocoumon,ORM1
+fexofenadine,ALB
+fexofenadine,ORM1
+fexofenadine,ORM2
+isoniazid,ALB
+norgestimate,ALB
+norgestimate,SHBG
+methylprednisolone,ALB
+ethinylestradiol,ALB
+ethinylestradiol,SHBG
+isotretinoin,ALB
+formoterol,ALB
+azathioprine,ALB
+auranofin,ALB
+doxorubicin,ALB
+hydrochlorothiazide,ALB
+letrozole,ALB
+ketoprofen,ALB
+clobetasol propionate,SERPINA6
+clobetasol propionate,ALB
+sulfamethoxazole,ALB
+glyburide,ALB
+ketoconazole,ALB
+ketoconazole,SHBG
+irbesartan,ALB
+irbesartan,ORM1
+irbesartan,ORM2
+probenecid,ALB
+fenofibrate,ALB
+gatifloxacin,ALB
+rifampicin,ALB
+rifampicin,ORM1
+rifampicin,ORM2
+fluocinonide,SERPINA6
+ibuprofen,ALB
+benzylpenicillin,ALB
+tocainide,ALB
+echothiophate,ALB
+amoxicillin,ALB
+oxybutynin,ORM1
+oxybutynin,ALB
+glipizide,ALB
+clonazepam,ALB
+promethazine,ALB
+atazanavir,ALB
+atazanavir,ORM1
+atazanavir,ORM2
+atorvastatin,ALB
+dimethyl sulfoxide,TTR
+rosuvastatin,ALB
+sertraline,ALB
+heparin,SERPINA7
+nifedipine,ALB
+nifedipine,ORM1
+nifedipine,ORM2
+amiodarone,ALB
+gliclazide,ALB
+tolbutamide,ALB
+dutasteride,ALB
+dutasteride,ORM1
+pioglitazone,ALB
+carvedilol,ALB
+levofloxacin,ALB
+sulfinpyrazone,FABP2
+doxepin,ALB
+doxepin,ORM1
+cloxacillin,ALB
+desipramine,ORM1
+bupropion,ORM1
+halothane,ALB
+arsenic trioxide,ALB
+naloxone,ALB
+fluoxymesterone,SHBG
+desflurane,ALB
+clindamycin,ORM1
+flecainide,ORM1
+flecainide,ORM2
+flecainide,ALB
+captopril,ALB
+nadolol,ORM1
+nadolol,ORM2
+ceftriaxone,ALB
+dantrolene,SERPINA7
+budesonide,SERPINA6
+budesonide,ALB
+saquinavir,ORM1
+saquinavir,ALB
+metoclopramide,ORM1
+dexamethasone,ALB
+levodopa,ALB
+sevoflurane,ALB
+aripiprazole,ALB
+gemfibrozil,ALB
+clomipramine,ALB
+darunavir,ALB
+darunavir,ORM1
+hydralazine,ALB
+exenatide,ALB
+mecasermin,IGFBP3
+mecasermin,IGFALS
+mecasermin,IGFBP1
+mecasermin,IGFBP2
+mecasermin,IGFBP4
+mecasermin,IGFBP5
+mecasermin,IGFBP6
+bismuth subsalicylate,ALB
+bismuth subsalicylate,TF
+insulin detemir,ALB
+fosphenytoin,ALB
+fosphenytoin,SERPINA7
+polythiazide,ALB
+cefazolin,ALB
+cefonicid,ALB
+cefoperazone,ALB
+cefotetan,ALB
+penbutolol,ORM1
+aluminium,ALB
+paramethasone,SERPINA6
+colchicine,ALB
+digitoxin,ALB
+magnesium salicylate,ALB
+danazol,SHBG
+ciclesonide,SERPINA6
+acenocoumarol,ALB
+acenocoumarol,ORM1
+testosterone propionate,SHBG
+testosterone propionate,ALB
+ajmaline,ORM1
+aprindine,ORM1
+alfacalcidol,GC
+diamorphine,SERPINA7
+sulfamerazine,ALB
+sulfamethazine,ALB
+liotrix,TTR
+liotrix,SERPINA7
+liotrix,ALB
+ketazolam,ALB
+solifenacin,ORM1
+solifenacin,ORM2
+lopinavir,ORM1
+lopinavir,ALB
+hydroxychloroquine,ALB
+hydroxychloroquine,ORM1
+hydroxychloroquine,ORM2
+acepromazine,ALB
+pipotiazine,ALB
+thioproperazine,ALB
+thiothixene,ALB
 5-fluorouridine,SERPINA7
-Genistein,TTR
-Topiroxostat,ALB
-Topiroxostat,ORM1
-Tetraiodothyroacetic acid,TTR
-"6,4'-Dihydroxy-3-Methyl-3',5'-Dibromoflavone",TTR
-D-glucose,ALB
-Butenoic Acid,FABP1
-"1-{2-[2-(2-Methoxyethoxy)Ethoxy]Ethoxy}-4-(1,1,3,3-Tetramethylbutyl)Benzene",TTPA
-3-sulfino-L-alanine,FABP4
-O-Trifluoromethylphenyl Anthranilic Acid,TTR
-S-Methylcysteine,FABP1
-Flufenamic acid,TTR
-2-Methoxyestradiol,SHBG
-"2,4,6-Tribromophenol",TTR
-Cholic Acid,FABP1
-"N-(M-Trifluoromethylphenyl) Phenoxazine-4,6-Dicarboxylic Acid",TTR
-Resveratrol,TTR
-Resveratrol,ALB
-1-Hexadecanosulfonic Acid,FABP4
-Stanolone,SHBG
-2-{[2-Oxo-2-(1-piperidinyl)ethyl]sulfanyl}-6-(trifluoromethyl)-4(1H)-pyrimidinone,FABP4
-Lauric acid,ALB
-Pentabromophenol,TTR
-Stearic acid,FABP3
-Stearic acid,ALB
-"3',5'-Dinitro-N-Acetyl-L-Thyronine",TTR
+genistein,TTR
+topiroxostat,ALB
+topiroxostat,ORM1
+tetraiodothyroacetic acid,TTR
+"6,4'-dihydroxy-3-methyl-3',5'-dibromoflavone",TTR
+d-glucose,ALB
+butenoic acid,FABP1
+"1-{2-[2-(2-methoxyethoxy)ethoxy]ethoxy}-4-(1,1,3,3-tetramethylbutyl)benzene",TTPA
+3-sulfino-l-alanine,FABP4
+o-trifluoromethylphenyl anthranilic acid,TTR
+s-methylcysteine,FABP1
+flufenamic acid,TTR
+2-methoxyestradiol,SHBG
+"2,4,6-tribromophenol",TTR
+cholic acid,FABP1
+"n-(m-trifluoromethylphenyl) phenoxazine-4,6-dicarboxylic acid",TTR
+resveratrol,TTR
+resveratrol,ALB
+1-hexadecanosulfonic acid,FABP4
+stanolone,SHBG
+2-{[2-oxo-2-(1-piperidinyl)ethyl]sulfanyl}-6-(trifluoromethyl)-4(1h)-pyrimidinone,FABP4
+lauric acid,ALB
+pentabromophenol,TTR
+stearic acid,FABP3
+stearic acid,ALB
+"3',5'-dinitro-n-acetyl-l-thyronine",TTR
 "3,3',5,5'-tetrachlorobiphenyl-4,4'-diol",TTR
-Oxyphenbutazone,ALB
-Capric acid,ALB
-"Dibenzofuran-4,6-Dicarboxylic Acid",TTR
-Doconexent,FABP7
-Propanoic acid,FABP4
-Palmitic Acid,FABP4
-Palmitic Acid,FABP5
-Palmitic Acid,FABP3
-Palmitic Acid,FABP2
-Palmitic Acid,ALB
-Carbazole Butanoic Acid,FABP4
-"5-Alpha-Androstane-3-Beta,17beta-Diol",SHBG
-N-Ethylretinamide,RBP4
+oxyphenbutazone,ALB
+capric acid,ALB
+"dibenzofuran-4,6-dicarboxylic acid",TTR
+doconexent,FABP7
+propanoic acid,FABP4
+palmitic acid,FABP4
+palmitic acid,FABP5
+palmitic acid,FABP3
+palmitic acid,FABP2
+palmitic acid,ALB
+carbazole butanoic acid,FABP4
+"5-alpha-androstane-3-beta,17beta-diol",SHBG
+n-ethylretinamide,RBP4
 "5alpha-androstane-3beta,17alpha-diol",SHBG
-Quercetin,ALB
-Oleic Acid,FABP7
-Oleic Acid,FABP4
-Oleic Acid,FABP3
-Oleic Acid,FABP1
-Oleic Acid,ALB
-Oleic Acid,GC
-"Cysteine-Methylene-Carbamoyl-1,10-Phenanthroline",FABP4
+quercetin,ALB
+oleic acid,FABP7
+oleic acid,FABP4
+oleic acid,FABP3
+oleic acid,FABP1
+oleic acid,ALB
+oleic acid,GC
+"cysteine-methylene-carbamoyl-1,10-phenanthroline",FABP4
 8-anilinonaphthalene-1-sulfonic acid,FABP4
 8-anilinonaphthalene-1-sulfonic acid,TTR
-Glyphosate,ALB
-Arachidonic Acid,FABP4
-Arachidonic Acid,ALB
-Arachidonic Acid,FABP2
-Estrone sulfate,SHBG
-Estrone sulfate,ALB
-"2-HYDROXY-3,5-DIIODOBENZOIC ACID",TTR
-Camptothecin,ALB
-Iodipamide,ALB
-"2-[(3,5-Dichloro-4-trioxidanylphenyl)amino]benzoic acid",TTR
-Dantron,ALB
-Nomifensine,ORM1
-Zomepirac,ALB
-Dronedarone,ALB
-Nebivolol,ALB
-Oritavancin,ALB
-Tamibarotene,CRABP1
-Fenretinide,RBP4
-Tanespimycin,ALB
-NRP409,TTR
-NRP409,SERPINA7
-Gallium nitrate,TF
-Vandetanib,ORM1
-Vandetanib,ALB
-Fx-1006A,TTR
-Iodine,ALB
-Iodine,TG
-Telaprevir,ALB
-Telaprevir,ORM1
-CRx-119,SERPINA6
-Abiraterone,ALB
-Abiraterone,ORM1
-Cenobamate,ALB
-Rufinamide,ALB
-Vorhyaluronidase alfa,ALB
-Prasugrel,ALB
-Asenapine,ALB
-Asenapine,ORM1
-Asenapine,ORM2
-Levocetirizine,ALB
-Simeprevir,ALB
-Oxymetholone,ALB
-Oxymetholone,SHBG
-Prucalopride,ALB
-Liraglutide,ALB
-Gadofosveset trisodium,ALB
-Methyltestosterone,ALB
-Methyltestosterone,SHBG
-Fospropofol,ALB
-Beta carotene,VLDLR
-Beta carotene,RBP1
-Beta carotene,RBP2
-Beta carotene,RBP3
-Beta carotene,RBP4
-Beta carotene,RBP5
-Mangafodipir,A2M
-Mangafodipir,ALB
-3-[({(1E)-[2-(trifluoromethyl)phenyl]methylidene}amino)oxy]propanoic acid,TTR
-"2-(2,6-DICHLOROPHENYL)-1,3-BENZOXAZOLE-6-CARBOXYLIC ACID",TTR
-"2',6'-DIFLUOROBIPHENYL-4-CARBOXYLIC ACID",TTR
+glyphosate,ALB
+arachidonic acid,FABP4
+arachidonic acid,ALB
+arachidonic acid,FABP2
+estrone sulfate,SHBG
+estrone sulfate,ALB
+"2-hydroxy-3,5-diiodobenzoic acid",TTR
+camptothecin,ALB
+iodipamide,ALB
+"2-[(3,5-dichloro-4-trioxidanylphenyl)amino]benzoic acid",TTR
+dantron,ALB
+nomifensine,ORM1
+zomepirac,ALB
+dronedarone,ALB
+nebivolol,ALB
+oritavancin,ALB
+tamibarotene,CRABP1
+fenretinide,RBP4
+tanespimycin,ALB
+nrp409,TTR
+nrp409,SERPINA7
+gallium nitrate,TF
+vandetanib,ORM1
+vandetanib,ALB
+fx-1006a,TTR
+iodine,ALB
+iodine,TG
+telaprevir,ALB
+telaprevir,ORM1
+crx-119,SERPINA6
+abiraterone,ALB
+abiraterone,ORM1
+cenobamate,ALB
+rufinamide,ALB
+vorhyaluronidase alfa,ALB
+prasugrel,ALB
+asenapine,ALB
+asenapine,ORM1
+asenapine,ORM2
+levocetirizine,ALB
+simeprevir,ALB
+oxymetholone,ALB
+oxymetholone,SHBG
+prucalopride,ALB
+liraglutide,ALB
+gadofosveset trisodium,ALB
+methyltestosterone,ALB
+methyltestosterone,SHBG
+fospropofol,ALB
+beta carotene,VLDLR
+beta carotene,RBP1
+beta carotene,RBP2
+beta carotene,RBP3
+beta carotene,RBP4
+beta carotene,RBP5
+mangafodipir,A2M
+mangafodipir,ALB
+3-[({(1e)-[2-(trifluoromethyl)phenyl]methylidene}amino)oxy]propanoic acid,TTR
+"2-(2,6-dichlorophenyl)-1,3-benzoxazole-6-carboxylic acid",TTR
+"2',6'-difluorobiphenyl-4-carboxylic acid",TTR
 2-[({4-[2-(trifluoromethyl)phenyl]piperidin-1-yl}carbonyl)amino]benzoic acid,RBP4
-"2',4'-DICHLORO-4-HYDROXY-1,1'-BIPHENYL-3-CARBOXYLIC ACID",TTR
-1-Naphthylamine-5-sulfonic acid,TTR
-(2S)-3-[(9H-fluoren-9-ylideneamino)oxy]-2-methylpropanoic acid,TTR
-3-[(9H-fluoren-9-ylideneamino)oxy]propanoic acid,TTR
-3-({[(1Z)-(2-methoxyphenyl)methylidene]amino}oxy)propanoic acid,TTR
-"9-benzyl-2,3,4,9-tetrahydro-1H-carbazole-8-carboxylic acid",FABP4
-Azapropazone,ALB
-3-CARBOXY-4-METHYL-5-PROPYL-2-FURANPROPIONIC,ALB
-Chloramphenicol succinate,ALB
-"N-(3,5-dibromo-4-hydroxyphenyl)-2,6-dimethylbenzamide",TTR
-"2,5-dichloro-N-(3,5-dibromo-4-hydroxyphenyl)benzamide",TTR
-"N-(3,5-dibromo-4-hydroxyphenyl)-4-hydroxy-3,5-dimethylbenzamide",TTR
-"3',5'-DIFLUOROBIPHENYL-4-CARBOXYLIC ACID",TTR
-"3',5'-DIBROMO-2',4,4',6'-TETRAHYDROXY AURONE",TTR
+"2',4'-dichloro-4-hydroxy-1,1'-biphenyl-3-carboxylic acid",TTR
+1-naphthylamine-5-sulfonic acid,TTR
+(2s)-3-[(9h-fluoren-9-ylideneamino)oxy]-2-methylpropanoic acid,TTR
+3-[(9h-fluoren-9-ylideneamino)oxy]propanoic acid,TTR
+3-({[(1z)-(2-methoxyphenyl)methylidene]amino}oxy)propanoic acid,TTR
+"9-benzyl-2,3,4,9-tetrahydro-1h-carbazole-8-carboxylic acid",FABP4
+azapropazone,ALB
+3-carboxy-4-methyl-5-propyl-2-furanpropionic,ALB
+chloramphenicol succinate,ALB
+"n-(3,5-dibromo-4-hydroxyphenyl)-2,6-dimethylbenzamide",TTR
+"2,5-dichloro-n-(3,5-dibromo-4-hydroxyphenyl)benzamide",TTR
+"n-(3,5-dibromo-4-hydroxyphenyl)-4-hydroxy-3,5-dimethylbenzamide",TTR
+"3',5'-difluorobiphenyl-4-carboxylic acid",TTR
+"3',5'-dibromo-2',4,4',6'-tetrahydroxy aurone",TTR
 "5-(3-carbamoylbenzyl)-5,6,7,8,9,10-hexahydrocyclohepta[b]indole-4-carboxylic acid",FABP4
-"METHYL N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINATE",TTR
-"N-[(2',4'-DIFLUORO-4-HYDROXY-5-IODOBIPHENYL-3-YL)CARBONYL]-BETA-ALANINE",TTR
-Indoxyl sulfate,ALB
-"2,6-dimethyl-4-[(E)-2-phenylethenyl]phenol",TTR
-"2,6-dibromo-4-[(E)-2-phenylethenyl]phenol",TTR
+"methyl n-[(2',4'-difluoro-4-hydroxy-5-iodobiphenyl-3-yl)carbonyl]-beta-alaninate",TTR
+"n-[(2',4'-difluoro-4-hydroxy-5-iodobiphenyl-3-yl)carbonyl]-beta-alanine",TTR
+indoxyl sulfate,ALB
+"2,6-dimethyl-4-[(e)-2-phenylethenyl]phenol",TTR
+"2,6-dibromo-4-[(e)-2-phenylethenyl]phenol",TTR
 "3,5-dibromobiphenyl-4-ol",TTR
 "2,6-dibromo-4-phenoxyphenol",TTR
-"N-(3,5-dibromo-4-hydroxyphenyl)benzamide",TTR
-"1,3,3-trimethyl-2-[(1E,3E)-3-methylpenta-1,3-dien-1-yl]cyclohexene",CRABP2
-"4-(1,3-BENZOXAZOL-2-YL)-2,6-DIMETHYLPHENOL",TTR
-"4-(1,3-BENZOXAZOL-2-YL)-2,6-DIBROMOPHENOL",TTR
-"2-(3,5-DIMETHYLPHENYL)-1,3-BENZOXAZOLE",TTR
-Myristic acid,ALB
-Myristic acid,FABP2
-Myristic acid,APOM
-Ro 12-7310,CRABP2
-"6-(2,3,4,5,6,7-HEXAHYDRO-2,4,4-TRIMETHYL-1-METYLENEINDEN-2-YL)-3-METHYLHEXA-2,4-DIENOIC ACID",CRABP2
-(R)-warfarin,ALB
-"(5R)-5-(4-{[(2R)-6-HYDROXY-2,5,7,8-TETRAMETHYL-3,4-DIHYDRO-2H-CHROMEN-2-YL]METHOXY}BENZYL)-1,3-THIAZOLIDINE-2,4-DIONE",FABP4
-"R,S-Warfarin alcohol",ALB
-"S,R-Warfarin alcohol",ALB
-Triflusal,ALB
-Ivacaftor,ALB
-Ivacaftor,ORM1
-Vismodegib,ALB
-Vismodegib,ORM1
-Pitavastatin,ALB
-Pitavastatin,ORM1
-Rilpivirine,ALB
-Ulipristal,ALB
-Ulipristal,ORM1
-Vemurafenib,ALB
-Vemurafenib,ORM1
-Asparaginase Erwinia chrysanthemi,SERPINA7
-Mirabegron,ALB
-Mirabegron,ORM1
-Tofacitinib,ALB
-Enzalutamide,ALB
-Enzalutamide,SERPINA7
-Fluticasone furoate,SERPINA6
-Fluticasone furoate,ABCB1
-Fluticasone furoate,SLCO1B1
-Canagliflozin,ORM1
-Riociguat,ALB
-Riociguat,ORM1
-Macitentan,ALB
-Etofenamate,SERPINA7
-Ibrutinib,ALB
-Ibrutinib,ORM1
-Ibrutinib,ORM2
-Palbociclib,ALB
-Nintedanib,ALB
-Potassium alum,ALB
-Chlortetracycline,ALB
-"Thyroid, porcine",ALB
-"Thyroid, porcine",TTR
-"Thyroid, porcine",SERPINA7
-Medrogestone,ALB
-Medrogestone,SHBG
-Medrogestone,SERPINA6
-Copper,ALB
-Copper,A2M
-Copper,CP
-Copper,ATOX1
-Copper,CCS
-Copper,COX17
-Copper,HEPH
-Copper,F5
-Copper,F8
-Copper,MTF1
-Copper,MT1HL1
-Copper,MT1A
-Copper,MT1B
-Copper,MT1E
-Copper,MT1F
-Copper,MT1G
-Copper,MT1H
-Copper,MT1L
-Copper,MT1M
-Copper,MT1X
-Copper,MT2A
-Copper,MT3
-Copper,MT4
-Copper,MT1DP
-Copper,TESMIN
-Technetium Tc-99m oxidronate,ALB
-Oxygen,HBB
-Oxygen,HBA2
-Technetium Tc-99m tetrofosmin,ABCB1
-Lorpiprazole,ALB
-Arotinolol,ALB
-Arotinolol,ORM1
-Dexibuprofen,ALB
-Blonanserin,ALB
-Aranidipine,ALB
-Aranidipine,ORM1
-Lacidipine,ALB
-Lacidipine,ORM1
-Levamlodipine,ALB
-Methylene blue,ALB
-Tegafur,SERPINA7
-Imidafenacin,ALB
-Imidafenacin,ORM1
-Imidafenacin,ORM2
-Ubidecarenone,LDLR
-Ubidecarenone,VLDLR
-Lumacaftor,ALB
-Tenofovir alafenamide,ALB
-"Synthetic Conjugated Estrogens, A",SERPINA7
-"Synthetic Conjugated Estrogens, B",SERPINA7
-"Antihemophilic Factor (Recombinant), PEGylated",VWF
-Iopodic acid,ALB
-Tipiracil,SLC22A2
-Tipiracil,SLC47A1
-Acetrizoic acid,ALB
-Propiolactone,ALB
-Esterified estrogens,SERPINA7
-Meprednisone,ALB
-Potassium perchlorate,ALB
-Rubidium Rb-82,FXYD2
-Rubidium Rb-82,ATP1A1
-Rubidium Rb-82,ATP1B1
-Rubidium Rb-82,ATP1B2
-Rubidium Rb-82,ATP1B3
-Rubidium Rb-82,ATP1A4
-Rubidium Rb-82,ATP1A2
-Rubidium Rb-82,ATP1A3
-Hydroquinone,ALB
-Dexchlorpheniramine maleate,SLC22A1
-Dexchlorpheniramine maleate,SLC22A2
-Insulin degludec,ALB
-Omega-3-carboxylic acids,PCTP
-Omega-3-carboxylic acids,PEBP1
-Calcium citrate,CALB1
-Calcium citrate,S100G
-Calcium citrate,ALB
-Allantoin,SERPINA7
-Opium,ALB
-Opium,B2M
-Cupric oxide,ALB
-Cupric oxide,CP
-Chromium,TF
-Butamben,ORM1
-Butamben,ALB
-Rose bengal,ALB
-Rose bengal,LTF
-Rose bengal,TF
-Arbutin,ALB
-Dioxybenzone,AFP
-Tocopherol,VLDLR
-Tocopherol,LDLR
-Calcium Phosphate,CALB1
-Calcium Phosphate,S100G
-Calcium Phosphate,ALB
-Dichlorvos,ALB
-Grazoprevir,ALB
-Grazoprevir,ORM1
-Thimerosal,ALB
-Delamanid,ALB
-Delamanid,ORM1
-Vinflunine,ALB
-Vinflunine,ORM1
-Vinflunine,ORM2
-Pitolisant,ALB
-Pitolisant,ORM1
-Selumetinib,ALB
-Selumetinib,ORM1
-Selumetinib,ORM2
-Acalabrutinib,ALB
-Acalabrutinib,ORM1
-Acalabrutinib,ORM2
-Rifamycin,ALB
-Istradefylline,ALB
-Istradefylline,ORM1
-Istradefylline,ORM2
-Ertugliflozin,ALB
-Neratinib,ALB
-Neratinib,ORM1
-Neratinib,ORM2
-Revefenacin,ALB
-Delafloxacin,ALB
-Dacomitinib,ALB
-Glasdegib,ALB
-Abemaciclib,ALB
-Abemaciclib,ORM1
-Abemaciclib,ORM2
-Gilteritinib,ALB
-Liothyronine I-131,SERPINA7
-Omadacycline,ALB
-Favipiravir,ALB
-Favipiravir,ORM1
-Favipiravir,ORM2
-Copanlisib,ALB
-Grapiprant,ALB
-Darolutamide,ALB
-Pexidartinib,ALB
-Pexidartinib,ORM1
-Hypericin,ALB
-Neocitrullamon,SERPINA7
-Edoxudine,ALB
-Glycyrrhizic acid,AKR1C4
-Glycyrrhizic acid,AKR1C3
-Glycyrrhizic acid,AKR1C2
-Glycyrrhizic acid,ALB
-Fluticasone,SERPINA6
-Fluticasone,ABCB1
-Fluticasone,SLCO1B1
-Bismuth subgallate,ALB
-Semaglutide,ALB
-Testosterone cypionate,ALB
-Testosterone cypionate,SHBG
-Testosterone enanthate,ALB
-Testosterone enanthate,SHBG
-Testosterone undecanoate,ALB
-Testosterone undecanoate,SHBG
-Ferric cation,TF
-Ferric cation,ITGB3
-Ferric cation,CALR
-Stanolone acetate,SHBG
-Estradiol acetate,SHBG
-Estradiol acetate,ALB
-Estradiol acetate,FABP2
-Estradiol benzoate,SHBG
-Estradiol benzoate,ALB
-Estradiol benzoate,FABP2
-Estradiol cypionate,SHBG
-Estradiol cypionate,ALB
-Estradiol cypionate,FABP2
-Estradiol dienanthate,SHBG
-Estradiol dienanthate,ALB
-Estradiol dienanthate,FABP2
-Estradiol valerate,SHBG
-Estradiol valerate,ALB
-Estradiol valerate,FABP2
-alpha-Tocopherol succinate,TTPA
-D-alpha-Tocopherol acetate,TTPA
-alpha-Tocopherol acetate,VLDLR
-alpha-Tocopherol acetate,LDLR
-Pentetic acid,SERPINA1
-Tenofovir,ALB
-Aripiprazole lauroxil,ALB
-Calcium phosphate dihydrate,CALB1
-Calcium phosphate dihydrate,S100G
-Calcium phosphate dihydrate,ALB
-Magnesium,ALB
-Aluminium phosphate,ALB
-Aluminum acetate,ALB
-Tetraferric tricitrate decahydrate,TF
-Tetraferric tricitrate decahydrate,ITGB3
-Tetraferric tricitrate decahydrate,CALR
-Chromic citrate,TF
-Chromic nitrate,TF
-Chromium gluconate,TF
-Chromium nicotinate,TF
-Chromous sulfate,TF
-Zinc chloride,ALB
-Hydrocortisone aceponate,SHBG
-Hydrocortisone aceponate,SERPINA6
-Hydrocortisone acetate,SHBG
-Hydrocortisone acetate,SERPINA6
-Hydrocortisone butyrate,SHBG
-Hydrocortisone butyrate,SERPINA6
-Hydrocortisone cypionate,SHBG
-Hydrocortisone cypionate,SERPINA6
-Hydrocortisone phosphate,SHBG
-Hydrocortisone phosphate,SERPINA6
-Hydrocortisone probutate,SHBG
-Hydrocortisone probutate,SERPINA6
-Hydrocortisone valerate,SHBG
-Hydrocortisone valerate,SERPINA6
-"Zinc sulfate, unspecified form",ALB
-Patisiran,ALB
-Patisiran,ORM1
-Patisiran,ORM2
-Prednisolone phosphate,SERPINA6
-Prednisolone phosphate,ALB
-Turoctocog alfa pegol,VWF
-Cefiderocol,ALB
-Human interferon beta,ALB
-Elexacaftor,ALB
-Colchiceine,ALB
-Prednisolone acetate,SERPINA6
-Prednisolone acetate,ALB
+"n-(3,5-dibromo-4-hydroxyphenyl)benzamide",TTR
+"1,3,3-trimethyl-2-[(1e,3e)-3-methylpenta-1,3-dien-1-yl]cyclohexene",CRABP2
+"4-(1,3-benzoxazol-2-yl)-2,6-dimethylphenol",TTR
+"4-(1,3-benzoxazol-2-yl)-2,6-dibromophenol",TTR
+"2-(3,5-dimethylphenyl)-1,3-benzoxazole",TTR
+myristic acid,ALB
+myristic acid,FABP2
+myristic acid,APOM
+ro 12-7310,CRABP2
+"6-(2,3,4,5,6,7-hexahydro-2,4,4-trimethyl-1-metyleneinden-2-yl)-3-methylhexa-2,4-dienoic acid",CRABP2
+(r)-warfarin,ALB
+"(5r)-5-(4-{[(2r)-6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydro-2h-chromen-2-yl]methoxy}benzyl)-1,3-thiazolidine-2,4-dione",FABP4
+"r,s-warfarin alcohol",ALB
+"s,r-warfarin alcohol",ALB
+triflusal,ALB
+ivacaftor,ALB
+ivacaftor,ORM1
+vismodegib,ALB
+vismodegib,ORM1
+pitavastatin,ALB
+pitavastatin,ORM1
+rilpivirine,ALB
+ulipristal,ALB
+ulipristal,ORM1
+vemurafenib,ALB
+vemurafenib,ORM1
+asparaginase erwinia chrysanthemi,SERPINA7
+mirabegron,ALB
+mirabegron,ORM1
+tofacitinib,ALB
+enzalutamide,ALB
+enzalutamide,SERPINA7
+fluticasone furoate,SERPINA6
+fluticasone furoate,ABCB1
+fluticasone furoate,SLCO1B1
+canagliflozin,ORM1
+riociguat,ALB
+riociguat,ORM1
+macitentan,ALB
+etofenamate,SERPINA7
+ibrutinib,ALB
+ibrutinib,ORM1
+ibrutinib,ORM2
+palbociclib,ALB
+nintedanib,ALB
+potassium alum,ALB
+chlortetracycline,ALB
+"thyroid, porcine",ALB
+"thyroid, porcine",TTR
+"thyroid, porcine",SERPINA7
+medrogestone,ALB
+medrogestone,SHBG
+medrogestone,SERPINA6
+copper,ALB
+copper,A2M
+copper,CP
+copper,ATOX1
+copper,CCS
+copper,COX17
+copper,HEPH
+copper,F5
+copper,F8
+copper,MTF1
+copper,MT1HL1
+copper,MT1A
+copper,MT1B
+copper,MT1E
+copper,MT1F
+copper,MT1G
+copper,MT1H
+copper,MT1L
+copper,MT1M
+copper,MT1X
+copper,MT2A
+copper,MT3
+copper,MT4
+copper,MT1DP
+copper,TESMIN
+technetium tc-99m oxidronate,ALB
+oxygen,HBB
+oxygen,HBA2
+technetium tc-99m tetrofosmin,ABCB1
+lorpiprazole,ALB
+arotinolol,ALB
+arotinolol,ORM1
+dexibuprofen,ALB
+blonanserin,ALB
+aranidipine,ALB
+aranidipine,ORM1
+lacidipine,ALB
+lacidipine,ORM1
+levamlodipine,ALB
+methylene blue,ALB
+tegafur,SERPINA7
+imidafenacin,ALB
+imidafenacin,ORM1
+imidafenacin,ORM2
+ubidecarenone,LDLR
+ubidecarenone,VLDLR
+lumacaftor,ALB
+tenofovir alafenamide,ALB
+"synthetic conjugated estrogens, a",SERPINA7
+"synthetic conjugated estrogens, b",SERPINA7
+"antihemophilic factor (recombinant), pegylated",VWF
+iopodic acid,ALB
+tipiracil,SLC22A2
+tipiracil,SLC47A1
+acetrizoic acid,ALB
+propiolactone,ALB
+esterified estrogens,SERPINA7
+meprednisone,ALB
+potassium perchlorate,ALB
+rubidium rb-82,FXYD2
+rubidium rb-82,ATP1A1
+rubidium rb-82,ATP1B1
+rubidium rb-82,ATP1B2
+rubidium rb-82,ATP1B3
+rubidium rb-82,ATP1A4
+rubidium rb-82,ATP1A2
+rubidium rb-82,ATP1A3
+hydroquinone,ALB
+dexchlorpheniramine maleate,SLC22A1
+dexchlorpheniramine maleate,SLC22A2
+insulin degludec,ALB
+omega-3-carboxylic acids,PCTP
+omega-3-carboxylic acids,PEBP1
+calcium citrate,CALB1
+calcium citrate,S100G
+calcium citrate,ALB
+allantoin,SERPINA7
+opium,ALB
+opium,B2M
+cupric oxide,ALB
+cupric oxide,CP
+chromium,TF
+butamben,ORM1
+butamben,ALB
+rose bengal,ALB
+rose bengal,LTF
+rose bengal,TF
+arbutin,ALB
+dioxybenzone,AFP
+tocopherol,VLDLR
+tocopherol,LDLR
+calcium phosphate,CALB1
+calcium phosphate,S100G
+calcium phosphate,ALB
+dichlorvos,ALB
+grazoprevir,ALB
+grazoprevir,ORM1
+thimerosal,ALB
+delamanid,ALB
+delamanid,ORM1
+vinflunine,ALB
+vinflunine,ORM1
+vinflunine,ORM2
+pitolisant,ALB
+pitolisant,ORM1
+selumetinib,ALB
+selumetinib,ORM1
+selumetinib,ORM2
+acalabrutinib,ALB
+acalabrutinib,ORM1
+acalabrutinib,ORM2
+rifamycin,ALB
+istradefylline,ALB
+istradefylline,ORM1
+istradefylline,ORM2
+ertugliflozin,ALB
+neratinib,ALB
+neratinib,ORM1
+neratinib,ORM2
+revefenacin,ALB
+delafloxacin,ALB
+dacomitinib,ALB
+glasdegib,ALB
+abemaciclib,ALB
+abemaciclib,ORM1
+abemaciclib,ORM2
+gilteritinib,ALB
+liothyronine i-131,SERPINA7
+omadacycline,ALB
+favipiravir,ALB
+favipiravir,ORM1
+favipiravir,ORM2
+copanlisib,ALB
+grapiprant,ALB
+darolutamide,ALB
+pexidartinib,ALB
+pexidartinib,ORM1
+hypericin,ALB
+neocitrullamon,SERPINA7
+edoxudine,ALB
+glycyrrhizic acid,AKR1C4
+glycyrrhizic acid,AKR1C3
+glycyrrhizic acid,AKR1C2
+glycyrrhizic acid,ALB
+fluticasone,SERPINA6
+fluticasone,ABCB1
+fluticasone,SLCO1B1
+bismuth subgallate,ALB
+semaglutide,ALB
+testosterone cypionate,ALB
+testosterone cypionate,SHBG
+testosterone enanthate,ALB
+testosterone enanthate,SHBG
+testosterone undecanoate,ALB
+testosterone undecanoate,SHBG
+ferric cation,TF
+ferric cation,ITGB3
+ferric cation,CALR
+stanolone acetate,SHBG
+estradiol acetate,SHBG
+estradiol acetate,ALB
+estradiol acetate,FABP2
+estradiol benzoate,SHBG
+estradiol benzoate,ALB
+estradiol benzoate,FABP2
+estradiol cypionate,SHBG
+estradiol cypionate,ALB
+estradiol cypionate,FABP2
+estradiol dienanthate,SHBG
+estradiol dienanthate,ALB
+estradiol dienanthate,FABP2
+estradiol valerate,SHBG
+estradiol valerate,ALB
+estradiol valerate,FABP2
+alpha-tocopherol succinate,TTPA
+d-alpha-tocopherol acetate,TTPA
+alpha-tocopherol acetate,VLDLR
+alpha-tocopherol acetate,LDLR
+pentetic acid,SERPINA1
+tenofovir,ALB
+aripiprazole lauroxil,ALB
+calcium phosphate dihydrate,CALB1
+calcium phosphate dihydrate,S100G
+calcium phosphate dihydrate,ALB
+magnesium,ALB
+aluminium phosphate,ALB
+aluminum acetate,ALB
+tetraferric tricitrate decahydrate,TF
+tetraferric tricitrate decahydrate,ITGB3
+tetraferric tricitrate decahydrate,CALR
+chromic citrate,TF
+chromic nitrate,TF
+chromium gluconate,TF
+chromium nicotinate,TF
+chromous sulfate,TF
+zinc chloride,ALB
+hydrocortisone aceponate,SHBG
+hydrocortisone aceponate,SERPINA6
+hydrocortisone acetate,SHBG
+hydrocortisone acetate,SERPINA6
+hydrocortisone butyrate,SHBG
+hydrocortisone butyrate,SERPINA6
+hydrocortisone cypionate,SHBG
+hydrocortisone cypionate,SERPINA6
+hydrocortisone phosphate,SHBG
+hydrocortisone phosphate,SERPINA6
+hydrocortisone probutate,SHBG
+hydrocortisone probutate,SERPINA6
+hydrocortisone valerate,SHBG
+hydrocortisone valerate,SERPINA6
+"zinc sulfate, unspecified form",ALB
+patisiran,ALB
+patisiran,ORM1
+patisiran,ORM2
+prednisolone phosphate,SERPINA6
+prednisolone phosphate,ALB
+turoctocog alfa pegol,VWF
+cefiderocol,ALB
+human interferon beta,ALB
+elexacaftor,ALB
+colchiceine,ALB
+prednisolone acetate,SERPINA6
+prednisolone acetate,ALB
