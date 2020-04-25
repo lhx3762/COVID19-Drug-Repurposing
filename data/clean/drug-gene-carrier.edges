@@ -1,835 +1,835 @@
 DRUGS,GENES
-asparaginase escherichia coli,SERPINA7
-pegaspargase,SERPINA7
-hyaluronidase (ovine),ALB
-ascorbic acid,ALB
-alpha-linolenic acid,FABP7
-calcitriol,GC
-lutein,ALB
-thiamine,ALB
-ergocalciferol,GC
-dihomo-gamma-linolenic acid,FABP7
-icosapent,FABP7
-icosapent,ALB
-vitamin a,RBP5
-vitamin a,RBP7
-vitamin a,RBP4
-vitamin a,RBP2
-vitamin a,ALB
-vitamin a,RLBP1
-vitamin a,RBP3
-vitamin a,RBP1
-vitamin e,TTPA
-vitamin e,SEC14L2
-vitamin e,SEC14L3
-vitamin e,PLTP
-pyridoxine,ALB
-cholecalciferol,GC
-flunisolide,SERPINA6
-hydroxocobalamin,TCN2
-torasemide,ALB
-nelfinavir,ALB
-lovastatin,ALB
-enflurane,ALB
-nevirapine,ALB
-alclometasone,SERPINA6
-ranolazine,ORM1
-benzatropine,ALB
-ziprasidone,ALB
-ziprasidone,ORM1
-phenytoin,ALB
-phenytoin,SERPINA7
-medrysone,SERPINA6
-diethylstilbestrol,TTR
-metoprolol,ALB
-dicoumarol,ALB
-topiramate,ALB
-cefmetazole,ALB
-argatroban,ALB
-argatroban,ORM1
-argatroban,ORM2
-liothyronine,TTR
-liothyronine,SERPINA7
-liothyronine,ALB
-disopyramide,ORM1
-conjugated estrogens,SERPINA7
-conjugated estrogens,SHBG
-conjugated estrogens,ALB
-atomoxetine,ALB
-atomoxetine,ORM1
-atomoxetine,ORM2
-atomoxetine,FCGR1A
-etomidate,SLC2A1
-etonogestrel,ALB
-etonogestrel,SHBG
-morphine,ALB
-desogestrel,ALB
-desogestrel,SHBG
-chlorthalidone,ALB
-valproic acid,ALB
-acetaminophen,ALB
-gefitinib,ALB
-gefitinib,ORM1
-amitriptyline,ALB
-amitriptyline,ORM1
-floxuridine,SERPINA7
-fluorometholone,SERPINA6
-hydromorphone,ALB
-indomethacin,ALB
-ipratropium,ALB
-ipratropium,ORM1
-ipratropium,ORM2
-methadone,ORM1
-methadone,ALB
-olanzapine,ALB
-olanzapine,ORM1
-atenolol,ALB
-diltiazem,ALB
-diltiazem,ORM1
-beclomethasone dipropionate,SERPINA6
-alprazolam,ALB
-alprazolam,ORM1
-alprazolam,ORM2
-rosiglitazone,ALB
-acetohexamide,ALB
-ampicillin,ALB
-spironolactone,ALB
-spironolactone,ORM1
-spironolactone,ORM2
-cefpiramide,ALB
-trifluridine,ALB
-betamethasone,ALB
-betamethasone,SERPINA6
-levothyroxine,TTR
-levothyroxine,SERPINA7
-levothyroxine,ALB
-meperidine,ALB
-meperidine,ORM1
-cefalotin,ALB
-prazosin,ORM1
-imipramine,ORM1
-imipramine,ALB
-acitretin,ALB
-nabumetone,ALB
-fluoxetine,ALB
-fluoxetine,ORM1
-duloxetine,ALB
-duloxetine,ORM1
-duloxetine,ORM2
-chlorpromazine,ALB
-raloxifene,ALB
-raloxifene,ORM1
-buspirone,ALB
-buspirone,ORM1
-zidovudine,ALB
-oxycodone,ALB
-oxycodone,ORM1
-oxycodone,ORM2
-tolmetin,ALB
-ritonavir,ALB
-ritonavir,ORM1
-nitazoxanide,SLC19A1
-vancomycin,ALB
-vancomycin,ORM1
-vancomycin,ORM2
-vancomycin,HRH1
-cisplatin,ALB
-alitretinoin,CRABP2
-alitretinoin,CRABP1
-erlotinib,ALB
-erlotinib,ORM1
-mephenytoin,SERPINA7
-ciprofloxacin,ALB
-nortriptyline,ALB
-nortriptyline,ORM1
-amoxapine,ORM1
-fluorouracil,ALB
-fluorouracil,SERPINA7
-piroxicam,ALB
-lamotrigine,ALB
-hydroxyzine,ALB
-methotrexate,ALB
-cephalexin,ALB
-propranolol,ORM1
-propranolol,ALB
-fenoprofen,ALB
-clonidine,ALB
-sulfamethizole,ALB
-enalapril,ALB
-diclofenac,TTR
-diclofenac,ALB
-fluticasone propionate,SERPINA6
-fluticasone propionate,SLCO1B1
-fluocinolone acetonide,SERPINA6
-oxytetracycline,ALB
-ulobetasol,SERPINA6
-labetalol,ALB
-labetalol,ORM1
-labetalol,ORM2
-medroxyprogesterone acetate,ALB
-sulindac,ALB
-nafcillin,ALB
-chloroquine,ALB
-chloroquine,ORM1
-chloroquine,ORM2
-imatinib,ALB
-imatinib,ORM1
-triamcinolone,SERPINA6
-triamcinolone,ALB
-testosterone,ALB
-testosterone,SHBG
-efavirenz,ALB
-niacin,SERPINA7
-prednisone,ALB
-prednisone,SERPINA6
-clofibrate,SERPINA7
-mitotane,SHBG
-mitotane,SERPINA6
-mitotane,SERPINA7
-stavudine,ALB
-estrone,ALB
-verapamil,ALB
-verapamil,ORM1
-flumethasone,SERPINA6
-tamoxifen,ALB
-tamoxifen,SERPINA7
-isoflurophate,ALB
-losartan,ALB
-warfarin,ALB
-warfarin,ORM1
-fludrocortisone,ALB
-fludrocortisone,SERPINA6
-furosemide,ALB
-furosemide,SERPINA7
-tamsulosin,ORM1
-lamivudine,ALB
-flurbiprofen,ALB
-norethisterone,ALB
-norethisterone,SHBG
-nateglinide,ALB
-nateglinide,ORM1
-risperidone,ALB
-risperidone,ORM1
-meclizine,ALB
-hydrocortisone,SHBG
-hydrocortisone,SERPINA6
-gadobenic acid,ALB
-zileuton,ALB
-etodolac,ALB
-isoflurane,ALB
-ethotoin,SERPINA7
-tretinoin,ALB
-tetracycline,ALB
-irinotecan,ALB
-olopatadine,ALB
-hydroflumethiazide,ALB
-oxcarbazepine,ALB
-estradiol,SHBG
-estradiol,ALB
-estradiol,FABP2
-mefenamic acid,ALB
-acyclovir,ALB
-naproxen,ALB
-alfentanil,ORM1
-alfentanil,ALB
-fentanyl,ALB
-fentanyl,ORM1
-fentanyl,ORM2
-meloxicam,ALB
-sodium lauryl sulfate,ALB
-propofol,ALB
-diazepam,ALB
-flurandrenolide,SERPINA6
-pseudoephedrine,ALB
-terbinafine,ALB
-terbinafine,ORM1
-terbinafine,ORM2
-drostanolone,SHBG
-prednisolone,SERPINA6
-prednisolone,ALB
-diflunisal,TTR
-diflunisal,ALB
-tacrolimus,ALB
-tacrolimus,ORM1
-suprofen,ALB
-chlorhexidine,ALB
-emtricitabine,ALB
-quinapril,ALB
-iron dextran,TF
-rimexolone,SERPINA6
-didanosine,ALB
-etacrynic acid,ALB
-cocaine,ORM1
-cocaine,ORM2
-quinidine,ORM1
-repaglinide,ALB
-cyclobenzaprine,ALB
-etretinate,CRABP1
-metacycline,ALB
-maprotiline,ORM1
-salicylic acid,ALB
-salmeterol,ALB
-salmeterol,ORM1
-salmeterol,ORM2
-meclofenamic acid,SERPINA7
-zalcitabine,ALB
-phenprocoumon,ALB
-phenprocoumon,ORM1
-fexofenadine,ALB
-fexofenadine,ORM1
-fexofenadine,ORM2
-isoniazid,ALB
-norgestimate,ALB
-norgestimate,SHBG
-methylprednisolone,ALB
-ethinylestradiol,ALB
-ethinylestradiol,SHBG
-isotretinoin,ALB
-formoterol,ALB
-azathioprine,ALB
-auranofin,ALB
-doxorubicin,ALB
-hydrochlorothiazide,ALB
-letrozole,ALB
-ketoprofen,ALB
-clobetasol propionate,SERPINA6
-clobetasol propionate,ALB
-sulfamethoxazole,ALB
-glyburide,ALB
-ketoconazole,ALB
-ketoconazole,SHBG
-irbesartan,ALB
-irbesartan,ORM1
-irbesartan,ORM2
-probenecid,ALB
-fenofibrate,ALB
-gatifloxacin,ALB
-rifampicin,ALB
-rifampicin,ORM1
-rifampicin,ORM2
-fluocinonide,SERPINA6
-ibuprofen,ALB
-benzylpenicillin,ALB
-tocainide,ALB
-echothiophate,ALB
-amoxicillin,ALB
-oxybutynin,ORM1
-oxybutynin,ALB
-glipizide,ALB
-clonazepam,ALB
-promethazine,ALB
-atazanavir,ALB
-atazanavir,ORM1
-atazanavir,ORM2
-atorvastatin,ALB
-dimethyl sulfoxide,TTR
-rosuvastatin,ALB
-sertraline,ALB
-heparin,SERPINA7
-nifedipine,ALB
-nifedipine,ORM1
-nifedipine,ORM2
-amiodarone,ALB
-gliclazide,ALB
-tolbutamide,ALB
-dutasteride,ALB
-dutasteride,ORM1
-pioglitazone,ALB
-carvedilol,ALB
-levofloxacin,ALB
-sulfinpyrazone,FABP2
-doxepin,ALB
-doxepin,ORM1
-cloxacillin,ALB
-desipramine,ORM1
-bupropion,ORM1
-halothane,ALB
-arsenic trioxide,ALB
-naloxone,ALB
-fluoxymesterone,SHBG
-desflurane,ALB
-clindamycin,ORM1
-flecainide,ORM1
-flecainide,ORM2
-flecainide,ALB
-captopril,ALB
-nadolol,ORM1
-nadolol,ORM2
-ceftriaxone,ALB
-dantrolene,SERPINA7
-budesonide,SERPINA6
-budesonide,ALB
-saquinavir,ORM1
-saquinavir,ALB
-metoclopramide,ORM1
-dexamethasone,ALB
-levodopa,ALB
-sevoflurane,ALB
-aripiprazole,ALB
-gemfibrozil,ALB
-clomipramine,ALB
-darunavir,ALB
-darunavir,ORM1
-hydralazine,ALB
-exenatide,ALB
-mecasermin,IGFBP3
-mecasermin,IGFALS
-mecasermin,IGFBP1
-mecasermin,IGFBP2
-mecasermin,IGFBP4
-mecasermin,IGFBP5
-mecasermin,IGFBP6
-bismuth subsalicylate,ALB
-bismuth subsalicylate,TF
-insulin detemir,ALB
-fosphenytoin,ALB
-fosphenytoin,SERPINA7
-polythiazide,ALB
-cefazolin,ALB
-cefonicid,ALB
-cefoperazone,ALB
-cefotetan,ALB
-penbutolol,ORM1
-aluminium,ALB
-paramethasone,SERPINA6
-colchicine,ALB
-digitoxin,ALB
-magnesium salicylate,ALB
-danazol,SHBG
-ciclesonide,SERPINA6
-acenocoumarol,ALB
-acenocoumarol,ORM1
-testosterone propionate,SHBG
-testosterone propionate,ALB
-ajmaline,ORM1
-aprindine,ORM1
-alfacalcidol,GC
-diamorphine,SERPINA7
-sulfamerazine,ALB
-sulfamethazine,ALB
-liotrix,TTR
-liotrix,SERPINA7
-liotrix,ALB
-ketazolam,ALB
-solifenacin,ORM1
-solifenacin,ORM2
-lopinavir,ORM1
-lopinavir,ALB
-hydroxychloroquine,ALB
-hydroxychloroquine,ORM1
-hydroxychloroquine,ORM2
-acepromazine,ALB
-pipotiazine,ALB
-thioproperazine,ALB
-thiothixene,ALB
-5-fluorouridine,SERPINA7
-genistein,TTR
-topiroxostat,ALB
-topiroxostat,ORM1
-tetraiodothyroacetic acid,TTR
-"6,4'-dihydroxy-3-methyl-3',5'-dibromoflavone",TTR
-d-glucose,ALB
-butenoic acid,FABP1
-"1-{2-[2-(2-methoxyethoxy)ethoxy]ethoxy}-4-(1,1,3,3-tetramethylbutyl)benzene",TTPA
-3-sulfino-l-alanine,FABP4
-o-trifluoromethylphenyl anthranilic acid,TTR
-s-methylcysteine,FABP1
-flufenamic acid,TTR
-2-methoxyestradiol,SHBG
-"2,4,6-tribromophenol",TTR
-cholic acid,FABP1
-"n-(m-trifluoromethylphenyl) phenoxazine-4,6-dicarboxylic acid",TTR
-resveratrol,TTR
-resveratrol,ALB
-1-hexadecanosulfonic acid,FABP4
-stanolone,SHBG
-2-{[2-oxo-2-(1-piperidinyl)ethyl]sulfanyl}-6-(trifluoromethyl)-4(1h)-pyrimidinone,FABP4
-lauric acid,ALB
-pentabromophenol,TTR
-stearic acid,FABP3
-stearic acid,ALB
-"3',5'-dinitro-n-acetyl-l-thyronine",TTR
-"3,3',5,5'-tetrachlorobiphenyl-4,4'-diol",TTR
-oxyphenbutazone,ALB
-capric acid,ALB
-"dibenzofuran-4,6-dicarboxylic acid",TTR
-doconexent,FABP7
-propanoic acid,FABP4
-palmitic acid,FABP4
-palmitic acid,FABP5
-palmitic acid,FABP3
-palmitic acid,FABP2
-palmitic acid,ALB
-carbazole butanoic acid,FABP4
-"5-alpha-androstane-3-beta,17beta-diol",SHBG
-n-ethylretinamide,RBP4
-"5alpha-androstane-3beta,17alpha-diol",SHBG
-quercetin,ALB
-oleic acid,FABP7
-oleic acid,FABP4
-oleic acid,FABP3
-oleic acid,FABP1
-oleic acid,ALB
-oleic acid,GC
-"cysteine-methylene-carbamoyl-1,10-phenanthroline",FABP4
-8-anilinonaphthalene-1-sulfonic acid,FABP4
-8-anilinonaphthalene-1-sulfonic acid,TTR
-glyphosate,ALB
-arachidonic acid,FABP4
-arachidonic acid,ALB
-arachidonic acid,FABP2
-estrone sulfate,SHBG
-estrone sulfate,ALB
-"2-hydroxy-3,5-diiodobenzoic acid",TTR
-camptothecin,ALB
-iodipamide,ALB
-"2-[(3,5-dichloro-4-trioxidanylphenyl)amino]benzoic acid",TTR
-dantron,ALB
-nomifensine,ORM1
-zomepirac,ALB
-dronedarone,ALB
-nebivolol,ALB
-oritavancin,ALB
-tamibarotene,CRABP1
-fenretinide,RBP4
-tanespimycin,ALB
-nrp409,TTR
-nrp409,SERPINA7
-gallium nitrate,TF
-vandetanib,ORM1
-vandetanib,ALB
-fx-1006a,TTR
-iodine,ALB
-iodine,TG
-telaprevir,ALB
-telaprevir,ORM1
-crx-119,SERPINA6
-abiraterone,ALB
-abiraterone,ORM1
-cenobamate,ALB
-rufinamide,ALB
-vorhyaluronidase alfa,ALB
-prasugrel,ALB
-asenapine,ALB
-asenapine,ORM1
-asenapine,ORM2
-levocetirizine,ALB
-simeprevir,ALB
-oxymetholone,ALB
-oxymetholone,SHBG
-prucalopride,ALB
-liraglutide,ALB
-gadofosveset trisodium,ALB
-methyltestosterone,ALB
-methyltestosterone,SHBG
-fospropofol,ALB
-beta carotene,VLDLR
-beta carotene,RBP1
-beta carotene,RBP2
-beta carotene,RBP3
-beta carotene,RBP4
-beta carotene,RBP5
-mangafodipir,A2M
-mangafodipir,ALB
-3-[({(1e)-[2-(trifluoromethyl)phenyl]methylidene}amino)oxy]propanoic acid,TTR
-"2-(2,6-dichlorophenyl)-1,3-benzoxazole-6-carboxylic acid",TTR
-"2',6'-difluorobiphenyl-4-carboxylic acid",TTR
-2-[({4-[2-(trifluoromethyl)phenyl]piperidin-1-yl}carbonyl)amino]benzoic acid,RBP4
-"2',4'-dichloro-4-hydroxy-1,1'-biphenyl-3-carboxylic acid",TTR
-1-naphthylamine-5-sulfonic acid,TTR
-(2s)-3-[(9h-fluoren-9-ylideneamino)oxy]-2-methylpropanoic acid,TTR
-3-[(9h-fluoren-9-ylideneamino)oxy]propanoic acid,TTR
-3-({[(1z)-(2-methoxyphenyl)methylidene]amino}oxy)propanoic acid,TTR
-"9-benzyl-2,3,4,9-tetrahydro-1h-carbazole-8-carboxylic acid",FABP4
-azapropazone,ALB
-3-carboxy-4-methyl-5-propyl-2-furanpropionic,ALB
-chloramphenicol succinate,ALB
-"n-(3,5-dibromo-4-hydroxyphenyl)-2,6-dimethylbenzamide",TTR
-"2,5-dichloro-n-(3,5-dibromo-4-hydroxyphenyl)benzamide",TTR
-"n-(3,5-dibromo-4-hydroxyphenyl)-4-hydroxy-3,5-dimethylbenzamide",TTR
-"3',5'-difluorobiphenyl-4-carboxylic acid",TTR
-"3',5'-dibromo-2',4,4',6'-tetrahydroxy aurone",TTR
-"5-(3-carbamoylbenzyl)-5,6,7,8,9,10-hexahydrocyclohepta[b]indole-4-carboxylic acid",FABP4
-"methyl n-[(2',4'-difluoro-4-hydroxy-5-iodobiphenyl-3-yl)carbonyl]-beta-alaninate",TTR
-"n-[(2',4'-difluoro-4-hydroxy-5-iodobiphenyl-3-yl)carbonyl]-beta-alanine",TTR
-indoxyl sulfate,ALB
-"2,6-dimethyl-4-[(e)-2-phenylethenyl]phenol",TTR
-"2,6-dibromo-4-[(e)-2-phenylethenyl]phenol",TTR
-"3,5-dibromobiphenyl-4-ol",TTR
-"2,6-dibromo-4-phenoxyphenol",TTR
-"n-(3,5-dibromo-4-hydroxyphenyl)benzamide",TTR
-"1,3,3-trimethyl-2-[(1e,3e)-3-methylpenta-1,3-dien-1-yl]cyclohexene",CRABP2
-"4-(1,3-benzoxazol-2-yl)-2,6-dimethylphenol",TTR
-"4-(1,3-benzoxazol-2-yl)-2,6-dibromophenol",TTR
-"2-(3,5-dimethylphenyl)-1,3-benzoxazole",TTR
-myristic acid,ALB
-myristic acid,FABP2
-myristic acid,APOM
-ro 12-7310,CRABP2
-"6-(2,3,4,5,6,7-hexahydro-2,4,4-trimethyl-1-metyleneinden-2-yl)-3-methylhexa-2,4-dienoic acid",CRABP2
-(r)-warfarin,ALB
-"(5r)-5-(4-{[(2r)-6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydro-2h-chromen-2-yl]methoxy}benzyl)-1,3-thiazolidine-2,4-dione",FABP4
-"r,s-warfarin alcohol",ALB
-"s,r-warfarin alcohol",ALB
-triflusal,ALB
-ivacaftor,ALB
-ivacaftor,ORM1
-vismodegib,ALB
-vismodegib,ORM1
-pitavastatin,ALB
-pitavastatin,ORM1
-rilpivirine,ALB
-ulipristal,ALB
-ulipristal,ORM1
-vemurafenib,ALB
-vemurafenib,ORM1
-asparaginase erwinia chrysanthemi,SERPINA7
-mirabegron,ALB
-mirabegron,ORM1
-tofacitinib,ALB
-enzalutamide,ALB
-enzalutamide,SERPINA7
-fluticasone furoate,SERPINA6
-fluticasone furoate,ABCB1
-fluticasone furoate,SLCO1B1
-canagliflozin,ORM1
-riociguat,ALB
-riociguat,ORM1
-macitentan,ALB
-etofenamate,SERPINA7
-ibrutinib,ALB
-ibrutinib,ORM1
-ibrutinib,ORM2
-palbociclib,ALB
-nintedanib,ALB
-potassium alum,ALB
-chlortetracycline,ALB
-"thyroid, porcine",ALB
-"thyroid, porcine",TTR
-"thyroid, porcine",SERPINA7
-medrogestone,ALB
-medrogestone,SHBG
-medrogestone,SERPINA6
-copper,ALB
-copper,A2M
-copper,CP
-copper,ATOX1
-copper,CCS
-copper,COX17
-copper,HEPH
-copper,F5
-copper,F8
-copper,MTF1
-copper,MT1HL1
-copper,MT1A
-copper,MT1B
-copper,MT1E
-copper,MT1F
-copper,MT1G
-copper,MT1H
-copper,MT1L
-copper,MT1M
-copper,MT1X
-copper,MT2A
-copper,MT3
-copper,MT4
-copper,MT1DP
-copper,TESMIN
-technetium tc-99m oxidronate,ALB
-oxygen,HBB
-oxygen,HBA2
-technetium tc-99m tetrofosmin,ABCB1
-lorpiprazole,ALB
-arotinolol,ALB
-arotinolol,ORM1
-dexibuprofen,ALB
-blonanserin,ALB
-aranidipine,ALB
-aranidipine,ORM1
-lacidipine,ALB
-lacidipine,ORM1
-levamlodipine,ALB
-methylene blue,ALB
-tegafur,SERPINA7
-imidafenacin,ALB
-imidafenacin,ORM1
-imidafenacin,ORM2
-ubidecarenone,LDLR
-ubidecarenone,VLDLR
-lumacaftor,ALB
-tenofovir alafenamide,ALB
-"synthetic conjugated estrogens, a",SERPINA7
-"synthetic conjugated estrogens, b",SERPINA7
-"antihemophilic factor (recombinant), pegylated",VWF
-iopodic acid,ALB
-tipiracil,SLC22A2
-tipiracil,SLC47A1
-acetrizoic acid,ALB
-propiolactone,ALB
-esterified estrogens,SERPINA7
-meprednisone,ALB
-potassium perchlorate,ALB
-rubidium rb-82,FXYD2
-rubidium rb-82,ATP1A1
-rubidium rb-82,ATP1B1
-rubidium rb-82,ATP1B2
-rubidium rb-82,ATP1B3
-rubidium rb-82,ATP1A4
-rubidium rb-82,ATP1A2
-rubidium rb-82,ATP1A3
-hydroquinone,ALB
-dexchlorpheniramine maleate,SLC22A1
-dexchlorpheniramine maleate,SLC22A2
-insulin degludec,ALB
-omega-3-carboxylic acids,PCTP
-omega-3-carboxylic acids,PEBP1
-calcium citrate,CALB1
-calcium citrate,S100G
-calcium citrate,ALB
-allantoin,SERPINA7
-opium,ALB
-opium,B2M
-cupric oxide,ALB
-cupric oxide,CP
-chromium,TF
-butamben,ORM1
-butamben,ALB
-rose bengal,ALB
-rose bengal,LTF
-rose bengal,TF
-arbutin,ALB
-dioxybenzone,AFP
-tocopherol,VLDLR
-tocopherol,LDLR
-calcium phosphate,CALB1
-calcium phosphate,S100G
-calcium phosphate,ALB
-dichlorvos,ALB
-grazoprevir,ALB
-grazoprevir,ORM1
-thimerosal,ALB
-delamanid,ALB
-delamanid,ORM1
-vinflunine,ALB
-vinflunine,ORM1
-vinflunine,ORM2
-pitolisant,ALB
-pitolisant,ORM1
-selumetinib,ALB
-selumetinib,ORM1
-selumetinib,ORM2
-acalabrutinib,ALB
-acalabrutinib,ORM1
-acalabrutinib,ORM2
-rifamycin,ALB
-istradefylline,ALB
-istradefylline,ORM1
-istradefylline,ORM2
-ertugliflozin,ALB
-neratinib,ALB
-neratinib,ORM1
-neratinib,ORM2
-revefenacin,ALB
-delafloxacin,ALB
-dacomitinib,ALB
-glasdegib,ALB
-abemaciclib,ALB
-abemaciclib,ORM1
-abemaciclib,ORM2
-gilteritinib,ALB
-liothyronine i-131,SERPINA7
-omadacycline,ALB
-favipiravir,ALB
-favipiravir,ORM1
-favipiravir,ORM2
-copanlisib,ALB
-grapiprant,ALB
-darolutamide,ALB
-pexidartinib,ALB
-pexidartinib,ORM1
-hypericin,ALB
-neocitrullamon,SERPINA7
-edoxudine,ALB
-glycyrrhizic acid,AKR1C4
-glycyrrhizic acid,AKR1C3
-glycyrrhizic acid,AKR1C2
-glycyrrhizic acid,ALB
-fluticasone,SERPINA6
-fluticasone,ABCB1
-fluticasone,SLCO1B1
-bismuth subgallate,ALB
-semaglutide,ALB
-testosterone cypionate,ALB
-testosterone cypionate,SHBG
-testosterone enanthate,ALB
-testosterone enanthate,SHBG
-testosterone undecanoate,ALB
-testosterone undecanoate,SHBG
-ferric cation,TF
-ferric cation,ITGB3
-ferric cation,CALR
-stanolone acetate,SHBG
-estradiol acetate,SHBG
-estradiol acetate,ALB
-estradiol acetate,FABP2
-estradiol benzoate,SHBG
-estradiol benzoate,ALB
-estradiol benzoate,FABP2
-estradiol cypionate,SHBG
-estradiol cypionate,ALB
-estradiol cypionate,FABP2
-estradiol dienanthate,SHBG
-estradiol dienanthate,ALB
-estradiol dienanthate,FABP2
-estradiol valerate,SHBG
-estradiol valerate,ALB
-estradiol valerate,FABP2
-alpha-tocopherol succinate,TTPA
-d-alpha-tocopherol acetate,TTPA
-alpha-tocopherol acetate,VLDLR
-alpha-tocopherol acetate,LDLR
-pentetic acid,SERPINA1
-tenofovir,ALB
-aripiprazole lauroxil,ALB
-calcium phosphate dihydrate,CALB1
-calcium phosphate dihydrate,S100G
-calcium phosphate dihydrate,ALB
-magnesium,ALB
-aluminium phosphate,ALB
-aluminum acetate,ALB
-tetraferric tricitrate decahydrate,TF
-tetraferric tricitrate decahydrate,ITGB3
-tetraferric tricitrate decahydrate,CALR
-chromic citrate,TF
-chromic nitrate,TF
-chromium gluconate,TF
-chromium nicotinate,TF
-chromous sulfate,TF
-zinc chloride,ALB
-hydrocortisone aceponate,SHBG
-hydrocortisone aceponate,SERPINA6
-hydrocortisone acetate,SHBG
-hydrocortisone acetate,SERPINA6
-hydrocortisone butyrate,SHBG
-hydrocortisone butyrate,SERPINA6
-hydrocortisone cypionate,SHBG
-hydrocortisone cypionate,SERPINA6
-hydrocortisone phosphate,SHBG
-hydrocortisone phosphate,SERPINA6
-hydrocortisone probutate,SHBG
-hydrocortisone probutate,SERPINA6
-hydrocortisone valerate,SHBG
-hydrocortisone valerate,SERPINA6
-"zinc sulfate, unspecified form",ALB
-patisiran,ALB
-patisiran,ORM1
-patisiran,ORM2
-prednisolone phosphate,SERPINA6
-prednisolone phosphate,ALB
-turoctocog alfa pegol,VWF
-cefiderocol,ALB
-human interferon beta,ALB
-elexacaftor,ALB
-colchiceine,ALB
-prednisolone acetate,SERPINA6
-prednisolone acetate,ALB
+DB00023,SERPINA7
+DB00059,SERPINA7
+DB00070,ALB
+DB00126,ALB
+DB00132,FABP7
+DB00136,GC
+DB00137,ALB
+DB00152,ALB
+DB00153,GC
+DB00154,FABP7
+DB00159,FABP7
+DB00159,ALB
+DB00162,RBP5
+DB00162,RBP7
+DB00162,RBP4
+DB00162,RBP2
+DB00162,ALB
+DB00162,RLBP1
+DB00162,RBP3
+DB00162,RBP1
+DB00163,TTPA
+DB00163,SEC14L2
+DB00163,SEC14L3
+DB00163,PLTP
+DB00165,ALB
+DB00169,GC
+DB00180,SERPINA6
+DB00200,TCN2
+DB00214,ALB
+DB00220,ALB
+DB00227,ALB
+DB00228,ALB
+DB00238,ALB
+DB00240,SERPINA6
+DB00243,ORM1
+DB00245,ALB
+DB00246,ALB
+DB00246,ORM1
+DB00252,ALB
+DB00252,SERPINA7
+DB00253,SERPINA6
+DB00255,TTR
+DB00264,ALB
+DB00266,ALB
+DB00273,ALB
+DB00274,ALB
+DB00278,ALB
+DB00278,ORM1
+DB00278,ORM2
+DB00279,TTR
+DB00279,SERPINA7
+DB00279,ALB
+DB00280,ORM1
+DB00286,SERPINA7
+DB00286,SHBG
+DB00286,ALB
+DB00289,ALB
+DB00289,ORM1
+DB00289,ORM2
+DB00289,FCGR1A
+DB00292,SLC2A1
+DB00294,ALB
+DB00294,SHBG
+DB00295,ALB
+DB00304,ALB
+DB00304,SHBG
+DB00310,ALB
+DB00313,ALB
+DB00316,ALB
+DB00317,ALB
+DB00317,ORM1
+DB00321,ALB
+DB00321,ORM1
+DB00322,SERPINA7
+DB00324,SERPINA6
+DB00327,ALB
+DB00328,ALB
+DB00332,ALB
+DB00332,ORM1
+DB00332,ORM2
+DB00333,ORM1
+DB00333,ALB
+DB00334,ALB
+DB00334,ORM1
+DB00335,ALB
+DB00343,ALB
+DB00343,ORM1
+DB00394,SERPINA6
+DB00404,ALB
+DB00404,ORM1
+DB00404,ORM2
+DB00412,ALB
+DB00414,ALB
+DB00415,ALB
+DB00421,ALB
+DB00421,ORM1
+DB00421,ORM2
+DB00430,ALB
+DB00432,ALB
+DB00443,ALB
+DB00443,SERPINA6
+DB00451,TTR
+DB00451,SERPINA7
+DB00451,ALB
+DB00454,ALB
+DB00454,ORM1
+DB00456,ALB
+DB00457,ORM1
+DB00458,ORM1
+DB00458,ALB
+DB00459,ALB
+DB00461,ALB
+DB00472,ALB
+DB00472,ORM1
+DB00476,ALB
+DB00476,ORM1
+DB00476,ORM2
+DB00477,ALB
+DB00481,ALB
+DB00481,ORM1
+DB00490,ALB
+DB00490,ORM1
+DB00495,ALB
+DB00497,ALB
+DB00497,ORM1
+DB00497,ORM2
+DB00500,ALB
+DB00503,ALB
+DB00503,ORM1
+DB00507,SLC19A1
+DB00512,ALB
+DB00512,ORM1
+DB00512,ORM2
+DB00512,HRH1
+DB00515,ALB
+DB00523,CRABP2
+DB00523,CRABP1
+DB00530,ALB
+DB00530,ORM1
+DB00532,SERPINA7
+DB00537,ALB
+DB00540,ALB
+DB00540,ORM1
+DB00543,ORM1
+DB00544,ALB
+DB00544,SERPINA7
+DB00554,ALB
+DB00555,ALB
+DB00557,ALB
+DB00563,ALB
+DB00567,ALB
+DB00571,ORM1
+DB00571,ALB
+DB00573,ALB
+DB00575,ALB
+DB00576,ALB
+DB00584,ALB
+DB00586,TTR
+DB00586,ALB
+DB00588,SERPINA6
+DB00588,SLCO1B1
+DB00591,SERPINA6
+DB00595,ALB
+DB00596,SERPINA6
+DB00598,ALB
+DB00598,ORM1
+DB00598,ORM2
+DB00603,ALB
+DB00605,ALB
+DB00607,ALB
+DB00608,ALB
+DB00608,ORM1
+DB00608,ORM2
+DB00619,ALB
+DB00619,ORM1
+DB00620,SERPINA6
+DB00620,ALB
+DB00624,ALB
+DB00624,SHBG
+DB00625,ALB
+DB00627,SERPINA7
+DB00635,ALB
+DB00635,SERPINA6
+DB00636,SERPINA7
+DB00648,SHBG
+DB00648,SERPINA6
+DB00648,SERPINA7
+DB00649,ALB
+DB00655,ALB
+DB00661,ALB
+DB00661,ORM1
+DB00663,SERPINA6
+DB00675,ALB
+DB00675,SERPINA7
+DB00677,ALB
+DB00678,ALB
+DB00682,ALB
+DB00682,ORM1
+DB00687,ALB
+DB00687,SERPINA6
+DB00695,ALB
+DB00695,SERPINA7
+DB00706,ORM1
+DB00709,ALB
+DB00712,ALB
+DB00717,ALB
+DB00717,SHBG
+DB00731,ALB
+DB00731,ORM1
+DB00734,ALB
+DB00734,ORM1
+DB00737,ALB
+DB00741,SHBG
+DB00741,SERPINA6
+DB00743,ALB
+DB00744,ALB
+DB00749,ALB
+DB00753,ALB
+DB00754,SERPINA7
+DB00755,ALB
+DB00759,ALB
+DB00762,ALB
+DB00768,ALB
+DB00774,ALB
+DB00776,ALB
+DB00783,SHBG
+DB00783,ALB
+DB00783,FABP2
+DB00784,ALB
+DB00787,ALB
+DB00788,ALB
+DB00802,ORM1
+DB00802,ALB
+DB00813,ALB
+DB00813,ORM1
+DB00813,ORM2
+DB00814,ALB
+DB00815,ALB
+DB00818,ALB
+DB00829,ALB
+DB00846,SERPINA6
+DB00852,ALB
+DB00857,ALB
+DB00857,ORM1
+DB00857,ORM2
+DB00858,SHBG
+DB00860,SERPINA6
+DB00860,ALB
+DB00861,TTR
+DB00861,ALB
+DB00864,ALB
+DB00864,ORM1
+DB00870,ALB
+DB00878,ALB
+DB00879,ALB
+DB00881,ALB
+DB00893,TF
+DB00896,SERPINA6
+DB00900,ALB
+DB00903,ALB
+DB00907,ORM1
+DB00907,ORM2
+DB00908,ORM1
+DB00912,ALB
+DB00924,ALB
+DB00926,CRABP1
+DB00931,ALB
+DB00934,ORM1
+DB00936,ALB
+DB00938,ALB
+DB00938,ORM1
+DB00938,ORM2
+DB00939,SERPINA7
+DB00943,ALB
+DB00946,ALB
+DB00946,ORM1
+DB00950,ALB
+DB00950,ORM1
+DB00950,ORM2
+DB00951,ALB
+DB00957,ALB
+DB00957,SHBG
+DB00959,ALB
+DB00977,ALB
+DB00977,SHBG
+DB00982,ALB
+DB00983,ALB
+DB00993,ALB
+DB00995,ALB
+DB00997,ALB
+DB00999,ALB
+DB01006,ALB
+DB01009,ALB
+DB01013,SERPINA6
+DB01013,ALB
+DB01015,ALB
+DB01016,ALB
+DB01026,ALB
+DB01026,SHBG
+DB01029,ALB
+DB01029,ORM1
+DB01029,ORM2
+DB01032,ALB
+DB01039,ALB
+DB01044,ALB
+DB01045,ALB
+DB01045,ORM1
+DB01045,ORM2
+DB01047,SERPINA6
+DB01050,ALB
+DB01053,ALB
+DB01056,ALB
+DB01057,ALB
+DB01060,ALB
+DB01062,ORM1
+DB01062,ALB
+DB01067,ALB
+DB01068,ALB
+DB01069,ALB
+DB01072,ALB
+DB01072,ORM1
+DB01072,ORM2
+DB01076,ALB
+DB01093,TTR
+DB01098,ALB
+DB01104,ALB
+DB01109,SERPINA7
+DB01115,ALB
+DB01115,ORM1
+DB01115,ORM2
+DB01118,ALB
+DB01120,ALB
+DB01124,ALB
+DB01126,ALB
+DB01126,ORM1
+DB01132,ALB
+DB01136,ALB
+DB01137,ALB
+DB01138,FABP2
+DB01142,ALB
+DB01142,ORM1
+DB01147,ALB
+DB01151,ORM1
+DB01156,ORM1
+DB01159,ALB
+DB01169,ALB
+DB01183,ALB
+DB01185,SHBG
+DB01189,ALB
+DB01190,ORM1
+DB01195,ORM1
+DB01195,ORM2
+DB01195,ALB
+DB01197,ALB
+DB01203,ORM1
+DB01203,ORM2
+DB01212,ALB
+DB01219,SERPINA7
+DB01222,SERPINA6
+DB01222,ALB
+DB01232,ORM1
+DB01232,ALB
+DB01233,ORM1
+DB01234,ALB
+DB01235,ALB
+DB01236,ALB
+DB01238,ALB
+DB01241,ALB
+DB01242,ALB
+DB01264,ALB
+DB01264,ORM1
+DB01275,ALB
+DB01276,ALB
+DB01277,IGFBP3
+DB01277,IGFALS
+DB01277,IGFBP1
+DB01277,IGFBP2
+DB01277,IGFBP4
+DB01277,IGFBP5
+DB01277,IGFBP6
+DB01294,ALB
+DB01294,TF
+DB01307,ALB
+DB01320,ALB
+DB01320,SERPINA7
+DB01324,ALB
+DB01327,ALB
+DB01328,ALB
+DB01329,ALB
+DB01330,ALB
+DB01359,ORM1
+DB01370,ALB
+DB01384,SERPINA6
+DB01394,ALB
+DB01396,ALB
+DB01397,ALB
+DB01406,SHBG
+DB01410,SERPINA6
+DB01418,ALB
+DB01418,ORM1
+DB01420,SHBG
+DB01420,ALB
+DB01426,ORM1
+DB01429,ORM1
+DB01436,GC
+DB01452,SERPINA7
+DB01581,ALB
+DB01582,ALB
+DB01583,TTR
+DB01583,SERPINA7
+DB01583,ALB
+DB01587,ALB
+DB01591,ORM1
+DB01591,ORM2
+DB01601,ORM1
+DB01601,ALB
+DB01611,ALB
+DB01611,ORM1
+DB01611,ORM2
+DB01614,ALB
+DB01621,ALB
+DB01622,ALB
+DB01623,ALB
+DB01629,SERPINA7
+DB01645,TTR
+DB01685,ALB
+DB01685,ORM1
+DB01751,TTR
+DB01838,TTR
+DB01914,ALB
+DB02074,FABP1
+DB02080,TTPA
+DB02153,FABP4
+DB02179,TTR
+DB02216,FABP1
+DB02266,TTR
+DB02342,SHBG
+DB02417,TTR
+DB02659,FABP1
+DB02698,TTR
+DB02709,TTR
+DB02709,ALB
+DB02776,FABP4
+DB02901,SHBG
+DB03009,FABP4
+DB03017,ALB
+DB03167,TTR
+DB03193,FABP3
+DB03193,ALB
+DB03239,TTR
+DB03346,TTR
+DB03585,ALB
+DB03600,ALB
+DB03682,TTR
+DB03756,FABP7
+DB03766,FABP4
+DB03796,FABP4
+DB03796,FABP5
+DB03796,FABP3
+DB03796,FABP2
+DB03796,ALB
+DB03851,FABP4
+DB03882,SHBG
+DB03917,RBP4
+DB03926,SHBG
+DB04216,ALB
+DB04224,FABP7
+DB04224,FABP4
+DB04224,FABP3
+DB04224,FABP1
+DB04224,ALB
+DB04224,GC
+DB04437,FABP4
+DB04474,FABP4
+DB04474,TTR
+DB04539,ALB
+DB04557,FABP4
+DB04557,ALB
+DB04557,FABP2
+DB04574,SHBG
+DB04574,ALB
+DB04674,TTR
+DB04690,ALB
+DB04711,ALB
+DB04756,TTR
+DB04816,ALB
+DB04821,ORM1
+DB04828,ALB
+DB04855,ALB
+DB04861,ALB
+DB04911,ALB
+DB04942,CRABP1
+DB05076,RBP4
+DB05134,ALB
+DB05235,TTR
+DB05235,SERPINA7
+DB05260,TF
+DB05294,ORM1
+DB05294,ALB
+DB05352,TTR
+DB05382,ALB
+DB05382,TG
+DB05521,ALB
+DB05521,ORM1
+DB05688,SERPINA6
+DB05812,ALB
+DB05812,ORM1
+DB06119,ALB
+DB06201,ALB
+DB06205,ALB
+DB06209,ALB
+DB06216,ALB
+DB06216,ORM1
+DB06216,ORM2
+DB06282,ALB
+DB06290,ALB
+DB06412,ALB
+DB06412,SHBG
+DB06480,ALB
+DB06655,ALB
+DB06705,ALB
+DB06710,ALB
+DB06710,SHBG
+DB06716,ALB
+DB06755,VLDLR
+DB06755,RBP1
+DB06755,RBP2
+DB06755,RBP3
+DB06755,RBP4
+DB06755,RBP5
+DB06796,A2M
+DB06796,ALB
+DB06885,TTR
+DB06907,TTR
+DB06935,TTR
+DB06985,RBP4
+DB07047,TTR
+DB07176,TTR
+DB07201,TTR
+DB07240,TTR
+DB07282,TTR
+DB07283,FABP4
+DB07402,ALB
+DB07517,ALB
+DB07565,ALB
+DB07693,TTR
+DB07694,TTR
+DB07695,TTR
+DB07753,TTR
+DB07775,TTR
+DB07945,FABP4
+DB07962,TTR
+DB07963,TTR
+DB07992,ALB
+DB08100,TTR
+DB08101,TTR
+DB08102,TTR
+DB08103,TTR
+DB08104,TTR
+DB08127,CRABP2
+DB08205,TTR
+DB08206,TTR
+DB08207,TTR
+DB08231,ALB
+DB08231,FABP2
+DB08231,APOM
+DB08455,CRABP2
+DB08467,CRABP2
+DB08496,ALB
+DB08607,FABP4
+DB08735,ALB
+DB08736,ALB
+DB08814,ALB
+DB08820,ALB
+DB08820,ORM1
+DB08828,ALB
+DB08828,ORM1
+DB08860,ALB
+DB08860,ORM1
+DB08864,ALB
+DB08867,ALB
+DB08867,ORM1
+DB08881,ALB
+DB08881,ORM1
+DB08886,SERPINA7
+DB08893,ALB
+DB08893,ORM1
+DB08895,ALB
+DB08899,ALB
+DB08899,SERPINA7
+DB08906,SERPINA6
+DB08906,ABCB1
+DB08906,SLCO1B1
+DB08907,ORM1
+DB08931,ALB
+DB08931,ORM1
+DB08932,ALB
+DB08984,SERPINA7
+DB09053,ALB
+DB09053,ORM1
+DB09053,ORM2
+DB09073,ALB
+DB09079,ALB
+DB09087,ALB
+DB09093,ALB
+DB09100,ALB
+DB09100,TTR
+DB09100,SERPINA7
+DB09124,ALB
+DB09124,SHBG
+DB09124,SERPINA6
+DB09130,ALB
+DB09130,A2M
+DB09130,CP
+DB09130,ATOX1
+DB09130,CCS
+DB09130,COX17
+DB09130,HEPH
+DB09130,F5
+DB09130,F8
+DB09130,MTF1
+DB09130,MT1HL1
+DB09130,MT1A
+DB09130,MT1B
+DB09130,MT1E
+DB09130,MT1F
+DB09130,MT1G
+DB09130,MT1H
+DB09130,MT1L
+DB09130,MT1M
+DB09130,MT1X
+DB09130,MT2A
+DB09130,MT3
+DB09130,MT4
+DB09130,MT1DP
+DB09130,TESMIN
+DB09139,ALB
+DB09140,HBB
+DB09140,HBA2
+DB09160,ABCB1
+DB09195,ALB
+DB09204,ALB
+DB09204,ORM1
+DB09213,ALB
+DB09223,ALB
+DB09229,ALB
+DB09229,ORM1
+DB09236,ALB
+DB09236,ORM1
+DB09237,ALB
+DB09241,ALB
+DB09256,SERPINA7
+DB09262,ALB
+DB09262,ORM1
+DB09262,ORM2
+DB09270,LDLR
+DB09270,VLDLR
+DB09280,ALB
+DB09299,ALB
+DB09317,SERPINA7
+DB09318,SERPINA7
+DB09329,VWF
+DB09333,ALB
+DB09343,SLC22A2
+DB09343,SLC47A1
+DB09347,ALB
+DB09348,ALB
+DB09381,SERPINA7
+DB09383,ALB
+DB09418,ALB
+DB09479,FXYD2
+DB09479,ATP1A1
+DB09479,ATP1B1
+DB09479,ATP1B2
+DB09479,ATP1B3
+DB09479,ATP1A4
+DB09479,ATP1A2
+DB09479,ATP1A3
+DB09526,ALB
+DB09555,SLC22A1
+DB09555,SLC22A2
+DB09564,ALB
+DB09568,PCTP
+DB09568,PEBP1
+DB11093,CALB1
+DB11093,S100G
+DB11093,ALB
+DB11100,SERPINA7
+DB11130,ALB
+DB11130,B2M
+DB11134,ALB
+DB11134,CP
+DB11136,TF
+DB11148,ORM1
+DB11148,ALB
+DB11182,ALB
+DB11182,LTF
+DB11182,TF
+DB11217,ALB
+DB11221,AFP
+DB11251,VLDLR
+DB11251,LDLR
+DB11348,CALB1
+DB11348,S100G
+DB11348,ALB
+DB11397,ALB
+DB11575,ALB
+DB11575,ORM1
+DB11590,ALB
+DB11637,ALB
+DB11637,ORM1
+DB11641,ALB
+DB11641,ORM1
+DB11641,ORM2
+DB11642,ALB
+DB11642,ORM1
+DB11689,ALB
+DB11689,ORM1
+DB11689,ORM2
+DB11703,ALB
+DB11703,ORM1
+DB11703,ORM2
+DB11753,ALB
+DB11757,ALB
+DB11757,ORM1
+DB11757,ORM2
+DB11827,ALB
+DB11828,ALB
+DB11828,ORM1
+DB11828,ORM2
+DB11855,ALB
+DB11943,ALB
+DB11963,ALB
+DB11978,ALB
+DB12001,ALB
+DB12001,ORM1
+DB12001,ORM2
+DB12141,ALB
+DB12425,SERPINA7
+DB12455,ALB
+DB12466,ALB
+DB12466,ORM1
+DB12466,ORM2
+DB12483,ALB
+DB12836,ALB
+DB12941,ALB
+DB12978,ALB
+DB12978,ORM1
+DB13014,ALB
+DB13396,SERPINA7
+DB13421,ALB
+DB13751,AKR1C4
+DB13751,AKR1C3
+DB13751,AKR1C2
+DB13751,ALB
+DB13867,SERPINA6
+DB13867,ABCB1
+DB13867,SLCO1B1
+DB13909,ALB
+DB13928,ALB
+DB13943,ALB
+DB13943,SHBG
+DB13944,ALB
+DB13944,SHBG
+DB13946,ALB
+DB13946,SHBG
+DB13949,TF
+DB13949,ITGB3
+DB13949,CALR
+DB13951,SHBG
+DB13952,SHBG
+DB13952,ALB
+DB13952,FABP2
+DB13953,SHBG
+DB13953,ALB
+DB13953,FABP2
+DB13954,SHBG
+DB13954,ALB
+DB13954,FABP2
+DB13955,SHBG
+DB13955,ALB
+DB13955,FABP2
+DB13956,SHBG
+DB13956,ALB
+DB13956,FABP2
+DB14001,TTPA
+DB14002,TTPA
+DB14003,VLDLR
+DB14003,LDLR
+DB14007,SERPINA1
+DB14126,ALB
+DB14185,ALB
+DB14481,CALB1
+DB14481,S100G
+DB14481,ALB
+DB14513,ALB
+DB14517,ALB
+DB14518,ALB
+DB14520,TF
+DB14520,ITGB3
+DB14520,CALR
+DB14526,TF
+DB14527,TF
+DB14528,TF
+DB14529,TF
+DB14530,TF
+DB14533,ALB
+DB14538,SHBG
+DB14538,SERPINA6
+DB14539,SHBG
+DB14539,SERPINA6
+DB14540,SHBG
+DB14540,SERPINA6
+DB14541,SHBG
+DB14541,SERPINA6
+DB14542,SHBG
+DB14542,SERPINA6
+DB14543,SHBG
+DB14543,SERPINA6
+DB14544,SHBG
+DB14544,SERPINA6
+DB14548,ALB
+DB14582,ALB
+DB14582,ORM1
+DB14582,ORM2
+DB14631,SERPINA6
+DB14631,ALB
+DB14738,VWF
+DB14879,ALB
+DB14999,ALB
+DB15444,ALB
+DB15534,ALB
+DB15566,SERPINA6
+DB15566,ALB
