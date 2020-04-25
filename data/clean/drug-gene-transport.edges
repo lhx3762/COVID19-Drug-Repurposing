@@ -1,3024 +1,3024 @@
 DRUGS,GENES
-gramicidin d,ABCB1
-vasopressin,ABCC2
-cyclosporine,ABCB1
-cyclosporine,ABCB11
-cyclosporine,SLC10A2
-cyclosporine,SLC10A1
-cyclosporine,SLC22A6
-cyclosporine,ABCC10
-cyclosporine,ABCC2
-cyclosporine,ABCG2
-cyclosporine,SLCO1B1
-cyclosporine,SLCO1B3
-cyanocobalamin,AMN
-cyanocobalamin,TCN1
-cyanocobalamin,TCN2
-cyanocobalamin,CBLIF
-cyanocobalamin,CUBN
-cyanocobalamin,LRP2
-cyanocobalamin,ABCC1
-tetrahydrofolic acid,ABCC2
-histidine,SLC16A10
-pyruvic acid,SLC16A7
-pyruvic acid,SLC16A1
-pyruvic acid,SLC16A10
-pyruvic acid,SLCO2A1
-pyruvic acid,SLC16A3
-phenylalanine,SLC16A10
-biotin,SLC5A6
-biotin,SLC5A8
-choline,SLC22A2
-choline,SLC22A1
-choline,SLC22A3
-choline,SLC22A5
-choline,SLC22A4
-choline,SLC44A1
-choline,SLC44A4
-choline,SLC44A2
-choline,SLC44A3
-choline,SLC5A7
-l-lysine,SLC16A10
-l-lysine,SLC22A4
-arginine,SLC22A5
-arginine,SLC16A10
-arginine,SLC22A4
-ascorbic acid,SLC23A1
-ascorbic acid,SLC23A2
-ascorbic acid,SLC2A1
-ascorbic acid,SLC2A3
-ascorbic acid,SLC2A4
-spermine,SLC22A4
-spermine,SLC22A1
-aspartic acid,SLC16A10
-l-glutamine,SLC38A1
-l-glutamine,SLC38A2
-l-glutamine,SLC38A3
-l-glutamine,SLC1A5
-l-glutamine,SLC6A14
-l-glutamine,SLC7A7
-l-glutamine,SLC7A6
-l-glutamine,SLC7A5
-l-glutamine,SLC7A8
-l-glutamine,SLC7A9
-l-glutamine,SLC16A10
-serine,SLC16A10
-methionine,SLC16A10
-tyrosine,SLC16A2
-tyrosine,SLC16A10
-cystine,SLC16A10
-succinic acid,SLC22A8
-riboflavin,SLC22A6
-glutamic acid,SLC16A10
-glutamic acid,SLC16A1
-glutathione,ABCC1
-glutathione,ABCC2
-glutathione,ABCC3
-glutathione,ABCC4
-glutathione,ABCC5
-glycine,SLC16A10
-glycine,SLC36A1
-glycine,SLC32A1
-glycine,SLC6A5
-glycine,SLC6A9
-creatine,SLC22A5
-leucine,SLC16A10
-leucine,SLC16A2
-tryptophan,SLC16A2
-tryptophan,SLC16A10
-cysteine,SLC16A10
-thiamine,SLC22A2
-thiamine,SLC22A1
-thiamine,SLC22A5
-thiamine,SLC19A2
-thiamine,SLC19A3
-citrulline,SLC22A6
-threonine,SLC16A10
-folic acid,ABCC11
-folic acid,ABCC3
-folic acid,SLC22A6
-folic acid,ABCC4
-folic acid,ABCG2
-folic acid,SLC46A1
-folic acid,SLC25A32
-alanine,SLC16A10
-valine,SLC16A10
-vitamin a,STRA6
-vitamin e,SCARB1
-vitamin e,ABCA1
-vitamin e,NPC1L1
-vitamin e,ABCG1
-pyridoxine,ALPL
-isoleucine,SLC16A10
-aspartame,SLC22A6
-aspartame,SLC22A8
-aspartame,SLC22A11
-proline,SLC16A10
-asparagine,SLC16A10
-pravastatin,SLCO1B1
-pravastatin,SLCO2B1
-pravastatin,ABCB1
-pravastatin,SLCO1A2
-pravastatin,SLC22A6
-pravastatin,SLC22A8
-pravastatin,ABCC2
-pravastatin,SLC22A11
-pravastatin,ABCG2
-pravastatin,SLC22A7
-pravastatin,SLC16A1
-pravastatin,ABCB11
-pravastatin,SLCO1B3
-fluvoxamine,ABCB1
-fluvoxamine,ABCB11
-valsartan,SLCO1B3
-valsartan,SLCO1B1
-valsartan,ABCC2
-ramipril,SLC15A1
-ramipril,SLC15A2
-amphetamine,SLC22A3
-amphetamine,SLC22A5
-nicotine,SLC22A2
-nicotine,SLC22A1
-nicotine,SLC22A3
-nicotine,SLC22A5
-nicotine,SLC22A4
-fluconazole,ABCB1
-troglitazone,ABCB11
-troglitazone,SLCO1B1
-oseltamivir,ABCC4
-oseltamivir,SLC15A1
-oseltamivir,SLC22A8
-erythromycin,SLCO1B3
-erythromycin,ABCB11
-erythromycin,ABCB1
-erythromycin,SLCO1B1
-erythromycin,ABCC2
-erythromycin,SLCO1A2
-caffeine,ABCG2
-sildenafil,ABCC4
-sildenafil,ABCC5
-sildenafil,ABCC10
-sildenafil,SLCO1B1
-sildenafil,ABCB1
-dofetilide,SLC22A2
-pyrimethamine,SLC47A1
-pyrimethamine,SLC47A2
-reserpine,ABCB1
-reserpine,SLC22A1
-reserpine,ABCB11
-reserpine,ABCC2
-reserpine,SLC22A2
-reserpine,SLCO1B1
-reserpine,SLCO2B1
-azithromycin,ABCB1
-azithromycin,ABCC2
-midodrine,SLC15A1
-pantoprazole,ABCB1
-pantoprazole,ABCG2
-pantoprazole,SLC22A8
-torasemide,SLCO1B1
-citalopram,ABCB1
-eletriptan,ABCB1
-nelfinavir,ABCB1
-nelfinavir,SLC22A1
-nelfinavir,SLCO1A2
-nelfinavir,ABCG2
-nelfinavir,SLCO1B1
-nelfinavir,SLCO1B3
-nelfinavir,SLCO2B1
-nelfinavir,ABCB11
-glimepiride,ABCB11
-indinavir,ABCB1
-indinavir,SLC22A1
-indinavir,ABCC1
-indinavir,SLCO1A2
-indinavir,SLCO1B1
-indinavir,ABCC2
-indinavir,SLCO2B1
-indinavir,ABCB11
-lovastatin,ABCB1
-lovastatin,SLCO1A2
-lovastatin,SLCO1B1
-lovastatin,ABCC2
-lovastatin,ABCB11
-lovastatin,SLCO2B1
-lovastatin,SLCO1B3
-cefotiam,SLC22A6
-cefotiam,SLC22A8
-pregabalin,SLC1A1
-pregabalin,SLC7A5
-reboxetine,ABCB1
-nevirapine,SLC22A1
-cladribine,ABCG2
-cladribine,SLC28A3
-ranolazine,ABCB11
-ranolazine,ABCB1
-ranolazine,SLC47A1
-ranolazine,SLC47A2
-ziprasidone,ABCB1
-cabergoline,ABCB1
-phenytoin,SLCO1C1
-phenytoin,ABCB1
-phenytoin,ABCC2
-medrysone,SLCO1A2
-medrysone,ABCB1
-medrysone,SLC22A8
-doxycycline,SLC22A6
-doxycycline,ABCB5
-diethylstilbestrol,ABCG2
-diethylstilbestrol,ABCB1
-diethylstilbestrol,SLCO1B1
-diethylstilbestrol,SLCO2B1
-diethylstilbestrol,ABCB11
-clotrimazole,ABCB1
-clotrimazole,ABCB11
-clotrimazole,SLCO1B1
-clotrimazole,SLCO1B3
-cycloserine,SLC36A2
-metoprolol,SLC22A2
-isradipine,ABCB11
-topiramate,ABCB1
-topiramate,PRKAA1
-topiramate,PRKAA2
-topiramate,PRKAB1
-topiramate,PRKAB2
-topiramate,PRKAG1
-topiramate,PRKAG2
-topiramate,PRKAG3
-cefmetazole,SLC15A1
-cefmetazole,SLC15A2
-olmesartan,ABCC2
-olmesartan,SLCO1B3
-olmesartan,SLCO1B1
-olmesartan,ABCB11
-amsacrine,ABCB1
-theophylline,SLC22A7
-liothyronine,SLCO1A2
-liothyronine,SLCO1B1
-liothyronine,SLCO1B3
-liothyronine,SLCO4C1
-liothyronine,SLC10A1
-liothyronine,SLCO1C1
-liothyronine,SLCO4A1
-liothyronine,SLC22A8
-liothyronine,SLC16A10
-liothyronine,ABCB1
-liothyronine,SLC7A5
-disopyramide,SLC22A1
-disopyramide,SLC22A2
-lidocaine,SLC22A5
-lidocaine,ABCB1
-venlafaxine,ABCB1
-venlafaxine,ABCG2
-conjugated estrogens,ABCC3
-conjugated estrogens,ABCC4
-conjugated estrogens,ABCC1
-conjugated estrogens,SLCO1A2
-conjugated estrogens,SLC10A1
-conjugated estrogens,SLC22A10
-conjugated estrogens,SLC22A8
-conjugated estrogens,SLCO1C1
-conjugated estrogens,SLCO1B1
-conjugated estrogens,SLCO2B1
-conjugated estrogens,ABCB1
-conjugated estrogens,SLC22A6
-conjugated estrogens,SLC51A
-conjugated estrogens,SLC51B
-conjugated estrogens,ABCC2
-conjugated estrogens,SLCO4A1
-conjugated estrogens,ABCC11
-conjugated estrogens,SLCO1B3
-conjugated estrogens,SLC22A11
-conjugated estrogens,SLCO3A1
-conjugated estrogens,ABCG2
-chlorambucil,SLCO1A2
-morphine,ABCB1
-tenofovir disoproxil,SLC22A6
-tenofovir disoproxil,SLC22A8
-tenofovir disoproxil,ABCC10
-tenofovir disoproxil,ABCC4
-tenofovir disoproxil,ABCC2
-tenofovir disoproxil,ABCB1
-flucloxacillin,ABCB11
-tranexamic acid,SLC15A2
-ethoxzolamide,SLC22A6
-valproic acid,SLC22A6
-valproic acid,SLC22A8
-valproic acid,SLC22A5
-valproic acid,SLC16A1
-valproic acid,SLC22A7
-valproic acid,SLCO2B1
-acetaminophen,ABCB1
-gefitinib,ABCB1
-gefitinib,ABCG2
-codeine,SLC22A1
-piperacillin,SLC22A6
-piperacillin,SLC22A8
-dihydroergotamine,ABCB1
-amitriptyline,ABCB1
-indomethacin,ABCC3
-indomethacin,ABCC4
-indomethacin,ABCC6
-indomethacin,ABCB1
-indomethacin,ABCC1
-indomethacin,SLCO1A2
-indomethacin,SLC22A6
-indomethacin,SLC22A8
-indomethacin,ABCC2
-indomethacin,ABCC11
-indomethacin,SLC22A11
-indomethacin,SLC10A1
-indomethacin,SLC22A7
-indomethacin,SLCO1B1
-indomethacin,ABCB11
-metformin,SLC22A1
-metformin,SLC22A2
-metformin,SLC22A3
-metformin,SLC47A1
-metformin,SLC29A4
-metformin,SLC47A2
-ipratropium,SLC22A5
-ipratropium,SLC22A4
-methadone,ABCB1
-olanzapine,ABCB1
-atenolol,ABCB11
-omeprazole,ABCG2
-omeprazole,ABCC3
-omeprazole,ABCB1
-cetirizine,ABCB1
-terfenadine,ABCB1
-terfenadine,ABCB11
-diltiazem,ABCB1
-protriptyline,ABCB1
-aminohippuric acid,SLC22A2
-aminohippuric acid,SLC22A5
-aminohippuric acid,SLC22A6
-aminohippuric acid,SLC22A8
-aminohippuric acid,ABCC2
-aminohippuric acid,SLC22A4
-aminohippuric acid,SLC22A11
-aminohippuric acid,SLCO3A1
-aminohippuric acid,SLCO1B1
-aminohippuric acid,ABCC1
-aminohippuric acid,SLCO1A2
-aminohippuric acid,SLC16A1
-aminohippuric acid,SLC22A7
-clobazam,SLC6A1
-clobazam,SLC6A11
-clobazam,ABCB1
-megestrol acetate,ABCB1
-tioguanine,ABCC4
-mefloquine,ABCB1
-clozapine,ABCB1
-grepafloxacin,ABCB1
-grepafloxacin,ABCC1
-grepafloxacin,SLC22A6
-grepafloxacin,SLC22A2
-grepafloxacin,SLC22A5
-grepafloxacin,ABCC2
-norepinephrine,SLC6A2
-norepinephrine,SLC22A2
-norepinephrine,SLC22A3
-norepinephrine,SLC22A5
-norepinephrine,SLC22A1
-norepinephrine,POU5F1
-cidofovir,SLC22A6
-mirtazapine,SLC6A4
-timolol,ABCB1
-amlodipine,ABCB1
-tacrine,ABCB1
-digoxin,ABCB1
-digoxin,SLCO4C1
-digoxin,ABCB11
-digoxin,SLCO1A2
-digoxin,SLC51A
-digoxin,SLC51B
-digoxin,SLCO1B1
-beclomethasone dipropionate,ABCB1
-beclomethasone dipropionate,ABCG2
-beclomethasone dipropionate,SLCO1B1
-beclomethasone dipropionate,SLCO1B3
-progesterone,ABCB1
-progesterone,SLC22A2
-progesterone,SLC22A1
-progesterone,SLC22A3
-progesterone,ABCB11
-progesterone,ABCC1
-progesterone,SLC10A1
-progesterone,SLCO1B1
-progesterone,ABCG2
-progesterone,SLCO1B3
-sorafenib,ABCG2
-sorafenib,ABCC4
-sorafenib,ABCC2
-sorafenib,ABCB1
-sorafenib,RALBP1
-sorafenib,SLCO1B1
-zoledronic acid,ABCC1
-nisoldipine,ABCB1
-gentian violet cation,SLC22A1
-rosiglitazone,SLCO1B1
-rosiglitazone,ABCB11
-pramipexole,SLC22A2
-pramipexole,SLC22A1
-pramipexole,SLC22A3
-ampicillin,SLC22A5
-ampicillin,SLC15A1
-ampicillin,SLC15A2
-ampicillin,SLC16A1
-spironolactone,ABCC2
-spironolactone,ABCB1
-spironolactone,SLCO1A2
-spironolactone,ABCB11
-streptozocin,ABCB1
-trifluridine,SLC22A6
-trifluridine,SLC28A1
-trifluridine,SLC29A1
-trifluridine,SLC29A2
-allopurinol,SLC22A8
-allopurinol,SLC22A7
-allopurinol,ABCG2
-allopurinol,SLC22A2
-ceftazidime,SLC22A5
-ceftazidime,SLC15A1
-ceftazidime,SLC15A2
-ceftazidime,SLC22A6
-cerivastatin,ABCB1
-cerivastatin,ABCC2
-cerivastatin,ABCG2
-cerivastatin,SLCO1B1
-cerivastatin,ABCB11
-trimethoprim,ABCB1
-trimethoprim,SLC47A1
-trimethoprim,SLC47A2
-gemcitabine,ABCB1
-gemcitabine,ABCC10
-gemcitabine,SLC29A1
-gemcitabine,SLC28A1
-gemcitabine,SLC29A2
-gemcitabine,SLC28A3
-betamethasone,ABCB1
-teniposide,ABCC6
-teniposide,ABCG2
-epirubicin,ABCC1
-chloramphenicol,SLC22A6
-loracarbef,SLC15A1
-loracarbef,SLC15A2
-lansoprazole,ABCG2
-lansoprazole,ABCB1
-lansoprazole,SLC22A8
-lansoprazole,SLC22A1
-lansoprazole,SLC22A2
-lansoprazole,SLC22A3
-levothyroxine,SLCO1C1
-levothyroxine,SLC16A2
-levothyroxine,ABCB1
-levothyroxine,SLCO1A2
-levothyroxine,SLCO1B1
-levothyroxine,SLCO1B3
-levothyroxine,SLCO4A1
-levothyroxine,SLCO4C1
-levothyroxine,SLC7A5
-levothyroxine,SLCO2B1
-meperidine,ABCB1
-loratadine,ABCB1
-loratadine,ABCB11
-cefalotin,SLC22A5
-cefalotin,SLC15A1
-cefalotin,SLC15A2
-cefalotin,SLC22A6
-cefalotin,SLC22A8
-cefalotin,SLC22A11
-cefalotin,SLC22A7
-prazosin,SLC22A1
-prazosin,SLC22A3
-prazosin,ABCB1
-prazosin,ABCG2
-imipramine,ABCB1
-imipramine,SLC22A2
-imipramine,SLC22A3
-imipramine,SLC22A4
-quinine,SLC22A2
-quinine,SLC22A1
-quinine,SLC22A5
-quinine,ABCB1
-quinine,SLCO1A2
-quinine,SLC22A4
-quinine,SLCO1B1
-tenoxicam,SLC22A8
-dronabinol,ABCB1
-dronabinol,ABCG2
-montelukast,SLCO2B1
-fluoxetine,ABCB1
-duloxetine,ABCB1
-chlorpromazine,ABCB1
-chlorpromazine,ABCB11
-lenalidomide,ABCB1
-raloxifene,SLCO1B1
-raloxifene,SLCO1B3
-raloxifene,ABCB1
-raloxifene,ABCG2
-raloxifene,ABCC2
-raloxifene,ABCC3
-raloxifene,ABCC4
-celecoxib,ABCC4
-celecoxib,ABCB11
-celecoxib,ABCB1
-celecoxib,ABCG2
-dicloxacillin,SLC15A1
-dicloxacillin,SLC15A2
-buspirone,ABCB1
-fosinopril,SLC15A1
-fosinopril,SLC15A2
-cefotaxime,SLC15A1
-cefotaxime,SLC15A2
-cefotaxime,SLC22A6
-cefotaxime,SLC22A8
-cefotaxime,SLC22A11
-cefotaxime,SLC22A7
-zidovudine,SLC22A2
-zidovudine,SLC22A6
-zidovudine,SLC22A7
-zidovudine,SLC22A8
-zidovudine,SLC22A11
-zidovudine,SLC28A1
-zidovudine,SLC29A2
-zidovudine,ABCB1
-zidovudine,ABCC4
-zidovudine,ABCC5
-zidovudine,ABCG2
-tolmetin,SLC22A6
-cimetidine,ABCB1
-cimetidine,SLC22A2
-cimetidine,SLC22A1
-cimetidine,SLC22A3
-cimetidine,SLC22A5
-cimetidine,SLC22A6
-cimetidine,SLC22A8
-cimetidine,SLC47A1
-cimetidine,SLC22A4
-cimetidine,SLC22A11
-cimetidine,SLC22A7
-cimetidine,ABCB11
-cimetidine,SLC47A2
-haloperidol,ABCB1
-ritonavir,ABCB1
-ritonavir,ABCC1
-ritonavir,SLCO1A2
-ritonavir,ABCC2
-ritonavir,ABCG2
-ritonavir,SLCO1B1
-ritonavir,SLCO2B1
-ritonavir,ABCB11
-ritonavir,SLCO1B3
-triflupromazine,ABCB1
-dextrothyroxine,SLCO1B1
-dextrothyroxine,SLCO1C1
-dextrothyroxine,SLCO4A1
-dextrothyroxine,SLCO4C1
-dextrothyroxine,SLC7A5
-cisplatin,ABCC3
-cisplatin,ABCC5
-cisplatin,ABCC2
-cisplatin,SLC22A2
-cisplatin,SLC31A1
-cisplatin,SLC31A2
-cisplatin,ABCC6
-cisplatin,ABCB1
-cisplatin,ATP7B
-cisplatin,ATP7A
-cisplatin,ABCG2
-albendazole,ABCB1
-trandolapril,SLC15A1
-trandolapril,SLC15A2
-caspofungin,SLC22A1
-caspofungin,ABCB1
-caspofungin,SLC22A6
-caspofungin,SLCO1B1
-caspofungin,SLCO1B3
-alitretinoin,ABCB1
-oxaliplatin,SLC22A2
-oxaliplatin,SLC31A1
-oxaliplatin,SLC22A3
-oxaliplatin,ABCG2
-oxaliplatin,ABCC2
-oxaliplatin,ATP7B
-oxaliplatin,ATP7A
-foscarnet,SLC22A6
-foscarnet,SLC16A1
-erlotinib,ABCG2
-erlotinib,ABCB1
-erlotinib,SLCO2B1
-rofecoxib,ABCC4
-cefdinir,SLC22A5
-cefdinir,SLC15A1
-cefdinir,SLC15A2
-cefdinir,SLC22A6
-cefdinir,SLC22A8
-guanidine,SLC22A2
-guanidine,SLC22A1
-guanidine,SLC22A3
-guanidine,SLC22A5
-guanidine,SLC22A8
-guanidine,SLC22A4
-guanidine,SLC47A1
-guanidine,SLC47A2
-ciprofloxacin,ABCB1
-ciprofloxacin,SLC47A1
-ciprofloxacin,SLC47A2
-toremifene,ABCB1
-nortriptyline,SLC6A2
-nortriptyline,ABCB1
-vincristine,ABCB1
-vincristine,ABCC3
-vincristine,SLC22A3
-vincristine,ABCC1
-vincristine,ABCC10
-vincristine,ABCC2
-vincristine,ABCB11
-vincristine,ABCG2
-vincristine,RALBP1
-vincristine,SLCO1B1
-vincristine,SLCO1B3
-benazepril,SLC15A1
-benazepril,SLC15A2
-fluorouracil,SLC22A7
-fluorouracil,SLC29A1
-fluorouracil,ABCG2
-fluorouracil,ABCC3
-fluorouracil,ABCC4
-fluorouracil,ABCC5
-zafirlukast,ABCG2
-piroxicam,SLC22A6
-piroxicam,SLC22A8
-piroxicam,SLC22A11
-piroxicam,SLCO2B1
-lamotrigine,ABCB1
-lamotrigine,SLC22A2
-lamotrigine,SLC22A1
-hydroxyzine,ABCB1
-bosentan,ABCB11
-methotrexate,ABCC3
-methotrexate,ABCC4
-methotrexate,ABCC1
-methotrexate,SLC22A6
-methotrexate,ABCC10
-methotrexate,SLC22A8
-methotrexate,ABCC2
-methotrexate,ABCB1
-methotrexate,SLCO1A2
-methotrexate,SLC16A1
-methotrexate,ABCC11
-methotrexate,SLCO1B3
-methotrexate,SLC22A11
-methotrexate,SLCO1C1
-methotrexate,SLCO3A1
-methotrexate,ABCG2
-methotrexate,SLC22A7
-methotrexate,SLC46A1
-methotrexate,SLCO1B1
-methotrexate,SLCO4C1
-methotrexate,SLC19A1
-methotrexate,FOLR1
-methotrexate,FOLR2
-methotrexate,SLC15A1
-methotrexate,SLC36A1
-carbamazepine,ABCB1
-carbamazepine,RALBP1
-carbamazepine,ABCC2
-cephalexin,SLC22A5
-cephalexin,SLC15A1
-cephalexin,SLC15A2
-cephalexin,SLC22A6
-cephalexin,SLC47A1
-cephalexin,SLC22A8
-vinblastine,ABCB1
-vinblastine,ABCC1
-vinblastine,ABCC2
-vinblastine,ABCC6
-vinblastine,ABCB11
-vinblastine,SLCO1B1
-propranolol,SLC22A2
-propranolol,ABCB1
-atropine,ABCB11
-clonidine,SLC22A3
-clonidine,SLC22A5
-clonidine,SLC22A4
-clonidine,ABCB1
-valaciclovir,SLC15A1
-valaciclovir,SLC15A2
-valaciclovir,SLC22A8
-valaciclovir,SLC22A6
-valaciclovir,SLC6A14
-valaciclovir,SLC10A2
-carbenicillin,SLC22A6
-levocarnitine,SLC22A4
-levocarnitine,SLCO1B1
-levocarnitine,SLC22A5
-levocarnitine,SLC22A16
-levocarnitine,SLC22A8
-enalapril,ABCB1
-enalapril,SLC15A1
-enalapril,SLC22A6
-enalapril,SLC22A8
-enalapril,SLC22A7
-enalapril,SLCO1A2
-nizatidine,ABCB1
-diclofenac,SLC22A6
-diclofenac,ABCC4
-diclofenac,ABCC1
-diclofenac,SLC22A8
-diclofenac,SLC22A11
-diclofenac,SLCO1C1
-diclofenac,SLCO1B1
-diclofenac,ABCB11
-diclofenac,SCN4A
-diclofenac,ASIC1
-diclofenac,KCNQ2
-diclofenac,KCNQ3
-diclofenac,ABCB1
-fluticasone propionate,ABCB1
-fluticasone propionate,SLCO1B1
-doxazosin,ABCB1
-doxazosin,SLC22A1
-amiloride,SLC22A2
-amiloride,SLC22A4
-oxytetracycline,SLC22A6
-oxytetracycline,SLC22A8
-oxytetracycline,SLC22A11
-oxytetracycline,SLC22A7
-labetalol,ABCB5
-ivermectin,ABCB1
-ivermectin,ABCC1
-ivermectin,ABCC2
-ivermectin,ABCG2
-ivermectin,SLCO1B1
-ivermectin,SLCO1B3
-medroxyprogesterone acetate,ABCB1
-sulindac,SLC22A6
-cyclothiazide,SLC22A6
-nafcillin,SLC22A6
-chloroquine,ABCB1
-bisoprolol,ABCB1
-amodiaquine,ABCB1
-rifabutin,ABCB1
-imatinib,SLC22A1
-imatinib,ABCB1
-imatinib,SLC22A2
-imatinib,ABCG2
-imatinib,ABCA3
-imatinib,ABCB11
-nicardipine,ABCB1
-nicardipine,SLCO1B1
-nicardipine,ABCB11
-fluphenazine,ABCB1
-testosterone,SLC22A8
-testosterone,SLC22A7
-testosterone,SLC10A1
-testosterone,ABCG2
-testosterone,SLCO1B3
-efavirenz,ABCB11
-efavirenz,SLC22A1
-bacitracin,BCRA
-bacitracin,BCRB
-bacitracin,BCRC
-niacin,SLC22A5
-niacin,SLCO2B1
-niacin,SLC16A1
-niacin,SLC5A8
-niacin,SLC16A3
-clofarabine,ABCG2
-prednisone,ABCB1
-prednisone,SLCO1A2
-astemizole,ABCB1
-astemizole,ABCB11
-adenosine,SLC28A3
-simvastatin,ABCB1
-simvastatin,SLCO1A2
-simvastatin,SLCO1B1
-simvastatin,ABCC2
-simvastatin,ABCB11
-simvastatin,SLCO2B1
-simvastatin,SLCO1B3
-pemetrexed,SLC22A8
-nystatin,SLCO1B1
-nystatin,SLCO1B3
-mitotane,ABCB1
-stavudine,SLC22A6
-stavudine,SLC28A1
-leucovorin,SLC22A8
-pentazocine,ABCB1
-latanoprost,SLCO2A1
-latanoprost,SLC22A6
-latanoprost,SLC22A8
-estrone,SLCO2B1
-estrone,ABCB1
-estrone,SLCO1A2
-estrone,ABCG2
-estrone,SLCO1B1
-estrone,SLC22A8
-trazodone,ABCB1
-acamprosate,SLC36A1
-verapamil,ABCB1
-verapamil,SLC22A1
-verapamil,SLC22A4
-verapamil,SLC22A5
-verapamil,ABCC3
-verapamil,SLCO1B1
-verapamil,SLCO1A2
-verapamil,ABCC1
-verapamil,ABCC4
-verapamil,ABCC10
-verapamil,SLC47A1
-verapamil,SLC47A2
-epinephrine,SLC22A2
-epinephrine,SLC22A1
-sumatriptan,SLCO1A2
-sumatriptan,ABCB1
-sumatriptan,ABCG2
-sumatriptan,SLCO1B1
-cefixime,SLC22A5
-cefixime,SLC15A1
-cefixime,SLC15A2
-chlorpropamide,SLC15A1
-chlorpropamide,SLC15A2
-chlorpropamide,SLC22A6
-tamoxifen,ABCB1
-tamoxifen,ABCG2
-tamoxifen,ABCC2
-tamoxifen,ABCB11
-tamoxifen,ABCA1
-losartan,ABCB1
-losartan,SLC22A6
-losartan,SLC22A12
-losartan,SLC2A9
-losartan,ABCB11
-mycophenolate mofetil,SLCO1B1
-mycophenolate mofetil,SLCO1B3
-mycophenolate mofetil,ABCG2
-mycophenolate mofetil,ABCB1
-mycophenolate mofetil,ABCC2
-cephaloglycin,SLC22A5
-flurazepam,ABCB1
-flurazepam,SLC22A2
-moexipril,SLC15A1
-moexipril,SLC15A2
-fluorescein,SLC22A6
-fluorescein,ABCB11
-fluorescein,ABCC1
-daunorubicin,ABCB1
-daunorubicin,ABCC1
-daunorubicin,ABCC10
-daunorubicin,ABCC2
-daunorubicin,ABCC6
-daunorubicin,ABCB11
-daunorubicin,ABCG2
-furosemide,SLC22A6
-furosemide,SLC22A5
-furosemide,SLC22A8
-furosemide,ABCC2
-furosemide,SLCO2A1
-furosemide,SLC22A11
-ergotamine,ABCB1
-nitrofurantoin,ABCG2
-nitrofurantoin,ABCB11
-nitrofurantoin,ABCB1
-nitrofurantoin,ABCC2
-amprenavir,ABCB1
-amprenavir,ABCC1
-amprenavir,SLCO1B1
-methazolamide,SLC22A6
-lamivudine,ABCC1
-lamivudine,SLC22A6
-lamivudine,ABCG2
-lamivudine,SLC22A1
-lamivudine,SLC22A2
-lamivudine,SLC22A3
-lamivudine,ABCB1
-lamivudine,ABCC4
-lamivudine,ABCC3
-lamivudine,ABCC2
-flurbiprofen,ABCC4
-flurbiprofen,SLC22A6
-oxacillin,SLC15A1
-oxacillin,SLC15A2
-paroxetine,ABCB1
-norethisterone,ABCB1
-adefovir dipivoxil,SLC22A6
-adefovir dipivoxil,ABCC4
-adefovir dipivoxil,ABCC5
-adefovir dipivoxil,SLC22A3
-procaine,SLC6A3
-procaine,SLC6A2
-procaine,SLC6A4
-lisinopril,SLC15A1
-lisinopril,SLC15A2
-trimipramine,ABCB1
-rocuronium,SLC22A1
-rocuronium,SLCO1A2
-nateglinide,ABCC4
-nateglinide,SLC16A1
-nateglinide,SLC15A1
-nateglinide,SLC15A2
-nateglinide,SLC22A6
-risperidone,ABCB1
-esomeprazole,ABCB1
-esomeprazole,SLC22A8
-riluzole,ABCG2
-hydrocortisone,ABCB1
-hydrocortisone,SLCO1A2
-hydrocortisone,SLC22A8
-scopolamine,ABCB1
-etodolac,SLC22A6
-epinastine,ABCB1
-tretinoin,CRABP1
-tretinoin,CRABP2
-clopidogrel,ABCB1
-clopidogrel,SLC22A1
-clopidogrel,SLC22A2
-tetracycline,SLC22A6
-tetracycline,SLC22A8
-tetracycline,SLC22A11
-tetracycline,SLC22A7
-tetracycline,SLCO2B1
-potassium chloride,SLC12A2
-potassium chloride,SLC12A1
-potassium chloride,SLC12A5
-potassium chloride,SLC12A6
-potassium chloride,SLC12A7
-potassium chloride,SLC12A4
-irinotecan,SLC22A3
-irinotecan,SLCO1B1
-irinotecan,ABCC1
-irinotecan,ABCG2
-irinotecan,ABCB1
-irinotecan,ABCC2
-clavulanic acid,SLC5A1
-olopatadine,ABCB1
-alprostadil,ABCC5
-alprostadil,SLCO2B1
-alprostadil,SLCO3A1
-alprostadil,ABCC4
-alprostadil,SLCO2A1
-alprostadil,SLC22A6
-etoposide,ABCC3
-etoposide,ABCC6
-etoposide,ABCB1
-etoposide,ABCC1
-etoposide,ABCC10
-etoposide,ABCC2
-etoposide,ABCG2
-hydroflumethiazide,SLC22A6
-hydroflumethiazide,SLC22A8
-oxcarbazepine,ABCB1
-nalidixic acid,SLC22A6
-estradiol,SLC22A2
-estradiol,SLC22A3
-estradiol,ABCC10
-estradiol,SLC22A11
-estradiol,ABCG2
-estradiol,SLCO1B1
-estradiol,ABCB1
-estradiol,SLC22A8
-estradiol,SLCO1B3
-estradiol,SLCO1C1
-acyclovir,SLC22A1
-acyclovir,SLC22A6
-acyclovir,SLC22A8
-acyclovir,SLC10A2
-acyclovir,SLC47A1
-acyclovir,SLC47A2
-naproxen,SLCO1A2
-naproxen,SLC22A6
-naproxen,ABCB11
-naproxen,ABCB1
-naproxen,SLC22A8
-perindopril,SLC15A1
-perindopril,SLC15A2
-primidone,TRPM3
-sulfasalazine,ABCG2
-sulfasalazine,ABCC2
-sulfasalazine,SLC46A1
-sulfasalazine,SLCO1B1
-sulfasalazine,SLCO1B3
-sulfasalazine,SLCO2B1
-candesartan cilexetil,ABCB1
-gentamicin,SLC22A6
-alfentanil,ABCB1
-ribavirin,SLC29A1
-ribavirin,SLC28A3
-phenylbutazone,SLC22A6
-phenylbutazone,SLC22A8
-phenylbutazone,SLC22A11
-fentanyl,ABCB1
-meloxicam,ABCC4
-propofol,ABCB1
-acetazolamide,SLC22A6
-carprofen,SLC22A6
-disulfiram,ABCB11
-cinoxacin,SLC22A6
-diazepam,ABCB1
-trifluoperazine,ABCB1
-cefaclor,SLC15A1
-cefaclor,SLC15A2
-cefaclor,SLC22A8
-cefaclor,ABCB11
-mifepristone,ABCB1
-mifepristone,ABCC1
-mifepristone,ABCB11
-mifepristone,SLCO1B1
-mifepristone,SLCO1B3
-loperamide,ABCB1
-donepezil,ABCG2
-clofazimine,ABCB11
-clofazimine,ABCB1
-pseudoephedrine,SLC6A2
-pseudoephedrine,SLC6A3
-pseudoephedrine,SLC6A4
-aminolevulinic acid,SLC15A1
-aminolevulinic acid,SLC15A2
-terbinafine,MDR2
-penicillamine,SLCO1B1
-prednisolone,SLCO1A2
-prednisolone,ABCB1
-diflunisal,SLC22A6
-vardenafil,ABCB1
-ranitidine,SLC22A1
-ranitidine,ABCB1
-ranitidine,SLC22A8
-ranitidine,SLC22A2
-tacrolimus,ABCB1
-tacrolimus,ABCA5
-tacrolimus,SLCO1B1
-suprofen,SLC22A12
-conivaptan,ABCB1
-flupentixol,ABCB1
-eprosartan,ABCC2
-sirolimus,ABCB1
-sirolimus,SLCO1B1
-sirolimus,SLC47A1
-emtricitabine,SLC47A1
-chlorothiazide,SLC22A6
-quinapril,SLC15A1
-quinapril,SLC15A2
-quinapril,SLC22A8
-clomifene,ABCB1
-bumetanide,SLC10A1
-bumetanide,SLC22A6
-bumetanide,SLC22A8
-bumetanide,SLC22A11
-bumetanide,SLC22A7
-bumetanide,SLCO1A2
-didanosine,SLC22A6
-didanosine,SLC29A1
-didanosine,SLC29A2
-etacrynic acid,SLC22A6
-cocaine,SLC22A2
-cocaine,SLC6A3
-quinidine,SLC22A2
-quinidine,SLC22A1
-quinidine,SLC22A5
-quinidine,ABCB1
-quinidine,SLCO1A2
-quinidine,SLC22A8
-quinidine,ABCC2
-quinidine,SLC22A4
-quinidine,SLCO1B1
-quinidine,ABCB11
-zonisamide,ABCB1
-tinidazole,ABCB11
-repaglinide,SLCO1B1
-repaglinide,ABCB11
-phenformin,SLC22A2
-phenformin,SLC22A1
-amantadine,SLC22A2
-amantadine,SLC22A1
-metronidazole,ABCB1
-dinoprostone,SLC22A2
-dinoprostone,ABCC5
-dinoprostone,SLC22A6
-dinoprostone,SLC22A8
-dinoprostone,SLC22A11
-dinoprostone,SLC22A7
-dinoprostone,ABCC4
-dinoprostone,SLCO2B1
-dinoprostone,SLCO1A2
-dinoprostone,SLC51A
-dinoprostone,SLC51B
-dinoprostone,SLCO2A1
-dinoprostone,SLCO4A1
-dinoprostone,SLCO1C1
-dinoprostone,SLCO3A1
-dinoprostone,SLCO1B1
-buprenorphine,ABCB1
-buprenorphine,ABCG2
-phenoxybenzamine,SLC22A2
-phenoxybenzamine,SLC22A1
-phenoxybenzamine,SLC22A3
-famotidine,SLC22A6
-famotidine,SLC22A8
-famotidine,SLC22A2
-famotidine,SLC47A1
-tipranavir,ABCB11
-tipranavir,SLCO2B1
-tipranavir,SLCO1B1
-tipranavir,SLCO1B3
-tipranavir,ABCB1
-salicylic acid,SLC22A6
-salicylic acid,SLC22A10
-salicylic acid,SLC22A8
-salicylic acid,SLC22A11
-salicylic acid,SLCO2B1
-salicylic acid,SLC16A1
-salicylic acid,SLC22A7
-salmeterol,SLC22A1
-salmeterol,SLC22A3
-salmeterol,SLC22A2
-meclofenamic acid,SLC22A6
-meclofenamic acid,SLCO1C1
-zalcitabine,SLC22A6
-zalcitabine,SLC22A7
-zalcitabine,SLC29A1
-zalcitabine,SLC29A2
-acetylsalicylic acid,SLC22A6
-acetylsalicylic acid,ABCB1
-acetylsalicylic acid,SLC22A8
-fexofenadine,ABCB1
-fexofenadine,SLCO1B1
-fexofenadine,SLCO1B3
-fexofenadine,SLCO2B1
-fexofenadine,SLCO1A2
-fexofenadine,ABCC2
-fexofenadine,ABCC3
-fexofenadine,SLC22A8
-norgestimate,ABCC2
-norgestimate,ABCB1
-carboplatin,SLC31A1
-carboplatin,SLC31A2
-carboplatin,ATP7A
-carboplatin,ATP7B
-carboplatin,ABCG2
-carboplatin,ABCC2
-methylprednisolone,ABCB1
-telmisartan,ABCB1
-telmisartan,ABCC2
-telmisartan,ABCG2
-telmisartan,ABCB11
-desloratadine,ABCB1
-methyldopa,SLC15A1
-dactinomycin,SLC22A5
-dactinomycin,ABCB1
-dactinomycin,ABCC6
-dactinomycin,ABCC1
-dactinomycin,ABCG2
-azelastine,ABCB1
-ezetimibe,ABCB1
-ezetimibe,ABCC2
-ezetimibe,ABCC3
-ezetimibe,SLCO1B1
-ezetimibe,ABCG2
-ezetimibe,ABCB11
-dipyridamole,ABCC4
-dipyridamole,ABCC5
-dipyridamole,ABCB1
-dipyridamole,SLCO1B1
-dipyridamole,SLCO1B3
-dipyridamole,SLCO2B1
-dipyridamole,ABCB11
-telithromycin,SLCO1B1
-telithromycin,SLCO1B3
-ethinylestradiol,ABCB11
-ethinylestradiol,SLC10A1
-ethinylestradiol,ABCC2
-ethinylestradiol,ABCB1
-ethinylestradiol,SLCO1A2
-lomefloxacin,SLC22A5
-lomefloxacin,ABCC2
-formoterol,SLC22A1
-formoterol,SLC22A3
-formoterol,SLC22A4
-formoterol,SLC22A5
-cytarabine,SLC22A4
-cytarabine,ABCC10
-cytarabine,SLC29A1
-dopamine,SLC22A2
-dopamine,SLC22A1
-dopamine,SLC22A3
-dopamine,SLC22A5
-dopamine,POU5F1
-azathioprine,SLC29A2
-azathioprine,SLC28A3
-azathioprine,ABCB1
-azathioprine,SLC43A3
-gabapentin,SLC7A5
-doxorubicin,ABCB1
-doxorubicin,ABCC1
-doxorubicin,ABCC3
-doxorubicin,ABCC6
-doxorubicin,ABCG2
-doxorubicin,SLC22A16
-doxorubicin,ABCC10
-doxorubicin,ABCB8
-doxorubicin,ABCB11
-doxorubicin,RALBP1
-doxorubicin,ABCC2
-hydrochlorothiazide,SLC22A6
-hydrochlorothiazide,SLC22A8
-hydrochlorothiazide,SLC22A11
-hydrochlorothiazide,ABCC4
-cyclacillin,SLC22A5
-cyclacillin,SLC15A1
-cyclacillin,SLC15A2
-ganciclovir,SLC22A1
-ganciclovir,SLC22A6
-ganciclovir,SLC22A8
-ganciclovir,SLC22A7
-ganciclovir,SLC47A1
-ganciclovir,SLC47A2
-letrozole,ABCB1
-ketoprofen,ABCC4
-ketoprofen,SLCO1A2
-ketoprofen,SLC22A6
-ketoprofen,SLC22A8
-ketoprofen,SLC22A11
-ketoprofen,SLC22A7
-metyrapone,ABCC3
-sulfamethoxazole,ABCB11
-glyburide,ABCC3
-glyburide,ABCB11
-glyburide,ABCB1
-glyburide,ABCC1
-glyburide,SLC15A1
-glyburide,SLCO1A2
-glyburide,SLC15A2
-glyburide,SLC22A6
-glyburide,ABCC2
-glyburide,ABCG2
-glyburide,SLC22A7
-glyburide,SLCO2B1
-minocycline,OMPF
-minocycline,OMPC
-minocycline,SLC22A6
-minocycline,SLC22A7
-guanfacine,SLC47A1
-guanfacine,SLC22A1
-guanfacine,SLC22A2
-felodipine,ABCB1
-felodipine,ABCB11
-ketoconazole,ABCB1
-ketoconazole,SLCO1B1
-ketoconazole,ABCB11
-topotecan,ABCG2
-topotecan,ABCB1
-topotecan,SLC47A1
-topotecan,SLC47A2
-probenecid,SLC22A2
-probenecid,SLC22A1
-probenecid,ABCC3
-probenecid,ABCC4
-probenecid,ABCC5
-probenecid,SLC16A7
-probenecid,SLC22A5
-probenecid,ABCC6
-probenecid,ABCC1
-probenecid,SLCO1A2
-probenecid,SLC16A1
-probenecid,SLC10A1
-probenecid,SLC22A6
-probenecid,SLC22A10
-probenecid,SLC22A8
-probenecid,ABCC2
-probenecid,ABCC11
-probenecid,SLC22A11
-probenecid,SLCO1C1
-probenecid,SLC22A7
-probenecid,SLC22A12
-probenecid,SLC2A9
-mercaptopurine,SLC22A8
-mercaptopurine,ABCC4
-mercaptopurine,ABCC5
-mercaptopurine,SLC28A2
-mercaptopurine,SLC28A3
-mercaptopurine,SLC29A1
-mercaptopurine,SLC29A2
-procainamide,SLC22A2
-procainamide,SLC22A1
-procainamide,SLC22A3
-procainamide,SLC22A5
-procainamide,SLC22A4
-procainamide,SLC47A1
-procainamide,SLC47A2
-selegiline,ABCB1
-fenofibrate,ABCB11
-melphalan,SLC22A3
-melphalan,SLC7A5
-memantine,SLC22A2
-memantine,SLC9A1
-memantine,SLC22A4
-memantine,SLC47A1
-rifampicin,ABCB1
-rifampicin,SLCO1B3
-rifampicin,ABCC1
-rifampicin,SLC22A7
-rifampicin,SLCO1B1
-rifampicin,ABCC3
-rifampicin,ABCC5
-rifampicin,SLCO2B1
-rifampicin,SLCO1A2
-rifampicin,ABCB11
-rifampicin,ABCC2
-rifampicin,SLC22A6
-rifampicin,SLC22A8
-ibuprofen,SLCO2B1
-ibuprofen,ABCB1
-ibuprofen,ABCC4
-ibuprofen,ABCC1
-ibuprofen,SLCO1A2
-ibuprofen,SLC22A6
-ibuprofen,SLC22A8
-ibuprofen,SLC22A11
-novobiocin,SLC22A6
-novobiocin,SLC22A8
-novobiocin,SLC22A11
-novobiocin,ABCG2
-novobiocin,SLCO1B1
-novobiocin,SLCO1B3
-novobiocin,SLCO2B1
-benzylpenicillin,SLC22A5
-benzylpenicillin,SLC15A1
-benzylpenicillin,SLC15A2
-benzylpenicillin,SLC22A6
-benzylpenicillin,SLC22A8
-benzylpenicillin,SLC22A4
-benzylpenicillin,SLC22A11
-benzylpenicillin,SLCO2B1
-benzylpenicillin,SLCO4A1
-benzylpenicillin,SLCO3A1
-benzylpenicillin,SLCO1B1
-nitrendipine,ABCB1
-nitrendipine,ABCB11
-norfloxacin,SLC22A5
-norfloxacin,SLC22A6
-amoxicillin,SLC15A1
-amoxicillin,SLC15A2
-amoxicillin,SLC22A6
-melatonin,SLC22A8
-glipizide,ABCB11
-promethazine,ABCB1
-promethazine,ABCC3
-promethazine,ABCC4
-atazanavir,ABCB1
-atazanavir,ABCC1
-atazanavir,SLCO1B1
-atazanavir,SLCO1B3
-atazanavir,ABCB11
-atazanavir,SLCO2B1
-fludarabine,SLC29A1
-fludarabine,SLC28A3
-diphenhydramine,SLC22A2
-diphenhydramine,SLC22A5
-atorvastatin,ABCB1
-atorvastatin,SLCO1A2
-atorvastatin,SLCO1B1
-atorvastatin,ABCC4
-atorvastatin,ABCC5
-atorvastatin,ABCC1
-atorvastatin,SLCO2B1
-atorvastatin,SLCO1B3
-atorvastatin,ABCC2
-atorvastatin,ABCB11
-tegaserod,SLC6A4
-tegaserod,ABCG2
-tegaserod,ABCB1
-vigabatrin,SLC36A1
-streptomycin,SLC22A6
-benzocaine,ABCB1
-primaquine,ABCB1
-iloprost,SLCO2B1
-iloprost,SLCO2A1
-iloprost,SLCO3A1
-ouabain,SLCO1A2
-ouabain,SLC22A8
-ouabain,SLCO4C1
-ouabain,SLCO1B3
-ouabain,SLCO1C1
-ouabain,SLCO1B1
-hesperetin,ABCG2
-fluvastatin,SLCO1B1
-fluvastatin,SLCO1B3
-fluvastatin,SLCO2B1
-fluvastatin,SLC15A1
-fluvastatin,ABCC2
-leflunomide,ABCG2
-rosuvastatin,ABCC4
-rosuvastatin,SLCO1A2
-rosuvastatin,SLCO1B1
-rosuvastatin,SLCO1B3
-rosuvastatin,SLCO2B1
-rosuvastatin,SLC7A11
-rosuvastatin,ABCB11
-rosuvastatin,ABCG2
-rosuvastatin,ABCC2
-rosuvastatin,SLC22A8
-rosuvastatin,SLC10A1
-pimozide,ABCB1
-quinacrine,SLC22A2
-quinacrine,ABCB1
-sertraline,ABCB1
-miconazole,ABCB1
-cefuroxime,SLC15A1
-cefuroxime,SLC15A2
-chlorpheniramine,SLC22A2
-chlorpheniramine,SLC22A1
-nifedipine,ABCC3
-nifedipine,ABCB1
-nifedipine,ABCC2
-nifedipine,SLCO1B1
-nifedipine,ABCB11
-atovaquone,ABCB1
-amiodarone,ABCB1
-amiodarone,ABCB11
-amiodarone,SLC22A2
-tolbutamide,SLC15A1
-tolbutamide,SLCO1A2
-tolbutamide,SLC22A6
-tolbutamide,SLC15A2
-tolbutamide,SLCO2B1
-dutasteride,SLC6A3
-dutasteride,SLC18A2
-bicalutamide,ABCB1
-rabeprazole,ABCG2
-pioglitazone,SLCO1B3
-pioglitazone,SLCO1B1
-carvedilol,ABCB1
-levofloxacin,ABCB1
-levofloxacin,SLC47A1
-levofloxacin,SLC47A2
-levofloxacin,SLC22A1
-levofloxacin,SLC22A2
-levofloxacin,SLC22A4
-levofloxacin,SLCO1A2
-levofloxacin,SLCO4C1
-sulfinpyrazone,ABCC3
-sulfinpyrazone,ABCC4
-sulfinpyrazone,ABCC5
-sulfinpyrazone,ABCC6
-sulfinpyrazone,ABCC1
-sulfinpyrazone,ABCC2
-sulfinpyrazone,ABCB11
-cefadroxil,SLC15A1
-cefadroxil,SLC22A5
-cefadroxil,SLC22A6
-cefadroxil,SLC15A2
-cefadroxil,SLC22A8
-doxepin,ABCB1
-cloxacillin,SLC15A1
-cloxacillin,SLC15A2
-cloxacillin,SLC22A6
-nefazodone,ABCB1
-nefazodone,SLCO1B3
-nefazodone,SLCO2B1
-nefazodone,ABCB11
-desipramine,ABCB1
-desipramine,SLC22A1
-desipramine,SLC22A3
-desipramine,SLC22A2
-desipramine,SLC22A5
-desipramine,SLC22A4
-bupropion,SLC22A2
-trimetrexate,SLC19A1
-dinoprost tromethamine,SLC22A2
-dinoprost tromethamine,SLC22A6
-dinoprost tromethamine,SLC22A7
-dinoprost tromethamine,SLC22A8
-dinoprost tromethamine,SLC22A11
-dinoprost tromethamine,SLCO2A1
-dinoprost tromethamine,SLCO3A1
-terazosin,ABCB1
-ofloxacin,SLC22A5
-ofloxacin,ABCC1
-ofloxacin,SLC22A6
-ofloxacin,ABCC2
-ofloxacin,SLC22A4
-ofloxacin,ABCB11
-itraconazole,ABCB1
-itraconazole,SLCO2B1
-arsenic trioxide,ABCC2
-arsenic trioxide,ABCB1
-phenobarbital,ABCB1
-phenobarbital,ABCC3
-phenobarbital,ABCB11
-phenobarbital,ABCC1
-phenobarbital,SLCO2A1
-phenobarbital,ABCC2
-escitalopram,ABCB1
-idarubicin,ABCC1
-propafenone,ABCB1
-naloxone,SLCO1A2
-naloxone,ABCB1
-domperidone,ABCB1
-clindamycin,ABCB1
-acebutolol,ABCB1
-flecainide,ABCB1
-flecainide,SLC47A1
-estramustine,ABCB1
-captopril,ABCB1
-captopril,SLC15A1
-captopril,SLC22A6
-tubocurarine,SLC22A1
-tubocurarine,SLC22A2
-bromocriptine,ABCB1
-levetiracetam,ABCB1
-nadolol,ABCB1
-nadolol,POU2F1
-nadolol,POU2F2
-nadolol,SLC47A1
-nadolol,SLC47A2
-mitoxantrone,ABCB1
-mitoxantrone,ABCC1
-mitoxantrone,ABCG2
-sparfloxacin,SLC22A5
-sparfloxacin,ABCC2
-sparfloxacin,ABCB1
-clarithromycin,SLC22A7
-clarithromycin,ABCB1
-clarithromycin,ABCB11
-clarithromycin,SLCO1B1
-clarithromycin,SLCO1B3
-ceftriaxone,SLC15A1
-ceftriaxone,SLC15A2
-ceftriaxone,SLC22A6
-ceftriaxone,SLC22A8
-ceftriaxone,SLC22A11
-ceftriaxone,ABCB1
-finasteride,SLC12A5
-anastrozole,ABCB1
-budesonide,ABCB11
-budesonide,ABCB1
-budesonide,SLCO1A2
-budesonide,SLC22A8
-quetiapine,ABCB1
-paclitaxel,ABCB11
-paclitaxel,ABCB1
-paclitaxel,ABCC1
-paclitaxel,ABCC10
-paclitaxel,SLCO1B3
-paclitaxel,ABCC2
-saquinavir,ABCB1
-saquinavir,SLC22A1
-saquinavir,SLCO1A2
-saquinavir,ABCG2
-saquinavir,SLCO1B1
-saquinavir,ABCC1
-saquinavir,ABCC2
-saquinavir,SLCO2B1
-saquinavir,ABCB11
-metoclopramide,ABCB1
-dexamethasone,ABCB1
-dexamethasone,SLC22A8
-dexamethasone,ABCB11
-dexamethasone,ABCC2
-dexamethasone,ABCG2
-dexamethasone,SLCO1A2
-levodopa,SLC15A1
-levodopa,SLC16A10
-levodopa,SLC7A5
-levodopa,SLC7A8
-bromodiphenhydramine,SLC22A6
-chlorprothixene,ABCB1
-clomipramine,ABCB1
-bepridil,ABCB1
-docetaxel,ABCB1
-docetaxel,ABCC10
-docetaxel,SLCO1B3
-docetaxel,SLC22A7
-docetaxel,ABCG2
-docetaxel,ABCC2
-docetaxel,ABCC1
-ergometrine,ABCB1
-dasatinib,ABCB1
-dasatinib,ABCG2
-lisdexamfetamine,SLC15A1
-lapatinib,ABCB1
-lapatinib,TAP1
-sitagliptin,ABCB1
-sitagliptin,SLC22A8
-posaconazole,ABCB1
-darunavir,SLCO1B1
-darunavir,ABCB1
-paliperidone,ABCB1
-sunitinib,ABCC4
-sunitinib,ABCB1
-sunitinib,ABCC2
-sunitinib,ABCG2
-varenicline,SLC22A2
-oxtriphylline,SLC22A7
-st. john's wort,ABCB1
-polythiazide,SLC22A6
-polythiazide,SLC22A8
-cefamandole,SLC22A6
-cefamandole,SLC22A8
-cefamandole,SLC22A11
-cefamandole,SLC22A7
-cefazolin,ABCC4
-cefazolin,SLC22A6
-cefazolin,SLC22A8
-cefazolin,SLC22A11
-cefoperazone,SLC22A6
-cefoperazone,SLC22A8
-cefoperazone,SLC22A11
-cefoperazone,SLC22A7
-ceftizoxime,SLC15A1
-ceftizoxime,SLC22A6
-ceftizoxime,SLC22A8
-cefradine,SLC22A5
-cefradine,SLC15A1
-cefradine,SLC15A2
-cefradine,SLC22A6
-cefradine,SLC47A1
-pancuronium,SLC22A1
-pancuronium,SLC22A2
-vecuronium,ABCB1
-cilazapril,ABCB1
-cilazapril,SLC15A1
-cilazapril,SLC15A2
-spirapril,SLC15A1
-spirapril,SLC15A2
-mibefradil,ABCB1
-sodium bicarbonate,SLC4A4
-sodium bicarbonate,SLC4A7
-sodium bicarbonate,SLC4A8
-sodium bicarbonate,SLC4A5
-sodium bicarbonate,SLC4A10
-bezafibrate,SLCO1B1
-colchicine,ABCB1
-digitoxin,SLCO1A2
-digitoxin,SLCO4C1
-digitoxin,ABCB1
-tiotropium,SLC22A5
-tiotropium,SLC22A4
-pranlukast,ABCC2
-cefepime,SLC22A5
-cefepime,SLC15A1
-cefepime,SLC15A2
-cefacetrile,SLC22A6
-cefacetrile,SLC22A8
-ceftibuten,SLC15A1
-ceftibuten,SLC15A2
-ceftibuten,SLC22A6
-ceftibuten,SLC22A8
-acenocoumarol,ABCB1
-testosterone propionate,ABCB1
-aminophenazone,SLC22A6
-antipyrine,SLC22A6
-gamma-hydroxybutyric acid,SLC16A7
-gamma-hydroxybutyric acid,SLC16A1
-gamma-hydroxybutyric acid,SLC16A3
-midomafetamine,SLC6A2
-midomafetamine,SLC6A3
-midomafetamine,SLC6A4
-dextroamphetamine,SLC6A3
-metamfetamine,SLC22A3
-metamfetamine,SLC22A5
-oxprenolol,SLC22A2
-liotrix,SLCO1A2
-liotrix,SLCO1B1
-liotrix,SLCO1B3
-liotrix,SLCO4C1
-liotrix,SLC10A1
-liotrix,SLCO1C1
-liotrix,SLCO4A1
-liotrix,SLC22A8
-liotrix,SLC16A2
-liotrix,SLC16A10
-liotrix,ABCB1
-ursodeoxycholic acid,ABCB11
-ursodeoxycholic acid,SLCO1A2
-ursodeoxycholic acid,ABCC2
-ursodeoxycholic acid,ABCC4
-ursodeoxycholic acid,SLC10A2
-ursodeoxycholic acid,SLC10A1
-ketazolam,ABCB1
-everolimus,SLCO1B1
-everolimus,SLCO1B3
-everolimus,SLCO1A2
-everolimus,ABCB1
-cilastatin,SLC22A6
-cilastatin,SLC22A8
-lopinavir,ABCB1
-lopinavir,SLCO1B1
-lopinavir,SLCO1B3
-lopinavir,ABCB11
-tazobactam,SLC22A6
-tazobactam,SLC22A8
-valganciclovir,SLC15A1
-valganciclovir,SLC15A2
-valganciclovir,SLC6A14
-hydroxychloroquine,ABCB1
-hydroxychloroquine,SLCO1A2
-pipotiazine,SLC22A1
-thiothixene,SLC22A1
-genistein,ABCB1
-genistein,ABCC1
-genistein,ABCG2
-genistein,SLCO1B1
-genistein,SLCO2B1
-trans-2-hydroxycinnamic acid,SLC22A8
-topiroxostat,ABCG2
-topiroxostat,SLC22A8
-topiroxostat,SLC22A6
-prasterone,SLCO1B3
-prasterone,SLCO2B1
-prasterone,SLCO1B1
-prasterone,SLCO1A2
-prasterone,ABCC1
-prasterone,ABCG2
-prasterone,ABCC4
-d-leucine,SLC16A10
-d-leucine,SLC7A5
-acetoacetic acid,SLC16A7
-acetoacetic acid,SLC16A1
-acetoacetic acid,SLC16A3
-acetoacetic acid,SLC5A8
-d-alanine,SLC16A10
-phosphoenolpyruvate,SLCO2A1
-hyperforin,ABCC2
-hyperforin,SLCO1B1
-d-glucose,SLC2A1
-d-glucose,SLC2A2
-d-glucose,SLC2A3
-d-glucose,SLC2A4
-d-glucose,SLC2A5
-d-glucose,SLC2A6
-d-glucose,SLC2A7
-d-glucose,SLC2A8
-d-glucose,SLC2A9
-d-glucose,SLC2A10
-d-glucose,SLC2A11
-d-glucose,SLC2A12
-d-glucose,SLC5A1
-d-glucose,SLC5A2
-putrescine,SLC22A4
-formic acid,SLC16A3
-taurine,SLC36A1
-taurine,SLC6A6
-taurine,SLC15A1
-staurosporine,ABCB1
-prostaglandin d2,SLCO2A1
-daidzin,ABCG2
-glycochenodeoxycholic acid,ABCB11
-glycochenodeoxycholic acid,SLCO1A2
-glycochenodeoxycholic acid,SLC10A2
-glycochenodeoxycholic acid,SLC10A1
-platelet activating factor,ABCB1
-glyceraldehyde-3-phosphate,SLCO2A1
-flufenamic acid,SLC22A6
-cyclic gmp,SLC22A6
-myricetin,ABCC1
-cyclic adenosine monophosphate,ABCC4
-cyclic adenosine monophosphate,ABCC5
-cyclic adenosine monophosphate,ABCC11
-cyclic adenosine monophosphate,SLC22A6
-cyclic adenosine monophosphate,SLC22A8
-cyclic adenosine monophosphate,SLC22A7
-gamma-aminobutyric acid,SLC36A1
-d-phenylalanine,SLC16A10
-d-phenylalanine,SLC7A5
-colforsin,ABCB1
-cholic acid,ABCB11
-cholic acid,ABCB1
-cholic acid,ABCC1
-cholic acid,SLCO1A2
-cholic acid,SLC10A2
-cholic acid,ABCC2
-cholic acid,SLCO1B1
-cholic acid,ABCC3
-cholic acid,ABCC4
-cholic acid,SLC10A1
-cholic acid,SLC22A8
-cholic acid,SLC22A7
-cholic acid,SLCO1B3
-glycocholic acid,SLCO1A2
-glycocholic acid,SLCO1B1
-glycocholic acid,SLCO1B3
-fusidic acid,ABCB11
-fusidic acid,ABCC2
-fusidic acid,ABCG2
-fusidic acid,SLCO1B1
-uridine,SLC29A1
-phthalic acid,SLCO2B1
-s-(methylmercury)-l-cysteine,SLC7A5
-s-(methylmercury)-l-cysteine,SLC7A8
-pregnenolone,SLC10A6
-d-proline,SLC36A1
-stanolone,ABCB1
-2-aminoisobutyric acid,SLC16A10
-d-lactic acid,SLC16A7
-d-lactic acid,SLC16A1
-d-lactic acid,SLC16A3
-beta-alanine,SLC16A10
-acetylcholine,SLC22A5
-acetylcholine,SLC22A1
-acetic acid,SLCO2B1
-acetic acid,SLC16A1
-sphingosine,ABCB1
-d-tryptophan,SLC16A10
-ubenimex,SLC15A1
-ubenimex,SLC15A2
-naringenin,SLCO2B1
-naringenin,ABCB1
-naringenin,ABCC1
-naringenin,ABCG2
-alvocidib,ABCG2
-glutaric acid,SLC22A6
-glutaric acid,SLC22A8
-glutaric acid,SLC22A11
-glutaric acid,SLC22A7
-spermidine,SLC22A4
-spermidine,SLC22A1
-glucose-6-phosphate,SLCO2A1
-oxyphenbutazone,SLC22A6
-deoxycholic acid,ABCB11
-deoxycholic acid,SLCO1A2
-deoxycholic acid,SLC10A2
-deoxycholic acid,SLC10A1
-alpha-d-quinovopyranose,SLC16A7
-alpha-d-quinovopyranose,SLC16A1
-phenacetin,SLC22A6
-benzoic acid,SLCO2B1
-benzoic acid,SLC22A8
-benzoic acid,SLC16A1
-rhodamine 6g,ABCC1
-rhodamine 6g,ABCB1
-d-tyrosine,SLC16A10
-phenylpyruvic acid,SLC16A3
-oxalic acid,SLCO2B1
-oxalic acid,SLC22A8
-urea,SLC14A2
-urea,SLC14A1
-d-serine,SLC16A10
-d-serine,SLC6A14
-oxamic acid,SLC16A3
-alpha-ketoisovalerate,SLC16A7
-alpha-ketoisovalerate,SLC16A1
-alpha-ketoisovalerate,SLC16A3
-"(1,10 phenanthroline)-(tri-carbon monoxide) rhenium (i)",ABCC2
-degraded cephaloridine,SLC22A5
-degraded cephaloridine,SLC22A6
-degraded cephaloridine,SLC22A8
-degraded cephaloridine,SLC22A11
-quercetin,ABCC1
-quercetin,ABCC2
-quercetin,SLC16A7
-quercetin,SLCO2B1
-quercetin,ABCB1
-quercetin,SLC16A1
-quercetin,ABCG2
-quercetin,SLCO1B1
-citric acid,SLCO2B1
-inosine,SLC28A3
-glyoxylic acid,SLC16A3
-taurocholic acid,ABCB11
-taurocholic acid,ABCC1
-taurocholic acid,SLCO1A2
-taurocholic acid,SLC10A2
-taurocholic acid,ABCC2
-taurocholic acid,SLCO1B1
-taurocholic acid,ABCC3
-taurocholic acid,ABCC4
-taurocholic acid,ABCB1
-taurocholic acid,SLC22A6
-taurocholic acid,ABCC10
-taurocholic acid,SLC22A8
-taurocholic acid,SLCO4A1
-taurocholic acid,ABCC11
-taurocholic acid,SLCO1C1
-taurocholic acid,SLCO3A1
-taurocholic acid,ABCG2
-taurocholic acid,SLCO2B1
-taurocholic acid,SLC16A1
-taurocholic acid,SLC10A1
-taurocholic acid,SLC51A
-taurocholic acid,SLC51B
-taurocholic acid,SLCO1B3
-taurocholic acid,SLC7A11
-lactic acid,SLC16A7
-lactic acid,SLCO2B1
-lactic acid,SLC16A1
-lactic acid,SLC16A10
-lactic acid,SLCO2A1
-lactic acid,SLC16A3
-thymidine,SLC28A3
-caprylic acid,SLC22A6
-caprylic acid,SLC22A8
-caprylic acid,SLC22A11
-cholesterol,ABCB1
-cholesterol,ABCG2
-"beta-d-fructofuranose 1,6-bisphosphate",SLCO2A1
-niflumic acid,SLC16A7
-niflumic acid,SLC16A1
-arachidonic acid,SLCO2A1
-estriol,SLCO1A2
-estriol,ABCB1
-estrone sulfate,SLC47A1
-estrone sulfate,SLC47A2
-aldosterone,ABCB1
-aldosterone,SLC22A5
-aldosterone,SLCO1A2
-camptothecin,ABCB1
-camptothecin,ABCG2
-5-methyltetrahydrofolic acid,ABCC2
-buformin,SLC22A1
-zimelidine,ABCB1
-debrisoquine,ABCB1
-posizolid,SLCO1B1
-biricodar,ABCB1
-dronedarone,ABCB1
-dronedarone,SLC22A2
-dronedarone,SLC22A1
-dronedarone,SLCO1B1
-dronedarone,SLCO1B3
-dronedarone,SLC22A8
-nilotinib,ABCB1
-nilotinib,ABCG2
-nilotinib,UGT1A1
-nilotinib,SLCO1B1
-voacamine,ABCB1
-elacridar,ABCG2
-elacridar,ABCB1
-flibanserin,ABCB1
-lofexidine,ABCB5
-lofexidine,SLC47A1
-tipifarnib,ABCB1
-belinostat,ABCB1
-indacaterol,ABCB1
-pretomanid,SLC22A8
-cobimetinib,SLCO1B1
-cobimetinib,SLCO1B3
-cobimetinib,ABCG2
-cobimetinib,ABCB1
-gallium nitrate,TFRC
-gallium nitrate,TFR2
-vandetanib,ABCC1
-vandetanib,ABCG2
-vandetanib,SLC22A2
-vandetanib,ABCB1
-histamine,SLC22A2
-histamine,SLC22A1
-histamine,SLC22A3
-histamine,SLC22A5
-iodine,SLC5A5
-iodine,SLC26A4
-pimagedine,SLC22A2
-telaprevir,ABCB1
-alanosine,SLC7A11
-apremilast,ABCB1
-trastuzumab emtansine,ABCB1
-prasterone sulfate,SLC22A8
-prasterone sulfate,SLCO1A2
-prasterone sulfate,SLCO1B1
-prasterone sulfate,SLCO1B3
-prasterone sulfate,SLCO2B1
-prasterone sulfate,SLC10A6
-prasterone sulfate,ABCB11
-abiraterone,ABCC1
-inotuzumab ozogamicin,ABCB1
-dovitinib,ABCC3
-dovitinib,ABCG2
-dovitinib,SLCO1B1
-dovitinib,SLCO2B1
-dovitinib,SLCO1B3
-dovitinib,ABCB1
-obeticholic acid,ABCB11
-acetylcysteine,SLCO1B1
-acetylcysteine,SLC22A6
-romidepsin,ABCB1
-romidepsin,SLCO1B3
-zosuquidar,ABCB1
-silodosin,ABCB1
-silodosin,ABCB4
-eltrombopag,SLCO1B1
-eltrombopag,ABCG2
-doripenem,SLC22A8
-tolvaptan,ABCB1
-ferumoxytol,TF
-ferumoxytol,FTL
-ferumoxytol,FTH1
-rivaroxaban,ABCB1
-rivaroxaban,ABCG2
-tariquidar,ABCB1
-droxidopa,SLC6A2
-droxidopa,SLC16A10
-amrubicin,ABCB5
-levocetirizine,SLC22A11
-temsirolimus,ABCB1
-simeprevir,ABCB1
-simeprevir,SLCO1B1
-simeprevir,SLCO1B3
-simeprevir,ABCC2
-simeprevir,ABCG2
-simeprevir,SLCO2B1
-simeprevir,SLC10A1
-simeprevir,ABCB11
-dapagliflozin,ABCB1
-saxagliptin,ABCC1
-saxagliptin,SLCO4C1
-saxagliptin,SLC22A8
-ambrisentan,ABCB1
-ambrisentan,SLCO1B1
-ambrisentan,SLCO1B3
-etravirine,ABCB1
-etravirine,ABCB4
-annamycin,ABCB1
-lonafarnib,ABCB1
-prucalopride,ABCB1
-gaboxadol,SLC36A1
-pazopanib,ABCB1
-pazopanib,ABCG2
-pazopanib,SLCO1B1
-pazopanib,UGT1A1
-panobinostat,ABCB1
-apixaban,ABCB1
-apixaban,ABCG2
-tafenoquine,SLC22A2
-tafenoquine,SLC47A1
-tafenoquine,SLC47A2
-bosutinib,ABCB1
-axitinib,ABCB1
-axitinib,SLCO1B1
-isavuconazonium,ABCB1
-dalfampridine,SLC22A2
-safinamide,ABCG2
-safinamide,SLCO3A1
-odanacatib,ABCB1
-mepyramine,SLC22A4
-mepyramine,SLC22A5
-dabigatran etexilate,ABCB1
-fesoterodine,ABCB1
-iobenguane,SLC6A2
-methyltestosterone,SLCO1A2
-methyltestosterone,SLC22A8
-gimatecan,SLCO1B1
-cabazitaxel,ABCB1
-cabazitaxel,ABCG2
-cabazitaxel,SLCO1B1
-cabazitaxel,SLCO1B3
-cupric sulfate,ALB
-cupric sulfate,CP
-gallium citrate ga-67,TFRC
-gallium citrate ga-67,TFR2
-gallium citrate ga-67,FTL
-gallium citrate ga-67,FTH1
-mangafodipir,SLC11A2
-pralatrexate,SLC19A1
-triethylenetetramine,GPC1
-chloramphenicol succinate,ABCB1
-azidocillin,SLC22A5
-azidocillin,SLC15A1
-azidocillin,SLC15A2
-ticagrelor,ABCB1
-ivacaftor,ABCB1
-ioflupane i-123,SLC6A3
-lomitapide,ABCB1
-vismodegib,ABCB1
-vismodegib,ABCG2
-dehydroascorbic acid,SLC2A1
-2-deoxyglucose,SLC2A1
-taurochenodeoxycholic acid,SLCO1A2
-taurochenodeoxycholic acid,SLC7A11
-tauroursodeoxycholic acid,SLCO1A2
-tauroursodeoxycholic acid,SLC7A11
-spaglumic acid,SLC36A1
-temocapril,SLC15A1
-temocapril,SLCO1A2
-tetraethylammonium,SLC22A1
-tetraethylammonium,SLC22A2
-tetraethylammonium,SLC22A3
-tetraethylammonium,SLC22A4
-tetraethylammonium,SLC22A5
-tetraethylammonium,SLC22A8
-tetraethylammonium,SLC47A1
-agmatine,SLC22A1
-agmatine,SLC22A2
-agmatine,SLC22A3
-agmatine,SLC7A7
-serotonin,SLC22A2
-n-methylnicotinamide,SLC22A2
-n-methylnicotinamide,SLC47A1
-n-methylnicotinamide,SLC47A2
-tyramine,SLC22A3
-acetylcarnitine,SLC22A5
-acetylcarnitine,SLC22A21
-gs 0573,SLC22A6
-uric acid,SLC22A6
-uric acid,SLC22A8
-uric acid,SLC2A9
-ellagic acid,SLC22A6
-ellagic acid,SLC22A11
-hydroxyproline,SLC36A1
-nipecotic acid,SLC36A1
-leukotriene c4,SLCO1B1
-leukotriene c4,SLCO1B3
-dadle,SLCO1B1
-bamet-ud2,SLCO1B1
-cis-diamminechlorocholylglycinateplatinum(ii),SLCO1B1
-pitavastatin,SLCO1B1
-pitavastatin,SLCO1B3
-pitavastatin,SLCO2B1
-pitavastatin,SLC10A1
-pitavastatin,ABCG2
-pitavastatin,ABCB1
-pitavastatin,ABCC2
-pitavastatin,ABCB11
-dpdpe,SLCO1B3
-cholecystokinin,SLCO1B3
-cholecystokinin,SLCO1B1
-cholecystokinin,SLCO2B1
-rilpivirine,ABCB1
-rilpivirine,ABCG2
-rilpivirine,SLCO1B1
-rilpivirine,SLCO1B3
-crizotinib,ABCB1
-fingolimod,SLC1A2
-fingolimod,SLC1A3
-fingolimod,ABCB1
-fingolimod,ABCC1
-brentuximab vedotin,ABCB5
-gabapentin enacarbil,SLC5A8
-gabapentin enacarbil,SLC5A6
-boceprevir,ABCB1
-fidaxomicin,ABCB1
-aminopterin,SLC46A1
-teriflunomide,ABCG2
-teriflunomide,SLCO1B1
-vemurafenib,ABCC1
-vemurafenib,ABCG2
-vemurafenib,ABCB1
-linagliptin,ABCB1
-linagliptin,SLC22A1
-linagliptin,SLC22A2
-linagliptin,SLC22A3
-gadoxetic acid,SLCO1B1
-gadoxetic acid,SLCO1B3
-gadoxetic acid,ABCC3
-gadoxetic acid,ABCC2
-gadoxetic acid,ABCC4
-carfilzomib,ABCB1
-arbaclofen placarbil,SLC16A1
-mirabegron,ABCB1
-mirabegron,SLCO1A2
-regorafenib,ABCB1
-regorafenib,ABCG2
-enzalutamide,ABCB1
-ponatinib,ABCB1
-ponatinib,ABCG2
-fluticasone furoate,ABCB1
-fluticasone furoate,SLCO1B1
-canagliflozin,ABCB1
-canagliflozin,ABCC2
-canagliflozin,ABCG2
-pomalidomide,ABCB1
-dabrafenib,ABCB1
-dabrafenib,ABCG2
-dabrafenib,SLCO1B1
-dabrafenib,SLCO1B3
-dabrafenib,SLC22A6
-dabrafenib,SLC22A8
-afatinib,ABCB1
-afatinib,ABCG2
-levomilnacipran,ABCB1
-dolutegravir,SLC22A2
-dolutegravir,ABCG2
-dolutegravir,SLC22A6
-dolutegravir,SLC22A8
-dolutegravir,ABCB1
-riociguat,ABCG2
-sofosbuvir,ABCB1
-sofosbuvir,ABCG2
-inositol nicotinate,SLC5A8
-cefaloridine,SLC22A6
-cefaloridine,SLC22A8
-ledipasvir,ABCB1
-ledipasvir,ABCG2
-vorapaxar,ABCB1
-suvorexant,ABCB1
-eliglustat,ABCB1
-netupitant,ABCB1
-idelalisib,ABCG2
-idelalisib,ABCB1
-idelalisib,SLCO1B1
-idelalisib,SLCO1B3
-avibactam,ABCC2
-avibactam,SLC22A8
-cannabidiol,ABCC1
-cannabidiol,ABCG2
-cannabidiol,SLC29A1
-ceritinib,ABCB1
-cobicistat,ABCB1
-cobicistat,ABCG2
-cobicistat,SLCO1B1
-cobicistat,SLCO1B3
-palbociclib,ABCB1
-palbociclib,ABCG2
-palbociclib,SLC22A1
-olaparib,ABCB1
-olaparib,ABCG2
-edoxaban,ABCB1
-umeclidinium,ABCB1
-lenvatinib,ABCB1
-lenvatinib,ABCG2
-lenvatinib,SLC22A6
-lenvatinib,SLC22A8
-lenvatinib,SLC22A2
-lenvatinib,SLCO1B1
-lenvatinib,ABCB11
-nintedanib,ABCB1
-nintedanib,SLC22A1
-nintedanib,ABCG2
-somatostatin,ABCB1
-"thyroid, porcine",SLC16A2
-"thyroid, porcine",SLCO1C1
-"thyroid, porcine",SLCO3A1
-"thyroid, porcine",SLCO4A1
-"thyroid, porcine",SLC7A5
-"thyroid, porcine",SLC10A1
-daclatasvir,ABCB1
-daclatasvir,SLCO1B1
-daclatasvir,SLCO1B3
-daclatasvir,ABCG2
-copper,SLC31A1
-copper,SLC11A2
-copper,ATP7A
-copper,ATP7B
-copper,SLC31A2
-technetium tc-99m mebrofenin,SLCO1B1
-technetium tc-99m mebrofenin,SLCO1B3
-sincalide,SLCO1B3
-sodium citrate,SLC25A21
-sodium citrate,SLC13A2
-sodium citrate,SLC13A5
-sodium citrate,SLC25A1
-technetium tc-99m sestamibi,ABCB1
-technetium tc-99m sestamibi,ABCC1
-dasabuvir,ABCG2
-dasabuvir,ABCB5
-dasabuvir,ABCB1
-etoperidone,SLC6A4
-etoperidone,SLC6A2
-etoperidone,SLC6A3
-lobeglitazone,SLCO1B1
-lobeglitazone,SLCO3A1
-lobeglitazone,ABCB1
-dexibuprofen,ABCC4
-dexibuprofen,ABCC1
-dexibuprofen,SLCO1A2
-dexibuprofen,SLC22A6
-dexibuprofen,SLC22A8
-dexibuprofen,SLC22A11
-dexibuprofen,SLCO2B1
-dexibuprofen,ABCB1
-levamlodipine,ABCB1
-levamlodipine,SLC10A2
-levamlodipine,SLC22A5
-niguldipine,ABCB1
-methylene blue,ABCB1
-methylene blue,SLC22A2
-methylene blue,SLC47A2
-methylene blue,SLC47A1
-ubidecarenone,ABCB1
-eluxadoline,SLCO1B1
-eluxadoline,ABCC2
-eluxadoline,SLC22A8
-fimasartan,SLCO1B1
-fimasartan,ABCG2
-lumacaftor,ABCB1
-polyethylene glycol,ABCB1
-rolapitant,ABCG2
-rolapitant,ABCB1
-sacubitril,SLCO1B1
-sacubitril,SLCO1B3
-ombitasvir,ABCB1
-ombitasvir,UGT1A4
-ombitasvir,ABCG2
-paritaprevir,ABCG2
-paritaprevir,ABCB1
-paritaprevir,SLCO1B1
-paritaprevir,SLCO1B3
-silibinin,SLC22A6
-silibinin,SLCO1B1
-silibinin,SLCO1B3
-silibinin,SLCO2B1
-tenofovir alafenamide,ABCB1
-tenofovir alafenamide,ABCC4
-tenofovir alafenamide,SLC22A6
-tenofovir alafenamide,SLC22A8
-tenofovir alafenamide,ABCG2
-tenofovir alafenamide,SLCO1B1
-tenofovir alafenamide,SLCO1B3
-ammonia n-13,RHCG
-tegafur-uracil,SLC22A7
-tegafur-uracil,SLC29A1
-tegafur-uracil,SLC29A2
-tegafur-uracil,SLC28A1
-tegafur-uracil,SLC28A2
-tegafur-uracil,SLC28A3
-osimertinib,ABCB1
-osimertinib,ABCG2
-"dextrose, unspecified form",SLC2A1
-"dextrose, unspecified form",SLC2A2
-"dextrose, unspecified form",SLC2A3
-"dextrose, unspecified form",SLC2A4
-"dextrose, unspecified form",SLC2A6
-"dextrose, unspecified form",SLC2A7
-"dextrose, unspecified form",SLC2A8
-"dextrose, unspecified form",SLC2A9
-"dextrose, unspecified form",SLC2A10
-"dextrose, unspecified form",SLC2A11
-"dextrose, unspecified form",SLC2A12
-"dextrose, unspecified form",SLC5A1
-tipiracil,SLC22A2
-tipiracil,SLC47A1
-invert sugar,SLC2A2
-invert sugar,SLC2A5
-rauwolfia serpentina root,SLC6A2
-rauwolfia serpentina root,VMAT2
-indocyanine green acid form,ABCC2
-indocyanine green acid form,ABCB11
-"sodium phosphate, monobasic",SLC20A1
-"sodium phosphate, monobasic",SLC20A2
-"sodium phosphate, monobasic",SLC34A1
-"sodium phosphate, monobasic",SLC34A2
-"sodium phosphate, monobasic",SLC34A3
-magnesium carbonate,TRPM6
-magnesium carbonate,SLC41A3
-magnesium carbonate,CNNM2
-magnesium carbonate,TRPM7
-strontium chloride sr-89,SLC8A1
-strontium chloride sr-89,CACNA1I
-fludeoxyglucose (18f),SLC2A4
-fludeoxyglucose (18f),SLC2A2
-fludeoxyglucose (18f),SLC2A1
-fludeoxyglucose (18f),SLC2A3
-fludeoxyglucose (18f),SLC2A9
-fludeoxyglucose (18f),SLC2A5
-fludeoxyglucose (18f),SLC2A6
-fludeoxyglucose (18f),SLC2A7
-fludeoxyglucose (18f),SLC2A8
-fludeoxyglucose (18f),SLC2A10
-fludeoxyglucose (18f),SLC2A11
-fludeoxyglucose (18f),SLC2A12
-iobenguane sulfate i-123,SLC6A2
-polyethylene glycol 400,ABCB1
-potassium nitrate,MUC1
-calcium citrate,TRPV6
-calcium citrate,SLC8A1
-calcium citrate,TRPV5
-calcium citrate,RYR1
-calcium citrate,RYR2
-calcium citrate,PKD2L1
-calcium citrate,RYR3
-calcium citrate,PKD1L3
-calcium citrate,CATSPER1
-calcium citrate,CACNA1C
-calcium citrate,CACNA1D
-calcium citrate,CACNA1F
-calcium citrate,CACNA1S
-calcium citrate,CACNB1
-calcium citrate,CACNB2
-calcium citrate,CACNB3
-calcium citrate,CACNB4
-calcium citrate,CACNA1A
-calcium citrate,CACNA1A
-calcium citrate,CACNA1G
-calcium citrate,CACNA1H
-calcium citrate,CACNA1I
-calcium citrate,CACNA1E
-potassium bicarbonate,SLC12A2
-potassium bicarbonate,SLC12A1
-selenious acid,SELENOP
-tocopherol,TTPA
-tocopherol,SEC14L4
-tocopherol,SEC14L2
-tocopherol,SEC14L3
-tocopherol,APOBR
-tocopherol,SCARB1
-tocopherol,ABCB1
-levomefolic acid,SLC46A1
-levomefolic acid,SLC19A1
-calcium phosphate,SLC20A1
-calcium phosphate,SLC20A2
-calcium phosphate,SLC34A1
-calcium phosphate,SLC34A2
-calcium phosphate,SLC34A3
-calcium phosphate,TRPV6
-calcium phosphate,SLC8A1
-calcium phosphate,TRPV5
-calcium phosphate,RYR1
-calcium phosphate,RYR2
-calcium phosphate,PKD2L1
-calcium phosphate,RYR3
-calcium phosphate,PKD1L3
-calcium phosphate,CATSPER1
-calcium phosphate,CACNA1C
-calcium phosphate,CACNA1D
-calcium phosphate,CACNA1F
-calcium phosphate,CACNA1S
-calcium phosphate,CACNB1
-calcium phosphate,CACNB2
-calcium phosphate,CACNB3
-calcium phosphate,CACNB4
-calcium phosphate,CACNA1A
-calcium phosphate,CACNA1A
-calcium phosphate,CACNA1G
-calcium phosphate,CACNA1H
-calcium phosphate,CACNA1I
-calcium phosphate,CACNA1E
-selexipag,SLCO1B1
-selexipag,SLCO1B3
-selexipag,ABCB1
-alectinib,ABCG2
-alectinib,ABCB1
-monensin,ABCB1
-salinomycin,ABCB1
-elbasvir,ABCB1
-grazoprevir,ABCB1
-grazoprevir,SLCO1B1
-grazoprevir,SLCO1B3
-venetoclax,ABCB1
-venetoclax,ABCG2
-venetoclax,SLCO1B1
-asunaprevir,SLCO1B1
-asunaprevir,SLCO1B3
-asunaprevir,SLCO2B1
-asunaprevir,ABCB1
-thimerosal,ITPR1
-bilastine,ABCB5
-bilastine,SLCO1A2
-bilastine,SLCO2B1
-lifitegrast,SLCO1A2
-lifitegrast,SLCO2B1
-velpatasvir,ABCB1
-velpatasvir,ABCG2
-velpatasvir,SLCO1B1
-velpatasvir,SLCO1B3
-velpatasvir,SLCO2B1
-isavuconazole,ABCB1
-isavuconazole,ABCG2
-isavuconazole,SLC22A2
-tocofersolan,TTPA
-tocofersolan,SCARB1
-tocofersolan,NPC1L1
-tocofersolan,ABCG5
-tocofersolan,ABCG8
-tocofersolan,ABCA1
-tocofersolan,SEC14L4
-tocofersolan,SEC14L2
-tocofersolan,SEC14L3
-tocofersolan,APOBR
-vinflunine,ABCB5
-vinflunine,ABCB1
-pitolisant,SLC22A1
-tafamidis,ABCG2
-tafamidis,SLC22A6
-tafamidis,SLC22A8
-tucatinib,ABCG2
-tucatinib,ABCB1
-tucatinib,SLC22A2
-tucatinib,SLC47A1
-tucatinib,SLC47A2
-latanoprostene bunod,SLCO2B1
-curcumin,ABCB1
-selumetinib,ABCB1
-selumetinib,ABCG2
-naldemedine,ABCB5
-tezacaftor,ABCB1
-tezacaftor,ABCG2
-lasmiditan,ABCB1
-lasmiditan,ABCG2
-lasmiditan,SLC22A1
-lasmiditan,SLC47A1
-lasmiditan,SLC47A2
-cabotegravir,SLC22A6
-cabotegravir,SLC22A8
-rifamycin,SLCO1A2
-rifamycin,SLCO1B1
-rifamycin,SLCO1B3
-rifamycin,SLCO2A1
-rifamycin,SLCO2B1
-rifamycin,SLC47A1
-rifamycin,ABCB1
-istradefylline,ABCB1
-istradefylline,ABCG2
-istradefylline,SLCO1B1
-istradefylline,SLCO1B3
-istradefylline,SLC22A6
-istradefylline,POU2F2
-istradefylline,SLC47A1
-istradefylline,SLC47A2
-talazoparib,ABCB1
-talazoparib,ABCG2
-talinolol,ABCB1
-talinolol,ABCC2
-baricitinib,SLC22A8
-baricitinib,ABCG2
-baricitinib,SLC47A2
-baricitinib,SLC22A6
-baricitinib,SLC22A2
-baricitinib,SLCO1B3
-baricitinib,ABCB1
-ertugliflozin,ABCB1
-ertugliflozin,ABCG2
-neratinib,ABCB1
-osilodrostat,SLCO1B1
-osilodrostat,SLC22A1
-osilodrostat,SLC22A2
-osilodrostat,SLC22A6
-osilodrostat,SLC22A8
-osilodrostat,SLC47A1
-revefenacin,SLCO1B1
-revefenacin,SLCO1B3
-revefenacin,ABCB1
-revefenacin,ABCG2
-valspodar,SLCO1B1
-valspodar,SLCO1B3
-valspodar,ABCB1
-apalutamide,ABCB1
-apalutamide,ABCG2
-apalutamide,SLCO1B1
-apalutamide,SLC22A2
-apalutamide,SLC22A8
-apalutamide,SLC47A2
-apalutamide,SLC47A1
-bempedoic acid,SLCO1B1
-bempedoic acid,ABCC3
-bempedoic acid,SLCO1B3
-selinexor,SLCO1B3
-delafloxacin,ABCB5
-delafloxacin,ABCG2
-lemborexant,ABCB1
-duvelisib,ABCB1
-duvelisib,ABCG2
-dacomitinib,ABCB1
-dacomitinib,ABCG2
-dacomitinib,SLC22A1
-glasdegib,ABCB1
-glasdegib,ABCG2
-glasdegib,SLC47A1
-glasdegib,SLC47A2
-elagolix,ABCB1
-elagolix,SLCO1B1
-entrectinib,ABCB1
-avatrombopag,ABCB1
-abemaciclib,SLC47A1
-abemaciclib,SLC47A2
-abemaciclib,SLC22A2
-abemaciclib,ABCG2
-abemaciclib,ABCB1
-fostamatinib,ABCG2
-fostamatinib,ABCB5
-alpelisib,ABCG2
-alpelisib,ABCB1
-voxilaprevir,ABCB1
-voxilaprevir,ABCG2
-voxilaprevir,SLCO1B1
-voxilaprevir,SLCO1B3
-sarecycline,ABCB1
-letermovir,SLCO1B1
-letermovir,SLCO1B3
-letermovir,ABCB1
-letermovir,ABCG2
-letermovir,ABCB11
-letermovir,SLC22A8
-letermovir,ABCC2
-gilteritinib,ABCB1
-gilteritinib,SLC47A1
-gilteritinib,ABCG2
-gilteritinib,SLC22A1
-erdafitinib,ABCB1
-erdafitinib,SLC22A2
-polatuzumab vedotin,CD79B
-edaravone,SLC22A6
-edaravone,SLC22A8
-brigatinib,ABCB5
-brigatinib,ABCG2
-brigatinib,SLC22A1
-brigatinib,SLC47A1
-brigatinib,SLC47A2
-benzbromarone,SLCO1B1
-benzbromarone,SLCO2B1
-benzbromarone,ABCB11
-rucaparib,ABCB1
-rucaparib,ABCG2
-rucaparib,SLC47A1
-rucaparib,SLC47A2
-rucaparib,SLC22A1
-rucaparib,ABCC4
-rucaparib,SLCO1B1
-rucaparib,SLCO1B3
-rucaparib,SLC22A6
-rucaparib,SLC22A8
-betrixaban,ABCB1
-betrixaban,KCNH2
-relebactam,SLC22A8
-relebactam,SLC22A11
-relebactam,SLC47A1
-relebactam,SLC47A2
-omadacycline,ABCB1
-rimegepant,ABCB1
-rimegepant,ABCG2
-rimegepant,SLCO1B1
-rimegepant,SLC22A8
-rimegepant,SLCO1B3
-rimegepant,SLC22A2
-rimegepant,SLC47A1
-favipiravir,ABCB1
-favipiravir,SLC22A6
-favipiravir,SLC22A8
-favipiravir,SLC22A12
-copanlisib,ABCB1
-copanlisib,ABCG2
-copanlisib,SLC47A2
-fedratinib,ABCB1
-fedratinib,ABCG2
-fedratinib,SLCO1B1
-fedratinib,SLCO1B3
-fedratinib,POU2F2
-fedratinib,SLC47A1
-fedratinib,SLC47A2
-piperine,ABCB1
-nafamostat,SLC22A1
-nafamostat,SLC22A2
-ozanimod,MAOB
-ozanimod,ABCG2
-ozanimod,ABCB1
-plazomicin,SLC47A1
-plazomicin,SLC47A2
-pilsicainide,ABCB11
-laniquidar,ABCB1
-lefamulin,ABCB1
-grapiprant,ABCB1
-pradigastat,SLC22A8
-tazemetostat,ABCB1
-tazemetostat,SLC47A1
-tazemetostat,SLC47A2
-tazemetostat,ABCG2
-gallopamil,ABCB1
-darolutamide,ABCG2
-darolutamide,ABCB1
-darolutamide,SLCO1B1
-darolutamide,SLCO1B3
-pexidartinib,SLC47A1
-pexidartinib,SLC47A2
-pexidartinib,SLCO1B1
-pexidartinib,SLCO1B3
-pexidartinib,SLCO2B1
-enfortumab vedotin,ABCB1
-meclocycline,OMPF
-meclocycline,OMPC
-lusutrombopag,ABCB1
-lusutrombopag,ABCG2
-levosalbutamol,SLCO1B1
-levosalbutamol,SLCO1B3
-fluciclovine (18f),ABCC4
-levomenol,SLCO1B1
-levomenol,SLCO1B3
-parachlorophenol,SLCO1B3
-inositol,SLC5A3
-troleandomycin,ABCB1
-ferrous sulfate anhydrous,SLC11A2
-ferrous sulfate anhydrous,SLC40A1
-dihydroergocristine,ABCB11
-potassium gluconate,ATP1A1
-potassium gluconate,SLC12A1
-potassium gluconate,ATP4A
-potassium gluconate,ATP4B
-glycyrrhizic acid,ABCB11
-acemetacin,ABCC1
-fluticasone,ABCB1
-fluticasone,SLCO1B1
-enasidenib,ABCB1
-enasidenib,ABCG2
-enasidenib,SLC22A6
-enasidenib,SLCO1B1
-enasidenib,SLC22A2
-enasidenib,SLCO1B3
-enasidenib,SLC22A8
-pibrentasvir,ABCB1
-pibrentasvir,ABCG2
-pibrentasvir,SLCO1B1
-pibrentasvir,SLCO1B3
-glecaprevir,ABCB1
-glecaprevir,ABCG2
-glecaprevir,SLCO1B1
-glecaprevir,SLCO1B3
-candesartan,ABCB1
-candesartan,SLCO1B1
-testosterone cypionate,SLCO1A2
-testosterone cypionate,SLC22A8
-testosterone cypionate,SLC22A7
-testosterone cypionate,ABCB1
-testosterone cypionate,SLC10A1
-testosterone cypionate,SLC22A3
-testosterone cypionate,SLC22A4
-testosterone cypionate,ABCG2
-testosterone enanthate,SLCO1A2
-testosterone enanthate,SLC22A8
-testosterone enanthate,SLC22A7
-testosterone enanthate,ABCB1
-testosterone enanthate,SLC10A1
-testosterone enanthate,SLC22A3
-testosterone enanthate,SLC22A4
-testosterone enanthate,ABCG2
-testosterone undecanoate,SLCO1A2
-testosterone undecanoate,SLC22A8
-testosterone undecanoate,SLC22A7
-testosterone undecanoate,ABCB1
-testosterone undecanoate,SLC10A1
-testosterone undecanoate,SLC22A4
-testosterone undecanoate,ABCG2
-testosterone undecanoate,SLC22A2
-testosterone undecanoate,SLC47A1
-testosterone undecanoate,SLCO1B3
-stanolone acetate,ABCB1
-estradiol acetate,SLC22A2
-estradiol acetate,SLC22A1
-estradiol acetate,SLC22A3
-estradiol acetate,SLCO2B1
-estradiol acetate,SLCO1A2
-estradiol acetate,ABCC10
-estradiol acetate,SLC22A11
-estradiol acetate,ABCG2
-estradiol acetate,SLCO1B1
-estradiol acetate,ABCB1
-estradiol acetate,SLC22A8
-estradiol acetate,SLCO1B3
-estradiol acetate,SLCO1C1
-estradiol acetate,SLCO4A1
-estradiol benzoate,SLC22A2
-estradiol benzoate,SLC22A1
-estradiol benzoate,SLC22A3
-estradiol benzoate,SLCO2B1
-estradiol benzoate,SLCO1A2
-estradiol benzoate,ABCC10
-estradiol benzoate,SLC22A11
-estradiol benzoate,ABCG2
-estradiol benzoate,SLCO1B1
-estradiol benzoate,ABCB1
-estradiol benzoate,SLC22A8
-estradiol benzoate,SLCO1B3
-estradiol benzoate,SLCO1C1
-estradiol benzoate,SLCO4A1
-estradiol cypionate,SLC22A2
-estradiol cypionate,SLC22A1
-estradiol cypionate,SLC22A3
-estradiol cypionate,SLCO2B1
-estradiol cypionate,SLCO1A2
-estradiol cypionate,ABCC10
-estradiol cypionate,SLC22A11
-estradiol cypionate,ABCG2
-estradiol cypionate,SLCO1B1
-estradiol cypionate,ABCB1
-estradiol cypionate,SLC22A8
-estradiol cypionate,SLCO1B3
-estradiol cypionate,SLCO1C1
-estradiol cypionate,SLCO4A1
-estradiol dienanthate,SLC22A2
-estradiol dienanthate,SLC22A1
-estradiol dienanthate,SLC22A3
-estradiol dienanthate,SLCO2B1
-estradiol dienanthate,SLCO1A2
-estradiol dienanthate,ABCC10
-estradiol dienanthate,SLC22A11
-estradiol dienanthate,ABCG2
-estradiol dienanthate,SLCO1B1
-estradiol dienanthate,ABCB1
-estradiol dienanthate,SLC22A8
-estradiol dienanthate,SLCO1B3
-estradiol dienanthate,SLCO1C1
-estradiol dienanthate,SLCO4A1
-estradiol valerate,SLC22A2
-estradiol valerate,SLC22A1
-estradiol valerate,SLC22A3
-estradiol valerate,SLCO2B1
-estradiol valerate,SLCO1A2
-estradiol valerate,ABCC10
-estradiol valerate,SLC22A11
-estradiol valerate,ABCG2
-estradiol valerate,SLCO1B1
-estradiol valerate,ABCB1
-estradiol valerate,SLC22A8
-estradiol valerate,SLCO1B3
-estradiol valerate,SLCO1C1
-estradiol valerate,SLCO4A1
-baloxavir marboxil,ABCB5
-alpha-tocopherol acetate,TTPA
-alpha-tocopherol acetate,SEC14L4
-alpha-tocopherol acetate,SEC14L2
-alpha-tocopherol acetate,SEC14L3
-alpha-tocopherol acetate,APOBR
-alpha-tocopherol acetate,SCARB1
-alpha-tocopherol acetate,ABCB1
-choline salicylate,SLC22A2
-choline salicylate,SLC22A1
-choline salicylate,SLC22A3
-choline salicylate,SLC22A5
-choline salicylate,SLC22A4
-choline salicylate,SLC44A1
-choline salicylate,SLC44A4
-choline salicylate,SLC44A2
-choline salicylate,SLC44A3
-choline salicylate,SLC5A7
-medical cannabis,ABCC1
-medical cannabis,ABCG2
-medical cannabis,SLC29A1
-nabiximols,ABCC1
-nabiximols,ABCG2
-nabiximols,SLC29A1
-valinomycin,ABCB11
-valinomycin,ABCB1
-hycanthone,ABCB1
-concanamycin a,ABCB1
-dexverapamil,ABCB1
-emopamil,ABCB1
-lomerizine,ABCB1
-tetrandrine,ABCB1
-dofequidar,ABCB1
-ont-093,ABCB1
-tenofovir,ABCB1
-tenofovir,SLC22A6
-tenofovir,SLC22A8
-tenofovir,ABCC4
-loxicodegol,ABCB1
-calcium phosphate dihydrate,SLC20A1
-calcium phosphate dihydrate,SLC20A2
-calcium phosphate dihydrate,SLC34A1
-calcium phosphate dihydrate,SLC34A2
-calcium phosphate dihydrate,SLC34A3
-calcium phosphate dihydrate,TRPV6
-calcium phosphate dihydrate,SLC8A1
-calcium phosphate dihydrate,TRPV5
-calcium phosphate dihydrate,RYR1
-calcium phosphate dihydrate,RYR2
-calcium phosphate dihydrate,PKD2L1
-calcium phosphate dihydrate,RYR3
-calcium phosphate dihydrate,PKD1L3
-calcium phosphate dihydrate,CATSPER1
-calcium phosphate dihydrate,CACNA1C
-calcium phosphate dihydrate,CACNA1D
-calcium phosphate dihydrate,CACNA1F
-calcium phosphate dihydrate,CACNA1S
-calcium phosphate dihydrate,CACNB1
-calcium phosphate dihydrate,CACNB2
-calcium phosphate dihydrate,CACNB3
-calcium phosphate dihydrate,CACNB4
-calcium phosphate dihydrate,CACNA1A
-calcium phosphate dihydrate,CACNA1A
-calcium phosphate dihydrate,CACNA1G
-calcium phosphate dihydrate,CACNA1H
-calcium phosphate dihydrate,CACNA1I
-calcium phosphate dihydrate,CACNA1E
-potassium,ATP1A1
-potassium,SLC12A1
-"sodium phosphate, dibasic",SLC20A1
-"sodium phosphate, dibasic",SLC20A2
-"sodium phosphate, dibasic",SLC34A1
-"sodium phosphate, dibasic",SLC34A2
-"sodium phosphate, dibasic",SLC34A3
-"sodium phosphate, monobasic, unspecified form",SLC20A1
-"sodium phosphate, monobasic, unspecified form",SLC20A2
-"sodium phosphate, monobasic, unspecified form",SLC34A1
-"sodium phosphate, monobasic, unspecified form",SLC34A2
-"sodium phosphate, monobasic, unspecified form",SLC34A3
-lithium carbonate,SCNN1A
-lithium carbonate,SCNN1B
-lithium carbonate,SCNN1G
-magnesium,CLDN16
-magnesium,TRPM6
-magnesium,TRPM7
-magnesium,SLC41A1
-magnesium,SLC41A3
-magnesium,MRS2
-zinc chloride,SLC30A1
-zinc chloride,SLC30A2
-zinc chloride,SLC30A3
-zinc chloride,SLC30A4
-zinc chloride,SLC30A6
-zinc chloride,SLC30A5
-zinc chloride,SLC30A7
-zinc chloride,SLC30A8
-zinc chloride,SLC30A9
-zinc chloride,SLC30A10
-zinc chloride,SLC39A1
-zinc chloride,SLC39A2
-zinc chloride,SLC39A3
-zinc chloride,SLC39A4
-zinc chloride,SLC39A5
-zinc chloride,SLC39A6
-zinc chloride,SLC39A7
-zinc chloride,SLC39A8
-zinc chloride,SLC39A9
-zinc chloride,SLC39A10
-zinc chloride,SLC39A11
-zinc chloride,SLC39A12
-zinc chloride,SLC39A13
-zinc chloride,SLC39A14
-hydrocortisone aceponate,ABCB1
-hydrocortisone aceponate,SLCO1A2
-hydrocortisone aceponate,ABCG2
-hydrocortisone aceponate,SLC22A8
-hydrocortisone acetate,ABCB1
-hydrocortisone acetate,SLCO1A2
-hydrocortisone acetate,ABCG2
-hydrocortisone acetate,SLC22A8
-hydrocortisone butyrate,ABCB1
-hydrocortisone butyrate,SLCO1A2
-hydrocortisone butyrate,ABCG2
-hydrocortisone butyrate,SLC22A8
-hydrocortisone cypionate,ABCB1
-hydrocortisone cypionate,SLCO1A2
-hydrocortisone cypionate,ABCG2
-hydrocortisone cypionate,SLC22A8
-hydrocortisone phosphate,ABCB1
-hydrocortisone phosphate,SLCO1A2
-hydrocortisone phosphate,ABCG2
-hydrocortisone phosphate,SLC22A8
-hydrocortisone probutate,ABCB1
-hydrocortisone probutate,SLCO1A2
-hydrocortisone probutate,ABCG2
-hydrocortisone probutate,SLC22A8
-hydrocortisone valerate,ABCB1
-hydrocortisone valerate,SLCO1A2
-hydrocortisone valerate,ABCG2
-hydrocortisone valerate,SLC22A8
-"zinc sulfate, unspecified form",SLC39A10
-"zinc sulfate, unspecified form",SLC30A7
-"zinc sulfate, unspecified form",SLC30A4
-"zinc sulfate, unspecified form",SLC39A6
-"zinc sulfate, unspecified form",SLC39A5
-"zinc sulfate, unspecified form",SLC39A2
-"zinc sulfate, unspecified form",SLC30A9
-"zinc sulfate, unspecified form",SLC30A1
-"zinc sulfate, unspecified form",SLC30A2
-"zinc sulfate, unspecified form",SLC39A7
-"zinc sulfate, unspecified form",SLC39A4
-"zinc sulfate, unspecified form",SLC30A3
-"zinc sulfate, unspecified form",SLC30A8
-"zinc sulfate, unspecified form",SLC39A12
-"zinc sulfate, unspecified form",SLC30A5
-"zinc sulfate, unspecified form",SLC30A10
-"zinc sulfate, unspecified form",SLC39A13
-"zinc sulfate, unspecified form",SLC39A8
-"zinc sulfate, unspecified form",SLC39A1
-"zinc sulfate, unspecified form",SLC39A14
-"zinc sulfate, unspecified form",SLC39A3
-"zinc sulfate, unspecified form",SLC39A9
-"zinc sulfate, unspecified form",SLC39A11
-"zinc sulfate, unspecified form",SLC30A6
-ivosidenib,SLC22A8
-ivosidenib,ABCB1
-prednisolone phosphate,SLCO1A2
-prednisolone phosphate,ABCB1
-prednisolone phosphate,SLC22A8
-curcumin sulfate,ABCB1
-estriol tripropionate,SLCO1A2
-estriol tripropionate,ABCB1
-lypressin,ABCC2
-larotrectinib,ABCB1
-larotrectinib,ABCG2
-polymyxin b,SLC15A2
-solriamfetol,SLC22A2
-solriamfetol,SLC22A4
-solriamfetol,SLC22A5
-cefiderocol,MEXA
-cefiderocol,MEXB
-cefiderocol,OPRM
-cefiderocol,FIU
-cefiderocol,CIRA
-cefiderocol,PIUA
-trastuzumab deruxtecan,ABCB1
-trastuzumab deruxtecan,SLCO1B1
-trastuzumab deruxtecan,SLCO1B3
-trastuzumab deruxtecan,SLC47A2
-trastuzumab deruxtecan,ABCC1
-trastuzumab deruxtecan,ABCG2
-zanubrutinib,ABCB1
-upadacitinib,ABCB1
-upadacitinib,ABCG2
-upadacitinib,SLCO1B1
-avapritinib,ABCB1
-avapritinib,ABCG2
-ubrogepant,ABCB1
-ubrogepant,ABCG2
-ubrogepant,SLCO1B1
-ubrogepant,SLCO1B3
-ubrogepant,SLC22A6
-ubrogepant,SLC22A2
-elexacaftor,SLCO1B1
-elexacaftor,SLCO1B3
-elexacaftor,ABCB1
-prednisolone acetate,SLCO1A2
-prednisolone acetate,ABCB1
-ferric maltol,ITGB3
-ferric maltol,SLC11A2
-ferric derisomaltose,TFRC
-ferric derisomaltose,TFR2
+DB00027,ABCB1
+DB00067,ABCC2
+DB00091,ABCB1
+DB00091,ABCB11
+DB00091,SLC10A2
+DB00091,SLC10A1
+DB00091,SLC22A6
+DB00091,ABCC10
+DB00091,ABCC2
+DB00091,ABCG2
+DB00091,SLCO1B1
+DB00091,SLCO1B3
+DB00115,AMN
+DB00115,TCN1
+DB00115,TCN2
+DB00115,CBLIF
+DB00115,CUBN
+DB00115,LRP2
+DB00115,ABCC1
+DB00116,ABCC2
+DB00117,SLC16A10
+DB00119,SLC16A7
+DB00119,SLC16A1
+DB00119,SLC16A10
+DB00119,SLCO2A1
+DB00119,SLC16A3
+DB00120,SLC16A10
+DB00121,SLC5A6
+DB00121,SLC5A8
+DB00122,SLC22A2
+DB00122,SLC22A1
+DB00122,SLC22A3
+DB00122,SLC22A5
+DB00122,SLC22A4
+DB00122,SLC44A1
+DB00122,SLC44A4
+DB00122,SLC44A2
+DB00122,SLC44A3
+DB00122,SLC5A7
+DB00123,SLC16A10
+DB00123,SLC22A4
+DB00125,SLC22A5
+DB00125,SLC16A10
+DB00125,SLC22A4
+DB00126,SLC23A1
+DB00126,SLC23A2
+DB00126,SLC2A1
+DB00126,SLC2A3
+DB00126,SLC2A4
+DB00127,SLC22A4
+DB00127,SLC22A1
+DB00128,SLC16A10
+DB00130,SLC38A1
+DB00130,SLC38A2
+DB00130,SLC38A3
+DB00130,SLC1A5
+DB00130,SLC6A14
+DB00130,SLC7A7
+DB00130,SLC7A6
+DB00130,SLC7A5
+DB00130,SLC7A8
+DB00130,SLC7A9
+DB00130,SLC16A10
+DB00133,SLC16A10
+DB00134,SLC16A10
+DB00135,SLC16A2
+DB00135,SLC16A10
+DB00138,SLC16A10
+DB00139,SLC22A8
+DB00140,SLC22A6
+DB00142,SLC16A10
+DB00142,SLC16A1
+DB00143,ABCC1
+DB00143,ABCC2
+DB00143,ABCC3
+DB00143,ABCC4
+DB00143,ABCC5
+DB00145,SLC16A10
+DB00145,SLC36A1
+DB00145,SLC32A1
+DB00145,SLC6A5
+DB00145,SLC6A9
+DB00148,SLC22A5
+DB00149,SLC16A10
+DB00149,SLC16A2
+DB00150,SLC16A2
+DB00150,SLC16A10
+DB00151,SLC16A10
+DB00152,SLC22A2
+DB00152,SLC22A1
+DB00152,SLC22A5
+DB00152,SLC19A2
+DB00152,SLC19A3
+DB00155,SLC22A6
+DB00156,SLC16A10
+DB00158,ABCC11
+DB00158,ABCC3
+DB00158,SLC22A6
+DB00158,ABCC4
+DB00158,ABCG2
+DB00158,SLC46A1
+DB00158,SLC25A32
+DB00160,SLC16A10
+DB00161,SLC16A10
+DB00162,STRA6
+DB00163,SCARB1
+DB00163,ABCA1
+DB00163,NPC1L1
+DB00163,ABCG1
+DB00165,ALPL
+DB00167,SLC16A10
+DB00168,SLC22A6
+DB00168,SLC22A8
+DB00168,SLC22A11
+DB00172,SLC16A10
+DB00174,SLC16A10
+DB00175,SLCO1B1
+DB00175,SLCO2B1
+DB00175,ABCB1
+DB00175,SLCO1A2
+DB00175,SLC22A6
+DB00175,SLC22A8
+DB00175,ABCC2
+DB00175,SLC22A11
+DB00175,ABCG2
+DB00175,SLC22A7
+DB00175,SLC16A1
+DB00175,ABCB11
+DB00175,SLCO1B3
+DB00176,ABCB1
+DB00176,ABCB11
+DB00177,SLCO1B3
+DB00177,SLCO1B1
+DB00177,ABCC2
+DB00178,SLC15A1
+DB00178,SLC15A2
+DB00182,SLC22A3
+DB00182,SLC22A5
+DB00184,SLC22A2
+DB00184,SLC22A1
+DB00184,SLC22A3
+DB00184,SLC22A5
+DB00184,SLC22A4
+DB00196,ABCB1
+DB00197,ABCB11
+DB00197,SLCO1B1
+DB00198,ABCC4
+DB00198,SLC15A1
+DB00198,SLC22A8
+DB00199,SLCO1B3
+DB00199,ABCB11
+DB00199,ABCB1
+DB00199,SLCO1B1
+DB00199,ABCC2
+DB00199,SLCO1A2
+DB00201,ABCG2
+DB00203,ABCC4
+DB00203,ABCC5
+DB00203,ABCC10
+DB00203,SLCO1B1
+DB00203,ABCB1
+DB00204,SLC22A2
+DB00205,SLC47A1
+DB00205,SLC47A2
+DB00206,ABCB1
+DB00206,SLC22A1
+DB00206,ABCB11
+DB00206,ABCC2
+DB00206,SLC22A2
+DB00206,SLCO1B1
+DB00206,SLCO2B1
+DB00207,ABCB1
+DB00207,ABCC2
+DB00211,SLC15A1
+DB00213,ABCB1
+DB00213,ABCG2
+DB00213,SLC22A8
+DB00214,SLCO1B1
+DB00215,ABCB1
+DB00216,ABCB1
+DB00220,ABCB1
+DB00220,SLC22A1
+DB00220,SLCO1A2
+DB00220,ABCG2
+DB00220,SLCO1B1
+DB00220,SLCO1B3
+DB00220,SLCO2B1
+DB00220,ABCB11
+DB00222,ABCB11
+DB00224,ABCB1
+DB00224,SLC22A1
+DB00224,ABCC1
+DB00224,SLCO1A2
+DB00224,SLCO1B1
+DB00224,ABCC2
+DB00224,SLCO2B1
+DB00224,ABCB11
+DB00227,ABCB1
+DB00227,SLCO1A2
+DB00227,SLCO1B1
+DB00227,ABCC2
+DB00227,ABCB11
+DB00227,SLCO2B1
+DB00227,SLCO1B3
+DB00229,SLC22A6
+DB00229,SLC22A8
+DB00230,SLC1A1
+DB00230,SLC7A5
+DB00234,ABCB1
+DB00238,SLC22A1
+DB00242,ABCG2
+DB00242,SLC28A3
+DB00243,ABCB11
+DB00243,ABCB1
+DB00243,SLC47A1
+DB00243,SLC47A2
+DB00246,ABCB1
+DB00248,ABCB1
+DB00252,SLCO1C1
+DB00252,ABCB1
+DB00252,ABCC2
+DB00253,SLCO1A2
+DB00253,ABCB1
+DB00253,SLC22A8
+DB00254,SLC22A6
+DB00254,ABCB5
+DB00255,ABCG2
+DB00255,ABCB1
+DB00255,SLCO1B1
+DB00255,SLCO2B1
+DB00255,ABCB11
+DB00257,ABCB1
+DB00257,ABCB11
+DB00257,SLCO1B1
+DB00257,SLCO1B3
+DB00260,SLC36A2
+DB00264,SLC22A2
+DB00270,ABCB11
+DB00273,ABCB1
+DB00273,PRKAA1
+DB00273,PRKAA2
+DB00273,PRKAB1
+DB00273,PRKAB2
+DB00273,PRKAG1
+DB00273,PRKAG2
+DB00273,PRKAG3
+DB00274,SLC15A1
+DB00274,SLC15A2
+DB00275,ABCC2
+DB00275,SLCO1B3
+DB00275,SLCO1B1
+DB00275,ABCB11
+DB00276,ABCB1
+DB00277,SLC22A7
+DB00279,SLCO1A2
+DB00279,SLCO1B1
+DB00279,SLCO1B3
+DB00279,SLCO4C1
+DB00279,SLC10A1
+DB00279,SLCO1C1
+DB00279,SLCO4A1
+DB00279,SLC22A8
+DB00279,SLC16A10
+DB00279,ABCB1
+DB00279,SLC7A5
+DB00280,SLC22A1
+DB00280,SLC22A2
+DB00281,SLC22A5
+DB00281,ABCB1
+DB00285,ABCB1
+DB00285,ABCG2
+DB00286,ABCC3
+DB00286,ABCC4
+DB00286,ABCC1
+DB00286,SLCO1A2
+DB00286,SLC10A1
+DB00286,SLC22A10
+DB00286,SLC22A8
+DB00286,SLCO1C1
+DB00286,SLCO1B1
+DB00286,SLCO2B1
+DB00286,ABCB1
+DB00286,SLC22A6
+DB00286,SLC51A
+DB00286,SLC51B
+DB00286,ABCC2
+DB00286,SLCO4A1
+DB00286,ABCC11
+DB00286,SLCO1B3
+DB00286,SLC22A11
+DB00286,SLCO3A1
+DB00286,ABCG2
+DB00291,SLCO1A2
+DB00295,ABCB1
+DB00300,SLC22A6
+DB00300,SLC22A8
+DB00300,ABCC10
+DB00300,ABCC4
+DB00300,ABCC2
+DB00300,ABCB1
+DB00301,ABCB11
+DB00302,SLC15A2
+DB00311,SLC22A6
+DB00313,SLC22A6
+DB00313,SLC22A8
+DB00313,SLC22A5
+DB00313,SLC16A1
+DB00313,SLC22A7
+DB00313,SLCO2B1
+DB00316,ABCB1
+DB00317,ABCB1
+DB00317,ABCG2
+DB00318,SLC22A1
+DB00319,SLC22A6
+DB00319,SLC22A8
+DB00320,ABCB1
+DB00321,ABCB1
+DB00328,ABCC3
+DB00328,ABCC4
+DB00328,ABCC6
+DB00328,ABCB1
+DB00328,ABCC1
+DB00328,SLCO1A2
+DB00328,SLC22A6
+DB00328,SLC22A8
+DB00328,ABCC2
+DB00328,ABCC11
+DB00328,SLC22A11
+DB00328,SLC10A1
+DB00328,SLC22A7
+DB00328,SLCO1B1
+DB00328,ABCB11
+DB00331,SLC22A1
+DB00331,SLC22A2
+DB00331,SLC22A3
+DB00331,SLC47A1
+DB00331,SLC29A4
+DB00331,SLC47A2
+DB00332,SLC22A5
+DB00332,SLC22A4
+DB00333,ABCB1
+DB00334,ABCB1
+DB00335,ABCB11
+DB00338,ABCG2
+DB00338,ABCC3
+DB00338,ABCB1
+DB00341,ABCB1
+DB00342,ABCB1
+DB00342,ABCB11
+DB00343,ABCB1
+DB00344,ABCB1
+DB00345,SLC22A2
+DB00345,SLC22A5
+DB00345,SLC22A6
+DB00345,SLC22A8
+DB00345,ABCC2
+DB00345,SLC22A4
+DB00345,SLC22A11
+DB00345,SLCO3A1
+DB00345,SLCO1B1
+DB00345,ABCC1
+DB00345,SLCO1A2
+DB00345,SLC16A1
+DB00345,SLC22A7
+DB00349,SLC6A1
+DB00349,SLC6A11
+DB00349,ABCB1
+DB00351,ABCB1
+DB00352,ABCC4
+DB00358,ABCB1
+DB00363,ABCB1
+DB00365,ABCB1
+DB00365,ABCC1
+DB00365,SLC22A6
+DB00365,SLC22A2
+DB00365,SLC22A5
+DB00365,ABCC2
+DB00368,SLC6A2
+DB00368,SLC22A2
+DB00368,SLC22A3
+DB00368,SLC22A5
+DB00368,SLC22A1
+DB00368,POU5F1
+DB00369,SLC22A6
+DB00370,SLC6A4
+DB00373,ABCB1
+DB00381,ABCB1
+DB00382,ABCB1
+DB00390,ABCB1
+DB00390,SLCO4C1
+DB00390,ABCB11
+DB00390,SLCO1A2
+DB00390,SLC51A
+DB00390,SLC51B
+DB00390,SLCO1B1
+DB00394,ABCB1
+DB00394,ABCG2
+DB00394,SLCO1B1
+DB00394,SLCO1B3
+DB00396,ABCB1
+DB00396,SLC22A2
+DB00396,SLC22A1
+DB00396,SLC22A3
+DB00396,ABCB11
+DB00396,ABCC1
+DB00396,SLC10A1
+DB00396,SLCO1B1
+DB00396,ABCG2
+DB00396,SLCO1B3
+DB00398,ABCG2
+DB00398,ABCC4
+DB00398,ABCC2
+DB00398,ABCB1
+DB00398,RALBP1
+DB00398,SLCO1B1
+DB00399,ABCC1
+DB00401,ABCB1
+DB00406,SLC22A1
+DB00412,SLCO1B1
+DB00412,ABCB11
+DB00413,SLC22A2
+DB00413,SLC22A1
+DB00413,SLC22A3
+DB00415,SLC22A5
+DB00415,SLC15A1
+DB00415,SLC15A2
+DB00415,SLC16A1
+DB00421,ABCC2
+DB00421,ABCB1
+DB00421,SLCO1A2
+DB00421,ABCB11
+DB00428,ABCB1
+DB00432,SLC22A6
+DB00432,SLC28A1
+DB00432,SLC29A1
+DB00432,SLC29A2
+DB00437,SLC22A8
+DB00437,SLC22A7
+DB00437,ABCG2
+DB00437,SLC22A2
+DB00438,SLC22A5
+DB00438,SLC15A1
+DB00438,SLC15A2
+DB00438,SLC22A6
+DB00439,ABCB1
+DB00439,ABCC2
+DB00439,ABCG2
+DB00439,SLCO1B1
+DB00439,ABCB11
+DB00440,ABCB1
+DB00440,SLC47A1
+DB00440,SLC47A2
+DB00441,ABCB1
+DB00441,ABCC10
+DB00441,SLC29A1
+DB00441,SLC28A1
+DB00441,SLC29A2
+DB00441,SLC28A3
+DB00443,ABCB1
+DB00444,ABCC6
+DB00444,ABCG2
+DB00445,ABCC1
+DB00446,SLC22A6
+DB00447,SLC15A1
+DB00447,SLC15A2
+DB00448,ABCG2
+DB00448,ABCB1
+DB00448,SLC22A8
+DB00448,SLC22A1
+DB00448,SLC22A2
+DB00448,SLC22A3
+DB00451,SLCO1C1
+DB00451,SLC16A2
+DB00451,ABCB1
+DB00451,SLCO1A2
+DB00451,SLCO1B1
+DB00451,SLCO1B3
+DB00451,SLCO4A1
+DB00451,SLCO4C1
+DB00451,SLC7A5
+DB00451,SLCO2B1
+DB00454,ABCB1
+DB00455,ABCB1
+DB00455,ABCB11
+DB00456,SLC22A5
+DB00456,SLC15A1
+DB00456,SLC15A2
+DB00456,SLC22A6
+DB00456,SLC22A8
+DB00456,SLC22A11
+DB00456,SLC22A7
+DB00457,SLC22A1
+DB00457,SLC22A3
+DB00457,ABCB1
+DB00457,ABCG2
+DB00458,ABCB1
+DB00458,SLC22A2
+DB00458,SLC22A3
+DB00458,SLC22A4
+DB00468,SLC22A2
+DB00468,SLC22A1
+DB00468,SLC22A5
+DB00468,ABCB1
+DB00468,SLCO1A2
+DB00468,SLC22A4
+DB00468,SLCO1B1
+DB00469,SLC22A8
+DB00470,ABCB1
+DB00470,ABCG2
+DB00471,SLCO2B1
+DB00472,ABCB1
+DB00476,ABCB1
+DB00477,ABCB1
+DB00477,ABCB11
+DB00480,ABCB1
+DB00481,SLCO1B1
+DB00481,SLCO1B3
+DB00481,ABCB1
+DB00481,ABCG2
+DB00481,ABCC2
+DB00481,ABCC3
+DB00481,ABCC4
+DB00482,ABCC4
+DB00482,ABCB11
+DB00482,ABCB1
+DB00482,ABCG2
+DB00485,SLC15A1
+DB00485,SLC15A2
+DB00490,ABCB1
+DB00492,SLC15A1
+DB00492,SLC15A2
+DB00493,SLC15A1
+DB00493,SLC15A2
+DB00493,SLC22A6
+DB00493,SLC22A8
+DB00493,SLC22A11
+DB00493,SLC22A7
+DB00495,SLC22A2
+DB00495,SLC22A6
+DB00495,SLC22A7
+DB00495,SLC22A8
+DB00495,SLC22A11
+DB00495,SLC28A1
+DB00495,SLC29A2
+DB00495,ABCB1
+DB00495,ABCC4
+DB00495,ABCC5
+DB00495,ABCG2
+DB00500,SLC22A6
+DB00501,ABCB1
+DB00501,SLC22A2
+DB00501,SLC22A1
+DB00501,SLC22A3
+DB00501,SLC22A5
+DB00501,SLC22A6
+DB00501,SLC22A8
+DB00501,SLC47A1
+DB00501,SLC22A4
+DB00501,SLC22A11
+DB00501,SLC22A7
+DB00501,ABCB11
+DB00501,SLC47A2
+DB00502,ABCB1
+DB00503,ABCB1
+DB00503,ABCC1
+DB00503,SLCO1A2
+DB00503,ABCC2
+DB00503,ABCG2
+DB00503,SLCO1B1
+DB00503,SLCO2B1
+DB00503,ABCB11
+DB00503,SLCO1B3
+DB00508,ABCB1
+DB00509,SLCO1B1
+DB00509,SLCO1C1
+DB00509,SLCO4A1
+DB00509,SLCO4C1
+DB00509,SLC7A5
+DB00515,ABCC3
+DB00515,ABCC5
+DB00515,ABCC2
+DB00515,SLC22A2
+DB00515,SLC31A1
+DB00515,SLC31A2
+DB00515,ABCC6
+DB00515,ABCB1
+DB00515,ATP7B
+DB00515,ATP7A
+DB00515,ABCG2
+DB00518,ABCB1
+DB00519,SLC15A1
+DB00519,SLC15A2
+DB00520,SLC22A1
+DB00520,ABCB1
+DB00520,SLC22A6
+DB00520,SLCO1B1
+DB00520,SLCO1B3
+DB00523,ABCB1
+DB00526,SLC22A2
+DB00526,SLC31A1
+DB00526,SLC22A3
+DB00526,ABCG2
+DB00526,ABCC2
+DB00526,ATP7B
+DB00526,ATP7A
+DB00529,SLC22A6
+DB00529,SLC16A1
+DB00530,ABCG2
+DB00530,ABCB1
+DB00530,SLCO2B1
+DB00533,ABCC4
+DB00535,SLC22A5
+DB00535,SLC15A1
+DB00535,SLC15A2
+DB00535,SLC22A6
+DB00535,SLC22A8
+DB00536,SLC22A2
+DB00536,SLC22A1
+DB00536,SLC22A3
+DB00536,SLC22A5
+DB00536,SLC22A8
+DB00536,SLC22A4
+DB00536,SLC47A1
+DB00536,SLC47A2
+DB00537,ABCB1
+DB00537,SLC47A1
+DB00537,SLC47A2
+DB00539,ABCB1
+DB00540,SLC6A2
+DB00540,ABCB1
+DB00541,ABCB1
+DB00541,ABCC3
+DB00541,SLC22A3
+DB00541,ABCC1
+DB00541,ABCC10
+DB00541,ABCC2
+DB00541,ABCB11
+DB00541,ABCG2
+DB00541,RALBP1
+DB00541,SLCO1B1
+DB00541,SLCO1B3
+DB00542,SLC15A1
+DB00542,SLC15A2
+DB00544,SLC22A7
+DB00544,SLC29A1
+DB00544,ABCG2
+DB00544,ABCC3
+DB00544,ABCC4
+DB00544,ABCC5
+DB00549,ABCG2
+DB00554,SLC22A6
+DB00554,SLC22A8
+DB00554,SLC22A11
+DB00554,SLCO2B1
+DB00555,ABCB1
+DB00555,SLC22A2
+DB00555,SLC22A1
+DB00557,ABCB1
+DB00559,ABCB11
+DB00563,ABCC3
+DB00563,ABCC4
+DB00563,ABCC1
+DB00563,SLC22A6
+DB00563,ABCC10
+DB00563,SLC22A8
+DB00563,ABCC2
+DB00563,ABCB1
+DB00563,SLCO1A2
+DB00563,SLC16A1
+DB00563,ABCC11
+DB00563,SLCO1B3
+DB00563,SLC22A11
+DB00563,SLCO1C1
+DB00563,SLCO3A1
+DB00563,ABCG2
+DB00563,SLC22A7
+DB00563,SLC46A1
+DB00563,SLCO1B1
+DB00563,SLCO4C1
+DB00563,SLC19A1
+DB00563,FOLR1
+DB00563,FOLR2
+DB00563,SLC15A1
+DB00563,SLC36A1
+DB00564,ABCB1
+DB00564,RALBP1
+DB00564,ABCC2
+DB00567,SLC22A5
+DB00567,SLC15A1
+DB00567,SLC15A2
+DB00567,SLC22A6
+DB00567,SLC47A1
+DB00567,SLC22A8
+DB00570,ABCB1
+DB00570,ABCC1
+DB00570,ABCC2
+DB00570,ABCC6
+DB00570,ABCB11
+DB00570,SLCO1B1
+DB00571,SLC22A2
+DB00571,ABCB1
+DB00572,ABCB11
+DB00575,SLC22A3
+DB00575,SLC22A5
+DB00575,SLC22A4
+DB00575,ABCB1
+DB00577,SLC15A1
+DB00577,SLC15A2
+DB00577,SLC22A8
+DB00577,SLC22A6
+DB00577,SLC6A14
+DB00577,SLC10A2
+DB00578,SLC22A6
+DB00583,SLC22A4
+DB00583,SLCO1B1
+DB00583,SLC22A5
+DB00583,SLC22A16
+DB00583,SLC22A8
+DB00584,ABCB1
+DB00584,SLC15A1
+DB00584,SLC22A6
+DB00584,SLC22A8
+DB00584,SLC22A7
+DB00584,SLCO1A2
+DB00585,ABCB1
+DB00586,SLC22A6
+DB00586,ABCC4
+DB00586,ABCC1
+DB00586,SLC22A8
+DB00586,SLC22A11
+DB00586,SLCO1C1
+DB00586,SLCO1B1
+DB00586,ABCB11
+DB00586,SCN4A
+DB00586,ASIC1
+DB00586,KCNQ2
+DB00586,KCNQ3
+DB00586,ABCB1
+DB00588,ABCB1
+DB00588,SLCO1B1
+DB00590,ABCB1
+DB00590,SLC22A1
+DB00594,SLC22A2
+DB00594,SLC22A4
+DB00595,SLC22A6
+DB00595,SLC22A8
+DB00595,SLC22A11
+DB00595,SLC22A7
+DB00598,ABCB5
+DB00602,ABCB1
+DB00602,ABCC1
+DB00602,ABCC2
+DB00602,ABCG2
+DB00602,SLCO1B1
+DB00602,SLCO1B3
+DB00603,ABCB1
+DB00605,SLC22A6
+DB00606,SLC22A6
+DB00607,SLC22A6
+DB00608,ABCB1
+DB00612,ABCB1
+DB00613,ABCB1
+DB00615,ABCB1
+DB00619,SLC22A1
+DB00619,ABCB1
+DB00619,SLC22A2
+DB00619,ABCG2
+DB00619,ABCA3
+DB00619,ABCB11
+DB00622,ABCB1
+DB00622,SLCO1B1
+DB00622,ABCB11
+DB00623,ABCB1
+DB00624,SLC22A8
+DB00624,SLC22A7
+DB00624,SLC10A1
+DB00624,ABCG2
+DB00624,SLCO1B3
+DB00625,ABCB11
+DB00625,SLC22A1
+DB00626,BCRA
+DB00626,BCRB
+DB00626,BCRC
+DB00627,SLC22A5
+DB00627,SLCO2B1
+DB00627,SLC16A1
+DB00627,SLC5A8
+DB00627,SLC16A3
+DB00631,ABCG2
+DB00635,ABCB1
+DB00635,SLCO1A2
+DB00637,ABCB1
+DB00637,ABCB11
+DB00640,SLC28A3
+DB00641,ABCB1
+DB00641,SLCO1A2
+DB00641,SLCO1B1
+DB00641,ABCC2
+DB00641,ABCB11
+DB00641,SLCO2B1
+DB00641,SLCO1B3
+DB00642,SLC22A8
+DB00646,SLCO1B1
+DB00646,SLCO1B3
+DB00648,ABCB1
+DB00649,SLC22A6
+DB00649,SLC28A1
+DB00650,SLC22A8
+DB00652,ABCB1
+DB00654,SLCO2A1
+DB00654,SLC22A6
+DB00654,SLC22A8
+DB00655,SLCO2B1
+DB00655,ABCB1
+DB00655,SLCO1A2
+DB00655,ABCG2
+DB00655,SLCO1B1
+DB00655,SLC22A8
+DB00656,ABCB1
+DB00659,SLC36A1
+DB00661,ABCB1
+DB00661,SLC22A1
+DB00661,SLC22A4
+DB00661,SLC22A5
+DB00661,ABCC3
+DB00661,SLCO1B1
+DB00661,SLCO1A2
+DB00661,ABCC1
+DB00661,ABCC4
+DB00661,ABCC10
+DB00661,SLC47A1
+DB00661,SLC47A2
+DB00668,SLC22A2
+DB00668,SLC22A1
+DB00669,SLCO1A2
+DB00669,ABCB1
+DB00669,ABCG2
+DB00669,SLCO1B1
+DB00671,SLC22A5
+DB00671,SLC15A1
+DB00671,SLC15A2
+DB00672,SLC15A1
+DB00672,SLC15A2
+DB00672,SLC22A6
+DB00675,ABCB1
+DB00675,ABCG2
+DB00675,ABCC2
+DB00675,ABCB11
+DB00675,ABCA1
+DB00678,ABCB1
+DB00678,SLC22A6
+DB00678,SLC22A12
+DB00678,SLC2A9
+DB00678,ABCB11
+DB00688,SLCO1B1
+DB00688,SLCO1B3
+DB00688,ABCG2
+DB00688,ABCB1
+DB00688,ABCC2
+DB00689,SLC22A5
+DB00690,ABCB1
+DB00690,SLC22A2
+DB00691,SLC15A1
+DB00691,SLC15A2
+DB00693,SLC22A6
+DB00693,ABCB11
+DB00693,ABCC1
+DB00694,ABCB1
+DB00694,ABCC1
+DB00694,ABCC10
+DB00694,ABCC2
+DB00694,ABCC6
+DB00694,ABCB11
+DB00694,ABCG2
+DB00695,SLC22A6
+DB00695,SLC22A5
+DB00695,SLC22A8
+DB00695,ABCC2
+DB00695,SLCO2A1
+DB00695,SLC22A11
+DB00696,ABCB1
+DB00698,ABCG2
+DB00698,ABCB11
+DB00698,ABCB1
+DB00698,ABCC2
+DB00701,ABCB1
+DB00701,ABCC1
+DB00701,SLCO1B1
+DB00703,SLC22A6
+DB00709,ABCC1
+DB00709,SLC22A6
+DB00709,ABCG2
+DB00709,SLC22A1
+DB00709,SLC22A2
+DB00709,SLC22A3
+DB00709,ABCB1
+DB00709,ABCC4
+DB00709,ABCC3
+DB00709,ABCC2
+DB00712,ABCC4
+DB00712,SLC22A6
+DB00713,SLC15A1
+DB00713,SLC15A2
+DB00715,ABCB1
+DB00717,ABCB1
+DB00718,SLC22A6
+DB00718,ABCC4
+DB00718,ABCC5
+DB00718,SLC22A3
+DB00721,SLC6A3
+DB00721,SLC6A2
+DB00721,SLC6A4
+DB00722,SLC15A1
+DB00722,SLC15A2
+DB00726,ABCB1
+DB00728,SLC22A1
+DB00728,SLCO1A2
+DB00731,ABCC4
+DB00731,SLC16A1
+DB00731,SLC15A1
+DB00731,SLC15A2
+DB00731,SLC22A6
+DB00734,ABCB1
+DB00736,ABCB1
+DB00736,SLC22A8
+DB00740,ABCG2
+DB00741,ABCB1
+DB00741,SLCO1A2
+DB00741,SLC22A8
+DB00747,ABCB1
+DB00749,SLC22A6
+DB00751,ABCB1
+DB00755,CRABP1
+DB00755,CRABP2
+DB00758,ABCB1
+DB00758,SLC22A1
+DB00758,SLC22A2
+DB00759,SLC22A6
+DB00759,SLC22A8
+DB00759,SLC22A11
+DB00759,SLC22A7
+DB00759,SLCO2B1
+DB00761,SLC12A2
+DB00761,SLC12A1
+DB00761,SLC12A5
+DB00761,SLC12A6
+DB00761,SLC12A7
+DB00761,SLC12A4
+DB00762,SLC22A3
+DB00762,SLCO1B1
+DB00762,ABCC1
+DB00762,ABCG2
+DB00762,ABCB1
+DB00762,ABCC2
+DB00766,SLC5A1
+DB00768,ABCB1
+DB00770,ABCC5
+DB00770,SLCO2B1
+DB00770,SLCO3A1
+DB00770,ABCC4
+DB00770,SLCO2A1
+DB00770,SLC22A6
+DB00773,ABCC3
+DB00773,ABCC6
+DB00773,ABCB1
+DB00773,ABCC1
+DB00773,ABCC10
+DB00773,ABCC2
+DB00773,ABCG2
+DB00774,SLC22A6
+DB00774,SLC22A8
+DB00776,ABCB1
+DB00779,SLC22A6
+DB00783,SLC22A2
+DB00783,SLC22A3
+DB00783,ABCC10
+DB00783,SLC22A11
+DB00783,ABCG2
+DB00783,SLCO1B1
+DB00783,ABCB1
+DB00783,SLC22A8
+DB00783,SLCO1B3
+DB00783,SLCO1C1
+DB00787,SLC22A1
+DB00787,SLC22A6
+DB00787,SLC22A8
+DB00787,SLC10A2
+DB00787,SLC47A1
+DB00787,SLC47A2
+DB00788,SLCO1A2
+DB00788,SLC22A6
+DB00788,ABCB11
+DB00788,ABCB1
+DB00788,SLC22A8
+DB00790,SLC15A1
+DB00790,SLC15A2
+DB00794,TRPM3
+DB00795,ABCG2
+DB00795,ABCC2
+DB00795,SLC46A1
+DB00795,SLCO1B1
+DB00795,SLCO1B3
+DB00795,SLCO2B1
+DB00796,ABCB1
+DB00798,SLC22A6
+DB00802,ABCB1
+DB00811,SLC29A1
+DB00811,SLC28A3
+DB00812,SLC22A6
+DB00812,SLC22A8
+DB00812,SLC22A11
+DB00813,ABCB1
+DB00814,ABCC4
+DB00818,ABCB1
+DB00819,SLC22A6
+DB00821,SLC22A6
+DB00822,ABCB11
+DB00827,SLC22A6
+DB00829,ABCB1
+DB00831,ABCB1
+DB00833,SLC15A1
+DB00833,SLC15A2
+DB00833,SLC22A8
+DB00833,ABCB11
+DB00834,ABCB1
+DB00834,ABCC1
+DB00834,ABCB11
+DB00834,SLCO1B1
+DB00834,SLCO1B3
+DB00836,ABCB1
+DB00843,ABCG2
+DB00845,ABCB11
+DB00845,ABCB1
+DB00852,SLC6A2
+DB00852,SLC6A3
+DB00852,SLC6A4
+DB00855,SLC15A1
+DB00855,SLC15A2
+DB00857,MDR2
+DB00859,SLCO1B1
+DB00860,SLCO1A2
+DB00860,ABCB1
+DB00861,SLC22A6
+DB00862,ABCB1
+DB00863,SLC22A1
+DB00863,ABCB1
+DB00863,SLC22A8
+DB00863,SLC22A2
+DB00864,ABCB1
+DB00864,ABCA5
+DB00864,SLCO1B1
+DB00870,SLC22A12
+DB00872,ABCB1
+DB00875,ABCB1
+DB00876,ABCC2
+DB00877,ABCB1
+DB00877,SLCO1B1
+DB00877,SLC47A1
+DB00879,SLC47A1
+DB00880,SLC22A6
+DB00881,SLC15A1
+DB00881,SLC15A2
+DB00881,SLC22A8
+DB00882,ABCB1
+DB00887,SLC10A1
+DB00887,SLC22A6
+DB00887,SLC22A8
+DB00887,SLC22A11
+DB00887,SLC22A7
+DB00887,SLCO1A2
+DB00900,SLC22A6
+DB00900,SLC29A1
+DB00900,SLC29A2
+DB00903,SLC22A6
+DB00907,SLC22A2
+DB00907,SLC6A3
+DB00908,SLC22A2
+DB00908,SLC22A1
+DB00908,SLC22A5
+DB00908,ABCB1
+DB00908,SLCO1A2
+DB00908,SLC22A8
+DB00908,ABCC2
+DB00908,SLC22A4
+DB00908,SLCO1B1
+DB00908,ABCB11
+DB00909,ABCB1
+DB00911,ABCB11
+DB00912,SLCO1B1
+DB00912,ABCB11
+DB00914,SLC22A2
+DB00914,SLC22A1
+DB00915,SLC22A2
+DB00915,SLC22A1
+DB00916,ABCB1
+DB00917,SLC22A2
+DB00917,ABCC5
+DB00917,SLC22A6
+DB00917,SLC22A8
+DB00917,SLC22A11
+DB00917,SLC22A7
+DB00917,ABCC4
+DB00917,SLCO2B1
+DB00917,SLCO1A2
+DB00917,SLC51A
+DB00917,SLC51B
+DB00917,SLCO2A1
+DB00917,SLCO4A1
+DB00917,SLCO1C1
+DB00917,SLCO3A1
+DB00917,SLCO1B1
+DB00921,ABCB1
+DB00921,ABCG2
+DB00925,SLC22A2
+DB00925,SLC22A1
+DB00925,SLC22A3
+DB00927,SLC22A6
+DB00927,SLC22A8
+DB00927,SLC22A2
+DB00927,SLC47A1
+DB00932,ABCB11
+DB00932,SLCO2B1
+DB00932,SLCO1B1
+DB00932,SLCO1B3
+DB00932,ABCB1
+DB00936,SLC22A6
+DB00936,SLC22A10
+DB00936,SLC22A8
+DB00936,SLC22A11
+DB00936,SLCO2B1
+DB00936,SLC16A1
+DB00936,SLC22A7
+DB00938,SLC22A1
+DB00938,SLC22A3
+DB00938,SLC22A2
+DB00939,SLC22A6
+DB00939,SLCO1C1
+DB00943,SLC22A6
+DB00943,SLC22A7
+DB00943,SLC29A1
+DB00943,SLC29A2
+DB00945,SLC22A6
+DB00945,ABCB1
+DB00945,SLC22A8
+DB00950,ABCB1
+DB00950,SLCO1B1
+DB00950,SLCO1B3
+DB00950,SLCO2B1
+DB00950,SLCO1A2
+DB00950,ABCC2
+DB00950,ABCC3
+DB00950,SLC22A8
+DB00957,ABCC2
+DB00957,ABCB1
+DB00958,SLC31A1
+DB00958,SLC31A2
+DB00958,ATP7A
+DB00958,ATP7B
+DB00958,ABCG2
+DB00958,ABCC2
+DB00959,ABCB1
+DB00966,ABCB1
+DB00966,ABCC2
+DB00966,ABCG2
+DB00966,ABCB11
+DB00967,ABCB1
+DB00968,SLC15A1
+DB00970,SLC22A5
+DB00970,ABCB1
+DB00970,ABCC6
+DB00970,ABCC1
+DB00970,ABCG2
+DB00972,ABCB1
+DB00973,ABCB1
+DB00973,ABCC2
+DB00973,ABCC3
+DB00973,SLCO1B1
+DB00973,ABCG2
+DB00973,ABCB11
+DB00975,ABCC4
+DB00975,ABCC5
+DB00975,ABCB1
+DB00975,SLCO1B1
+DB00975,SLCO1B3
+DB00975,SLCO2B1
+DB00975,ABCB11
+DB00976,SLCO1B1
+DB00976,SLCO1B3
+DB00977,ABCB11
+DB00977,SLC10A1
+DB00977,ABCC2
+DB00977,ABCB1
+DB00977,SLCO1A2
+DB00978,SLC22A5
+DB00978,ABCC2
+DB00983,SLC22A1
+DB00983,SLC22A3
+DB00983,SLC22A4
+DB00983,SLC22A5
+DB00987,SLC22A4
+DB00987,ABCC10
+DB00987,SLC29A1
+DB00988,SLC22A2
+DB00988,SLC22A1
+DB00988,SLC22A3
+DB00988,SLC22A5
+DB00988,POU5F1
+DB00993,SLC29A2
+DB00993,SLC28A3
+DB00993,ABCB1
+DB00993,SLC43A3
+DB00996,SLC7A5
+DB00997,ABCB1
+DB00997,ABCC1
+DB00997,ABCC3
+DB00997,ABCC6
+DB00997,ABCG2
+DB00997,SLC22A16
+DB00997,ABCC10
+DB00997,ABCB8
+DB00997,ABCB11
+DB00997,RALBP1
+DB00997,ABCC2
+DB00999,SLC22A6
+DB00999,SLC22A8
+DB00999,SLC22A11
+DB00999,ABCC4
+DB01000,SLC22A5
+DB01000,SLC15A1
+DB01000,SLC15A2
+DB01004,SLC22A1
+DB01004,SLC22A6
+DB01004,SLC22A8
+DB01004,SLC22A7
+DB01004,SLC47A1
+DB01004,SLC47A2
+DB01006,ABCB1
+DB01009,ABCC4
+DB01009,SLCO1A2
+DB01009,SLC22A6
+DB01009,SLC22A8
+DB01009,SLC22A11
+DB01009,SLC22A7
+DB01011,ABCC3
+DB01015,ABCB11
+DB01016,ABCC3
+DB01016,ABCB11
+DB01016,ABCB1
+DB01016,ABCC1
+DB01016,SLC15A1
+DB01016,SLCO1A2
+DB01016,SLC15A2
+DB01016,SLC22A6
+DB01016,ABCC2
+DB01016,ABCG2
+DB01016,SLC22A7
+DB01016,SLCO2B1
+DB01017,OMPF
+DB01017,OMPC
+DB01017,SLC22A6
+DB01017,SLC22A7
+DB01018,SLC47A1
+DB01018,SLC22A1
+DB01018,SLC22A2
+DB01023,ABCB1
+DB01023,ABCB11
+DB01026,ABCB1
+DB01026,SLCO1B1
+DB01026,ABCB11
+DB01030,ABCG2
+DB01030,ABCB1
+DB01030,SLC47A1
+DB01030,SLC47A2
+DB01032,SLC22A2
+DB01032,SLC22A1
+DB01032,ABCC3
+DB01032,ABCC4
+DB01032,ABCC5
+DB01032,SLC16A7
+DB01032,SLC22A5
+DB01032,ABCC6
+DB01032,ABCC1
+DB01032,SLCO1A2
+DB01032,SLC16A1
+DB01032,SLC10A1
+DB01032,SLC22A6
+DB01032,SLC22A10
+DB01032,SLC22A8
+DB01032,ABCC2
+DB01032,ABCC11
+DB01032,SLC22A11
+DB01032,SLCO1C1
+DB01032,SLC22A7
+DB01032,SLC22A12
+DB01032,SLC2A9
+DB01033,SLC22A8
+DB01033,ABCC4
+DB01033,ABCC5
+DB01033,SLC28A2
+DB01033,SLC28A3
+DB01033,SLC29A1
+DB01033,SLC29A2
+DB01035,SLC22A2
+DB01035,SLC22A1
+DB01035,SLC22A3
+DB01035,SLC22A5
+DB01035,SLC22A4
+DB01035,SLC47A1
+DB01035,SLC47A2
+DB01037,ABCB1
+DB01039,ABCB11
+DB01042,SLC22A3
+DB01042,SLC7A5
+DB01043,SLC22A2
+DB01043,SLC9A1
+DB01043,SLC22A4
+DB01043,SLC47A1
+DB01045,ABCB1
+DB01045,SLCO1B3
+DB01045,ABCC1
+DB01045,SLC22A7
+DB01045,SLCO1B1
+DB01045,ABCC3
+DB01045,ABCC5
+DB01045,SLCO2B1
+DB01045,SLCO1A2
+DB01045,ABCB11
+DB01045,ABCC2
+DB01045,SLC22A6
+DB01045,SLC22A8
+DB01050,SLCO2B1
+DB01050,ABCB1
+DB01050,ABCC4
+DB01050,ABCC1
+DB01050,SLCO1A2
+DB01050,SLC22A6
+DB01050,SLC22A8
+DB01050,SLC22A11
+DB01051,SLC22A6
+DB01051,SLC22A8
+DB01051,SLC22A11
+DB01051,ABCG2
+DB01051,SLCO1B1
+DB01051,SLCO1B3
+DB01051,SLCO2B1
+DB01053,SLC22A5
+DB01053,SLC15A1
+DB01053,SLC15A2
+DB01053,SLC22A6
+DB01053,SLC22A8
+DB01053,SLC22A4
+DB01053,SLC22A11
+DB01053,SLCO2B1
+DB01053,SLCO4A1
+DB01053,SLCO3A1
+DB01053,SLCO1B1
+DB01054,ABCB1
+DB01054,ABCB11
+DB01059,SLC22A5
+DB01059,SLC22A6
+DB01060,SLC15A1
+DB01060,SLC15A2
+DB01060,SLC22A6
+DB01065,SLC22A8
+DB01067,ABCB11
+DB01069,ABCB1
+DB01069,ABCC3
+DB01069,ABCC4
+DB01072,ABCB1
+DB01072,ABCC1
+DB01072,SLCO1B1
+DB01072,SLCO1B3
+DB01072,ABCB11
+DB01072,SLCO2B1
+DB01073,SLC29A1
+DB01073,SLC28A3
+DB01075,SLC22A2
+DB01075,SLC22A5
+DB01076,ABCB1
+DB01076,SLCO1A2
+DB01076,SLCO1B1
+DB01076,ABCC4
+DB01076,ABCC5
+DB01076,ABCC1
+DB01076,SLCO2B1
+DB01076,SLCO1B3
+DB01076,ABCC2
+DB01076,ABCB11
+DB01079,SLC6A4
+DB01079,ABCG2
+DB01079,ABCB1
+DB01080,SLC36A1
+DB01082,SLC22A6
+DB01086,ABCB1
+DB01087,ABCB1
+DB01088,SLCO2B1
+DB01088,SLCO2A1
+DB01088,SLCO3A1
+DB01092,SLCO1A2
+DB01092,SLC22A8
+DB01092,SLCO4C1
+DB01092,SLCO1B3
+DB01092,SLCO1C1
+DB01092,SLCO1B1
+DB01094,ABCG2
+DB01095,SLCO1B1
+DB01095,SLCO1B3
+DB01095,SLCO2B1
+DB01095,SLC15A1
+DB01095,ABCC2
+DB01097,ABCG2
+DB01098,ABCC4
+DB01098,SLCO1A2
+DB01098,SLCO1B1
+DB01098,SLCO1B3
+DB01098,SLCO2B1
+DB01098,SLC7A11
+DB01098,ABCB11
+DB01098,ABCG2
+DB01098,ABCC2
+DB01098,SLC22A8
+DB01098,SLC10A1
+DB01100,ABCB1
+DB01103,SLC22A2
+DB01103,ABCB1
+DB01104,ABCB1
+DB01110,ABCB1
+DB01112,SLC15A1
+DB01112,SLC15A2
+DB01114,SLC22A2
+DB01114,SLC22A1
+DB01115,ABCC3
+DB01115,ABCB1
+DB01115,ABCC2
+DB01115,SLCO1B1
+DB01115,ABCB11
+DB01117,ABCB1
+DB01118,ABCB1
+DB01118,ABCB11
+DB01118,SLC22A2
+DB01124,SLC15A1
+DB01124,SLCO1A2
+DB01124,SLC22A6
+DB01124,SLC15A2
+DB01124,SLCO2B1
+DB01126,SLC6A3
+DB01126,SLC18A2
+DB01128,ABCB1
+DB01129,ABCG2
+DB01132,SLCO1B3
+DB01132,SLCO1B1
+DB01136,ABCB1
+DB01137,ABCB1
+DB01137,SLC47A1
+DB01137,SLC47A2
+DB01137,SLC22A1
+DB01137,SLC22A2
+DB01137,SLC22A4
+DB01137,SLCO1A2
+DB01137,SLCO4C1
+DB01138,ABCC3
+DB01138,ABCC4
+DB01138,ABCC5
+DB01138,ABCC6
+DB01138,ABCC1
+DB01138,ABCC2
+DB01138,ABCB11
+DB01140,SLC15A1
+DB01140,SLC22A5
+DB01140,SLC22A6
+DB01140,SLC15A2
+DB01140,SLC22A8
+DB01142,ABCB1
+DB01147,SLC15A1
+DB01147,SLC15A2
+DB01147,SLC22A6
+DB01149,ABCB1
+DB01149,SLCO1B3
+DB01149,SLCO2B1
+DB01149,ABCB11
+DB01151,ABCB1
+DB01151,SLC22A1
+DB01151,SLC22A3
+DB01151,SLC22A2
+DB01151,SLC22A5
+DB01151,SLC22A4
+DB01156,SLC22A2
+DB01157,SLC19A1
+DB01160,SLC22A2
+DB01160,SLC22A6
+DB01160,SLC22A7
+DB01160,SLC22A8
+DB01160,SLC22A11
+DB01160,SLCO2A1
+DB01160,SLCO3A1
+DB01162,ABCB1
+DB01165,SLC22A5
+DB01165,ABCC1
+DB01165,SLC22A6
+DB01165,ABCC2
+DB01165,SLC22A4
+DB01165,ABCB11
+DB01167,ABCB1
+DB01167,SLCO2B1
+DB01169,ABCC2
+DB01169,ABCB1
+DB01174,ABCB1
+DB01174,ABCC3
+DB01174,ABCB11
+DB01174,ABCC1
+DB01174,SLCO2A1
+DB01174,ABCC2
+DB01175,ABCB1
+DB01177,ABCC1
+DB01182,ABCB1
+DB01183,SLCO1A2
+DB01183,ABCB1
+DB01184,ABCB1
+DB01190,ABCB1
+DB01193,ABCB1
+DB01195,ABCB1
+DB01195,SLC47A1
+DB01196,ABCB1
+DB01197,ABCB1
+DB01197,SLC15A1
+DB01197,SLC22A6
+DB01199,SLC22A1
+DB01199,SLC22A2
+DB01200,ABCB1
+DB01202,ABCB1
+DB01203,ABCB1
+DB01203,POU2F1
+DB01203,POU2F2
+DB01203,SLC47A1
+DB01203,SLC47A2
+DB01204,ABCB1
+DB01204,ABCC1
+DB01204,ABCG2
+DB01208,SLC22A5
+DB01208,ABCC2
+DB01208,ABCB1
+DB01211,SLC22A7
+DB01211,ABCB1
+DB01211,ABCB11
+DB01211,SLCO1B1
+DB01211,SLCO1B3
+DB01212,SLC15A1
+DB01212,SLC15A2
+DB01212,SLC22A6
+DB01212,SLC22A8
+DB01212,SLC22A11
+DB01212,ABCB1
+DB01216,SLC12A5
+DB01217,ABCB1
+DB01222,ABCB11
+DB01222,ABCB1
+DB01222,SLCO1A2
+DB01222,SLC22A8
+DB01224,ABCB1
+DB01229,ABCB11
+DB01229,ABCB1
+DB01229,ABCC1
+DB01229,ABCC10
+DB01229,SLCO1B3
+DB01229,ABCC2
+DB01232,ABCB1
+DB01232,SLC22A1
+DB01232,SLCO1A2
+DB01232,ABCG2
+DB01232,SLCO1B1
+DB01232,ABCC1
+DB01232,ABCC2
+DB01232,SLCO2B1
+DB01232,ABCB11
+DB01233,ABCB1
+DB01234,ABCB1
+DB01234,SLC22A8
+DB01234,ABCB11
+DB01234,ABCC2
+DB01234,ABCG2
+DB01234,SLCO1A2
+DB01235,SLC15A1
+DB01235,SLC16A10
+DB01235,SLC7A5
+DB01235,SLC7A8
+DB01237,SLC22A6
+DB01239,ABCB1
+DB01242,ABCB1
+DB01244,ABCB1
+DB01248,ABCB1
+DB01248,ABCC10
+DB01248,SLCO1B3
+DB01248,SLC22A7
+DB01248,ABCG2
+DB01248,ABCC2
+DB01248,ABCC1
+DB01253,ABCB1
+DB01254,ABCB1
+DB01254,ABCG2
+DB01255,SLC15A1
+DB01259,ABCB1
+DB01259,TAP1
+DB01261,ABCB1
+DB01261,SLC22A8
+DB01263,ABCB1
+DB01264,SLCO1B1
+DB01264,ABCB1
+DB01267,ABCB1
+DB01268,ABCC4
+DB01268,ABCB1
+DB01268,ABCC2
+DB01268,ABCG2
+DB01273,SLC22A2
+DB01303,SLC22A7
+DB01323,ABCB1
+DB01324,SLC22A6
+DB01324,SLC22A8
+DB01326,SLC22A6
+DB01326,SLC22A8
+DB01326,SLC22A11
+DB01326,SLC22A7
+DB01327,ABCC4
+DB01327,SLC22A6
+DB01327,SLC22A8
+DB01327,SLC22A11
+DB01329,SLC22A6
+DB01329,SLC22A8
+DB01329,SLC22A11
+DB01329,SLC22A7
+DB01332,SLC15A1
+DB01332,SLC22A6
+DB01332,SLC22A8
+DB01333,SLC22A5
+DB01333,SLC15A1
+DB01333,SLC15A2
+DB01333,SLC22A6
+DB01333,SLC47A1
+DB01337,SLC22A1
+DB01337,SLC22A2
+DB01339,ABCB1
+DB01340,ABCB1
+DB01340,SLC15A1
+DB01340,SLC15A2
+DB01348,SLC15A1
+DB01348,SLC15A2
+DB01388,ABCB1
+DB01390,SLC4A4
+DB01390,SLC4A7
+DB01390,SLC4A8
+DB01390,SLC4A5
+DB01390,SLC4A10
+DB01393,SLCO1B1
+DB01394,ABCB1
+DB01396,SLCO1A2
+DB01396,SLCO4C1
+DB01396,ABCB1
+DB01409,SLC22A5
+DB01409,SLC22A4
+DB01411,ABCC2
+DB01413,SLC22A5
+DB01413,SLC15A1
+DB01413,SLC15A2
+DB01414,SLC22A6
+DB01414,SLC22A8
+DB01415,SLC15A1
+DB01415,SLC15A2
+DB01415,SLC22A6
+DB01415,SLC22A8
+DB01418,ABCB1
+DB01420,ABCB1
+DB01424,SLC22A6
+DB01435,SLC22A6
+DB01440,SLC16A7
+DB01440,SLC16A1
+DB01440,SLC16A3
+DB01454,SLC6A2
+DB01454,SLC6A3
+DB01454,SLC6A4
+DB01576,SLC6A3
+DB01577,SLC22A3
+DB01577,SLC22A5
+DB01580,SLC22A2
+DB01583,SLCO1A2
+DB01583,SLCO1B1
+DB01583,SLCO1B3
+DB01583,SLCO4C1
+DB01583,SLC10A1
+DB01583,SLCO1C1
+DB01583,SLCO4A1
+DB01583,SLC22A8
+DB01583,SLC16A2
+DB01583,SLC16A10
+DB01583,ABCB1
+DB01586,ABCB11
+DB01586,SLCO1A2
+DB01586,ABCC2
+DB01586,ABCC4
+DB01586,SLC10A2
+DB01586,SLC10A1
+DB01587,ABCB1
+DB01590,SLCO1B1
+DB01590,SLCO1B3
+DB01590,SLCO1A2
+DB01590,ABCB1
+DB01597,SLC22A6
+DB01597,SLC22A8
+DB01601,ABCB1
+DB01601,SLCO1B1
+DB01601,SLCO1B3
+DB01601,ABCB11
+DB01606,SLC22A6
+DB01606,SLC22A8
+DB01610,SLC15A1
+DB01610,SLC15A2
+DB01610,SLC6A14
+DB01611,ABCB1
+DB01611,SLCO1A2
+DB01621,SLC22A1
+DB01623,SLC22A1
+DB01645,ABCB1
+DB01645,ABCC1
+DB01645,ABCG2
+DB01645,SLCO1B1
+DB01645,SLCO2B1
+DB01650,SLC22A8
+DB01685,ABCG2
+DB01685,SLC22A8
+DB01685,SLC22A6
+DB01708,SLCO1B3
+DB01708,SLCO2B1
+DB01708,SLCO1B1
+DB01708,SLCO1A2
+DB01708,ABCC1
+DB01708,ABCG2
+DB01708,ABCC4
+DB01746,SLC16A10
+DB01746,SLC7A5
+DB01762,SLC16A7
+DB01762,SLC16A1
+DB01762,SLC16A3
+DB01762,SLC5A8
+DB01786,SLC16A10
+DB01819,SLCO2A1
+DB01892,ABCC2
+DB01892,SLCO1B1
+DB01914,SLC2A1
+DB01914,SLC2A2
+DB01914,SLC2A3
+DB01914,SLC2A4
+DB01914,SLC2A5
+DB01914,SLC2A6
+DB01914,SLC2A7
+DB01914,SLC2A8
+DB01914,SLC2A9
+DB01914,SLC2A10
+DB01914,SLC2A11
+DB01914,SLC2A12
+DB01914,SLC5A1
+DB01914,SLC5A2
+DB01917,SLC22A4
+DB01942,SLC16A3
+DB01956,SLC36A1
+DB01956,SLC6A6
+DB01956,SLC15A1
+DB02010,ABCB1
+DB02056,SLCO2A1
+DB02115,ABCG2
+DB02123,ABCB11
+DB02123,SLCO1A2
+DB02123,SLC10A2
+DB02123,SLC10A1
+DB02261,ABCB1
+DB02263,SLCO2A1
+DB02266,SLC22A6
+DB02315,SLC22A6
+DB02375,ABCC1
+DB02527,ABCC4
+DB02527,ABCC5
+DB02527,ABCC11
+DB02527,SLC22A6
+DB02527,SLC22A8
+DB02527,SLC22A7
+DB02530,SLC36A1
+DB02556,SLC16A10
+DB02556,SLC7A5
+DB02587,ABCB1
+DB02659,ABCB11
+DB02659,ABCB1
+DB02659,ABCC1
+DB02659,SLCO1A2
+DB02659,SLC10A2
+DB02659,ABCC2
+DB02659,SLCO1B1
+DB02659,ABCC3
+DB02659,ABCC4
+DB02659,SLC10A1
+DB02659,SLC22A8
+DB02659,SLC22A7
+DB02659,SLCO1B3
+DB02691,SLCO1A2
+DB02691,SLCO1B1
+DB02691,SLCO1B3
+DB02703,ABCB11
+DB02703,ABCC2
+DB02703,ABCG2
+DB02703,SLCO1B1
+DB02745,SLC29A1
+DB02746,SLCO2B1
+DB02750,SLC7A5
+DB02750,SLC7A8
+DB02789,SLC10A6
+DB02853,SLC36A1
+DB02901,ABCB1
+DB02952,SLC16A10
+DB03066,SLC16A7
+DB03066,SLC16A1
+DB03066,SLC16A3
+DB03107,SLC16A10
+DB03128,SLC22A5
+DB03128,SLC22A1
+DB03166,SLCO2B1
+DB03166,SLC16A1
+DB03203,ABCB1
+DB03225,SLC16A10
+DB03424,SLC15A1
+DB03424,SLC15A2
+DB03467,SLCO2B1
+DB03467,ABCB1
+DB03467,ABCC1
+DB03467,ABCG2
+DB03496,ABCG2
+DB03553,SLC22A6
+DB03553,SLC22A8
+DB03553,SLC22A11
+DB03553,SLC22A7
+DB03566,SLC22A4
+DB03566,SLC22A1
+DB03581,SLCO2A1
+DB03585,SLC22A6
+DB03619,ABCB11
+DB03619,SLCO1A2
+DB03619,SLC10A2
+DB03619,SLC10A1
+DB03773,SLC16A7
+DB03773,SLC16A1
+DB03783,SLC22A6
+DB03793,SLCO2B1
+DB03793,SLC22A8
+DB03793,SLC16A1
+DB03825,ABCC1
+DB03825,ABCB1
+DB03839,SLC16A10
+DB03884,SLC16A3
+DB03902,SLCO2B1
+DB03902,SLC22A8
+DB03904,SLC14A2
+DB03904,SLC14A1
+DB03929,SLC16A10
+DB03929,SLC6A14
+DB03940,SLC16A3
+DB04074,SLC16A7
+DB04074,SLC16A1
+DB04074,SLC16A3
+DB04100,ABCC2
+DB04133,SLC22A5
+DB04133,SLC22A6
+DB04133,SLC22A8
+DB04133,SLC22A11
+DB04216,ABCC1
+DB04216,ABCC2
+DB04216,SLC16A7
+DB04216,SLCO2B1
+DB04216,ABCB1
+DB04216,SLC16A1
+DB04216,ABCG2
+DB04216,SLCO1B1
+DB04272,SLCO2B1
+DB04335,SLC28A3
+DB04343,SLC16A3
+DB04348,ABCB11
+DB04348,ABCC1
+DB04348,SLCO1A2
+DB04348,SLC10A2
+DB04348,ABCC2
+DB04348,SLCO1B1
+DB04348,ABCC3
+DB04348,ABCC4
+DB04348,ABCB1
+DB04348,SLC22A6
+DB04348,ABCC10
+DB04348,SLC22A8
+DB04348,SLCO4A1
+DB04348,ABCC11
+DB04348,SLCO1C1
+DB04348,SLCO3A1
+DB04348,ABCG2
+DB04348,SLCO2B1
+DB04348,SLC16A1
+DB04348,SLC10A1
+DB04348,SLC51A
+DB04348,SLC51B
+DB04348,SLCO1B3
+DB04348,SLC7A11
+DB04398,SLC16A7
+DB04398,SLCO2B1
+DB04398,SLC16A1
+DB04398,SLC16A10
+DB04398,SLCO2A1
+DB04398,SLC16A3
+DB04485,SLC28A3
+DB04519,SLC22A6
+DB04519,SLC22A8
+DB04519,SLC22A11
+DB04540,ABCB1
+DB04540,ABCG2
+DB04551,SLCO2A1
+DB04552,SLC16A7
+DB04552,SLC16A1
+DB04557,SLCO2A1
+DB04573,SLCO1A2
+DB04573,ABCB1
+DB04574,SLC47A1
+DB04574,SLC47A2
+DB04630,ABCB1
+DB04630,SLC22A5
+DB04630,SLCO1A2
+DB04690,ABCB1
+DB04690,ABCG2
+DB04789,ABCC2
+DB04830,SLC22A1
+DB04832,ABCB1
+DB04840,ABCB1
+DB04850,SLCO1B1
+DB04851,ABCB1
+DB04855,ABCB1
+DB04855,SLC22A2
+DB04855,SLC22A1
+DB04855,SLCO1B1
+DB04855,SLCO1B3
+DB04855,SLC22A8
+DB04868,ABCB1
+DB04868,ABCG2
+DB04868,UGT1A1
+DB04868,SLCO1B1
+DB04877,ABCB1
+DB04881,ABCG2
+DB04881,ABCB1
+DB04908,ABCB1
+DB04948,ABCB5
+DB04948,SLC47A1
+DB04960,ABCB1
+DB05015,ABCB1
+DB05039,ABCB1
+DB05154,SLC22A8
+DB05239,SLCO1B1
+DB05239,SLCO1B3
+DB05239,ABCG2
+DB05239,ABCB1
+DB05260,TFRC
+DB05260,TFR2
+DB05294,ABCC1
+DB05294,ABCG2
+DB05294,SLC22A2
+DB05294,ABCB1
+DB05381,SLC22A2
+DB05381,SLC22A1
+DB05381,SLC22A3
+DB05381,SLC22A5
+DB05382,SLC5A5
+DB05382,SLC26A4
+DB05383,SLC22A2
+DB05521,ABCB1
+DB05540,SLC7A11
+DB05676,ABCB1
+DB05773,ABCB1
+DB05804,SLC22A8
+DB05804,SLCO1A2
+DB05804,SLCO1B1
+DB05804,SLCO1B3
+DB05804,SLCO2B1
+DB05804,SLC10A6
+DB05804,ABCB11
+DB05812,ABCC1
+DB05889,ABCB1
+DB05928,ABCC3
+DB05928,ABCG2
+DB05928,SLCO1B1
+DB05928,SLCO2B1
+DB05928,SLCO1B3
+DB05928,ABCB1
+DB05990,ABCB11
+DB06151,SLCO1B1
+DB06151,SLC22A6
+DB06176,ABCB1
+DB06176,SLCO1B3
+DB06191,ABCB1
+DB06207,ABCB1
+DB06207,ABCB4
+DB06210,SLCO1B1
+DB06210,ABCG2
+DB06211,SLC22A8
+DB06212,ABCB1
+DB06215,TF
+DB06215,FTL
+DB06215,FTH1
+DB06228,ABCB1
+DB06228,ABCG2
+DB06240,ABCB1
+DB06262,SLC6A2
+DB06262,SLC16A10
+DB06263,ABCB5
+DB06282,SLC22A11
+DB06287,ABCB1
+DB06290,ABCB1
+DB06290,SLCO1B1
+DB06290,SLCO1B3
+DB06290,ABCC2
+DB06290,ABCG2
+DB06290,SLCO2B1
+DB06290,SLC10A1
+DB06290,ABCB11
+DB06292,ABCB1
+DB06335,ABCC1
+DB06335,SLCO4C1
+DB06335,SLC22A8
+DB06403,ABCB1
+DB06403,SLCO1B1
+DB06403,SLCO1B3
+DB06414,ABCB1
+DB06414,ABCB4
+DB06420,ABCB1
+DB06448,ABCB1
+DB06480,ABCB1
+DB06554,SLC36A1
+DB06589,ABCB1
+DB06589,ABCG2
+DB06589,SLCO1B1
+DB06589,UGT1A1
+DB06603,ABCB1
+DB06605,ABCB1
+DB06605,ABCG2
+DB06608,SLC22A2
+DB06608,SLC47A1
+DB06608,SLC47A2
+DB06616,ABCB1
+DB06626,ABCB1
+DB06626,SLCO1B1
+DB06636,ABCB1
+DB06637,SLC22A2
+DB06654,ABCG2
+DB06654,SLCO3A1
+DB06670,ABCB1
+DB06691,SLC22A4
+DB06691,SLC22A5
+DB06695,ABCB1
+DB06702,ABCB1
+DB06704,SLC6A2
+DB06710,SLCO1A2
+DB06710,SLC22A8
+DB06721,SLCO1B1
+DB06772,ABCB1
+DB06772,ABCG2
+DB06772,SLCO1B1
+DB06772,SLCO1B3
+DB06778,ALB
+DB06778,CP
+DB06784,TFRC
+DB06784,TFR2
+DB06784,FTL
+DB06784,FTH1
+DB06796,SLC11A2
+DB06813,SLC19A1
+DB06824,GPC1
+DB07565,ABCB1
+DB08795,SLC22A5
+DB08795,SLC15A1
+DB08795,SLC15A2
+DB08816,ABCB1
+DB08820,ABCB1
+DB08824,SLC6A3
+DB08827,ABCB1
+DB08828,ABCB1
+DB08828,ABCG2
+DB08830,SLC2A1
+DB08831,SLC2A1
+DB08833,SLCO1A2
+DB08833,SLC7A11
+DB08834,SLCO1A2
+DB08834,SLC7A11
+DB08835,SLC36A1
+DB08836,SLC15A1
+DB08836,SLCO1A2
+DB08837,SLC22A1
+DB08837,SLC22A2
+DB08837,SLC22A3
+DB08837,SLC22A4
+DB08837,SLC22A5
+DB08837,SLC22A8
+DB08837,SLC47A1
+DB08838,SLC22A1
+DB08838,SLC22A2
+DB08838,SLC22A3
+DB08838,SLC7A7
+DB08839,SLC22A2
+DB08840,SLC22A2
+DB08840,SLC47A1
+DB08840,SLC47A2
+DB08841,SLC22A3
+DB08842,SLC22A5
+DB08842,SLC22A21
+DB08843,SLC22A6
+DB08844,SLC22A6
+DB08844,SLC22A8
+DB08844,SLC2A9
+DB08846,SLC22A6
+DB08846,SLC22A11
+DB08847,SLC36A1
+DB08849,SLC36A1
+DB08855,SLCO1B1
+DB08855,SLCO1B3
+DB08856,SLCO1B1
+DB08857,SLCO1B1
+DB08858,SLCO1B1
+DB08860,SLCO1B1
+DB08860,SLCO1B3
+DB08860,SLCO2B1
+DB08860,SLC10A1
+DB08860,ABCG2
+DB08860,ABCB1
+DB08860,ABCC2
+DB08860,ABCB11
+DB08861,SLCO1B3
+DB08862,SLCO1B3
+DB08862,SLCO1B1
+DB08862,SLCO2B1
+DB08864,ABCB1
+DB08864,ABCG2
+DB08864,SLCO1B1
+DB08864,SLCO1B3
+DB08865,ABCB1
+DB08868,SLC1A2
+DB08868,SLC1A3
+DB08868,ABCB1
+DB08868,ABCC1
+DB08870,ABCB5
+DB08872,SLC5A8
+DB08872,SLC5A6
+DB08873,ABCB1
+DB08874,ABCB1
+DB08878,SLC46A1
+DB08880,ABCG2
+DB08880,SLCO1B1
+DB08881,ABCC1
+DB08881,ABCG2
+DB08881,ABCB1
+DB08882,ABCB1
+DB08882,SLC22A1
+DB08882,SLC22A2
+DB08882,SLC22A3
+DB08884,SLCO1B1
+DB08884,SLCO1B3
+DB08884,ABCC3
+DB08884,ABCC2
+DB08884,ABCC4
+DB08889,ABCB1
+DB08892,SLC16A1
+DB08893,ABCB1
+DB08893,SLCO1A2
+DB08896,ABCB1
+DB08896,ABCG2
+DB08899,ABCB1
+DB08901,ABCB1
+DB08901,ABCG2
+DB08906,ABCB1
+DB08906,SLCO1B1
+DB08907,ABCB1
+DB08907,ABCC2
+DB08907,ABCG2
+DB08910,ABCB1
+DB08912,ABCB1
+DB08912,ABCG2
+DB08912,SLCO1B1
+DB08912,SLCO1B3
+DB08912,SLC22A6
+DB08912,SLC22A8
+DB08916,ABCB1
+DB08916,ABCG2
+DB08918,ABCB1
+DB08930,SLC22A2
+DB08930,ABCG2
+DB08930,SLC22A6
+DB08930,SLC22A8
+DB08930,ABCB1
+DB08931,ABCG2
+DB08934,ABCB1
+DB08934,ABCG2
+DB08949,SLC5A8
+DB09008,SLC22A6
+DB09008,SLC22A8
+DB09027,ABCB1
+DB09027,ABCG2
+DB09030,ABCB1
+DB09034,ABCB1
+DB09039,ABCB1
+DB09048,ABCB1
+DB09054,ABCG2
+DB09054,ABCB1
+DB09054,SLCO1B1
+DB09054,SLCO1B3
+DB09060,ABCC2
+DB09060,SLC22A8
+DB09061,ABCC1
+DB09061,ABCG2
+DB09061,SLC29A1
+DB09063,ABCB1
+DB09065,ABCB1
+DB09065,ABCG2
+DB09065,SLCO1B1
+DB09065,SLCO1B3
+DB09073,ABCB1
+DB09073,ABCG2
+DB09073,SLC22A1
+DB09074,ABCB1
+DB09074,ABCG2
+DB09075,ABCB1
+DB09076,ABCB1
+DB09078,ABCB1
+DB09078,ABCG2
+DB09078,SLC22A6
+DB09078,SLC22A8
+DB09078,SLC22A2
+DB09078,SLCO1B1
+DB09078,ABCB11
+DB09079,ABCB1
+DB09079,SLC22A1
+DB09079,ABCG2
+DB09099,ABCB1
+DB09100,SLC16A2
+DB09100,SLCO1C1
+DB09100,SLCO3A1
+DB09100,SLCO4A1
+DB09100,SLC7A5
+DB09100,SLC10A1
+DB09102,ABCB1
+DB09102,SLCO1B1
+DB09102,SLCO1B3
+DB09102,ABCG2
+DB09130,SLC31A1
+DB09130,SLC11A2
+DB09130,ATP7A
+DB09130,ATP7B
+DB09130,SLC31A2
+DB09137,SLCO1B1
+DB09137,SLCO1B3
+DB09142,SLCO1B3
+DB09154,SLC25A21
+DB09154,SLC13A2
+DB09154,SLC13A5
+DB09154,SLC25A1
+DB09161,ABCB1
+DB09161,ABCC1
+DB09183,ABCG2
+DB09183,ABCB5
+DB09183,ABCB1
+DB09194,SLC6A4
+DB09194,SLC6A2
+DB09194,SLC6A3
+DB09198,SLCO1B1
+DB09198,SLCO3A1
+DB09198,ABCB1
+DB09213,ABCC4
+DB09213,ABCC1
+DB09213,SLCO1A2
+DB09213,SLC22A6
+DB09213,SLC22A8
+DB09213,SLC22A11
+DB09213,SLCO2B1
+DB09213,ABCB1
+DB09237,ABCB1
+DB09237,SLC10A2
+DB09237,SLC22A5
+DB09239,ABCB1
+DB09241,ABCB1
+DB09241,SLC22A2
+DB09241,SLC47A2
+DB09241,SLC47A1
+DB09270,ABCB1
+DB09272,SLCO1B1
+DB09272,ABCC2
+DB09272,SLC22A8
+DB09279,SLCO1B1
+DB09279,ABCG2
+DB09280,ABCB1
+DB09287,ABCB1
+DB09291,ABCG2
+DB09291,ABCB1
+DB09292,SLCO1B1
+DB09292,SLCO1B3
+DB09296,ABCB1
+DB09296,UGT1A4
+DB09296,ABCG2
+DB09297,ABCG2
+DB09297,ABCB1
+DB09297,SLCO1B1
+DB09297,SLCO1B3
+DB09298,SLC22A6
+DB09298,SLCO1B1
+DB09298,SLCO1B3
+DB09298,SLCO2B1
+DB09299,ABCB1
+DB09299,ABCC4
+DB09299,SLC22A6
+DB09299,SLC22A8
+DB09299,ABCG2
+DB09299,SLCO1B1
+DB09299,SLCO1B3
+DB09326,RHCG
+DB09327,SLC22A7
+DB09327,SLC29A1
+DB09327,SLC29A2
+DB09327,SLC28A1
+DB09327,SLC28A2
+DB09327,SLC28A3
+DB09330,ABCB1
+DB09330,ABCG2
+DB09341,SLC2A1
+DB09341,SLC2A2
+DB09341,SLC2A3
+DB09341,SLC2A4
+DB09341,SLC2A6
+DB09341,SLC2A7
+DB09341,SLC2A8
+DB09341,SLC2A9
+DB09341,SLC2A10
+DB09341,SLC2A11
+DB09341,SLC2A12
+DB09341,SLC5A1
+DB09343,SLC22A2
+DB09343,SLC47A1
+DB09344,SLC2A2
+DB09344,SLC2A5
+DB09363,SLC6A2
+DB09363,VMAT2
+DB09374,ABCC2
+DB09374,ABCB11
+DB09449,SLC20A1
+DB09449,SLC20A2
+DB09449,SLC34A1
+DB09449,SLC34A2
+DB09449,SLC34A3
+DB09481,TRPM6
+DB09481,SLC41A3
+DB09481,CNNM2
+DB09481,TRPM7
+DB09498,SLC8A1
+DB09498,CACNA1I
+DB09502,SLC2A4
+DB09502,SLC2A2
+DB09502,SLC2A1
+DB09502,SLC2A3
+DB09502,SLC2A9
+DB09502,SLC2A5
+DB09502,SLC2A6
+DB09502,SLC2A7
+DB09502,SLC2A8
+DB09502,SLC2A10
+DB09502,SLC2A11
+DB09502,SLC2A12
+DB09546,SLC6A2
+DB11077,ABCB1
+DB11090,MUC1
+DB11093,TRPV6
+DB11093,SLC8A1
+DB11093,TRPV5
+DB11093,RYR1
+DB11093,RYR2
+DB11093,PKD2L1
+DB11093,RYR3
+DB11093,PKD1L3
+DB11093,CATSPER1
+DB11093,CACNA1C
+DB11093,CACNA1D
+DB11093,CACNA1F
+DB11093,CACNA1S
+DB11093,CACNB1
+DB11093,CACNB2
+DB11093,CACNB3
+DB11093,CACNB4
+DB11093,CACNA1A
+DB11093,CACNA1A
+DB11093,CACNA1G
+DB11093,CACNA1H
+DB11093,CACNA1I
+DB11093,CACNA1E
+DB11098,SLC12A2
+DB11098,SLC12A1
+DB11127,SELENOP
+DB11251,TTPA
+DB11251,SEC14L4
+DB11251,SEC14L2
+DB11251,SEC14L3
+DB11251,APOBR
+DB11251,SCARB1
+DB11251,ABCB1
+DB11256,SLC46A1
+DB11256,SLC19A1
+DB11348,SLC20A1
+DB11348,SLC20A2
+DB11348,SLC34A1
+DB11348,SLC34A2
+DB11348,SLC34A3
+DB11348,TRPV6
+DB11348,SLC8A1
+DB11348,TRPV5
+DB11348,RYR1
+DB11348,RYR2
+DB11348,PKD2L1
+DB11348,RYR3
+DB11348,PKD1L3
+DB11348,CATSPER1
+DB11348,CACNA1C
+DB11348,CACNA1D
+DB11348,CACNA1F
+DB11348,CACNA1S
+DB11348,CACNB1
+DB11348,CACNB2
+DB11348,CACNB3
+DB11348,CACNB4
+DB11348,CACNA1A
+DB11348,CACNA1A
+DB11348,CACNA1G
+DB11348,CACNA1H
+DB11348,CACNA1I
+DB11348,CACNA1E
+DB11362,SLCO1B1
+DB11362,SLCO1B3
+DB11362,ABCB1
+DB11363,ABCG2
+DB11363,ABCB1
+DB11430,ABCB1
+DB11544,ABCB1
+DB11574,ABCB1
+DB11575,ABCB1
+DB11575,SLCO1B1
+DB11575,SLCO1B3
+DB11581,ABCB1
+DB11581,ABCG2
+DB11581,SLCO1B1
+DB11586,SLCO1B1
+DB11586,SLCO1B3
+DB11586,SLCO2B1
+DB11586,ABCB1
+DB11590,ITPR1
+DB11591,ABCB5
+DB11591,SLCO1A2
+DB11591,SLCO2B1
+DB11611,SLCO1A2
+DB11611,SLCO2B1
+DB11613,ABCB1
+DB11613,ABCG2
+DB11613,SLCO1B1
+DB11613,SLCO1B3
+DB11613,SLCO2B1
+DB11633,ABCB1
+DB11633,ABCG2
+DB11633,SLC22A2
+DB11635,TTPA
+DB11635,SCARB1
+DB11635,NPC1L1
+DB11635,ABCG5
+DB11635,ABCG8
+DB11635,ABCA1
+DB11635,SEC14L4
+DB11635,SEC14L2
+DB11635,SEC14L3
+DB11635,APOBR
+DB11641,ABCB5
+DB11641,ABCB1
+DB11642,SLC22A1
+DB11644,ABCG2
+DB11644,SLC22A6
+DB11644,SLC22A8
+DB11652,ABCG2
+DB11652,ABCB1
+DB11652,SLC22A2
+DB11652,SLC47A1
+DB11652,SLC47A2
+DB11660,SLCO2B1
+DB11672,ABCB1
+DB11689,ABCB1
+DB11689,ABCG2
+DB11691,ABCB5
+DB11712,ABCB1
+DB11712,ABCG2
+DB11732,ABCB1
+DB11732,ABCG2
+DB11732,SLC22A1
+DB11732,SLC47A1
+DB11732,SLC47A2
+DB11751,SLC22A6
+DB11751,SLC22A8
+DB11753,SLCO1A2
+DB11753,SLCO1B1
+DB11753,SLCO1B3
+DB11753,SLCO2A1
+DB11753,SLCO2B1
+DB11753,SLC47A1
+DB11753,ABCB1
+DB11757,ABCB1
+DB11757,ABCG2
+DB11757,SLCO1B1
+DB11757,SLCO1B3
+DB11757,SLC22A6
+DB11757,POU2F2
+DB11757,SLC47A1
+DB11757,SLC47A2
+DB11760,ABCB1
+DB11760,ABCG2
+DB11770,ABCB1
+DB11770,ABCC2
+DB11817,SLC22A8
+DB11817,ABCG2
+DB11817,SLC47A2
+DB11817,SLC22A6
+DB11817,SLC22A2
+DB11817,SLCO1B3
+DB11817,ABCB1
+DB11827,ABCB1
+DB11827,ABCG2
+DB11828,ABCB1
+DB11837,SLCO1B1
+DB11837,SLC22A1
+DB11837,SLC22A2
+DB11837,SLC22A6
+DB11837,SLC22A8
+DB11837,SLC47A1
+DB11855,SLCO1B1
+DB11855,SLCO1B3
+DB11855,ABCB1
+DB11855,ABCG2
+DB11869,SLCO1B1
+DB11869,SLCO1B3
+DB11869,ABCB1
+DB11901,ABCB1
+DB11901,ABCG2
+DB11901,SLCO1B1
+DB11901,SLC22A2
+DB11901,SLC22A8
+DB11901,SLC47A2
+DB11901,SLC47A1
+DB11936,SLCO1B1
+DB11936,ABCC3
+DB11936,SLCO1B3
+DB11942,SLCO1B3
+DB11943,ABCB5
+DB11943,ABCG2
+DB11951,ABCB1
+DB11952,ABCB1
+DB11952,ABCG2
+DB11963,ABCB1
+DB11963,ABCG2
+DB11963,SLC22A1
+DB11978,ABCB1
+DB11978,ABCG2
+DB11978,SLC47A1
+DB11978,SLC47A2
+DB11979,ABCB1
+DB11979,SLCO1B1
+DB11986,ABCB1
+DB11995,ABCB1
+DB12001,SLC47A1
+DB12001,SLC47A2
+DB12001,SLC22A2
+DB12001,ABCG2
+DB12001,ABCB1
+DB12010,ABCG2
+DB12010,ABCB5
+DB12015,ABCG2
+DB12015,ABCB1
+DB12026,ABCB1
+DB12026,ABCG2
+DB12026,SLCO1B1
+DB12026,SLCO1B3
+DB12035,ABCB1
+DB12070,SLCO1B1
+DB12070,SLCO1B3
+DB12070,ABCB1
+DB12070,ABCG2
+DB12070,ABCB11
+DB12070,SLC22A8
+DB12070,ABCC2
+DB12141,ABCB1
+DB12141,SLC47A1
+DB12141,ABCG2
+DB12141,SLC22A1
+DB12147,ABCB1
+DB12147,SLC22A2
+DB12240,CD79B
+DB12243,SLC22A6
+DB12243,SLC22A8
+DB12267,ABCB5
+DB12267,ABCG2
+DB12267,SLC22A1
+DB12267,SLC47A1
+DB12267,SLC47A2
+DB12319,SLCO1B1
+DB12319,SLCO2B1
+DB12319,ABCB11
+DB12332,ABCB1
+DB12332,ABCG2
+DB12332,SLC47A1
+DB12332,SLC47A2
+DB12332,SLC22A1
+DB12332,ABCC4
+DB12332,SLCO1B1
+DB12332,SLCO1B3
+DB12332,SLC22A6
+DB12332,SLC22A8
+DB12364,ABCB1
+DB12364,KCNH2
+DB12377,SLC22A8
+DB12377,SLC22A11
+DB12377,SLC47A1
+DB12377,SLC47A2
+DB12455,ABCB1
+DB12457,ABCB1
+DB12457,ABCG2
+DB12457,SLCO1B1
+DB12457,SLC22A8
+DB12457,SLCO1B3
+DB12457,SLC22A2
+DB12457,SLC47A1
+DB12466,ABCB1
+DB12466,SLC22A6
+DB12466,SLC22A8
+DB12466,SLC22A12
+DB12483,ABCB1
+DB12483,ABCG2
+DB12483,SLC47A2
+DB12500,ABCB1
+DB12500,ABCG2
+DB12500,SLCO1B1
+DB12500,SLCO1B3
+DB12500,POU2F2
+DB12500,SLC47A1
+DB12500,SLC47A2
+DB12582,ABCB1
+DB12598,SLC22A1
+DB12598,SLC22A2
+DB12612,MAOB
+DB12612,ABCG2
+DB12612,ABCB1
+DB12615,SLC47A1
+DB12615,SLC47A2
+DB12712,ABCB11
+DB12799,ABCB1
+DB12825,ABCB1
+DB12836,ABCB1
+DB12866,SLC22A8
+DB12887,ABCB1
+DB12887,SLC47A1
+DB12887,SLC47A2
+DB12887,ABCG2
+DB12923,ABCB1
+DB12941,ABCG2
+DB12941,ABCB1
+DB12941,SLCO1B1
+DB12941,SLCO1B3
+DB12978,SLC47A1
+DB12978,SLC47A2
+DB12978,SLCO1B1
+DB12978,SLCO1B3
+DB12978,SLCO2B1
+DB13007,ABCB1
+DB13092,OMPF
+DB13092,OMPC
+DB13125,ABCB1
+DB13125,ABCG2
+DB13139,SLCO1B1
+DB13139,SLCO1B3
+DB13146,ABCC4
+DB13153,SLCO1B1
+DB13153,SLCO1B3
+DB13154,SLCO1B3
+DB13178,SLC5A3
+DB13179,ABCB1
+DB13257,SLC11A2
+DB13257,SLC40A1
+DB13345,ABCB11
+DB13620,ATP1A1
+DB13620,SLC12A1
+DB13620,ATP4A
+DB13620,ATP4B
+DB13751,ABCB11
+DB13783,ABCC1
+DB13867,ABCB1
+DB13867,SLCO1B1
+DB13874,ABCB1
+DB13874,ABCG2
+DB13874,SLC22A6
+DB13874,SLCO1B1
+DB13874,SLC22A2
+DB13874,SLCO1B3
+DB13874,SLC22A8
+DB13878,ABCB1
+DB13878,ABCG2
+DB13878,SLCO1B1
+DB13878,SLCO1B3
+DB13879,ABCB1
+DB13879,ABCG2
+DB13879,SLCO1B1
+DB13879,SLCO1B3
+DB13919,ABCB1
+DB13919,SLCO1B1
+DB13943,SLCO1A2
+DB13943,SLC22A8
+DB13943,SLC22A7
+DB13943,ABCB1
+DB13943,SLC10A1
+DB13943,SLC22A3
+DB13943,SLC22A4
+DB13943,ABCG2
+DB13944,SLCO1A2
+DB13944,SLC22A8
+DB13944,SLC22A7
+DB13944,ABCB1
+DB13944,SLC10A1
+DB13944,SLC22A3
+DB13944,SLC22A4
+DB13944,ABCG2
+DB13946,SLCO1A2
+DB13946,SLC22A8
+DB13946,SLC22A7
+DB13946,ABCB1
+DB13946,SLC10A1
+DB13946,SLC22A4
+DB13946,ABCG2
+DB13946,SLC22A2
+DB13946,SLC47A1
+DB13946,SLCO1B3
+DB13951,ABCB1
+DB13952,SLC22A2
+DB13952,SLC22A1
+DB13952,SLC22A3
+DB13952,SLCO2B1
+DB13952,SLCO1A2
+DB13952,ABCC10
+DB13952,SLC22A11
+DB13952,ABCG2
+DB13952,SLCO1B1
+DB13952,ABCB1
+DB13952,SLC22A8
+DB13952,SLCO1B3
+DB13952,SLCO1C1
+DB13952,SLCO4A1
+DB13953,SLC22A2
+DB13953,SLC22A1
+DB13953,SLC22A3
+DB13953,SLCO2B1
+DB13953,SLCO1A2
+DB13953,ABCC10
+DB13953,SLC22A11
+DB13953,ABCG2
+DB13953,SLCO1B1
+DB13953,ABCB1
+DB13953,SLC22A8
+DB13953,SLCO1B3
+DB13953,SLCO1C1
+DB13953,SLCO4A1
+DB13954,SLC22A2
+DB13954,SLC22A1
+DB13954,SLC22A3
+DB13954,SLCO2B1
+DB13954,SLCO1A2
+DB13954,ABCC10
+DB13954,SLC22A11
+DB13954,ABCG2
+DB13954,SLCO1B1
+DB13954,ABCB1
+DB13954,SLC22A8
+DB13954,SLCO1B3
+DB13954,SLCO1C1
+DB13954,SLCO4A1
+DB13955,SLC22A2
+DB13955,SLC22A1
+DB13955,SLC22A3
+DB13955,SLCO2B1
+DB13955,SLCO1A2
+DB13955,ABCC10
+DB13955,SLC22A11
+DB13955,ABCG2
+DB13955,SLCO1B1
+DB13955,ABCB1
+DB13955,SLC22A8
+DB13955,SLCO1B3
+DB13955,SLCO1C1
+DB13955,SLCO4A1
+DB13956,SLC22A2
+DB13956,SLC22A1
+DB13956,SLC22A3
+DB13956,SLCO2B1
+DB13956,SLCO1A2
+DB13956,ABCC10
+DB13956,SLC22A11
+DB13956,ABCG2
+DB13956,SLCO1B1
+DB13956,ABCB1
+DB13956,SLC22A8
+DB13956,SLCO1B3
+DB13956,SLCO1C1
+DB13956,SLCO4A1
+DB13997,ABCB5
+DB14003,TTPA
+DB14003,SEC14L4
+DB14003,SEC14L2
+DB14003,SEC14L3
+DB14003,APOBR
+DB14003,SCARB1
+DB14003,ABCB1
+DB14006,SLC22A2
+DB14006,SLC22A1
+DB14006,SLC22A3
+DB14006,SLC22A5
+DB14006,SLC22A4
+DB14006,SLC44A1
+DB14006,SLC44A4
+DB14006,SLC44A2
+DB14006,SLC44A3
+DB14006,SLC5A7
+DB14009,ABCC1
+DB14009,ABCG2
+DB14009,SLC29A1
+DB14011,ABCC1
+DB14011,ABCG2
+DB14011,SLC29A1
+DB14057,ABCB11
+DB14057,ABCB1
+DB14061,ABCB1
+DB14062,ABCB1
+DB14063,ABCB1
+DB14064,ABCB1
+DB14065,ABCB1
+DB14066,ABCB1
+DB14067,ABCB1
+DB14069,ABCB1
+DB14126,ABCB1
+DB14126,SLC22A6
+DB14126,SLC22A8
+DB14126,ABCC4
+DB14146,ABCB1
+DB14481,SLC20A1
+DB14481,SLC20A2
+DB14481,SLC34A1
+DB14481,SLC34A2
+DB14481,SLC34A3
+DB14481,TRPV6
+DB14481,SLC8A1
+DB14481,TRPV5
+DB14481,RYR1
+DB14481,RYR2
+DB14481,PKD2L1
+DB14481,RYR3
+DB14481,PKD1L3
+DB14481,CATSPER1
+DB14481,CACNA1C
+DB14481,CACNA1D
+DB14481,CACNA1F
+DB14481,CACNA1S
+DB14481,CACNB1
+DB14481,CACNB2
+DB14481,CACNB3
+DB14481,CACNB4
+DB14481,CACNA1A
+DB14481,CACNA1A
+DB14481,CACNA1G
+DB14481,CACNA1H
+DB14481,CACNA1I
+DB14481,CACNA1E
+DB14500,ATP1A1
+DB14500,SLC12A1
+DB14502,SLC20A1
+DB14502,SLC20A2
+DB14502,SLC34A1
+DB14502,SLC34A2
+DB14502,SLC34A3
+DB14503,SLC20A1
+DB14503,SLC20A2
+DB14503,SLC34A1
+DB14503,SLC34A2
+DB14503,SLC34A3
+DB14509,SCNN1A
+DB14509,SCNN1B
+DB14509,SCNN1G
+DB14513,CLDN16
+DB14513,TRPM6
+DB14513,TRPM7
+DB14513,SLC41A1
+DB14513,SLC41A3
+DB14513,MRS2
+DB14533,SLC30A1
+DB14533,SLC30A2
+DB14533,SLC30A3
+DB14533,SLC30A4
+DB14533,SLC30A6
+DB14533,SLC30A5
+DB14533,SLC30A7
+DB14533,SLC30A8
+DB14533,SLC30A9
+DB14533,SLC30A10
+DB14533,SLC39A1
+DB14533,SLC39A2
+DB14533,SLC39A3
+DB14533,SLC39A4
+DB14533,SLC39A5
+DB14533,SLC39A6
+DB14533,SLC39A7
+DB14533,SLC39A8
+DB14533,SLC39A9
+DB14533,SLC39A10
+DB14533,SLC39A11
+DB14533,SLC39A12
+DB14533,SLC39A13
+DB14533,SLC39A14
+DB14538,ABCB1
+DB14538,SLCO1A2
+DB14538,ABCG2
+DB14538,SLC22A8
+DB14539,ABCB1
+DB14539,SLCO1A2
+DB14539,ABCG2
+DB14539,SLC22A8
+DB14540,ABCB1
+DB14540,SLCO1A2
+DB14540,ABCG2
+DB14540,SLC22A8
+DB14541,ABCB1
+DB14541,SLCO1A2
+DB14541,ABCG2
+DB14541,SLC22A8
+DB14542,ABCB1
+DB14542,SLCO1A2
+DB14542,ABCG2
+DB14542,SLC22A8
+DB14543,ABCB1
+DB14543,SLCO1A2
+DB14543,ABCG2
+DB14543,SLC22A8
+DB14544,ABCB1
+DB14544,SLCO1A2
+DB14544,ABCG2
+DB14544,SLC22A8
+DB14548,SLC39A10
+DB14548,SLC30A7
+DB14548,SLC30A4
+DB14548,SLC39A6
+DB14548,SLC39A5
+DB14548,SLC39A2
+DB14548,SLC30A9
+DB14548,SLC30A1
+DB14548,SLC30A2
+DB14548,SLC39A7
+DB14548,SLC39A4
+DB14548,SLC30A3
+DB14548,SLC30A8
+DB14548,SLC39A12
+DB14548,SLC30A5
+DB14548,SLC30A10
+DB14548,SLC39A13
+DB14548,SLC39A8
+DB14548,SLC39A1
+DB14548,SLC39A14
+DB14548,SLC39A3
+DB14548,SLC39A9
+DB14548,SLC39A11
+DB14548,SLC30A6
+DB14568,SLC22A8
+DB14568,ABCB1
+DB14631,SLCO1A2
+DB14631,ABCB1
+DB14631,SLC22A8
+DB14635,ABCB1
+DB14641,SLCO1A2
+DB14641,ABCB1
+DB14642,ABCC2
+DB14723,ABCB1
+DB14723,ABCG2
+DB00781,SLC15A2
+DB14754,SLC22A2
+DB14754,SLC22A4
+DB14754,SLC22A5
+DB14879,MEXA
+DB14879,MEXB
+DB14879,OPRM
+DB14879,FIU
+DB14879,CIRA
+DB14879,PIUA
+DB14962,ABCB1
+DB14962,SLCO1B1
+DB14962,SLCO1B3
+DB14962,SLC47A2
+DB14962,ABCC1
+DB14962,ABCG2
+DB15035,ABCB1
+DB15091,ABCB1
+DB15091,ABCG2
+DB15091,SLCO1B1
+DB15233,ABCB1
+DB15233,ABCG2
+DB15328,ABCB1
+DB15328,ABCG2
+DB15328,SLCO1B1
+DB15328,SLCO1B3
+DB15328,SLC22A6
+DB15328,SLC22A2
+DB15444,SLCO1B1
+DB15444,SLCO1B3
+DB15444,ABCB1
+DB15566,SLCO1A2
+DB15566,ABCB1
+DB15598,ITGB3
+DB15598,SLC11A2
+DB15617,TFRC
+DB15617,TFR2
