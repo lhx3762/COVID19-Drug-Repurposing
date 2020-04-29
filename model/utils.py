@@ -118,7 +118,7 @@ def sample_edge_uniform(adj_list, n_triplets, sample_size):
 
 def generate_sampled_graph_and_labels(triplets, sample_size, split_size,
                                       num_rels, adj_list, degrees,
-                                      negative_rate, sampler='uniform'):
+                                      negative_rate, sampler='neighbor'):
     """Get training graph and signals
     First perform edge neighborhood sampling on graph, then perform negative
     sampling to generate negative samples

@@ -34,13 +34,13 @@ sample_graph_param = {
 
 if use_cuda: torch.device('cuda')
 
-max_epoch = 20
-epoch_mult_eval = 5 # multiplication of n epochs to indicate when to evaluate
+max_epoch = 50
+epoch_mult_eval = 50 # multiplication of n epochs to indicate when to evaluate
 
 mrr_param = {
     'eval_batch': 500,
     'eval_p': 'filtered',
-    'hits': [1, 3, 10],
+    'hits': [1, 10],
 }
 
 eval_batch = 500
@@ -50,10 +50,13 @@ eval_batch = 500
 #---------------------------
 
 # load the graph
-graph = np.load('../data/clean/graph.npy')
+graph = np.load('../data/clean/graph.wse.npy')
+
 num_nodes = len(list(set(np.unique(graph[:,0])).union(set(np.unique(graph[:,2])))))
 num_rels = np.unique(graph[:,1]).shape[0]
 num_edges = graph.shape[0]
+
+print('There are %d nodes, %d rels, %d edges' % (num_nodes, num_rels, num_edges))
 
 # split train, val, test
 train_val, test_data = train_test_split(graph, test_size=0.1, random_state=0)
@@ -90,9 +93,10 @@ optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)
 
 epoch = 0
 
-best_mrr = 0
+best_mrr = -1
 forward_time = []
 backward_time = []
+loss_by_epoch = []
 
 model_state_file = 'model_state_gpu.pth'
 
@@ -140,6 +144,7 @@ while True:
     print("Epoch {:04d} | Loss {:.4f} | Best MRR {:.4f} | Forward {:.4f}s | Backward {:.4f}s".
               format(epoch, loss.item(), best_mrr, forward_time[-1], backward_time[-1]))
 
+    loss_by_epoch.append(loss.item())
     optimizer.zero_grad()
 
     # validation
@@ -162,3 +167,6 @@ while True:
                        model_state_file)
         if use_cuda:
             model.cuda()
+
+loss_df = pd.DataFrame({ 'epoch': range(1, len(loss_by_epoch)+1), 'loss': loss_by_epoch })
+loss_df.to_csv('loss.csv', index=False)
