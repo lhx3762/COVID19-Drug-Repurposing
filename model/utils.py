@@ -334,4 +334,4 @@ def calc_mrr(embedding, w, train_triplets, valid_triplets, test_triplets, hits=[
         mrr = calc_filtered_mrr(embedding, w, train_triplets, valid_triplets, test_triplets, hits)
     else:
         mrr = calc_raw_mrr(embedding, w, test_triplets, hits, eval_bz)
-    return mrrxia
+    return mrr
