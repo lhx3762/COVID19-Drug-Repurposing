@@ -50,7 +50,7 @@ eval_batch = 500
 #---------------------------
 
 # load the graph
-graph = np.load('../data/clean/graph.npy')
+graph = np.load('../data/clean/graph.wse.npy')
 num_nodes = len(list(set(np.unique(graph[:,0])).union(set(np.unique(graph[:,2])))))
 num_rels = np.unique(graph[:,1]).shape[0]
 num_edges = graph.shape[0]
