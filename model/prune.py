@@ -33,6 +33,7 @@ def prune_graph(init_graph,
     1. obtain covid-19 gene neighbors given # hops
     2. prune the graph by degree thresholds for each type, retaining the neighbors from (1)
     3. keep the largest graph (if multiple components are produced)
+    4. add COVID-19 disease
 
     Arguments:
     - init_graph           : a numpy list of triplets
@@ -81,16 +82,26 @@ def prune_graph(init_graph,
         break
     final_graph = final_graph[np.isin(final_graph[:,0], included_nodes) & np.isin(final_graph[:,2], included_nodes),:]
 
+    # 4. add COVID-19 disease
+    covid_disease_node = drug_num + disease_num + gene_num # the last node
+    if covid_disease_node not in included_nodes:
+        print('Adding COVID-19 node: %d' % covid_disease_node)
+        included_covid_genes = list(filter(lambda x: x in covid_gene_nums, included_nodes))
+        covid_graph = np.zeros((len(included_covid_genes), 3), dtype=int)
+        gene_disease_relation = 12
+        for i, gene_num in enumerate(included_covid_genes):
+            covid_graph[i] = [gene_num, gene_disease_relation, covid_disease_node]
+        final_graph = np.concatenate((final_graph, covid_graph), axis=0)
+
     # print the details of the final graph
     print('The final graph contains:')
     print('- %d edges' % final_graph.shape[0])
     print('- %d nodes: %d diseases, %d genes, %d drugs' % (
             len(included_nodes),
-            len(list(filter(lambda x: x >= drug_num and x < drug_num+disease_num, included_nodes))),
+            len(list(filter(lambda x: x >= drug_num and x < drug_num+disease_num, included_nodes)))+1,
             len(list(filter(lambda x: x >= drug_num+disease_num, included_nodes))),
             len(list(filter(lambda x: x < drug_num, included_nodes)))))
-    print('- %d covid-19-associated genes (out of 312)' %
-            len(list(filter(lambda x: x in covid_gene_nums, included_nodes))))
+    print('- %d covid-19-associated genes (out of 312)' % len(included_covid_genes))
     print('- %d covid-19 associated genes + drug targets (out of 62)' %
             len(list(filter(lambda x: x in gene_drug_targets_num, included_nodes))))
 
