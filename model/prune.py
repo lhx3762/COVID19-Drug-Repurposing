@@ -1,13 +1,15 @@
 import numpy as np
 import networkx as nx
 from collections import Counter
-import matplotlib.pyplot as plt
 import json
 import pandas as pd
 
 # obtain covid gene dictionary
 covid_gene_dict = json.load(open('../data/clean/covid-gene-num-dict.wse.json'))
 covid_gene_nums = covid_gene_dict.values()
+
+covid_drug_dict = json.load(open('../data/clean/covid-drug-num-dict.wse.json'))
+covid_drug_nums = covid_drug_dict.values()
 
 # obtain covid-19 genes with drug targets
 gene_drug_targets = pd.read_csv('../data/clean/covid-gene-drug-targets', header=None)
@@ -55,8 +57,9 @@ def prune_graph(init_graph,
 
     # 1. obtain covid-19 gene neighbors given # hops
     covid_neighbors = []
-    for gene_num in covid_gene_nums:
-        get_neighbors(G, covid_neighbors, gene_num, 0, covid_neighbor_hops)
+    covid_nodes = list(covid_gene_nums) + list(covid_drug_nums)
+    for node_num in covid_nodes:
+        get_neighbors(G, covid_neighbors, node_num, 0, covid_neighbor_hops)
     print('Given %d hops, %d neighboring nodes are obtained.' % (covid_neighbor_hops, len(covid_neighbors)))
 
     # 2. prune the graph by degree thresholds for each type
@@ -81,28 +84,32 @@ def prune_graph(init_graph,
         included_nodes = list(component)
         break
     final_graph = final_graph[np.isin(final_graph[:,0], included_nodes) & np.isin(final_graph[:,2], included_nodes),:]
-
+    included_covid_genes = list(filter(lambda x: x in covid_gene_nums, included_nodes))
+    included_covid_drugs = list(filter(lambda x: x in covid_drug_nums, included_nodes))
     # 4. add COVID-19 disease
     covid_disease_node = drug_num + disease_num + gene_num # the last node
+    add_new_node = False
     if covid_disease_node not in included_nodes:
+        add_new_node = True
         print('Adding COVID-19 node: %d' % covid_disease_node)
-        included_covid_genes = list(filter(lambda x: x in covid_gene_nums, included_nodes))
         covid_graph = np.zeros((len(included_covid_genes), 3), dtype=int)
         gene_disease_relation = 12
         for i, gene_num in enumerate(included_covid_genes):
             covid_graph[i] = [gene_num, gene_disease_relation, covid_disease_node]
         final_graph = np.concatenate((final_graph, covid_graph), axis=0)
+        included_nodes = included_nodes + [covid_disease_node]
+    new_disease_node = 1 if add_new_node else 0
 
     # print the details of the final graph
     print('The final graph contains:')
     print('- %d edges' % final_graph.shape[0])
     print('- %d nodes: %d diseases, %d genes, %d drugs' % (
             len(included_nodes),
-            len(list(filter(lambda x: x >= drug_num and x < drug_num+disease_num, included_nodes)))+1,
+            len(list(filter(lambda x: x >= drug_num and x < drug_num+disease_num, included_nodes)))+new_disease_node,
             len(list(filter(lambda x: x >= drug_num+disease_num, included_nodes))),
             len(list(filter(lambda x: x < drug_num, included_nodes)))))
     print('- %d covid-19-associated genes (out of 312)' % len(included_covid_genes))
     print('- %d covid-19 associated genes + drug targets (out of 62)' %
             len(list(filter(lambda x: x in gene_drug_targets_num, included_nodes))))
-
+    print('- %d covid-19-associated drugs (out of 26)' % len(included_covid_drugs))
     return(final_graph)
