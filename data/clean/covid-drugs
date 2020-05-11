@@ -1,33 +1,162 @@
-DB00313,Valproic acid
-DB12207,Verdinexor
-DB06733,Bafilomycin A1
-DB08912,Dabrafenib
-DB00608,Chloroquine
-DB00446,Chloramphenicol
-DB00328,Indomethacin
-DB00494,Entacapone
-DB05018,Migalastat
-DB00331,Metformin
-DB07995,H-89
-DB04862,Merimepodib
-DB00560,Tigecycline
-DB00601,Linezolid
-DB00811,Ribavirin
-DB01024,Mycophenolic acid
-DB08901,Ponatinib
-DB00877,Rapamycin
-DB11836,Sapanisertib
-DB12000,Apabetalone
-DB15408,Silmitasertib
-DB00661,Verapamil
-DB00694,Daunorubicin
-DB00502,Haloperidol
-DB12207,Verdinexor
-DB06595,Midostaurin
-DB08877,Ruxolitinib
-DB11759,Pevonedistat
+DB11703,Acalabrutinib
+DB06151,Acetylcysteine
+DB00945,Acetylsalicylic acid
+DB15655,Ad5-nCoV
+DB00062,Albumin human
+DB00009,Alteplase
+DB01118,Amiodarone
+DB00381,Amlodipine
+DB01060,Amoxicillin
+DB00026,Anakinra
+DB11720,Angiotensin 1-7
+DB11842,Angiotensin II
+DB00126,Ascorbic acid
+DB15121,AT-001
+DB01076,Atorvastatin
+DB06260,Aviptadil
+DB00207,Azithromycin
+DB11817,Baricitinib
+DB12768,BCG vaccine
+DB00542,Benazepril
+DB00436,Bendroflumethiazide
+DB00112,Bevacizumab
+DB09019,Bromhexine
+DB01222,Budesonide
+DB00146,Calcifediol
+DB01373,Calcium
 DB13729,Camostat
-DB12598,Nafamostat
-DB01197,Captoril
+DB06168,Canakinumab
+DB13919,Candesartan
+DB01197,Captopril
+DB00878,Chlorhexidine
+DB12453,Chlorine Dioxide
+DB00608,Chloroquine
+DB00880,Chlorothiazide
+DB00477,Chlorpromazine
+DB01410,Ciclesonide
+DB00766,Clavulanic acid
+DB12849,Clazakizumab
+DB06683,Clevudine
+DB00758,Clopidogrel
+DB01394,Colchicine
+DB00151,Cysteine
+DB11779,Danoprevir
+DB06292,Dapagliflozin
+DB01264,Darunavir
+DB15313,DAS-181
+DB00343,Diltiazem
+DB00746,Deferoxamine
+DB04932,Defibrotide
+DB01234,Dexamethasone
+DB00633,Dexmedetomidine
+DB00343,Diltiazem
+DB00003,Dornase alfa
+DB00254,Doxycycline
+DB01257,Eculizumab
+DB11574,Elbasvir
+DB14724,Emapalumab
+DB00584,Enalapril
+DB01225,Enoxaparin
+DB00876,Eprosartan
+DB00736,Esomeprazole
+DB00783,Estradiol
+DB00773,Etoposide
+DB00927,Famotidine
+DB12466,Favipiravir
+DB01023,Felodipine
+DB08868,Fingolimod
+DB00158,Folic acid
+DB00983,Formoterol
+DB00492,Fosinopril
+DB11676,Galidesivir
+DB01109,Heparin
+DB14242,Honey
+DB00028,Human immunoglobulin G
+DB14999,Human interferon beta
+DB00999,Hydrochlorothiazide
+DB00741,Hydrocortisone
+DB14545,Hydrocortisone succinate
+DB01611,Hydroxychloroquine
+DB00159,Icosapent
+DB00619,Imatinib
+DB00808,Indapamide
+DB00328,Indomethacin
+DB13156,Inosine pranobex
+DB00060,Interferon beta-1a
+DB00068,Interferon beta-1b
+DB05382,Iodine
+DB01029,Irbesartan
+DB00982,Isotretinoin
+DB00602,Ivermectin
+DB01221,Ketamine
+DB01097,Leflunomide
+DB00480,Lenalidomide
+DB05941,Leronlimab
+DB00848,Levamisole
+DB08882,Linagliptin
 DB00722,Lisinopril
-DB15219,Tomivosertib
+DB00279,Liothyronine
+DB01601,Lopinavir
+DB00678,Losartan
+DB12534,Mavrilimumab
+DB01065,Melatonin
+DB01043,Memantine
+DB00563,Methotrexate
+DB09241,Methylene blue
+DB00959,Methylprednisolone
+DB00524,Metolazone
+DB12598,Nafamostat
+DB00704,Naltrexone
+DB00788,Naproxen
+DB00393,Nimodipine
+DB09079,Nintedanib
+DB01054,Nitrendipine
+DB00507,Nitazoxanide
+DB00435,Nitric Oxide
+DB06803,Niclosamide
+DB01115,Nifedipine
+DB09035,Nivolumab
+DB00275,Olmesartan
+DB00338,Omeprazole
+DB00198,Oseltamivir
+DB12510,Ozone
+DB14767,Peginterferon lambda-1a
+DB09037,Pembrolizumab
+DB00790,Perindopril
+DB05511,Piclidenoson
+DB11061,Povidone
+DB06812,Povidone-iodine
+DB00457,Prazosin
+DB00635,Prednisone
+DB00396,Progesterone
+DB02285,Protoporphyrin
+DB00339,Pyrazinamide
+DB00545,Pyridostigmine
+DB00881,Quinapril
+DB00178,Ramipril
+DB00811,Ribavirin
+DB00503,Ritonavir
+DB06228,Rivaroxaban
+DB14761,Remdesivir
+DB08877,Ruxolitinib
+DB00020,Sargramostim
+DB11767,Sarilumab
+DB00203,Sildenafil
+DB09036,Siltuximab
+DB00641,Simvastatin
+DB01261,Sitagliptin
+DB09153,Sodium chloride
+DB01015,Sulfamethoxazole
+DB00864,Tacrolimus
+DB00966,Telmisartan
+DB14066,Tetrandrine
+DB01041,Thalidomide
+DB15623,TMC-310911
+DB00519,Trandolapril
+DB00302,Tranexamic acid
+DB00440,Trimethoprim
+DB06273,Tocilizumab
+DB13609,Umifenovir
+DB00177,Valsartan
+DB00661,Verapamil
+DB09322,Zinc sulfate

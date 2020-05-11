@@ -111,5 +111,5 @@ def prune_graph(init_graph,
     print('- %d covid-19-associated genes (out of 312)' % len(included_covid_genes))
     print('- %d covid-19 associated genes + drug targets (out of 62)' %
             len(list(filter(lambda x: x in gene_drug_targets_num, included_nodes))))
-    print('- %d covid-19-associated drugs (out of 26)' % len(included_covid_drugs))
+    print('- %d covid-19-associated drugs (out of 162)' % len(included_covid_drugs))
     return(final_graph)
