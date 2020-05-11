@@ -74,6 +74,12 @@ def sample_edge_uniform(adj_list, degrees, n_triplets, sample_size):
     all_edges = np.arange(n_triplets)
     return np.random.choice(all_edges, sample_size, replace=False)
 
+def sample_edge_treat(treat_triplets, other_triplets, sample_size):
+    """Sample edges including all treat from all the edges."""
+    other_size = sample_size - treat_triplets.shape[0]
+    other_edges = other_triplets[np.random.choice(np.arange(other_triplets.shape[0]), other_size, replace=False)]
+    return np.append(other_edges, treat_triplets, axis=0)
+
 def generate_sampled_graph_and_labels(triplets, sample_size, split_size,
                                       num_rels, adj_list, degrees,
                                       negative_rate, sampler="uniform"):
@@ -91,6 +97,51 @@ def generate_sampled_graph_and_labels(triplets, sample_size, split_size,
 
     # relabel nodes to have consecutive node ids
     edges = triplets[edges]
+    src, rel, dst = edges.transpose()
+    uniq_v, edges = np.unique((src, dst), return_inverse=True)
+    src, dst = np.reshape(edges, (2, -1))
+    relabeled_edges = np.stack((src, rel, dst)).transpose()
+
+    # negative sampling
+    samples, labels = negative_sampling(relabeled_edges, len(uniq_v),
+                                        negative_rate)
+
+    # further split graph, only half of the edges will be used as graph
+    # structure, while the rest half is used as unseen positive samples
+    split_size = int(sample_size * split_size)
+    graph_split_ids = np.random.choice(np.arange(sample_size),
+                                       size=split_size, replace=False)
+    src = src[graph_split_ids]
+    dst = dst[graph_split_ids]
+    rel = rel[graph_split_ids]
+
+    # build DGL graph
+    print("# sampled nodes: {}".format(len(uniq_v)))
+    print("# sampled edges: {}".format(len(src) * 2))
+    g, rel, norm = build_graph_from_triplets(len(uniq_v), num_rels,
+                                             (src, rel, dst))
+    return g, uniq_v, rel, norm, samples, labels
+
+def generate_weighted_graph_and_labels(triplets, sample_size, split_size,
+                                      num_rels, adj_list, degrees,
+                                      negative_rate, treat_triplets=None,other_triplets=None, sampler="treat"):
+    """Get training graph and signals
+    First perform edge neighborhood sampling on graph, then perform negative
+    sampling to generate negative samples
+    """
+    # perform edge neighbor sampling
+    if sampler == "uniform":
+        edges = sample_edge_uniform(adj_list, degrees, len(triplets), sample_size)
+    elif sampler == "neighbor":
+        edges = sample_edge_neighborhood(adj_list, degrees, len(triplets), sample_size)
+    elif sampler == 'treat':
+        edges = sample_edge_treat(treat_triplets, other_triplets, sample_size)
+    else:
+        raise ValueError("Sampler type must be either 'uniform' or 'neighbor'.")
+
+    # relabel nodes to have consecutive node ids
+    if sampler != 'treat':
+        edges = triplets[edges]
     src, rel, dst = edges.transpose()
     uniq_v, edges = np.unique((src, dst), return_inverse=True)
     src, dst = np.reshape(edges, (2, -1))
