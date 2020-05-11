@@ -42,8 +42,7 @@ class LinkPredict(nn.Module):
         """
         super(LinkPredict, self).__init__()
         # build RGCN layer
-        # 2 x num_rels as both directions are considered
-        self.rgcn = RGCN(in_dim, h_dim, h_dim, num_rels * 2, num_bases,
+        self.rgcn = RGCN(in_dim, h_dim, h_dim, num_rels, num_bases,
                          num_hidden_layers, dropout, use_cuda)
         # define regularization
         self.reg_param = reg_param

@@ -1,0 +1,36 @@
+pruned_graph_1
+Pruning given degree threshold of 700 (disease), 50 (drug), and 1000 (gene)...
+Given 1 hops, 6579 neighboring nodes are obtained.
+Removing 31285 nodes...
+Adding COVID-19 node: 37893
+The final graph contains:
+- 573641 edges
+- 6605 nodes: 684 diseases, 5689 genes, 233 drugs
+- 310 covid-19-associated genes (out of 312)
+- 62 covid-19 associated genes + drug targets (out of 62)
+- 26 covid-19-associated drugs (out of 26)
+
+pruned_graph_2
+Initial # edges: 1159831
+Pruning given degree threshold of 500 (disease), 50 (drug), and 1000 (gene)...
+Given 2 hops, 10878 neighboring nodes are obtained.
+Removing 26997 nodes...
+Adding COVID-19 node: 37893
+The final graph contains:
+- 881510 edges
+- 10895 nodes: 1265 diseases, 9249 genes, 382 drugs
+- 311 covid-19-associated genes (out of 312)
+- 62 covid-19 associated genes + drug targets (out of 62)
+
+pruned_graph_3
+Initial # edges: 1159831
+Pruning given degree threshold of 700 (disease), 100 (drug), and 1000 (gene)...
+Given 1 hops, 6579 neighboring nodes are obtained.
+Removing 31304 nodes...
+Adding COVID-19 node: 37893
+The final graph contains:
+- 573269 edges
+- 6586 nodes: 684 diseases, 5689 genes, 214 drugs
+- 310 covid-19-associated genes (out of 312)
+- 62 covid-19 associated genes + drug targets (out of 62)
+- 26 covid-19-associated drugs (out of 26)
