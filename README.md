@@ -50,6 +50,10 @@ It generates a list of loss values and MRRs in csv files once the training is co
 
 ## Model evaluation
 
+Plots:
+
+<img width="821" alt="results-plots" src="https://user-images.githubusercontent.com/7066351/81737899-d3404100-9466-11ea-8d16-7ce8cbe7c3d4.png">
+
 The code for evaluation can be found in `model_eval.ipynb` where it calculates the DistMult scores for edges between drugs and COVID-19 node and compare with the retrieved potential drugs obtained from Gordon et. al. (the list can be found in `data/clean/covid-drugs`).
 
 The top 50 drugs are shown below.
