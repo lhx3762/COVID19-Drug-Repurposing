@@ -183,8 +183,8 @@ def build_graph_from_triplets(num_nodes, num_rels, triplets):
     g = dgl.DGLGraph()
     g.add_nodes(num_nodes)
     src, rel, dst = triplets
-    src, dst = np.concatenate((src, dst)), np.concatenate((dst, src))
-    rel = np.concatenate((rel, rel + num_rels))
+    # src, dst = np.concatenate((src, dst)), np.concatenate((dst, src))
+    # rel = np.concatenate((rel, rel + num_rels))
     edges = sorted(zip(dst, src, rel))
     dst, src, rel = np.array(edges).transpose()
     g.add_edges(src, dst)
@@ -242,7 +242,7 @@ def perturb_and_get_raw_rank(embedding, w, a, r, b, test_size, batch_size=100):
         out_prod = torch.bmm(emb_ar, emb_c) # size D x E x V
         score = torch.sum(out_prod, dim=0) # size E x V
         score = torch.sigmoid(score)
-        
+
         target = b[batch_start: batch_end]
         ranks.append(sort_and_rank(score, target))
     return torch.cat(ranks)
