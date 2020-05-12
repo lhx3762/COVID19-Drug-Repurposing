@@ -10,7 +10,7 @@ from dgl.nn.pytorch import RelGraphConv
 
 import numpy as np
 import pandas as pd
-import pygraphviz as pgv
+# import pygraphviz as pgv
 
 from collections import Counter, OrderedDict
 import matplotlib.pyplot as plt

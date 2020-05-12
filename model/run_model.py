@@ -19,7 +19,6 @@ def node_norm_to_edge_norm(g, node_norm):
 
 # def get_ROC(scores_pos, scores_neg):
 #     def sigmoid(x):
-#         return x
 #         return 1 / (1 + np.exp(-x))
 
 #     preds = []
@@ -35,13 +34,13 @@ def node_norm_to_edge_norm(g, node_norm):
 # Parameters
 #---------------------------
 
-model_name = 'model_pruned_graph_1'
+model_name = 'model_pruned_graph_1.1'
 
 model_param = {
-    'h_dim'    : 50, # output feature size
+    'h_dim'    : 80, # output feature size
     'dropout'  : 0.2,
     'num_bases': 30,
-    'num_hidden_layers': 12,
+    'num_hidden_layers': 4,
     'use_cuda' : True,
     'reg_param': 0.01
 }
@@ -50,13 +49,13 @@ use_cuda = model_param['use_cuda']
 sample_graph_param = {
     'sample_size'  : 50000, # edges to sample
     'split_size'   : 0.5,
-    'negative_rate': 8,
+    'negative_rate': 1,
 }
 
 if use_cuda: torch.device('cuda')
 torch.cuda.empty_cache()
 
-max_epoch = 5000
+max_epoch = 1800
 epoch_mult_eval = 20 # multiplication of n epochs to indicate when to evaluate
 
 mrr_param = {
@@ -145,6 +144,7 @@ best_roc = -1
 forward_time = []
 backward_time = []
 loss_by_epoch = []
+mrr_by_epoch = []
 
 model_state_file = model_name + '.model_state_gpu.pth'
 
@@ -205,6 +205,7 @@ while True:
         mrr = utils.calc_mrr(embed, model.w_relation, torch.LongTensor(train_data),
                              [], val_data, hits=mrr_param['hits'], eval_bz=mrr_param['eval_batch'],
                              eval_p=mrr_param['eval_p'])
+        mrr_by_epoch.append(mrr)
         # save best model
         if mrr > best_mrr:
             best_mrr = mrr
@@ -215,3 +216,6 @@ while True:
         
 loss_df = pd.DataFrame({ 'epoch': range(1, len(loss_by_epoch)+1), 'loss': loss_by_epoch })
 loss_df.to_csv(model_name + '.loss.csv', index=False)
+
+mrr_df = pd.DataFrame({ 'epoch': [epoch_mult_eval*(i+1) for i in range(len(mrr_by_epoch))], 'mrr': mrr_by_epoch })
+mrr_df.to_csv(model_name + '.mrr.csv', index=False)
